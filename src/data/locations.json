@@ -1,74 +1,110 @@
 [
   {
-    "id": "1",
-    "name": "Pristina",
-    "description": "Capital and largest city of Kosovo, known for its vibrant cultural scene and historical significance.",
+    "id": "skopje",
+    "name": "Skopje",
+    "description": "Capital and largest city of North Macedonia, featuring the iconic Stone Bridge and Macedonia Square",
     "type": "city",
-    "latitude": 42.6629,
-    "longitude": 21.1655,
-    "coordinates": [21.1655, 42.6629]
+    "latitude": 42.000,
+    "longitude": 21.433,
+    "coordinates": [21.433, 42.000]
   },
   {
-    "id": "2",
-    "name": "Gračanica Monastery",
-    "description": "14th-century Serbian Orthodox monastery, UNESCO World Heritage site with stunning Byzantine architecture.",
-    "type": "monument",
-    "latitude": 42.5947,
-    "longitude": 21.1956,
-    "coordinates": [21.1956, 42.5947]
+    "id": "ohrid",
+    "name": "Ohrid",
+    "description": "Historic lakeside city and UNESCO World Heritage site with ancient churches and fortifications",
+    "type": "city",
+    "latitude": 41.117,
+    "longitude": 20.802,
+    "coordinates": [20.802, 41.117]
   },
   {
-    "id": "3",
-    "name": "Rugova Canyon",
-    "description": "Spectacular canyon with dramatic limestone cliffs and pristine nature, perfect for hiking and climbing.",
+    "id": "bitola",
+    "name": "Bitola",
+    "description": "City of consuls, known for its Ottoman architecture and Shirok Sokak pedestrian street",
+    "type": "city",
+    "latitude": 41.030,
+    "longitude": 21.329,
+    "coordinates": [21.329, 41.030]
+  },
+  {
+    "id": "tetovo",
+    "name": "Tetovo",
+    "description": "Northwestern city known for the colorful Painted Mosque (Šarena Džamija)",
+    "type": "city",
+    "latitude": 42.006,
+    "longitude": 20.960,
+    "coordinates": [20.960, 42.006]
+  },
+  {
+    "id": "lake-ohrid",
+    "name": "Lake Ohrid",
+    "description": "One of the oldest and deepest lakes in Europe, shared with Albania",
     "type": "nature",
-    "latitude": 42.7833,
-    "longitude": 20.2167,
-    "coordinates": [20.2167, 42.7833]
+    "latitude": 41.047,
+    "longitude": 20.715,
+    "coordinates": [20.715, 41.047]
   },
   {
-    "id": "4",
-    "name": "Peja",
-    "description": "Historic city at the foot of the Accursed Mountains, gateway to Rugova Canyon.",
-    "type": "city",
-    "latitude": 42.6589,
-    "longitude": 20.2881,
-    "coordinates": [20.2881, 42.6589]
+    "id": "matka-canyon",
+    "name": "Matka Canyon",
+    "description": "Stunning canyon and artificial lake just 15km from Skopje, popular for hiking and kayaking",
+    "type": "nature",
+    "latitude": 41.940,
+    "longitude": 21.300,
+    "coordinates": [21.300, 41.940]
   },
   {
-    "id": "5",
-    "name": "Brezovica Ski Resort",
-    "description": "Mountain resort offering excellent skiing in winter and hiking trails in summer.",
+    "id": "heraclea-lyncestis",
+    "name": "Heraclea Lyncestis",
+    "description": "Ancient Greek and Roman archaeological site near Bitola with well-preserved mosaics",
+    "type": "monument",
+    "latitude": 41.015,
+    "longitude": 21.324,
+    "coordinates": [21.324, 41.015]
+  },
+  {
+    "id": "stone-bridge-skopje",
+    "name": "Stone Bridge",
+    "description": "Historic Ottoman stone bridge connecting Old Bazaar with Macedonia Square in Skopje",
+    "type": "monument",
+    "latitude": 41.996,
+    "longitude": 21.433,
+    "coordinates": [21.433, 41.996]
+  },
+  {
+    "id": "kale-fortress",
+    "name": "Kale Fortress",
+    "description": "Medieval fortress overlooking Skopje, offering panoramic views of the city",
+    "type": "monument",
+    "latitude": 42.000,
+    "longitude": 21.429,
+    "coordinates": [21.429, 42.000]
+  },
+  {
+    "id": "mavrovo-national-park",
+    "name": "Mavrovo National Park",
+    "description": "Largest national park in North Macedonia, featuring mountains, lakes, and traditional villages",
+    "type": "nature",
+    "latitude": 41.683,
+    "longitude": 20.733,
+    "coordinates": [20.733, 41.683]
+  },
+  {
+    "id": "kokino-observatory",
+    "name": "Kokino Observatory",
+    "description": "Ancient megalithic observatory from the Bronze Age, one of the oldest in the world",
+    "type": "monument",
+    "latitude": 42.267,
+    "longitude": 21.950,
+    "coordinates": [21.950, 42.267]
+  },
+  {
+    "id": "tikvesh-wine-region",
+    "name": "Tikvesh Wine Region",
+    "description": "Famous wine region in central Macedonia known for excellent vineyards and wine tours",
     "type": "camping",
-    "latitude": 42.2333,
-    "longitude": 21.0167,
-    "coordinates": [21.0167, 42.2333]
-  },
-  {
-    "id": "6",
-    "name": "Prizren",
-    "description": "Cultural capital of Kosovo with Ottoman architecture, cobblestone streets, and the historic Sinan Pasha Mosque.",
-    "type": "city",
-    "latitude": 42.2139,
-    "longitude": 20.7397,
-    "coordinates": [20.7397, 42.2139]
-  },
-  {
-    "id": "7",
-    "name": "Gadime Cave",
-    "description": "Underground limestone cave system with spectacular stalactites and stalagmites formations.",
-    "type": "nature",
-    "latitude": 42.5167,
-    "longitude": 21.2667,
-    "coordinates": [21.2667, 42.5167]
-  },
-  {
-    "id": "8",
-    "name": "Visoki Dečani Monastery",
-    "description": "Medieval Serbian Orthodox monastery famous for its preserved frescoes and architectural beauty.",
-    "type": "monument",
-    "latitude": 42.5447,
-    "longitude": 20.2683,
-    "coordinates": [20.2683, 42.5447]
+    "latitude": 41.433,
+    "longitude": 22.067,
+    "coordinates": [22.067, 41.433]
   }
 ]

@@ -17,12 +17,12 @@ const CustomMap = () => {
   const [hoveredLocation, setHoveredLocation] = useState<Location | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
 
-  // Map bounds for the Balkans region
+  // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
-    north: 43.5,
-    south: 41.5,
-    west: 19.5,
-    east: 22.5
+    north: 42.5,    // Include southern Serbia
+    south: 40.8,    // Include northern Greece  
+    west: 20.2,     // Include eastern Albania
+    east: 23.0      // Include western Bulgaria
   };
 
   // Convert lat/lng to percentage coordinates
@@ -60,7 +60,7 @@ const CustomMap = () => {
       {/* Title overlay */}
       <div className="absolute top-6 left-6 z-20">
         <h1 className="text-4xl font-bold text-white drop-shadow-lg">
-          Explore the Balkans
+          Explore North Macedonia
         </h1>
         <p className="text-white/80 text-lg drop-shadow-md">
           Discover monuments, cities, and natural wonders
