@@ -1,9 +1,9 @@
-import InteractiveMap from '@/components/InteractiveMap';
+import CustomMap from '@/components/CustomMap';
 
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
-      <InteractiveMap />
+      <CustomMap />
     </div>
   );
 };
