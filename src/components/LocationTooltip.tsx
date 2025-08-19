@@ -14,6 +14,8 @@ interface LocationTooltipProps {
   location: Location;
   position: { x: number; y: number };
   onNavigate?: (location: Location) => void;
+  onMouseEnter?: () => void;
+  onMouseLeave?: () => void;
 }
 
 const typeLabels: Record<string, string> = {
@@ -30,7 +32,13 @@ const typeIcons: Record<string, string> = {
   nature: '🌲'
 };
 
-export const LocationTooltip: React.FC<LocationTooltipProps> = ({ location, position, onNavigate }) => {
+export const LocationTooltip: React.FC<LocationTooltipProps> = ({ 
+  location, 
+  position, 
+  onNavigate, 
+  onMouseEnter, 
+  onMouseLeave 
+}) => {
   const handleNavigateClick = () => {
     if (onNavigate) {
       onNavigate(location);
@@ -45,6 +53,8 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({ location, posi
         top: position.y - 10,
         transform: 'translateY(-100%)'
       }}
+      onMouseEnter={onMouseEnter}
+      onMouseLeave={onMouseLeave}
     >
       <div className="map-tooltip max-w-sm animate-in fade-in-0 zoom-in-95 duration-200">
         <div className="flex items-start gap-3 mb-3">
