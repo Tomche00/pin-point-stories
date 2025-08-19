@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import locations from '@/data/locations.json';
 import { LocationTooltip } from './LocationTooltip';
-import balkansMap from '@/assets/balkans-map.jpg';
+import macedoniaMap from '@/assets/macedonia-focused-map.jpg';
 
 interface Location {
   id: string;
@@ -47,6 +47,28 @@ const CustomMap = () => {
     setTooltipPosition({ x: event.clientX, y: event.clientY });
   };
 
+  const handleNavigation = (location: Location) => {
+    const { latitude, longitude } = location;
+    const coords = `${latitude},${longitude}`;
+    
+    // For mobile devices, try to open native maps app
+    if (/Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+      // Try Google Maps app first, fallback to web
+      window.open(`geo:${coords}?q=${coords}(${encodeURIComponent(location.name)})`, '_system');
+      // Fallback for iOS
+      setTimeout(() => {
+        window.open(`https://maps.google.com/maps?q=${coords}&z=15`, '_blank');
+      }, 1000);
+    } else {
+      // For desktop, open Google Maps in new tab
+      window.open(`https://maps.google.com/maps?q=${coords}&z=15`, '_blank');
+    }
+  };
+
+  const handlePinClick = (location: Location) => {
+    handleNavigation(location);
+  };
+
   const handlePinLeave = () => {
     setHoveredLocation(null);
   };
@@ -72,8 +94,8 @@ const CustomMap = () => {
         <div className="relative max-w-full max-h-full">
           {/* Background map image */}
           <img 
-            src={balkansMap}
-            alt="Balkans Map"
+            src={macedoniaMap}
+            alt="North Macedonia Map"
             className="w-full h-full object-contain rounded-lg shadow-2xl border border-border/20"
             style={{ maxWidth: '95vw', maxHeight: '90vh' }}
           />
@@ -94,6 +116,7 @@ const CustomMap = () => {
                   onMouseEnter={(e) => handlePinHover(location, e)}
                   onMouseLeave={handlePinLeave}
                   onMouseMove={handlePinMove}
+                  onClick={() => handlePinClick(location)}
                 >
                   {/* Glow effect */}
                   <div 
@@ -172,6 +195,7 @@ const CustomMap = () => {
         <LocationTooltip
           location={hoveredLocation}
           position={tooltipPosition}
+          onNavigate={handleNavigation}
         />
       )}
     </div>
