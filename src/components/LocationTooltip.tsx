@@ -13,6 +13,7 @@ interface Location {
 interface LocationTooltipProps {
   location: Location;
   position: { x: number; y: number };
+  onNavigate?: (location: Location) => void;
 }
 
 const typeLabels: Record<string, string> = {
@@ -29,10 +30,16 @@ const typeIcons: Record<string, string> = {
   nature: '🌲'
 };
 
-export const LocationTooltip: React.FC<LocationTooltipProps> = ({ location, position }) => {
+export const LocationTooltip: React.FC<LocationTooltipProps> = ({ location, position, onNavigate }) => {
+  const handleNavigateClick = () => {
+    if (onNavigate) {
+      onNavigate(location);
+    }
+  };
+
   return (
     <div
-      className="fixed z-50 pointer-events-none transition-all duration-200"
+      className="fixed z-50 pointer-events-auto transition-all duration-200"
       style={{
         left: position.x + 10,
         top: position.y - 10,
@@ -63,6 +70,12 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({ location, posi
             <span className="text-primary">📍</span>
             <span>{location.latitude.toFixed(4)}, {location.longitude.toFixed(4)}</span>
           </div>
+          <button 
+            onClick={handleNavigateClick}
+            className="ml-auto px-3 py-1 bg-primary text-primary-foreground text-xs rounded-full hover:bg-primary/90 transition-colors font-medium"
+          >
+            Navigate 🗺️
+          </button>
         </div>
       </div>
     </div>
