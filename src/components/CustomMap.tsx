@@ -16,6 +16,7 @@ interface Location {
 const CustomMap = () => {
   const [hoveredLocation, setHoveredLocation] = useState<Location | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
+  const [tooltipVisible, setTooltipVisible] = useState(false);
 
   // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
@@ -45,6 +46,7 @@ const CustomMap = () => {
   const handlePinHover = (location: Location, event: React.MouseEvent) => {
     setHoveredLocation(location);
     setTooltipPosition({ x: event.clientX, y: event.clientY });
+    setTooltipVisible(true);
   };
 
   const handleNavigation = (location: Location) => {
@@ -70,6 +72,20 @@ const CustomMap = () => {
   };
 
   const handlePinLeave = () => {
+    // Delay hiding tooltip to allow hovering over it
+    setTimeout(() => {
+      if (!tooltipVisible) {
+        setHoveredLocation(null);
+      }
+    }, 100);
+  };
+
+  const handleTooltipMouseEnter = () => {
+    setTooltipVisible(true);
+  };
+
+  const handleTooltipMouseLeave = () => {
+    setTooltipVisible(false);
     setHoveredLocation(null);
   };
 
@@ -196,6 +212,8 @@ const CustomMap = () => {
           location={hoveredLocation}
           position={tooltipPosition}
           onNavigate={handleNavigation}
+          onMouseEnter={handleTooltipMouseEnter}
+          onMouseLeave={handleTooltipMouseLeave}
         />
       )}
     </div>
