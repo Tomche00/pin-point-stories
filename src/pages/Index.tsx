@@ -3,7 +3,9 @@ import CustomMap from '@/components/CustomMap';
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
-      <CustomMap />
+      <div className="w-full h-screen">
+        <CustomMap />
+      </div>
     </div>
   );
 };
