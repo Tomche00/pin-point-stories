@@ -17,6 +17,7 @@ const CustomMap = () => {
   const [hoveredLocation, setHoveredLocation] = useState<Location | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [tooltipVisible, setTooltipVisible] = useState(false);
+  const [visibleTypes, setVisibleTypes] = useState<Set<string>>(new Set(['monument', 'city', 'camping', 'nature']));
 
   // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
@@ -93,6 +94,20 @@ const CustomMap = () => {
     setTooltipPosition({ x: event.clientX, y: event.clientY });
   };
 
+  const toggleLocationType = (type: string) => {
+    setVisibleTypes(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(type)) {
+        newSet.delete(type);
+      } else {
+        newSet.add(type);
+      }
+      return newSet;
+    });
+  };
+
+  const filteredLocations = locations.filter(location => visibleTypes.has(location.type));
+
   return (
     <div className="relative w-full h-screen bg-background overflow-hidden">
       {/* Title overlay */}
@@ -118,7 +133,7 @@ const CustomMap = () => {
           
           {/* Location pins overlay */}
           <div className="absolute inset-0">
-            {locations.map((location: Location) => {
+            {filteredLocations.map((location: Location) => {
               const { x, y } = coordsToPercent(location.coordinates[0], location.coordinates[1]);
               
               return (
@@ -176,19 +191,39 @@ const CustomMap = () => {
       <div className="absolute bottom-6 left-6 z-20 map-tooltip">
         <h3 className="font-semibold text-foreground mb-3">Location Types</h3>
         <div className="space-y-2">
-          <div className="flex items-center gap-3">
+          <div 
+            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
+              visibleTypes.has('monument') ? 'opacity-100' : 'opacity-50'
+            }`}
+            onClick={() => toggleLocationType('monument')}
+          >
             <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#fbbf24' }}></div>
             <span className="text-sm text-muted-foreground">Monuments 🏛️</span>
           </div>
-          <div className="flex items-center gap-3">
+          <div 
+            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
+              visibleTypes.has('city') ? 'opacity-100' : 'opacity-50'
+            }`}
+            onClick={() => toggleLocationType('city')}
+          >
             <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#10b981' }}></div>
             <span className="text-sm text-muted-foreground">Cities 🏙️</span>
           </div>
-          <div className="flex items-center gap-3">
+          <div 
+            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
+              visibleTypes.has('camping') ? 'opacity-100' : 'opacity-50'
+            }`}
+            onClick={() => toggleLocationType('camping')}
+          >
             <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#f97316' }}></div>
             <span className="text-sm text-muted-foreground">Recreation 🏕️</span>
           </div>
-          <div className="flex items-center gap-3">
+          <div 
+            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
+              visibleTypes.has('nature') ? 'opacity-100' : 'opacity-50'
+            }`}
+            onClick={() => toggleLocationType('nature')}
+          >
             <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#84cc16' }}></div>
             <span className="text-sm text-muted-foreground">Nature 🌲</span>
           </div>
@@ -197,12 +232,12 @@ const CustomMap = () => {
 
       {/* Statistics */}
       <div className="absolute top-6 right-6 z-20 map-tooltip">
-        <h3 className="font-semibold text-foreground mb-2">Explore {locations.length} Locations</h3>
+        <h3 className="font-semibold text-foreground mb-2">Showing {filteredLocations.length} Locations</h3>
         <div className="text-sm text-muted-foreground space-y-1">
-          <div>🏛️ {locations.filter(l => l.type === 'monument').length} Monuments</div>
-          <div>🏙️ {locations.filter(l => l.type === 'city').length} Cities</div>
-          <div>🏕️ {locations.filter(l => l.type === 'camping').length} Recreation</div>
-          <div>🌲 {locations.filter(l => l.type === 'nature').length} Nature</div>
+          {visibleTypes.has('monument') && <div>🏛️ {filteredLocations.filter(l => l.type === 'monument').length} Monuments</div>}
+          {visibleTypes.has('city') && <div>🏙️ {filteredLocations.filter(l => l.type === 'city').length} Cities</div>}
+          {visibleTypes.has('camping') && <div>🏕️ {filteredLocations.filter(l => l.type === 'camping').length} Recreation</div>}
+          {visibleTypes.has('nature') && <div>🌲 {filteredLocations.filter(l => l.type === 'nature').length} Nature</div>}
         </div>
       </div>
 
