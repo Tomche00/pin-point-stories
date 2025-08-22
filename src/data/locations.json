@@ -1,15 +1,66 @@
 [
   {
-    "id": "zovichki_bridge_/_movie_bridge",
-    "name": "Zovichki bridge / Movie Bridge",
+    "id": "skopje",
+    "name": "Skopje",
+    "description": "Explore the vibrant capital where ancient meets modern! Discover the iconic Stone Bridge and bustling Macedonia Square in this adventure hub.",
+    "type": "city",
+    "latitude": 42.000,
+    "longitude": 21.433,
+    "coordinates": [21.433, 42.000]
+  },
+  {
+    "id": "ohrid",
+    "name": "Ohrid",
+    "description": "Dive into history at this UNESCO World Heritage lakeside city! Ancient churches and crystal-clear waters await your exploration.",
+    "type": "city",
+    "latitude": 41.117,
+    "longitude": 20.802,
+    "coordinates": [20.802, 41.117]
+  },
+  {
+    "id": "bitola",
+    "name": "Bitola",
+    "description": "Walk through the 'City of Consuls' with stunning Ottoman architecture and vibrant Shirok Sokak street life!",
+    "type": "city",
+    "latitude": 41.030,
+    "longitude": 21.329,
+    "coordinates": [21.329, 41.030]
+  },
+  {
+    "id": "tetovo",
+    "name": "Tetovo",
+    "description": "Marvel at the spectacular Painted Mosque and experience authentic northwestern Macedonian mountain culture!",
+    "type": "city",
+    "latitude": 42.006,
+    "longitude": 20.960,
+    "coordinates": [20.960, 42.006]
+  },
+  {
+    "id": "lake-ohrid",
+    "name": "Lake Ohrid",
+    "description": "Plunge into one of Europe's oldest and deepest lakes! Crystal-clear waters and ancient mysteries await brave explorers.",
+    "type": "nature",
+    "latitude": 41.047,
+    "longitude": 20.715,
+    "coordinates": [20.715, 41.047]
+  },
+  {
+    "id": "matka-canyon",
+    "name": "Matka Canyon",
+    "description": "Kayak through this dramatic canyon paradise just minutes from Skopje! Turquoise waters and towering cliffs create the ultimate adventure.",
+    "type": "nature",
+    "latitude": 41.957,
+    "longitude": 21.294,
+    "coordinates": [21.294, 41.957]
+  },
+  {
+    "id": "zovichki_bridge",
+    "name": "Zovichki Bridge / Movie Bridge",
     "description": "Cross the legendary bridge from famous Macedonian films! This cinematic icon offers breathtaking valley views that will leave you speechless.",
     "type": "monument",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
-    "coordinates": [
-      21.7171465,
-      41.1187657
-    ]
+    "coordinates": [21.7171465, 41.1187657]
   },
   {
     "id": "holy_transfiguration",
@@ -18,10 +69,7 @@
     "type": "monument",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
-    "coordinates": [
-      21.3416941,
-      41.5215773
-    ]
+    "coordinates": [21.3416941, 41.5215773]
   },
   {
     "id": "gabrovo_waterfalls",
@@ -30,286 +78,7 @@
     "type": "nature",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
-    "coordinates": [
-      22.7889993,
-      41.3755924
-    ]
-  },
-  {
-    "id": "malovishte",
-    "name": "Malovishte",
-    "description": "Step back in time in this authentic mountain village! Experience true Macedonian hospitality while surrounded by epic landscapes.",
-    "type": "city",
-    "latitude": 41.0333696,
-    "longitude": 21.1298722,
-    "coordinates": [
-      21.1298722,
-      41.0333696
-    ]
-  },
-  {
-    "id": "zovich",
-    "name": "Zovich",
-    "description": "Discover the soul of rural Macedonia in this hidden gem! Stone houses and dramatic mountain backdrops create the perfect adventure basecamp.",
-    "type": "city",
-    "latitude": 41.1172694,
-    "longitude": 21.7122789,
-    "coordinates": [
-      21.7122789,
-      41.1172694
-    ]
-  },
-  {
-    "id": "monastery_saint_ana",
-    "name": "Monastery Saint Ana",
-    "description": "Seek ancient wisdom at this sacred mountain monastery! Feel the spiritual energy that has drawn pilgrims here for centuries.",
-    "type": "monument",
-    "latitude": 41.0283542,
-    "longitude": 21.1144679,
-    "coordinates": [
-      21.1144679,
-      41.0283542
-    ]
-  },
-  {
-    "id": "shlegovo",
-    "name": "Shlegovo",
-    "description": "Explore this historic town known for its mining heritage and traditional Macedonian architecture.",
-    "type": "city",
-    "latitude": 42.0655501,
-    "longitude": 22.1616508,
-    "coordinates": [
-      22.1616508,
-      42.0655501
-    ]
-  },
-  {
-    "id": "papradiste",
-    "name": "Papradiste",
-    "description": "Discover this picturesque village nestled in the mountains, offering stunning views and traditional rural life.",
-    "type": "city",
-    "latitude": 41.6416537,
-    "longitude": 21.4387676,
-    "coordinates": [
-      21.4387676,
-      41.6416537
-    ]
-  },
-  {
-    "id": "st._gjorgjija_monastery",
-    "name": "St. Gjorgjija Monastery",
-    "description": "Experience the spiritual heritage at this ancient monastery dedicated to Saint George, featuring Byzantine frescoes and architecture.",
-    "type": "monument",
-    "latitude": 41.6348083,
-    "longitude": 21.4027214,
-    "coordinates": [
-      21.4027214,
-      41.6348083
-    ]
-  },
-  {
-    "id": "oreshe_waterfall",
-    "name": "Oreshe Waterfall",
-    "description": "Chase this spectacular waterfall through rugged mountain terrain! The thunderous roar and mist-filled air will awaken your wild spirit.",
-    "type": "nature",
-    "latitude": 41.6359698,
-    "longitude": 21.3905499,
-    "coordinates": [
-      21.3905499,
-      41.6359698
-    ]
-  },
-  {
-    "id": "oreshe",
-    "name": "Oreshe",
-    "description": "Visit this tranquil village surrounded by natural beauty and traditional stone houses.",
-    "type": "city",
-    "latitude": 41.6196632,
-    "longitude": 21.4201362,
-    "coordinates": [
-      21.4201362,
-      41.6196632
-    ]
-  },
-  {
-    "id": "ribnik_kapinovово_&_nezilovski_merak_meana_s.nezilovo",
-    "name": "Ribnik Kapinovово & Nezilovski Merak Meana s.Nezilovo",
-    "description": "Enjoy recreational fishing and relaxation at this scenic lake area with traditional Macedonian hospitality.",
-    "type": "camping",
-    "latitude": 41.6288738,
-    "longitude": 21.4552288,
-    "coordinates": [
-      21.4552288,
-      41.6288738
-    ]
-  },
-  {
-    "id": "марково_стапало",
-    "name": "Марково стапало",
-    "description": "Discover this unique natural rock formation known as Marko's Footprint, steeped in local legend and folklore.",
-    "type": "nature",
-    "latitude": 41.640668,
-    "longitude": 21.4461963,
-    "coordinates": [
-      21.4461963,
-      41.640668
-    ]
-  },
-  {
-    "id": "monastery_sveti_petar_i_pavle",
-    "name": "Monastery Sveti Petar i Pavle",
-    "description": "Visit this historic monastery dedicated to Saints Peter and Paul, showcasing magnificent Orthodox religious art and architecture.",
-    "type": "monument",
-    "latitude": 41.6312313,
-    "longitude": 21.510399,
-    "coordinates": [
-      21.510399,
-      41.6312313
-    ]
-  },
-  {
-    "id": "konjsko",
-    "name": "Konjsko",
-    "description": "Experience this charming mountain village known for its pristine nature and traditional way of life.",
-    "type": "city",
-    "latitude": 40.9118299,
-    "longitude": 20.9882922,
-    "coordinates": [
-      20.9882922,
-      40.9118299
-    ]
-  },
-  {
-    "id": "ljubojno",
-    "name": "Ljubojno",
-    "description": "Visit this historic lakeside town offering beautiful views of Lake Prespa and rich cultural heritage.",
-    "type": "city",
-    "latitude": 40.8945369,
-    "longitude": 21.1376967,
-    "coordinates": [
-      21.1376967,
-      40.8945369
-    ]
-  },
-  {
-    "id": "rusjatsi",
-    "name": "Rusjatsi",
-    "description": "Explore this peaceful village nestled in the hills, offering authentic rural Macedonian experiences.",
-    "type": "city",
-    "latitude": 41.4999893,
-    "longitude": 21.1514826,
-    "coordinates": [
-      21.1514826,
-      41.4999893
-    ]
-  },
-  {
-    "id": "zheleznets",
-    "name": "Zheleznets",
-    "description": "Discover this small village surrounded by beautiful landscapes and traditional architecture.",
-    "type": "city",
-    "latitude": 41.3257034,
-    "longitude": 21.062993,
-    "coordinates": [
-      21.062993,
-      41.3257034
-    ]
-  },
-  {
-    "id": "knezhino",
-    "name": "Knezhino",
-    "description": "Experience this historic village with traditional Macedonian stone houses and scenic mountain views.",
-    "type": "city",
-    "latitude": 41.5215996,
-    "longitude": 20.9160162,
-    "coordinates": [
-      20.9160162,
-      41.5215996
-    ]
-  },
-  {
-    "id": "skrebatno",
-    "name": "Skrebatno",
-    "description": "Visit this quaint village known for its traditional architecture and peaceful rural atmosphere.",
-    "type": "city",
-    "latitude": 41.1522564,
-    "longitude": 20.8914281,
-    "coordinates": [
-      20.8914281,
-      41.1522564
-    ]
-  },
-  {
-    "id": "rosoki",
-    "name": "Rosoki",
-    "description": "Explore this charming village famous for its natural springs and traditional Macedonian culture.",
-    "type": "city",
-    "latitude": 41.566465,
-    "longitude": 20.6939945,
-    "coordinates": [
-      20.6939945,
-      41.566465
-    ]
-  },
-  {
-    "id": "rosoki_springs",
-    "name": "Rosoki Springs",
-    "description": "Refresh yourself at these crystal-clear natural springs, known for their pure mountain water and scenic surroundings.",
-    "type": "nature",
-    "latitude": 41.5687791,
-    "longitude": 20.692748,
-    "coordinates": [
-      20.692748,
-      41.5687791
-    ]
-  },
-  {
-    "id": "krushevica",
-    "name": "Krushevica",
-    "description": "Discover this historic village with beautiful traditional architecture and panoramic mountain views.",
-    "type": "city",
-    "latitude": 41.205838,
-    "longitude": 21.6526577,
-    "coordinates": [
-      21.6526577,
-      41.205838
-    ]
-  },
-  {
-    "id": "vitolishte",
-    "name": "Vitolishte",
-    "description": "Experience this peaceful village surrounded by vineyards and orchards, offering authentic rural experiences.",
-    "type": "city",
-    "latitude": 41.1812657,
-    "longitude": 21.8255581,
-    "coordinates": [
-      21.8255581,
-      41.1812657
-    ]
-  },
-  {
-    "id": "čanište",
-    "name": "Čanište",
-    "description": "Visit this charming village known for its traditional stone houses and scenic countryside.",
-    "type": "city",
-    "latitude": 41.1657837,
-    "longitude": 21.6854494,
-    "coordinates": [
-      21.6854494,
-      41.1657837
-    ]
-  },
-  {
-    "id": "petralitsa",
-    "name": "Petralitsa",
-    "description": "Explore this small mountain village offering stunning views and traditional Macedonian hospitality.",
-    "type": "city",
-    "latitude": 42.211824,
-    "longitude": 22.1802799,
-    "coordinates": [
-      22.1802799,
-      42.211824
-    ]
+    "coordinates": [22.7889993, 41.3755924]
   },
   {
     "id": "koleshino_waterfall",
@@ -318,10 +87,7 @@
     "type": "nature",
     "latitude": 41.3695082,
     "longitude": 22.8068927,
-    "coordinates": [
-      22.8068927,
-      41.3695082
-    ]
+    "coordinates": [22.8068927, 41.3695082]
   },
   {
     "id": "smolare_waterfall",
@@ -330,274 +96,16 @@
     "type": "nature",
     "latitude": 41.3662782,
     "longitude": 22.8996196,
-    "coordinates": [
-      22.8996196,
-      41.3662782
-    ]
-  },
-  {
-    "id": "blatec",
-    "name": "Blatec",
-    "description": "Visit this picturesque village located near beautiful Blatec Lake, perfect for nature lovers.",
-    "type": "city",
-    "latitude": 41.8385763,
-    "longitude": 22.5778948,
-    "coordinates": [
-      22.5778948,
-      41.8385763
-    ]
+    "coordinates": [22.8996196, 41.3662782]
   },
   {
     "id": "blatec_lake",
     "name": "Blatec Lake",
-    "description": "Enjoy the tranquil beauty of this pristine mountain lake, ideal for fishing, swimming, and peaceful relaxation.",
+    "description": "Discover this pristine mountain lake sanctuary! Perfect for wild swimming, fishing, and connecting with Macedonia's untamed nature.",
     "type": "nature",
     "latitude": 41.8389149,
     "longitude": 22.5946481,
-    "coordinates": [
-      22.5946481,
-      41.8389149
-    ]
-  },
-  {
-    "id": "sermenin",
-    "name": "Sermenin",
-    "description": "Discover this charming village nestled in the mountains, known for its natural beauty and hiking trails.",
-    "type": "city",
-    "latitude": 41.2200456,
-    "longitude": 22.3471886,
-    "coordinates": [
-      22.3471886,
-      41.2200456
-    ]
-  },
-  {
-    "id": "водопад_вера_(waterfall_vera)",
-    "name": "Водопад Вера (Waterfall Vera)",
-    "description": "Experience the natural beauty of Waterfall Vera, a hidden gem perfect for hiking and nature photography.",
-    "type": "nature",
-    "latitude": 41.217188,
-    "longitude": 22.347312,
-    "coordinates": [
-      22.347312,
-      41.217188
-    ]
-  },
-  {
-    "id": "smrdliva_voda",
-    "name": "Smrdliva Voda",
-    "description": "Visit these unique mineral springs known for their therapeutic properties and distinctive sulfur smell.",
-    "type": "nature",
-    "latitude": 41.192718,
-    "longitude": 22.2816193,
-    "coordinates": [
-      22.2816193,
-      41.192718
-    ]
-  },
-  {
-    "id": "teovo",
-    "name": "Teovo",
-    "description": "Explore this historic town with rich cultural heritage and beautiful traditional architecture.",
-    "type": "city",
-    "latitude": 41.5784655,
-    "longitude": 21.5729144,
-    "coordinates": [
-      21.5729144,
-      41.5784655
-    ]
-  },
-  {
-    "id": "bitushe",
-    "name": "Bitushe",
-    "description": "Visit this peaceful lakeside village on Lake Prespa, offering beautiful views and tranquil atmosphere.",
-    "type": "city",
-    "latitude": 41.6165295,
-    "longitude": 20.5878404,
-    "coordinates": [
-      20.5878404,
-      41.6165295
-    ]
-  },
-  {
-    "id": "trebishte",
-    "name": "Trebishte",
-    "description": "Discover this archaeological site with ancient remains and beautiful lake views of Prespa.",
-    "type": "monument",
-    "latitude": 41.6282128,
-    "longitude": 20.5893302,
-    "coordinates": [
-      20.5893302,
-      41.6282128
-    ]
-  },
-  {
-    "id": "belitsa",
-    "name": "Belitsa",
-    "description": "Experience this charming village surrounded by mountains and offering traditional rural life.",
-    "type": "city",
-    "latitude": 41.6768835,
-    "longitude": 21.3049963,
-    "coordinates": [
-      21.3049963,
-      41.6768835
-    ]
-  },
-  {
-    "id": "vishni",
-    "name": "Vishni",
-    "description": "Visit this peaceful mountain village known for its cherry orchards and scenic beauty.",
-    "type": "city",
-    "latitude": 41.1931228,
-    "longitude": 20.5982691,
-    "coordinates": [
-      20.5982691,
-      41.1931228
-    ]
-  },
-  {
-    "id": "gorna_belica",
-    "name": "Gorna Belica",
-    "description": "Explore this traditional village offering authentic Macedonian mountain culture and hospitality.",
-    "type": "city",
-    "latitude": 41.223316,
-    "longitude": 20.55581,
-    "coordinates": [
-      20.55581,
-      41.223316
-    ]
-  },
-  {
-    "id": "вевчанска_локва",
-    "name": "Вевчанска Локва",
-    "description": "Enjoy this natural pool area perfect for swimming and relaxation in a beautiful mountain setting.",
-    "type": "nature",
-    "latitude": 41.2432388,
-    "longitude": 20.5333121,
-    "coordinates": [
-      20.5333121,
-      41.2432388
-    ]
-  },
-  {
-    "id": "babino",
-    "name": "Babino",
-    "description": "Discover this quaint village known for its traditional architecture and peaceful mountain atmosphere.",
-    "type": "city",
-    "latitude": 41.2990659,
-    "longitude": 21.0806907,
-    "coordinates": [
-      21.0806907,
-      41.2990659
-    ]
-  },
-  {
-    "id": "bazernik",
-    "name": "Bazernik",
-    "description": "Visit this historic village with beautiful stone houses and traditional Macedonian culture.",
-    "type": "city",
-    "latitude": 41.2820967,
-    "longitude": 21.0477173,
-    "coordinates": [
-      21.0477173,
-      41.2820967
-    ]
-  },
-  {
-    "id": "zbazhdi",
-    "name": "Zbazhdi",
-    "description": "Experience this charming village surrounded by natural beauty and traditional rural life.",
-    "type": "city",
-    "latitude": 41.348894,
-    "longitude": 20.6727629,
-    "coordinates": [
-      20.6727629,
-      41.348894
-    ]
-  },
-  {
-    "id": "globochica",
-    "name": "Globochica",
-    "description": "Explore this peaceful village nestled in the mountains with stunning panoramic views.",
-    "type": "city",
-    "latitude": 41.3169734,
-    "longitude": 20.6425923,
-    "coordinates": [
-      20.6425923,
-      41.3169734
-    ]
-  },
-  {
-    "id": "tashmarunishta",
-    "name": "Tashmarunishta",
-    "description": "Discover this traditional mountain village offering authentic Macedonian hospitality and culture.",
-    "type": "city",
-    "latitude": 41.2680714,
-    "longitude": 20.6403575,
-    "coordinates": [
-      20.6403575,
-      41.2680714
-    ]
-  },
-  {
-    "id": "capari",
-    "name": "Capari",
-    "description": "Visit this historic village known for its traditional stone architecture and cultural heritage.",
-    "type": "city",
-    "latitude": 41.0570097,
-    "longitude": 21.177937,
-    "coordinates": [
-      21.177937,
-      41.0570097
-    ]
-  },
-  {
-    "id": "capari_vir",
-    "name": "Capari Vir",
-    "description": "Experience this natural whirlpool formation, a unique geological phenomenon perfect for nature enthusiasts.",
-    "type": "nature",
-    "latitude": 41.0524657,
-    "longitude": 21.1790111,
-    "coordinates": [
-      21.1790111,
-      41.0524657
-    ]
-  },
-  {
-    "id": "belovishte",
-    "name": "Belovishte",
-    "description": "Explore this picturesque village known for its proximity to beautiful waterfalls and natural attractions.",
-    "type": "city",
-    "latitude": 42.135924,
-    "longitude": 21.1049087,
-    "coordinates": [
-      21.1049087,
-      42.135924
-    ]
-  },
-  {
-    "id": "belojshki_biser_restaurant",
-    "name": "Belojshki Biser Restaurant",
-    "description": "Enjoy traditional Macedonian cuisine at this renowned restaurant offering local specialties and mountain atmosphere.",
-    "type": "camping",
-    "latitude": 42.1444218,
-    "longitude": 21.1004971,
-    "coordinates": [
-      21.1004971,
-      42.1444218
-    ]
-  },
-  {
-    "id": "belovishki_vodopad",
-    "name": "Belovishki Vodopad",
-    "description": "Marvel at this spectacular waterfall cascading down rocky cliffs, surrounded by pristine mountain forest.",
-    "type": "nature",
-    "latitude": 42.1588233,
-    "longitude": 21.0858905,
-    "coordinates": [
-      21.0858905,
-      42.1588233
-    ]
+    "coordinates": [22.5946481, 41.8389149]
   },
   {
     "id": "todorovci_stonehenge",
@@ -606,165 +114,204 @@
     "type": "monument",
     "latitude": 41.9991464,
     "longitude": 22.6129683,
-    "coordinates": [
-      22.6129683,
-      41.9991464
-    ]
+    "coordinates": [22.6129683, 41.9991464]
   },
   {
-    "id": "zashle",
-    "name": "Zashle",
-    "description": "Visit this charming village offering beautiful mountain views and traditional Macedonian rural life.",
-    "type": "city",
-    "latitude": 41.372853,
-    "longitude": 21.1432856,
-    "coordinates": [
-      21.1432856,
-      41.372853
-    ]
-  },
-  {
-    "id": "brezovo",
-    "name": "Brezovo",
-    "description": "Experience this peaceful village surrounded by birch forests and offering pristine mountain air.",
-    "type": "city",
-    "latitude": 41.3420518,
-    "longitude": 21.1272641,
-    "coordinates": [
-      21.1272641,
-      41.3420518
-    ]
-  },
-  {
-    "id": "star_istevnik",
-    "name": "Star Istevnik",
-    "description": "Explore this historic village with traditional architecture and beautiful mountain surroundings.",
-    "type": "city",
-    "latitude": 41.8724274,
-    "longitude": 22.8530036,
-    "coordinates": [
-      22.8530036,
-      41.8724274
-    ]
-  },
-  {
-    "id": "golemo_ilino",
-    "name": "Golemo Ilino",
-    "description": "Discover this traditional village known for its agricultural heritage and scenic countryside views.",
-    "type": "city",
-    "latitude": 41.3126151,
-    "longitude": 21.0002143,
-    "coordinates": [
-      21.0002143,
-      41.3126151
-    ]
-  },
-  {
-    "id": "monastery_of_st._elias",
-    "name": "Monastery of St. Elias",
-    "description": "Visit this sacred Orthodox monastery dedicated to Prophet Elijah, featuring beautiful religious art and peaceful grounds.",
+    "id": "monastery_saint_ana",
+    "name": "Monastery Saint Ana",
+    "description": "Seek ancient wisdom at this sacred mountain monastery! Feel the spiritual energy that has drawn pilgrims here for centuries.",
     "type": "monument",
-    "latitude": 41.2928385,
-    "longitude": 20.9802821,
-    "coordinates": [
-      20.9802821,
-      41.2928385
-    ]
+    "latitude": 41.0283542,
+    "longitude": 21.1144679,
+    "coordinates": [21.1144679, 41.0283542]
   },
   {
-    "id": "sloeštica",
-    "name": "Sloeštica",
-    "description": "Experience this quaint village offering traditional Macedonian culture and beautiful natural surroundings.",
-    "type": "city",
-    "latitude": 41.2668894,
-    "longitude": 21.0769781,
-    "coordinates": [
-      21.0769781,
-      41.2668894
-    ]
-  },
-  {
-    "id": "ресторан-на_валајци",
-    "name": "Ресторан-На Валајци",
-    "description": "Enjoy authentic Macedonian cuisine at this traditional restaurant known for its mountain specialties and warm hospitality.",
-    "type": "camping",
-    "latitude": 41.2643843,
-    "longitude": 21.07448,
-    "coordinates": [
-      21.07448,
-      41.2643843
-    ]
-  },
-  {
-    "id": "ajdarova_livada",
-    "name": "Ajdarova Livada",
-    "description": "Relax in this beautiful mountain meadow, perfect for picnics and enjoying pristine natural beauty.",
-    "type": "nature",
-    "latitude": 41.7321406,
-    "longitude": 20.6704361,
-    "coordinates": [
-      20.6704361,
-      41.7321406
-    ]
-  },
-  {
-    "id": "mrezhichko",
-    "name": "Mrezhichko",
-    "description": "Visit this small village surrounded by agricultural fields and offering peaceful rural atmosphere.",
-    "type": "city",
-    "latitude": 41.2073189,
-    "longitude": 21.9954721,
-    "coordinates": [
-      21.9954721,
-      41.2073189
-    ]
-  },
-  {
-    "id": "smilanci",
-    "name": "Smilanci",
-    "description": "Discover this charming village known for its traditional stone houses and scenic mountain location.",
-    "type": "city",
-    "latitude": 41.6963878,
-    "longitude": 22.6045937,
-    "coordinates": [
-      22.6045937,
-      41.6963878
-    ]
-  },
-  {
-    "id": "lake_paljurci",
-    "name": "Lake Paljurci",
-    "description": "Enjoy this serene mountain lake perfect for fishing, swimming, and peaceful nature experiences.",
-    "type": "nature",
-    "latitude": 41.205763,
-    "longitude": 22.6235896,
-    "coordinates": [
-      22.6235896,
-      41.205763
-    ]
-  },
-  {
-    "id": "natural_beach",
-    "name": "Natural beach",
-    "description": "Relax at this pristine natural beach area, perfect for swimming and sunbathing in beautiful natural surroundings.",
-    "type": "nature",
-    "latitude": 41.1186303,
-    "longitude": 21.1622275,
-    "coordinates": [
-      21.1622275,
-      41.1186303
-    ]
+    "id": "st_gjorgjija_monastery",
+    "name": "St. Gjorgjija Monastery",
+    "description": "Experience spiritual heritage at this ancient monastery dedicated to Saint George, featuring magnificent Byzantine frescoes and architecture.",
+    "type": "monument",
+    "latitude": 41.6348083,
+    "longitude": 21.4027214,
+    "coordinates": [21.4027214, 41.6348083]
   },
   {
     "id": "lesnovo_monastery",
     "name": "Lesnovo Monastery",
-    "description": "Explore this ancient Orthodox monastery famous for its 14th-century frescoes and significant religious heritage.",
+    "description": "Journey to this sacred Orthodox monastery famous for its 14th-century frescoes and profound religious heritage.",
     "type": "monument",
     "latitude": 42.0132481,
     "longitude": 22.2282922,
-    "coordinates": [
-      22.2282922,
-      42.0132481
-    ]
+    "coordinates": [22.2282922, 42.0132481]
+  },
+  {
+    "id": "monastery_st_elias",
+    "name": "Monastery of St. Elias",
+    "description": "Visit this sacred Orthodox monastery dedicated to Prophet Elijah, featuring beautiful religious art and peaceful mountain grounds.",
+    "type": "monument",
+    "latitude": 41.2928385,
+    "longitude": 20.9802821,
+    "coordinates": [20.9802821, 41.2928385]
+  },
+  {
+    "id": "monastery_sveti_petar_pavle",
+    "name": "Monastery Sveti Petar i Pavle",
+    "description": "Discover this historic monastery dedicated to Saints Peter and Paul, showcasing magnificent Orthodox religious art and architecture.",
+    "type": "monument",
+    "latitude": 41.6312313,
+    "longitude": 21.510399,
+    "coordinates": [21.510399, 41.6312313]
+  },
+  {
+    "id": "oreshe_waterfall",
+    "name": "Oreshe Waterfall",
+    "description": "Chase this spectacular waterfall through rugged mountain terrain! The thunderous roar and mist-filled air will awaken your wild spirit.",
+    "type": "nature",
+    "latitude": 41.6359698,
+    "longitude": 21.3905499,
+    "coordinates": [21.3905499, 41.6359698]
+  },
+  {
+    "id": "belovishki_waterfall",
+    "name": "Belovishki Waterfall",
+    "description": "Marvel at this spectacular waterfall cascading down rocky cliffs, surrounded by pristine mountain forest and crystal-clear pools.",
+    "type": "nature",
+    "latitude": 42.1588233,
+    "longitude": 21.0858905,
+    "coordinates": [21.0858905, 42.1588233]
+  },
+  {
+    "id": "waterfall_vera",
+    "name": "Waterfall Vera",
+    "description": "Experience the natural beauty of Waterfall Vera, a hidden gem perfect for hiking and nature photography adventures.",
+    "type": "nature",
+    "latitude": 41.217188,
+    "longitude": 22.347312,
+    "coordinates": [22.347312, 41.217188]
+  },
+  {
+    "id": "rosoki_springs",
+    "name": "Rosoki Springs",
+    "description": "Refresh yourself at these crystal-clear natural springs, known for their pure mountain water and scenic wilderness surroundings.",
+    "type": "nature",
+    "latitude": 41.5687791,
+    "longitude": 20.692748,
+    "coordinates": [20.692748, 41.5687791]
+  },
+  {
+    "id": "vevchanska_lokva",
+    "name": "Vevchanska Lokva",
+    "description": "Enjoy this natural swimming pool paradise perfect for wild swimming and relaxation in a stunning mountain setting.",
+    "type": "nature",
+    "latitude": 41.2432388,
+    "longitude": 20.5333121,
+    "coordinates": [20.5333121, 41.2432388]
+  },
+  {
+    "id": "smrdliva_voda",
+    "name": "Smrdliva Voda",
+    "description": "Visit these unique therapeutic mineral springs known for their healing properties and distinctive natural character.",
+    "type": "nature",
+    "latitude": 41.192718,
+    "longitude": 22.2816193,
+    "coordinates": [22.2816193, 41.192718]
+  },
+  {
+    "id": "capari_vir",
+    "name": "Capari Vir",
+    "description": "Experience this natural whirlpool formation, a unique geological phenomenon perfect for nature enthusiasts and photographers.",
+    "type": "nature",
+    "latitude": 41.0524657,
+    "longitude": 21.1790111,
+    "coordinates": [21.1790111, 41.0524657]
+  },
+  {
+    "id": "ajdarova_livada",
+    "name": "Ajdarova Livada",
+    "description": "Relax in this beautiful mountain meadow paradise, perfect for picnics and enjoying pristine natural beauty.",
+    "type": "nature",
+    "latitude": 41.7321406,
+    "longitude": 20.6704361,
+    "coordinates": [20.6704361, 41.7321406]
+  },
+  {
+    "id": "lake_paljurci",
+    "name": "Lake Paljurci",
+    "description": "Enjoy this serene mountain lake perfect for fishing, swimming, and peaceful nature experiences away from the crowds.",
+    "type": "nature",
+    "latitude": 41.205763,
+    "longitude": 22.6235896,
+    "coordinates": [22.6235896, 41.205763]
+  },
+  {
+    "id": "natural_beach",
+    "name": "Natural Beach",
+    "description": "Relax at this pristine natural beach area, perfect for swimming and sunbathing in beautiful wild surroundings.",
+    "type": "nature",
+    "latitude": 41.1186303,
+    "longitude": 21.1622275,
+    "coordinates": [21.1622275, 41.1186303]
+  },
+  {
+    "id": "malovishte",
+    "name": "Malovishte",
+    "description": "Step back in time in this authentic mountain village! Experience true Macedonian hospitality while surrounded by epic landscapes.",
+    "type": "city",
+    "latitude": 41.0333696,
+    "longitude": 21.1298722,
+    "coordinates": [21.1298722, 41.0333696]
+  },
+  {
+    "id": "zovich",
+    "name": "Zovich",
+    "description": "Discover the soul of rural Macedonia in this hidden gem! Stone houses and dramatic mountain backdrops create the perfect adventure basecamp.",
+    "type": "city",
+    "latitude": 41.1172694,
+    "longitude": 21.7122789,
+    "coordinates": [21.7122789, 41.1172694]
+  },
+  {
+    "id": "ljubojno",
+    "name": "Ljubojno",
+    "description": "Visit this historic lakeside town offering beautiful views of Lake Prespa and authentic Macedonian cultural heritage.",
+    "type": "city",
+    "latitude": 40.8945369,
+    "longitude": 21.1376967,
+    "coordinates": [21.1376967, 40.8945369]
+  },
+  {
+    "id": "trebishte",
+    "name": "Trebishte",
+    "description": "Discover this fascinating archaeological site with ancient remains and stunning lake views of Prespa.",
+    "type": "monument",
+    "latitude": 41.6282128,
+    "longitude": 20.5893302,
+    "coordinates": [20.5893302, 41.6282128]
+  },
+  {
+    "id": "belojshki_biser_restaurant",
+    "name": "Belojshki Biser Restaurant",
+    "description": "Experience authentic Macedonian mountain cuisine at this renowned restaurant offering local specialties and incredible mountain atmosphere.",
+    "type": "camping",
+    "latitude": 42.1444218,
+    "longitude": 21.1004971,
+    "coordinates": [21.1004971, 42.1444218]
+  },
+  {
+    "id": "ribnik_kapinovo",
+    "name": "Ribnik Kapinovo & Nezilovski Merak",
+    "description": "Enjoy recreational fishing and relaxation at this scenic lake area with traditional Macedonian hospitality and camping facilities.",
+    "type": "camping",
+    "latitude": 41.6288738,
+    "longitude": 21.4552288,
+    "coordinates": [21.4552288, 41.6288738]
+  },
+  {
+    "id": "restaurant_na_valajci",
+    "name": "Restaurant Na Valajci",
+    "description": "Savor authentic Macedonian cuisine at this traditional mountain restaurant known for its specialties and warm hospitality.",
+    "type": "camping",
+    "latitude": 41.2643843,
+    "longitude": 21.07448,
+    "coordinates": [21.07448, 41.2643843]
   }
 ]
