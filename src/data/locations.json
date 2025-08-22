@@ -2,7 +2,7 @@
   {
     "id": "zovichki_bridge_/_movie_bridge",
     "name": "Zovichki bridge / Movie Bridge",
-    "description": "Step onto this iconic bridge, where history meets cinema, and soak in panoramic views that have inspired countless stories.",
+    "description": "Cross the legendary bridge from famous Macedonian films! This cinematic icon offers breathtaking valley views that will leave you speechless.",
     "type": "monument",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
@@ -14,7 +14,7 @@
   {
     "id": "holy_transfiguration",
     "name": "Holy Transfiguration",
-    "description": "Discover the serene beauty of this historic church, where stunning architecture and spiritual calm await every visitor.",
+    "description": "Journey to this mystical hilltop sanctuary where ancient prayers echo through time! Marvel at centuries-old frescoes in absolute tranquility.",
     "type": "monument",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
@@ -26,7 +26,7 @@
   {
     "id": "gabrovo_waterfalls",
     "name": "Gabrovo Waterfalls",
-    "description": "Immerse yourself in nature's spectacle with cascading waters and lush greenery, perfect for hiking and memorable photos.",
+    "description": "Trek to these thundering cascades hidden deep in Macedonia's wilderness! Crystal-clear pools await brave adventurers who make the journey.",
     "type": "nature",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
@@ -38,7 +38,7 @@
   {
     "id": "malovishte",
     "name": "Malovishte",
-    "description": "Wander through this charming village, where traditional Macedonian culture and scenic landscapes create an unforgettable escape.",
+    "description": "Step back in time in this authentic mountain village! Experience true Macedonian hospitality while surrounded by epic landscapes.",
     "type": "city",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
@@ -50,7 +50,7 @@
   {
     "id": "zovich",
     "name": "Zovich",
-    "description": "Step into authentic village life in Zovich, where rustic charm meets breathtaking natural surroundings.",
+    "description": "Discover the soul of rural Macedonia in this hidden gem! Stone houses and dramatic mountain backdrops create the perfect adventure basecamp.",
     "type": "city",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
@@ -62,7 +62,7 @@
   {
     "id": "monastery_saint_ana",
     "name": "Monastery Saint Ana",
-    "description": "Visit this peaceful monastery dedicated to Saint Ana, featuring beautiful Orthodox architecture and a serene atmosphere for reflection.",
+    "description": "Seek ancient wisdom at this sacred mountain monastery! Feel the spiritual energy that has drawn pilgrims here for centuries.",
     "type": "monument",
     "latitude": 41.0283542,
     "longitude": 21.1144679,
@@ -110,7 +110,7 @@
   {
     "id": "oreshe_waterfall",
     "name": "Oreshe Waterfall",
-    "description": "Marvel at this stunning natural waterfall cascading through rocky terrain, perfect for nature photography and hiking.",
+    "description": "Chase this spectacular waterfall through rugged mountain terrain! The thunderous roar and mist-filled air will awaken your wild spirit.",
     "type": "nature",
     "latitude": 41.6359698,
     "longitude": 21.3905499,
@@ -314,7 +314,7 @@
   {
     "id": "koleshino_waterfall",
     "name": "Koleshino Waterfall",
-    "description": "Experience the breathtaking beauty of this magnificent waterfall, one of Macedonia's most spectacular natural attractions.",
+    "description": "Witness Macedonia's crown jewel of waterfalls! This towering cascade plunges through pristine wilderness - a true bucket-list adventure.",
     "type": "nature",
     "latitude": 41.3695082,
     "longitude": 22.8068927,
@@ -326,7 +326,7 @@
   {
     "id": "smolare_waterfall",
     "name": "Smolare Waterfall",
-    "description": "Marvel at this impressive 39-meter waterfall, the highest in North Macedonia, surrounded by lush forest.",
+    "description": "Conquer Macedonia's mightiest waterfall! At 39 meters, this roaring giant crashes down through ancient forest - pure adrenaline for adventurers.",
     "type": "nature",
     "latitude": 41.3662782,
     "longitude": 22.8996196,
@@ -602,7 +602,7 @@
   {
     "id": "todorovci_stonehenge",
     "name": "Todorovci Stonehenge",
-    "description": "Discover this mysterious ancient stone formation, often called Macedonia's Stonehenge, steeped in archaeological intrigue.",
+    "description": "Uncover Macedonia's Stonehenge! These mysterious megalithic stones hold ancient secrets that will ignite your imagination and sense of wonder.",
     "type": "monument",
     "latitude": 41.9991464,
     "longitude": 22.6129683,
