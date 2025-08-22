@@ -21,10 +21,10 @@ const CustomMap = () => {
 
   // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
-    north: 42.5,    // Include southern Serbia
-    south: 40.8,    // Include northern Greece  
-    west: 20.2,     // Include eastern Albania
-    east: 23.0      // Include western Bulgaria
+    north: 42.44,    // 42.5 Include southern Serbia
+    south: 40.65,    // 40.8 Include northern Greece  
+    west: 19.68,     // 20.2 Include eastern Albania
+    east: 23.75      // 23.0 Include western Bulgaria
   };
 
   // Convert lat/lng to percentage coordinates
@@ -39,7 +39,8 @@ const CustomMap = () => {
       monument: '#fbbf24', // yellow
       city: '#10b981', // emerald
       camping: '#f97316', // orange
-      nature: '#84cc16' // lime
+      nature: '#84cc16', // lime
+	  monastery: 'ff00ff',
     };
     return colors[type as keyof typeof colors] || '#60a5fa';
   };
