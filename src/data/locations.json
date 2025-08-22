@@ -60,8 +60,8 @@
     ]
   },
   {
-    "id": "monastery_„saint_ana"",
-    "name": "Monastery „Saint Ana"",
+    "id": "monastery_saint_ana",
+    "name": "Monastery Saint Ana",
     "description": "Visit this peaceful monastery dedicated to Saint Ana, featuring beautiful Orthodox architecture and a serene atmosphere for reflection.",
     "type": "monument",
     "latitude": 41.0283542,
@@ -156,8 +156,8 @@
     ]
   },
   {
-    "id": "манастир_„свети_петар_и_павле"",
-    "name": "Манастир „Свети Петар и Павле"",
+    "id": "monastery_sveti_petar_i_pavle",
+    "name": "Monastery Sveti Petar i Pavle",
     "description": "Visit this historic monastery dedicated to Saints Peter and Paul, showcasing magnificent Orthodox religious art and architecture.",
     "type": "monument",
     "latitude": 41.6312313,
