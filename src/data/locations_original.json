@@ -2,8 +2,8 @@
   {
     "id": "zovichki_bridge_/_movie_bridge",
     "name": "Zovichki bridge / Movie Bridge",
-    "description": "Step onto this iconic bridge, where history meets cinema, and soak in panoramic views that have inspired countless stories.",
-    "type": "monument",
+    "description": "",
+    "type": "city",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
     "coordinates": [
@@ -14,8 +14,8 @@
   {
     "id": "holy_transfiguration",
     "name": "Holy Transfiguration",
-    "description": "Discover the serene beauty of this historic church, where stunning architecture and spiritual calm await every visitor.",
-    "type": "monument",
+    "description": "",
+    "type": "city",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
     "coordinates": [
@@ -26,8 +26,8 @@
   {
     "id": "gabrovo_waterfalls",
     "name": "Gabrovo Waterfalls",
-    "description": "Immerse yourself in nature’s spectacle with cascading waters and lush greenery, perfect for hiking and memorable photos.",
-    "type": "nature",
+    "description": "",
+    "type": "city",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
     "coordinates": [
@@ -38,7 +38,7 @@
   {
     "id": "malovishte",
     "name": "Malovishte",
-    "description": "Wander through this charming village, where traditional Macedonian culture and scenic landscapes create an unforgettable escape.",
+    "description": "",
     "type": "city",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
@@ -50,7 +50,7 @@
   {
     "id": "zovich",
     "name": "Zovich",
-    "description": "Step into authentic village life in Zovich, where rustic charm meets breathtaking natural surroundings.",
+    "description": "",
     "type": "city",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
@@ -3314,7 +3314,7 @@
   {
     "id": "negotino",
     "name": "Negotino",
-    "description": "Wander through Negotino, a town rich in wine culture, local markets, and authentic Macedonian charm.",
+    "description": "",
     "type": "city",
     "latitude": 41.4829514,
     "longitude": 22.0924914,
