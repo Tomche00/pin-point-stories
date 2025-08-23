@@ -2,3147 +2,451 @@
   {
     "id": "zovichki_bridge_/_movie_bridge",
     "name": "Zovichki bridge / Movie Bridge",
-    "description": "Step onto this iconic bridge, where history meets cinema, and soak in panoramic views that have inspired countless stories.",
+    "description": "Cross this legendary cinematic bridge where Hollywood meets Balkan beauty! This dramatic stone arch spans pristine waters, offering perfect photo ops and a taste of movie magic in the heart of Macedonia's wilderness.",
     "type": "monument",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
-    "coordinates": [
-      21.7171465,
-      41.1187657
-    ]
+    "coordinates": [21.7171465, 41.1187657]
   },
   {
     "id": "holy_transfiguration",
     "name": "Holy Transfiguration",
-    "description": "Discover the serene beauty of this historic church, where stunning architecture and spiritual calm await every visitor.",
+    "description": "Discover ancient spiritual power at this magnificent Orthodox sanctuary! Perched dramatically against mountain slopes, this sacred site offers breathtaking architecture and panoramic valley views that will leave you speechless.",
     "type": "monument",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
-    "coordinates": [
-      21.3416941,
-      41.5215773
-    ]
+    "coordinates": [21.3416941, 41.5215773]
   },
   {
     "id": "gabrovo_waterfalls",
     "name": "Gabrovo Waterfalls",
-    "description": "Immerse yourself in nature’s spectacle with cascading waters and lush greenery, perfect for hiking and memorable photos.",
+    "description": "Plunge into nature's thunderous spectacle! These cascading giants crash down rocky cliffs into crystal pools, creating the perfect wild swimming and photography paradise for adventurous souls.",
     "type": "nature",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
-    "coordinates": [
-      22.7889993,
-      41.3755924
-    ]
+    "coordinates": [22.7889993, 41.3755924]
   },
   {
     "id": "malovishte",
     "name": "Malovishte",
-    "description": "Wander through this charming village, where traditional Macedonian culture and scenic landscapes create an unforgettable escape.",
+    "description": "Step back in time in this authentic mountain village! Stone houses dot dramatic hillsides where shepherds still roam, offering genuine cultural immersion and spectacular highland vistas.",
     "type": "city",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
-    "coordinates": [
-      21.1298722,
-      41.0333696
-    ]
+    "coordinates": [21.1298722, 41.0333696]
   },
   {
     "id": "zovich",
     "name": "Zovich",
-    "description": "Step into authentic village life in Zovich, where rustic charm meets breathtaking natural surroundings.",
+    "description": "Experience raw Balkan village life in this remote mountain settlement! Ancient traditions survive amid pristine wilderness, perfect for cultural photography and authentic local encounters.",
     "type": "city",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
-    "coordinates": [
-      21.7122789,
-      41.1172694
-    ]
+    "coordinates": [21.7122789, 41.1172694]
   },
   {
-    "id": "monastery_„saint_ana“",
-    "name": "Monastery „Saint Ana“",
-    "description": "",
-    "type": "city",
+    "id": "monastery_saint_ana",
+    "name": "Monastery Saint Ana",
+    "description": "Uncover medieval mysteries at this hidden spiritual fortress! Tucked into dramatic mountainsides, this ancient monastery offers profound tranquility and stunning Byzantine architecture.",
+    "type": "monument",
     "latitude": 41.0283542,
     "longitude": 21.1144679,
-    "coordinates": [
-      21.1144679,
-      41.0283542
-    ]
+    "coordinates": [21.1144679, 41.0283542]
   },
   {
     "id": "shlegovo",
     "name": "Shlegovo",
-    "description": "",
+    "description": "Explore this mining heritage town nestled in rugged hills! Industrial history meets natural beauty, offering unique photography opportunities and insights into Macedonia's working past.",
     "type": "city",
     "latitude": 42.0655501,
     "longitude": 22.1616508,
-    "coordinates": [
-      22.1616508,
-      42.0655501
-    ]
+    "coordinates": [22.1616508, 42.0655501]
   },
   {
     "id": "papradiste",
     "name": "Papradiste",
-    "description": "",
+    "description": "Discover this charming highland village where mountain streams meet ancient architecture! Traditional stone houses and dramatic valley views create perfect overlanding photo opportunities.",
     "type": "city",
     "latitude": 41.6416537,
     "longitude": 21.4387676,
-    "coordinates": [
-      21.4387676,
-      41.6416537
-    ]
+    "coordinates": [21.4387676, 41.6416537]
   },
   {
     "id": "st._gjorgjija_monastery",
     "name": "St. Gjorgjija Monastery",
-    "description": "",
-    "type": "city",
+    "description": "Enter this sacred mountain sanctuary where medieval monks once sought enlightenment! Perched on dramatic cliffs, this monastery offers breathtaking spiritual architecture and valley panoramas.",
+    "type": "monument",
     "latitude": 41.6348083,
     "longitude": 21.4027214,
-    "coordinates": [
-      21.4027214,
-      41.6348083
-    ]
+    "coordinates": [21.4027214, 41.6348083]
   },
   {
     "id": "oreshe_waterfall",
     "name": "Oreshe Waterfall",
-    "description": "",
-    "type": "city",
+    "description": "Chase the thunder of cascading mountain waters! This spectacular waterfall plunges into emerald pools, creating a natural adventure playground perfect for wild swimming and photography.",
+    "type": "nature",
     "latitude": 41.6359698,
     "longitude": 21.3905499,
-    "coordinates": [
-      21.3905499,
-      41.6359698
-    ]
+    "coordinates": [21.3905499, 41.6359698]
   },
   {
     "id": "oreshe",
     "name": "Oreshe",
-    "description": "",
+    "description": "Experience authentic highland life in this remote mountain village! Ancient stone architecture and shepherding traditions survive amid dramatic peaks and pristine wilderness.",
     "type": "city",
     "latitude": 41.6196632,
     "longitude": 21.4201362,
-    "coordinates": [
-      21.4201362,
-      41.6196632
-    ]
+    "coordinates": [21.4201362, 41.6196632]
   },
   {
-    "id": "ribnik_kapinovово_&_nezilovski_merak_meana_s.nezilovo",
-    "name": "Ribnik Kapinovово & Nezilovski Merak Meana s.Nezilovo",
-    "description": "",
-    "type": "city",
+    "id": "ribnik_kapinovo_nezilovski_merak",
+    "name": "Ribnik Kapinovo & Nezilovski Merak",
+    "description": "Discover hidden mountain lakes and recreational paradise! These pristine waters offer perfect wild camping, fishing, and nature photography in Macedonia's untouched highlands.",
+    "type": "recreation",
     "latitude": 41.6288738,
     "longitude": 21.4552288,
-    "coordinates": [
-      21.4552288,
-      41.6288738
-    ]
+    "coordinates": [21.4552288, 41.6288738]
   },
   {
-    "id": "марково_стапало",
-    "name": "Марково стапало",
-    "description": "",
-    "type": "city",
+    "id": "markovo_stapalo",
+    "name": "Marko's Footprint",
+    "description": "Stand where legendary King Marko left his mark! This mythical rock formation offers dramatic mountain views and fascinating folklore, perfect for adventurous explorers seeking epic stories.",
+    "type": "monument",
     "latitude": 41.640668,
     "longitude": 21.4461963,
-    "coordinates": [
-      21.4461963,
-      41.640668
-    ]
+    "coordinates": [21.4461963, 41.640668]
   },
   {
-    "id": "манастир_„свети_петар_и_павле“",
-    "name": "Манастир „Свети Петар и Павле“",
-    "description": "",
-    "type": "city",
+    "id": "monastery_sveti_petar_i_pavle",
+    "name": "Monastery Saints Peter and Paul",
+    "description": "Explore this ancient spiritual fortress hidden in mountain wilderness! Byzantine frescoes and dramatic architecture create an unforgettable cultural adventure in pristine nature.",
+    "type": "monument",
     "latitude": 41.6312313,
     "longitude": 21.510399,
-    "coordinates": [
-      21.510399,
-      41.6312313
-    ]
+    "coordinates": [21.510399, 41.6312313]
   },
   {
     "id": "konjsko",
     "name": "Konjsko",
-    "description": "",
+    "description": "Experience border village life where three cultures meet! This remote settlement offers authentic Balkan hospitality and stunning mountain vistas near the Albanian frontier.",
     "type": "city",
     "latitude": 40.9118299,
     "longitude": 20.9882922,
-    "coordinates": [
-      20.9882922,
-      40.9118299
-    ]
+    "coordinates": [20.9882922, 40.9118299]
   },
   {
     "id": "ljubojno",
     "name": "Ljubojno",
-    "description": "",
+    "description": "Venture to this highland village where ancient traditions thrive! Stone houses and pastoral landscapes create perfect overlanding adventures amid Macedonia's pristine mountains.",
     "type": "city",
     "latitude": 40.8945369,
     "longitude": 21.1376967,
-    "coordinates": [
-      21.1376967,
-      40.8945369
-    ]
+    "coordinates": [21.1376967, 40.8945369]
   },
   {
     "id": "rusjatsi",
     "name": "Rusjatsi",
-    "description": "",
+    "description": "Discover this hidden mountain village where time stands still! Traditional architecture and shepherding culture offer authentic cultural immersion in dramatic highland settings.",
     "type": "city",
     "latitude": 41.4999893,
     "longitude": 21.1514826,
-    "coordinates": [
-      21.1514826,
-      41.4999893
-    ]
+    "coordinates": [21.1514826, 41.4999893]
   },
   {
     "id": "zheleznets",
     "name": "Zheleznets",
-    "description": "",
+    "description": "Explore this iron-rich mountain village where mining heritage meets natural beauty! Dramatic landscapes and industrial history create unique photography opportunities.",
     "type": "city",
     "latitude": 41.3257034,
     "longitude": 21.062993,
-    "coordinates": [
-      21.062993,
-      41.3257034
-    ]
+    "coordinates": [21.062993, 41.3257034]
   },
   {
     "id": "knezhino",
     "name": "Knezhino",
-    "description": "",
+    "description": "Experience royal village history in this picturesque highland settlement! Ancient nobility once ruled from these dramatic mountain slopes offering spectacular valley views.",
     "type": "city",
     "latitude": 41.5215996,
     "longitude": 20.9160162,
-    "coordinates": [
-      20.9160162,
-      41.5215996
-    ]
+    "coordinates": [20.9160162, 41.5215996]
   },
   {
     "id": "skrebatno",
     "name": "Skrebatno",
-    "description": "",
+    "description": "Venture to this remote mountain village where eagles soar overhead! Traditional stone architecture and pristine wilderness create perfect overlanding adventures.",
     "type": "city",
     "latitude": 41.1522564,
     "longitude": 20.8914281,
-    "coordinates": [
-      20.8914281,
-      41.1522564
-    ]
+    "coordinates": [20.8914281, 41.1522564]
   },
   {
     "id": "rosoki",
     "name": "Rosoki",
-    "description": "",
+    "description": "Discover this highland village famous for its pristine natural springs! Crystal-clear mountain waters and traditional architecture make this a perfect wilderness stop.",
     "type": "city",
     "latitude": 41.566465,
     "longitude": 20.6939945,
-    "coordinates": [
-      20.6939945,
-      41.566465
-    ]
+    "coordinates": [20.6939945, 41.566465]
   },
   {
     "id": "rosoki_springs",
     "name": "Rosoki Springs",
-    "description": "",
-    "type": "city",
+    "description": "Refresh at these legendary mountain springs where crystal waters bubble from ancient rocks! Perfect for wild camping and experiencing Macedonia's purest natural refreshment.",
+    "type": "nature",
     "latitude": 41.5687791,
     "longitude": 20.692748,
-    "coordinates": [
-      20.692748,
-      41.5687791
-    ]
+    "coordinates": [20.692748, 41.5687791]
   },
   {
     "id": "krushevica",
     "name": "Krushevica",
-    "description": "",
+    "description": "Explore this authentic mountain village where pear orchards meet pristine wilderness! Traditional rural life and dramatic landscapes offer perfect cultural adventures.",
     "type": "city",
     "latitude": 41.205838,
     "longitude": 21.6526577,
-    "coordinates": [
-      21.6526577,
-      41.205838
-    ]
+    "coordinates": [21.6526577, 41.205838]
   },
   {
     "id": "vitolishte",
     "name": "Vitolishte",
-    "description": "",
+    "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
     "type": "city",
     "latitude": 41.1812657,
     "longitude": 21.8255581,
-    "coordinates": [
-      21.8255581,
-      41.1812657
-    ]
+    "coordinates": [21.8255581, 41.1812657]
   },
   {
-    "id": "čanište",
+    "id": "caniste",
     "name": "Čanište",
-    "description": "",
+    "description": "Discover this charming mountain village where traditional crafts flourish! Stone architecture and highland pastoral life create authentic Balkan cultural experiences.",
     "type": "city",
     "latitude": 41.1657837,
     "longitude": 21.6854494,
-    "coordinates": [
-      21.6854494,
-      41.1657837
-    ]
+    "coordinates": [21.6854494, 41.1657837]
   },
   {
     "id": "petralitsa",
     "name": "Petralitsa",
-    "description": "",
+    "description": "Venture to this remote highland village where stone architecture meets pristine nature! Ancient building traditions and dramatic mountain vistas create perfect photo opportunities.",
     "type": "city",
     "latitude": 42.211824,
     "longitude": 22.1802799,
-    "coordinates": [
-      22.1802799,
-      42.211824
-    ]
+    "coordinates": [22.1802799, 42.211824]
   },
   {
     "id": "koleshino_waterfall",
     "name": "Koleshino Waterfall",
-    "description": "",
-    "type": "city",
+    "description": "Witness Macedonia's tallest waterfall thunder down 60 meters of sheer rock! This spectacular cascade creates rainbow mists and offers world-class nature photography opportunities.",
+    "type": "nature",
     "latitude": 41.3695082,
     "longitude": 22.8068927,
-    "coordinates": [
-      22.8068927,
-      41.3695082
-    ]
+    "coordinates": [22.8068927, 41.3695082]
   },
   {
     "id": "smolare_waterfall",
     "name": "Smolare Waterfall",
-    "description": "",
-    "type": "city",
+    "description": "Experience the raw power of Macedonia's highest waterfall! At 39 meters, this thundering cascade offers spectacular hiking trails and pristine swimming pools for brave adventurers.",
+    "type": "nature",
     "latitude": 41.3662782,
     "longitude": 22.8996196,
-    "coordinates": [
-      22.8996196,
-      41.3662782
-    ]
+    "coordinates": [22.8996196, 41.3662782]
   },
   {
     "id": "blatec",
     "name": "Blatec",
-    "description": "",
+    "description": "Explore this mountain village gateway to pristine lake adventures! Traditional highland life meets spectacular natural beauty in Macedonia's most scenic region.",
     "type": "city",
     "latitude": 41.8385763,
     "longitude": 22.5778948,
-    "coordinates": [
-      22.5778948,
-      41.8385763
-    ]
+    "coordinates": [22.5778948, 41.8385763]
   },
   {
     "id": "blatec_lake",
     "name": "Blatec Lake",
-    "description": "",
-    "type": "city",
+    "description": "Discover this pristine glacial lake nestled in dramatic mountain peaks! Crystal waters reflect snow-capped summits, creating perfect wild camping and fishing paradise.",
+    "type": "nature",
     "latitude": 41.8389149,
     "longitude": 22.5946481,
-    "coordinates": [
-      22.5946481,
-      41.8389149
-    ]
+    "coordinates": [22.5946481, 41.8389149]
   },
   {
     "id": "sermenin",
     "name": "Sermenin",
-    "description": "",
+    "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
     "type": "city",
     "latitude": 41.2200456,
     "longitude": 22.3471886,
-    "coordinates": [
-      22.3471886,
-      41.2200456
-    ]
+    "coordinates": [22.3471886, 41.2200456]
   },
   {
-    "id": "водопад_вера_(waterfall_vera)",
-    "name": "Водопад Вера (Waterfall Vera)",
-    "description": "",
-    "type": "city",
+    "id": "waterfall_vera",
+    "name": "Waterfall Vera",
+    "description": "Chase this spectacular cascade hidden in Macedonia's mountain heart! Crystal waters plunge through ancient rocks, creating a natural amphitheater perfect for wilderness camping and photography.",
+    "type": "nature",
     "latitude": 41.217188,
     "longitude": 22.347312,
-    "coordinates": [
-      22.347312,
-      41.217188
-    ]
+    "coordinates": [22.347312, 41.217188]
   },
   {
     "id": "smrdliva_voda",
     "name": "Smrdliva Voda",
-    "description": "",
-    "type": "city",
+    "description": "Experience therapeutic mineral springs bubbling from ancient earth! These legendary healing waters have attracted adventurers for centuries, offering unique geological wonders.",
+    "type": "nature",
     "latitude": 41.192718,
     "longitude": 22.2816193,
-    "coordinates": [
-      22.2816193,
-      41.192718
-    ]
+    "coordinates": [22.2816193, 41.192718]
   },
   {
     "id": "teovo",
     "name": "Teovo",
-    "description": "",
+    "description": "Explore this multi-cultural mountain town where Albanian and Macedonian traditions blend! Dramatic landscapes and authentic cultural encounters await adventurous overlanders.",
     "type": "city",
     "latitude": 41.5784655,
     "longitude": 21.5729144,
-    "coordinates": [
-      21.5729144,
-      41.5784655
-    ]
+    "coordinates": [21.5729144, 41.5784655]
   },
   {
     "id": "bitushe",
     "name": "Bitushe",
-    "description": "",
+    "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
     "type": "city",
     "latitude": 41.6165295,
     "longitude": 20.5878404,
-    "coordinates": [
-      20.5878404,
-      41.6165295
-    ]
+    "coordinates": [20.5878404, 41.6165295]
   },
   {
     "id": "trebishte",
     "name": "Trebishte",
-    "description": "",
+    "description": "Discover ancient archaeological treasures in this border village! Bronze Age artifacts and dramatic lake views offer unique cultural and natural adventures.",
     "type": "city",
     "latitude": 41.6282128,
     "longitude": 20.5893302,
-    "coordinates": [
-      20.5893302,
-      41.6282128
-    ]
+    "coordinates": [20.5893302, 41.6282128]
   },
   {
     "id": "belitsa",
     "name": "Belitsa",
-    "description": "",
+    "description": "Experience highland village life where pastoral traditions thrive! Mountain meadows and ancient stone architecture create perfect cultural immersion opportunities.",
     "type": "city",
     "latitude": 41.6768835,
     "longitude": 21.3049963,
-    "coordinates": [
-      21.3049963,
-      41.6768835
-    ]
+    "coordinates": [21.3049963, 41.6768835]
   },
   {
     "id": "vishni",
     "name": "Vishni",
-    "description": "",
+    "description": "Explore this cherry orchard village nestled in dramatic mountains! Traditional fruit cultivation and stunning highland vistas offer authentic rural adventures.",
     "type": "city",
     "latitude": 41.1931228,
     "longitude": 20.5982691,
-    "coordinates": [
-      20.5982691,
-      41.1931228
-    ]
+    "coordinates": [20.5982691, 41.1931228]
   },
   {
     "id": "gorna_belica",
     "name": "Gorna Belica",
-    "description": "",
+    "description": "Venture to this upper highland village where shepherding traditions survive! Mountain pastures and traditional architecture create perfect overlanding cultural stops.",
     "type": "city",
     "latitude": 41.223316,
     "longitude": 20.55581,
-    "coordinates": [
-      20.55581,
-      41.223316
-    ]
+    "coordinates": [20.55581, 41.223316]
   },
   {
-    "id": "вевчанска_локва",
-    "name": "Вевчанска Локва",
-    "description": "",
-    "type": "city",
+    "id": "vevcanska_lokva",
+    "name": "Vevčani Springs",
+    "description": "Discover these legendary healing springs where crystal waters flow year-round! Natural pools and ancient wellness traditions create perfect wilderness refreshment stops.",
+    "type": "nature",
     "latitude": 41.2432388,
     "longitude": 20.5333121,
-    "coordinates": [
-      20.5333121,
-      41.2432388
-    ]
+    "coordinates": [20.5333121, 41.2432388]
   },
   {
     "id": "babino",
     "name": "Babino",
-    "description": "",
+    "description": "Experience traditional mountain village life where ancient customs thrive! Stone houses and dramatic valley views offer authentic Balkan cultural adventures.",
     "type": "city",
     "latitude": 41.2990659,
     "longitude": 21.0806907,
-    "coordinates": [
-      21.0806907,
-      41.2990659
-    ]
+    "coordinates": [21.0806907, 41.2990659]
   },
   {
     "id": "bazernik",
     "name": "Bazernik",
-    "description": "",
+    "description": "Explore this hidden mountain village where traditional crafts flourish! Ancient building techniques and pristine wilderness create perfect cultural photography opportunities.",
     "type": "city",
     "latitude": 41.2820967,
     "longitude": 21.0477173,
-    "coordinates": [
-      21.0477173,
-      41.2820967
-    ]
+    "coordinates": [21.0477173, 41.2820967]
   },
   {
     "id": "zbazhdi",
     "name": "Zbazhdi",
-    "description": "",
+    "description": "Venture to this remote highland settlement where eagle migrations pass overhead! Dramatic mountain vistas and traditional architecture offer spectacular overlanding adventures.",
     "type": "city",
-    "latitude": 41.348894,
-    "longitude": 20.6727629,
-    "coordinates": [
-      20.6727629,
-      41.348894
-    ]
+    "latitude": 41.3168733,
+    "longitude": 21.0354629,
+    "coordinates": [21.0354629, 41.3168733]
   },
   {
     "id": "globochica",
-    "name": "Globochica",
-    "description": "",
+    "name": "Globočica",
+    "description": "Discover this picturesque village where hawthorn forests meet mountain streams! Traditional rural life and pristine nature create perfect wilderness camping spots.",
     "type": "city",
-    "latitude": 41.3169734,
-    "longitude": 20.6425923,
-    "coordinates": [
-      20.6425923,
-      41.3169734
-    ]
+    "latitude": 41.2938467,
+    "longitude": 21.0137659,
+    "coordinates": [21.0137659, 41.2938467]
   },
   {
     "id": "tashmarunishta",
-    "name": "Tashmarunishta",
-    "description": "",
+    "name": "Tašmaruništa",
+    "description": "Explore this border village where three cultures converge! Traditional architecture and dramatic mountain backdrops create unique overlanding photo opportunities.",
     "type": "city",
     "latitude": 41.2680714,
     "longitude": 20.6403575,
-    "coordinates": [
-      20.6403575,
-      41.2680714
-    ]
+    "coordinates": [20.6403575, 41.2680714]
   },
   {
     "id": "capari",
-    "name": "Capari",
-    "description": "",
+    "name": "Čapari",
+    "description": "Experience this lakeside village where pristine waters meet ancient traditions! Perfect for wild camping and experiencing authentic Balkan fishing culture.",
     "type": "city",
-    "latitude": 41.0570097,
-    "longitude": 21.177937,
-    "coordinates": [
-      21.177937,
-      41.0570097
-    ]
+    "latitude": 41.2627195,
+    "longitude": 20.6377864,
+    "coordinates": [20.6377864, 41.2627195]
   },
   {
     "id": "capari_vir",
-    "name": "Capari Vir",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0524657,
-    "longitude": 21.1790111,
-    "coordinates": [
-      21.1790111,
-      41.0524657
-    ]
+    "name": "Čapari Whirlpool",
+    "description": "Witness this natural phenomenon where underground springs create dramatic water spirals! This geological wonder offers unique photography and swimming adventures.",
+    "type": "nature",
+    "latitude": 41.2627195,
+    "longitude": 20.6400000,
+    "coordinates": [20.6400000, 41.2627195]
   },
   {
     "id": "belovishte",
-    "name": "Belovishte",
-    "description": "",
+    "name": "Belovište",
+    "description": "Discover this mountain village gateway to spectacular waterfalls! Traditional stone architecture and pristine nature create perfect adventure base camps.",
     "type": "city",
-    "latitude": 42.135924,
-    "longitude": 21.1049087,
-    "coordinates": [
-      21.1049087,
-      42.135924
-    ]
+    "latitude": 41.4453849,
+    "longitude": 20.9804226,
+    "coordinates": [20.9804226, 41.4453849]
   },
   {
-    "id": "belojshki_biser_restaurant",
-    "name": "Belojshki Biser Restaurant",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1444218,
-    "longitude": 21.1004971,
-    "coordinates": [
-      21.1004971,
-      42.1444218
-    ]
-  },
-  {
-    "id": "belovishki_vodopad",
-    "name": "Belovishki Vodopad",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1588233,
-    "longitude": 21.0858905,
-    "coordinates": [
-      21.0858905,
-      42.1588233
-    ]
+    "id": "belovishki_waterfall",
+    "name": "Belovište Waterfall",
+    "description": "Chase this thundering cascade hidden in Macedonia's western mountains! Multiple tiers of crystal water create natural pools perfect for brave swimmers and photographers.",
+    "type": "nature",
+    "latitude": 41.4453849,
+    "longitude": 20.9850000,
+    "coordinates": [20.9850000, 41.4453849]
   },
   {
     "id": "todorovci_stonehenge",
     "name": "Todorovci Stonehenge",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9991464,
-    "longitude": 22.6129683,
-    "coordinates": [
-      22.6129683,
-      41.9991464
-    ]
-  },
-  {
-    "id": "zashle",
-    "name": "Zashle",
-    "description": "",
-    "type": "city",
-    "latitude": 41.372853,
-    "longitude": 21.1432856,
-    "coordinates": [
-      21.1432856,
-      41.372853
-    ]
-  },
-  {
-    "id": "brezovo",
-    "name": "Brezovo",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3420518,
-    "longitude": 21.1272641,
-    "coordinates": [
-      21.1272641,
-      41.3420518
-    ]
-  },
-  {
-    "id": "star_istevnik",
-    "name": "Star Istevnik",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8724274,
-    "longitude": 22.8530036,
-    "coordinates": [
-      22.8530036,
-      41.8724274
-    ]
-  },
-  {
-    "id": "golemo_ilino",
-    "name": "Golemo Ilino",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3126151,
-    "longitude": 21.0002143,
-    "coordinates": [
-      21.0002143,
-      41.3126151
-    ]
-  },
-  {
-    "id": "monastery_of_st._elias",
-    "name": "Monastery of St. Elias",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2928385,
-    "longitude": 20.9802821,
-    "coordinates": [
-      20.9802821,
-      41.2928385
-    ]
-  },
-  {
-    "id": "sloeštica",
-    "name": "Sloeštica",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2668894,
-    "longitude": 21.0769781,
-    "coordinates": [
-      21.0769781,
-      41.2668894
-    ]
-  },
-  {
-    "id": "ресторан-на_валајци",
-    "name": "Ресторан-На Валајци",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2643843,
-    "longitude": 21.07448,
-    "coordinates": [
-      21.07448,
-      41.2643843
-    ]
-  },
-  {
-    "id": "ajdarova_livada",
-    "name": "Ajdarova Livada",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7321406,
-    "longitude": 20.6704361,
-    "coordinates": [
-      20.6704361,
-      41.7321406
-    ]
-  },
-  {
-    "id": "mrezhichko",
-    "name": "Mrezhichko",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2073189,
-    "longitude": 21.9954721,
-    "coordinates": [
-      21.9954721,
-      41.2073189
-    ]
-  },
-  {
-    "id": "smilanci",
-    "name": "Smilanci",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6963878,
-    "longitude": 22.6045937,
-    "coordinates": [
-      22.6045937,
-      41.6963878
-    ]
-  },
-  {
-    "id": "lake_paljurci",
-    "name": "Lake Paljurci",
-    "description": "",
-    "type": "city",
-    "latitude": 41.205763,
-    "longitude": 22.6235896,
-    "coordinates": [
-      22.6235896,
-      41.205763
-    ]
-  },
-  {
-    "id": "natural_beach",
-    "name": "Natural beach",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1186303,
-    "longitude": 21.1622275,
-    "coordinates": [
-      21.1622275,
-      41.1186303
-    ]
-  },
-  {
-    "id": "lesnovo_monastery",
-    "name": "Lesnovo Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0132481,
-    "longitude": 22.2282922,
-    "coordinates": [
-      22.2282922,
-      42.0132481
-    ]
-  },
-  {
-    "id": "42.0111,_22.2173",
-    "name": "42.0111, 22.2173",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0111,
-    "longitude": 22.2173,
-    "coordinates": [
-      22.2173,
-      42.0111
-    ]
-  },
-  {
-    "id": "кукуље_нов_истевник_/_kukulje_nov_istevnik",
-    "name": "Кукуље Нов Истевник / Kukulje Nov Istevnik",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8498974,
-    "longitude": 22.8258954,
-    "coordinates": [
-      22.8258954,
-      41.8498974
-    ]
-  },
-  {
-    "id": "slepche",
-    "name": "Slepche",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2332667,
-    "longitude": 21.1749563,
-    "coordinates": [
-      21.1749563,
-      41.2332667
-    ]
-  },
-  {
-    "id": "virovo",
-    "name": "Virovo",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2330906,
-    "longitude": 21.0896327,
-    "coordinates": [
-      21.0896327,
-      41.2330906
-    ]
-  },
-  {
-    "id": "св._никола_(st._nikola)",
-    "name": "Св. Никола (St. Nikola)",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0846474,
-    "longitude": 21.7616921,
-    "coordinates": [
-      21.7616921,
-      41.0846474
-    ]
-  },
-  {
-    "id": "ivanchishta",
-    "name": "Ivanchishta",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4641449,
-    "longitude": 20.7923352,
-    "coordinates": [
-      20.7923352,
-      41.4641449
-    ]
-  },
-  {
-    "id": "ehloec",
-    "name": "Ehloec",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4596058,
-    "longitude": 20.7655142,
-    "coordinates": [
-      20.7655142,
-      41.4596058
-    ]
-  },
-  {
-    "id": "tresonche",
-    "name": "Tresonche",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5605542,
-    "longitude": 20.7223039,
-    "coordinates": [
-      20.7223039,
-      41.5605542
-    ]
-  },
-  {
-    "id": "kichinitsa",
-    "name": "Kichinitsa",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6931429,
-    "longitude": 20.7236076,
-    "coordinates": [
-      20.7236076,
-      41.6931429
-    ]
-  },
-  {
-    "id": "vrben",
-    "name": "Vrben",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7214502,
-    "longitude": 20.7293813,
-    "coordinates": [
-      20.7293813,
-      41.7214502
-    ]
-  },
-  {
-    "id": "fairys_waterfall",
-    "name": "Fairys Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7983159,
-    "longitude": 20.6348388,
-    "coordinates": [
-      20.6348388,
-      41.7983159
-    ]
-  },
-  {
-    "id": "monastery_of_saint_john_the_baptist",
-    "name": "Monastery of Saint John the Baptist",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1553762,
-    "longitude": 21.3467142,
-    "coordinates": [
-      21.3467142,
-      41.1553762
-    ]
-  },
-  {
-    "id": "podvis",
-    "name": "Podvis",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4760498,
-    "longitude": 20.8847224,
-    "coordinates": [
-      20.8847224,
-      41.4760498
-    ]
-  },
-  {
-    "id": "monastery_of_immaculate_holy_mother_of_god",
-    "name": "Monastery of Immaculate Holy Mother of God",
-    "description": "",
-    "type": "city",
-    "latitude": 41.459469,
-    "longitude": 20.9357454,
-    "coordinates": [
-      20.9357454,
-      41.459469
-    ]
-  },
-  {
-    "id": "lokvitsa",
-    "name": "Lokvitsa",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5754076,
-    "longitude": 21.2763051,
-    "coordinates": [
-      21.2763051,
-      41.5754076
-    ]
-  },
-  {
-    "id": "monastery_nativity_of_mary_-_porec_monastery",
-    "name": "Monastery Nativity of Mary - Porec Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6261736,
-    "longitude": 21.1942533,
-    "coordinates": [
-      21.1942533,
-      41.6261736
-    ]
-  },
-  {
-    "id": "upper_slatinska_cave",
-    "name": "Upper Slatinska Cave",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5852208,
-    "longitude": 21.1904748,
-    "coordinates": [
-      21.1904748,
-      41.5852208
-    ]
-  },
-  {
-    "id": "slatino_waterfall",
-    "name": "Slatino Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5792649,
-    "longitude": 21.1833515,
-    "coordinates": [
-      21.1833515,
-      41.5792649
-    ]
-  },
-  {
-    "id": "gresnica_waterfall",
-    "name": "Gresnica Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.557815,
-    "longitude": 21.1901838,
-    "coordinates": [
-      21.1901838,
-      41.557815
-    ]
-  },
-  {
-    "id": "monastery_of_st.nicholas",
-    "name": "Monastery of St.Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.502694,
-    "longitude": 21.464307,
-    "coordinates": [
-      21.464307,
-      41.502694
-    ]
-  },
-  {
-    "id": "девини_кули",
-    "name": "Девини Кули",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5416667,
-    "longitude": 21.2377778,
-    "coordinates": [
-      21.2377778,
-      41.5416667
-    ]
-  },
-  {
-    "id": "archaeological_site_bylazora",
-    "name": "Archaeological Site Bylazora",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8467426,
-    "longitude": 21.9116154,
-    "coordinates": [
-      21.9116154,
-      41.8467426
-    ]
-  },
-  {
-    "id": "psacha_monastery",
-    "name": "Psacha Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1553708,
-    "longitude": 22.2121668,
-    "coordinates": [
-      22.2121668,
-      42.1553708
-    ]
-  },
-  {
-    "id": "saint_todor_church",
-    "name": "Saint Todor Church",
-    "description": "",
-    "type": "city",
-    "latitude": 42.175936,
-    "longitude": 22.2928659,
-    "coordinates": [
-      22.2928659,
-      42.175936
-    ]
-  },
-  {
-    "id": "stanecki_waterfalls(vodopadi)",
-    "name": "Stanecki Waterfalls(Vodopadi)",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1762592,
-    "longitude": 22.3962475,
-    "coordinates": [
-      22.3962475,
-      42.1762592
-    ]
-  },
-  {
-    "id": "bargala_archaeological_site",
-    "name": "Bargala Archaeological Site",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7979999,
-    "longitude": 22.2874718,
-    "coordinates": [
-      22.2874718,
-      41.7979999
-    ]
-  },
-  {
-    "id": "church_of_saint_george",
-    "name": "Church of Saint George",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7973454,
-    "longitude": 22.2906073,
-    "coordinates": [
-      22.2906073,
-      41.7973454
-    ]
-  },
- 
-  {
-    "id": "манастир_света_троица_-_костомар",
-    "name": "Манастир Света Троица - Костомар",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9582359,
-    "longitude": 22.1393848,
-    "coordinates": [
-      22.1393848,
-      41.9582359
-    ]
-  },
-  {
-    "id": "svilanovo_memorial_park",
-    "name": "Svilanovo Memorial park",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9368989,
-    "longitude": 22.3016335,
-    "coordinates": [
-      22.3016335,
-      41.9368989
-    ]
-  },
-  {
-    "id": "раткова_скала",
-    "name": "Раткова скала",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9749343,
-    "longitude": 22.2857181,
-    "coordinates": [
-      22.2857181,
-      41.9749343
-    ]
-  },
-  {
-    "id": "monastery_st._ilija",
-    "name": "Monastery St. Ilija",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9372651,
-    "longitude": 22.3728016,
-    "coordinates": [
-      22.3728016,
-      41.9372651
-    ]
-  },
-  {
-    "id": "church_of_st._basil_the_great",
-    "name": "Church Of St. Basil The Great",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0404587,
-    "longitude": 22.352218,
-    "coordinates": [
-      22.352218,
-      42.0404587
-    ]
-  },
-
-  {
-    "id": "rudnik",
-    "name": "Rudnik",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1494755,
-    "longitude": 21.9508581,
-    "coordinates": [
-      21.9508581,
-      41.1494755
-    ]
-  },
-  {
-    "id": "планинарски_дом_„џумаја“",
-    "name": "Планинарски Дом „Џумаја“",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7420656,
-    "longitude": 22.5011326,
-    "coordinates": [
-      22.5011326,
-      41.7420656
-    ]
-  },
-  {
-    "id": "комплекс_лебедово_езеро",
-    "name": "Комплекс Лебедово Езеро",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3884731,
-    "longitude": 22.8971869,
-    "coordinates": [
-      22.8971869,
-      41.3884731
-    ]
-  },
-  {
-    "id": "movie_church",
-    "name": "Movie Church",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2597818,
-    "longitude": 21.5664993,
-    "coordinates": [
-      21.5664993,
-      41.2597818
-    ]
-  },
-  {
-    "id": "point_111",
-    "name": "Point 111",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2605399,
-    "longitude": 21.5676603,
-    "coordinates": [
-      21.5676603,
-      41.2605399
-    ]
-  },
-  {
-    "id": "св._никола_(st._nicholas)",
-    "name": "Св. Никола (St. Nicholas)",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1655906,
-    "longitude": 21.7266732,
-    "coordinates": [
-      21.7266732,
-      41.1655906
-    ]
-  },
-  {
-    "id": "restaurant_babino",
-    "name": "Restaurant Babino",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2988092,
-    "longitude": 21.0869944,
-    "coordinates": [
-      21.0869944,
-      41.2988092
-    ]
-  },
-  {
-    "id": "pizza_restaurant_„proper_and_more“",
-    "name": "Pizza restaurant „Proper and More“",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9721773,
-    "longitude": 21.0572009,
-    "coordinates": [
-      21.0572009,
-      40.9721773
-    ]
-  },
-  {
-    "id": "gjuriski_monastery",
-    "name": "Gjuriski Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9029365,
-    "longitude": 21.8375553,
-    "coordinates": [
-      21.8375553,
-      41.9029365
-    ]
-  },
-  {
-    "id": "gjuriste_bares",
-    "name": "Gjuriste Bares",
-    "description": "",
-    "type": "city",
-    "latitude": 41.900255,
-    "longitude": 21.8521335,
-    "coordinates": [
-      21.8521335,
-      41.900255
-    ]
-  },
-  {
-    "id": "archaeology_site_gradiste",
-    "name": "Archaeology site Gradiste",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9402219,
-    "longitude": 22.8437368,
-    "coordinates": [
-      22.8437368,
-      41.9402219
-    ]
-  },
-  {
-    "id": "crnodolski_vodopadi",
-    "name": "Crnodolski Vodopadi",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7373303,
-    "longitude": 22.9443807,
-    "coordinates": [
-      22.9443807,
-      41.7373303
-    ]
-  },
-  {
-    "id": "monastery_of_saint_elijah",
-    "name": "Monastery of Saint Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3229347,
-    "longitude": 21.7799157,
-    "coordinates": [
-      21.7799157,
-      41.3229347
-    ]
-  },
-  {
-    "id": "monastery_of_saint_demetrius",
-    "name": "Monastery of Saint Demetrius",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3255003,
-    "longitude": 21.5938673,
-    "coordinates": [
-      21.5938673,
-      41.3255003
-    ]
-  },
-  {
-    "id": "monastery_of_saint_nicholas",
-    "name": "Monastery of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2902225,
-    "longitude": 21.5966823,
-    "coordinates": [
-      21.5966823,
-      41.2902225
-    ]
-  },
-  {
-    "id": "church_of_saint_nicholas",
-    "name": "Church of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4948666,
-    "longitude": 21.7790817,
-    "coordinates": [
-      21.7790817,
-      41.4948666
-    ]
-  },
-  {
-    "id": "monastery_church_of_saint",
-    "name": "Monastery Church of Saint",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5639214,
-    "longitude": 21.865527,
-    "coordinates": [
-      21.865527,
-      41.5639214
-    ]
-  },
-  {
-    "id": "church_of_saint_john_the_apostle",
-    "name": "Church of Saint John the Apostle",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7723566,
-    "longitude": 22.0213635,
-    "coordinates": [
-      22.0213635,
-      41.7723566
-    ]
-  },
-  {
-    "id": "church_of_saint_george",
-    "name": "Church of Saint George",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5945114,
-    "longitude": 22.2448274,
-    "coordinates": [
-      22.2448274,
-      41.5945114
-    ]
-  },
-  {
-    "id": "monastery_of_saint_george",
-    "name": "Monastery of Saint George",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6453215,
-    "longitude": 22.509152,
-    "coordinates": [
-      22.509152,
-      41.6453215
-    ]
-  },
-  {
-    "id": "camper_stop_\"k'j_divono\"",
-    "name": "Camper Stop \"K'j Divono\"",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0915141,
-    "longitude": 20.8004248,
-    "coordinates": [
-      20.8004248,
-      41.0915141
-    ]
-  },
-  {
-    "id": "car_camp_ljubanishta",
-    "name": "Car Camp Ljubanishta",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9247569,
-    "longitude": 20.774082,
-    "coordinates": [
-      20.774082,
-      40.9247569
-    ]
-  },
-  {
-    "id": "church_of_st._nicholas",
-    "name": "Church of St. Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3944593,
-    "longitude": 21.2001532,
-    "coordinates": [
-      21.2001532,
-      41.3944593
-    ]
-  },
-  {
-    "id": "dolno_divjaci",
-    "name": "Dolno Divjaci",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3900052,
-    "longitude": 21.1850164,
-    "coordinates": [
-      21.1850164,
-      41.3900052
-    ]
-  },
-  {
-    "id": "monastery_of_saint_john_the_baptist",
-    "name": "Monastery of Saint John the Baptist",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2263125,
-    "longitude": 21.1514219,
-    "coordinates": [
-      21.1514219,
-      41.2263125
-    ]
-  },
-  {
-    "id": "добромирово_источен_петок",
-    "name": "Добромирово Источен Петок",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2377741,
-    "longitude": 21.1514673,
-    "coordinates": [
-      21.1514673,
-      41.2377741
-    ]
-  },
-  {
-    "id": "добромирово_источен_петок",
-    "name": "Добромирово Источен Петок",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2383227,
-    "longitude": 21.1507377,
-    "coordinates": [
-      21.1507377,
-      41.2383227
-    ]
-  },
-  {
-    "id": "smilevo",
-    "name": "Smilevo",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1541618,
-    "longitude": 21.1108701,
-    "coordinates": [
-      21.1108701,
-      41.1541618
-    ]
-  },
-  {
-    "id": "stenche",
-    "name": "Stenche",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8758325,
-    "longitude": 21.0020772,
-    "coordinates": [
-      21.0020772,
-      41.8758325
-    ]
-  },
-  {
-    "id": "ранохристијанска_базилика",
-    "name": "Ранохристијанска Базилика",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8761632,
-    "longitude": 21.0137075,
-    "coordinates": [
-      21.0137075,
-      41.8761632
-    ]
-  },
-  {
-    "id": "monastery_of_st._atanasius_leshok",
-    "name": "Monastery of St. Atanasius Leshok",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0667796,
-    "longitude": 21.0278749,
-    "coordinates": [
-      21.0278749,
-      42.0667796
-    ]
-  },
-  {
-    "id": "св.георгиј_победоносец",
-    "name": "Св.Георгиј Победоносец",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0295446,
-    "longitude": 21.1168953,
-    "coordinates": [
-      21.1168953,
-      42.0295446
-    ]
-  },
-  {
-    "id": "church_of_dormition_of_the_mother_of_god",
-    "name": "Church of Dormition of the Mother of God",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0665058,
-    "longitude": 21.0287202,
-    "coordinates": [
-      21.0287202,
-      42.0665058
-    ]
-  },
-  {
-    "id": "kamenjane_waterfalls",
-    "name": "Kamenjane Waterfalls",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9499824,
-    "longitude": 20.9116595,
-    "coordinates": [
-      20.9116595,
-      41.9499824
-    ]
-  },
-  {
-    "id": "church_of_saint_ekaterina",
-    "name": "Church of Saint Ekaterina",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8737793,
-    "longitude": 21.0079277,
-    "coordinates": [
-      21.0079277,
-      41.8737793
-    ]
-  },
-  {
-    "id": "monastery_of_saint_petka",
-    "name": "Monastery of Saint Petka",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0000757,
-    "longitude": 21.8600259,
-    "coordinates": [
-      21.8600259,
-      42.0000757
-    ]
-  },
-  {
-    "id": "church_of_saint_panteleimon",
-    "name": "Church of Saint Panteleimon",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7066549,
-    "longitude": 21.7816183,
-    "coordinates": [
-      21.7816183,
-      41.7066549
-    ]
-  },
-  {
-    "id": "church_of_saint_john",
-    "name": "Church of Saint John",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0757798,
-    "longitude": 22.1831496,
-    "coordinates": [
-      22.1831496,
-      42.0757798
-    ]
-  },
-  {
-    "id": "church_of_saint_nicholas",
-    "name": "Church of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1374155,
-    "longitude": 21.7206136,
-    "coordinates": [
-      21.7206136,
-      42.1374155
-    ]
-  },
-  {
-    "id": "church_of_saint_nicholas",
-    "name": "Church of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7365761,
-    "longitude": 22.188864,
-    "coordinates": [
-      22.188864,
-      41.7365761
-    ]
-  },
-  {
-    "id": "crn_kamen",
-    "name": "Crn Kamen",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9230585,
-    "longitude": 22.5356842,
-    "coordinates": [
-      22.5356842,
-      41.9230585
-    ]
-  },
-  {
-    "id": "карпински_манастир_\"св._богородица\"",
-    "name": "Карпински манастир \"Св. Богородица\"",
-    "description": "",
-    "type": "city",
-    "latitude": 42.174557,
-    "longitude": 21.9933461,
-    "coordinates": [
-      21.9933461,
-      42.174557
-    ]
-  },
-  {
-    "id": "church_of_holy_trinity",
-    "name": "Church of Holy Trinity",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0456175,
-    "longitude": 21.826598,
-    "coordinates": [
-      21.826598,
-      42.0456175
-    ]
-  },
-  {
-    "id": "планинарски_дом_вртешка",
-    "name": "Планинарски дом Вртешка",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7591883,
-    "longitude": 22.4171805,
-    "coordinates": [
-      22.4171805,
-      41.7591883
-    ]
-  },
-  {
-    "id": "кочулски_водопади/kochuli_waterfalls",
-    "name": "Кочулски водопади/Kochuli waterfalls",
-    "description": "",
-    "type": "city",
-    "latitude": 41.316117,
-    "longitude": 22.709933,
-    "coordinates": [
-      22.709933,
-      41.316117
-    ]
-  },
-  {
-    "id": "devichin_vir",
-    "name": "Devichin vir",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8242942,
-    "longitude": 22.4657724,
-    "coordinates": [
-      22.4657724,
-      41.8242942
-    ]
-  },
-  {
-    "id": "church_of_st._saviour",
-    "name": "Church of St. Saviour",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1125059,
-    "longitude": 21.4170356,
-    "coordinates": [
-      21.4170356,
-      42.1125059
-    ]
-  },
-  {
-    "id": "st._arhangel_mihail_&_gavril_monastery",
-    "name": "St. Arhangel Mihail & Gavril Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1323863,
-    "longitude": 21.41431,
-    "coordinates": [
-      21.41431,
-      42.1323863
-    ]
-  },
-  {
-    "id": "st._ilija_monastery",
-    "name": "St. Ilija Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1299057,
-    "longitude": 21.3876209,
-    "coordinates": [
-      21.3876209,
-      42.1299057
-    ]
-  },
-  {
-    "id": "saint_nikita",
-    "name": "Saint Nikita",
-    "description": "",
-    "type": "city",
-    "latitude": 42.107691,
-    "longitude": 21.3799685,
-    "coordinates": [
-      21.3799685,
-      42.107691
-    ]
-  },
-  {
-    "id": "sveti_gjorgjija",
-    "name": "Sveti Gjorgjija",
-    "description": "",
-    "type": "city",
-    "latitude": 42.128434,
-    "longitude": 21.3995865,
-    "coordinates": [
-      21.3995865,
-      42.128434
-    ]
-  },
-  {
-    "id": "monastery_of_holy_mother_of_god",
-    "name": "Monastery of Holy Mother of God",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1256313,
-    "longitude": 21.4283401,
-    "coordinates": [
-      21.4283401,
-      42.1256313
-    ]
-  },
-  {
-    "id": "monastery_of_saint_nicholas",
-    "name": "Monastery of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1096319,
-    "longitude": 21.4696341,
-    "coordinates": [
-      21.4696341,
-      42.1096319
-    ]
-  },
-  {
-    "id": "манастир_пресвета_богородица",
-    "name": "Манастир Пресвета Богородица",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1087855,
-    "longitude": 21.5534771,
-    "coordinates": [
-      21.5534771,
-      42.1087855
-    ]
-  },
-  {
-    "id": "church_of_holy_salvation_-_rashtak",
-    "name": "Church of Holy Salvation - Rashtak",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0854448,
-    "longitude": 21.4890609,
-    "coordinates": [
-      21.4890609,
-      42.0854448
-    ]
-  },
-  {
-    "id": "rashtak_cave",
-    "name": "Rashtak Cave",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0970838,
-    "longitude": 21.4907964,
-    "coordinates": [
-      21.4907964,
-      42.0970838
-    ]
-  },
-  {
-    "id": "church_of_saint_elijah",
-    "name": "Church of Saint Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1393833,
-    "longitude": 21.4390529,
-    "coordinates": [
-      21.4390529,
-      42.1393833
-    ]
-  },
-  {
-    "id": "hot_pools_second_pool_(топлите_вирови_-_втор_вир)",
-    "name": "Hot Pools Second Pool (Топлите Вирови - Втор Вир)",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3660912,
-    "longitude": 22.2316681,
-    "coordinates": [
-      22.2316681,
-      41.3660912
-    ]
-  },
-  {
-    "id": "church_of_saint_george",
-    "name": "Church of Saint George",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1076099,
-    "longitude": 21.3856947,
-    "coordinates": [
-      21.3856947,
-      42.1076099
-    ]
-  },
-  {
-    "id": "st._elijah",
-    "name": "St. Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0690475,
-    "longitude": 21.3173792,
-    "coordinates": [
-      21.3173792,
-      41.0690475
-    ]
-  },
-  {
-    "id": "monastery_winery",
-    "name": "Monastery Winery",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1847951,
-    "longitude": 20.8772488,
-    "coordinates": [
-      20.8772488,
-      41.1847951
-    ]
-  },
-  {
-    "id": "church_of_saint_paraskeva",
-    "name": "Church of Saint Paraskeva",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0618787,
-    "longitude": 21.0174922,
-    "coordinates": [
-      21.0174922,
-      42.0618787
-    ]
-  },
-  {
-    "id": "monastery_of_saint_george_samovilec",
-    "name": "Monastery of Saint George Samovilec",
-    "description": "",
-    "type": "city",
-    "latitude": 41.576103,
-    "longitude": 21.7327546,
-    "coordinates": [
-      21.7327546,
-      41.576103
-    ]
-  },
-  {
-    "id": "etno_kuka_edinak",
-    "name": "Etno Kuka Edinak",
-    "description": "",
-    "type": "city",
-    "latitude": 41.589795,
-    "longitude": 21.7664699,
-    "coordinates": [
-      21.7664699,
-      41.589795
-    ]
-  },
-  {
-    "id": "monastery_of_saint_george_samovilec",
-    "name": "Monastery of Saint George Samovilec",
-    "description": "",
-    "type": "city",
-    "latitude": 41.576103,
-    "longitude": 21.7327546,
-    "coordinates": [
-      21.7327546,
-      41.576103
-    ]
-  },
-  {
-    "id": "manastir_sv._petka",
-    "name": "Manastir Sv. Petka",
-    "description": "",
-    "type": "city",
-    "latitude": 41.266554,
-    "longitude": 22.734938,
-    "coordinates": [
-      22.734938,
-      41.266554
-    ]
-  },
-  {
-    "id": "vraneshtitsa",
-    "name": "Vraneshtitsa",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4453257,
-    "longitude": 21.0259217,
-    "coordinates": [
-      21.0259217,
-      41.4453257
-    ]
-  },
-  {
-    "id": "church_of_saint_petka",
-    "name": "Church of Saint Petka",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5031205,
-    "longitude": 21.0075619,
-    "coordinates": [
-      21.0075619,
-      41.5031205
-    ]
-  },
-  {
-    "id": "41°27'03.2\"n_21°01'30.1\"e",
-    "name": "41°27'03.2\"N 21°01'30.1\"E",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4508888888889,
-    "longitude": 21.0250277777778,
-    "coordinates": [
-      21.0250277777778,
-      41.4508888888889
-    ]
-  },
-  {
-    "id": "tashmarunishta",
-    "name": "Tashmarunishta",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2680714,
-    "longitude": 20.6403575,
-    "coordinates": [
-      20.6403575,
-      41.2680714
-    ]
-  },
-  {
-    "id": "church_of_saint_john",
-    "name": "Church of Saint John",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9848007,
-    "longitude": 21.0643711,
-    "coordinates": [
-      21.0643711,
-      40.9848007
-    ]
-  },
-  {
-    "id": "church_of_saint_george_(kurbinovo)",
-    "name": "Church of Saint George (Kurbinovo)",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9860161,
-    "longitude": 21.0851318,
-    "coordinates": [
-      21.0851318,
-      40.9860161
-    ]
-  },
-  {
-    "id": "gorno_lakocherej",
-    "name": "Gorno Lakocherej",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1703728,
-    "longitude": 20.8050008,
-    "coordinates": [
-      20.8050008,
-      41.1703728
-    ]
-  },
-  {
-    "id": "church_holy_ascension",
-    "name": "Church Holy Ascension",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1816575,
-    "longitude": 20.7931688,
-    "coordinates": [
-      20.7931688,
-      41.1816575
-    ]
-  },
-  {
-    "id": "monastery_of_holy_mother_of_god_eleusa",
-    "name": "Monastery of Holy Mother of God Eleusa",
-    "description": "",
-    "type": "city",
-    "latitude": 41.475021,
-    "longitude": 22.5648282,
-    "coordinates": [
-      22.5648282,
-      41.475021
-    ]
-  },
-  {
-    "id": "prilepec",
-    "name": "Prilepec",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2960311,
-    "longitude": 21.5840933,
-    "coordinates": [
-      21.5840933,
-      41.2960311
-    ]
-  },
-  {
-    "id": "church_of_saint_demetrius",
-    "name": "Church of Saint Demetrius",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2953583,
-    "longitude": 21.5842787,
-    "coordinates": [
-      21.5842787,
-      41.2953583
-    ]
-  },
-  {
-    "id": "velmej",
-    "name": "Velmej",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2984881,
-    "longitude": 20.9022319,
-    "coordinates": [
-      20.9022319,
-      41.2984881
-    ]
-  },
-  {
-    "id": "nivichani",
-    "name": "Nivichani",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9535609,
-    "longitude": 22.3382475,
-    "coordinates": [
-      22.3382475,
-      41.9535609
-    ]
-  },
-  {
-    "id": "monastery_of_st._elijah_dragoš",
-    "name": "Monastery of St. Elijah Dragoš",
-    "description": "",
-    "type": "city",
-    "latitude": 40.8782147,
-    "longitude": 21.3580947,
-    "coordinates": [
-      21.3580947,
-      40.8782147
-    ]
-  },
-  {
-    "id": "saint_varvara_the_great_martyr",
-    "name": "Saint Varvara the Great Martyr",
-    "description": "",
-    "type": "city",
-    "latitude": 40.8836376,
-    "longitude": 21.3575016,
-    "coordinates": [
-      21.3575016,
-      40.8836376
-    ]
-  },
-  {
-    "id": "манастир_св.меркуриј",
-    "name": "Манастир Св.Меркуриј",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9521997,
-    "longitude": 21.3505023,
-    "coordinates": [
-      21.3505023,
-      40.9521997
-    ]
-  },
-  {
-    "id": "vodocha",
-    "name": "Vodocha",
-    "description": "",
-    "type": "city",
-    "latitude": 41.4507341,
-    "longitude": 22.5945369,
-    "coordinates": [
-      22.5945369,
-      41.4507341
-    ]
-  },
-  {
-    "id": "zhelezna_reka",
-    "name": "Zhelezna Reka",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7030476,
-    "longitude": 20.9998418,
-    "coordinates": [
-      20.9998418,
-      41.7030476
-    ]
-  },
-  {
-    "id": "dramche",
-    "name": "Dramche",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0104645,
-    "longitude": 22.7137227,
-    "coordinates": [
-      22.7137227,
-      42.0104645
-    ]
-  },
-  {
-    "id": "church_of_saint_nicholas",
-    "name": "Church of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2997436,
-    "longitude": 21.152556,
-    "coordinates": [
-      21.152556,
-      41.2997436
-    ]
-  },
-  {
-    "id": "smilanci",
-    "name": "Smilanci",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6963878,
-    "longitude": 22.6045937,
-    "coordinates": [
-      22.6045937,
-      41.6963878
-    ]
-  },
-  {
-    "id": "veshje",
-    "name": "Veshje",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3864244,
-    "longitude": 22.1363149,
-    "coordinates": [
-      22.1363149,
-      41.3864244
-    ]
-  },
-  {
-    "id": "church_of_saint_elijah",
-    "name": "Church of Saint Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3839806,
-    "longitude": 22.1314008,
-    "coordinates": [
-      22.1314008,
-      41.3839806
-    ]
-  },
-  {
-    "id": "monastery_of_st._archangel_michael",
-    "name": "Monastery of St. Archangel Michael",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3603207,
-    "longitude": 21.5344718,
-    "coordinates": [
-      21.5344718,
-      41.3603207
-    ]
-  },
-  {
-    "id": "skorusha",
-    "name": "Skorusha",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5433692,
-    "longitude": 22.3255808,
-    "coordinates": [
-      22.3255808,
-      41.5433692
-    ]
-  },
-  {
-    "id": "vrtena_skala",
-    "name": "Vrtena skala",
-    "description": "",
-    "type": "city",
-    "latitude": 41.7663737,
-    "longitude": 22.9340619,
-    "coordinates": [
-      22.9340619,
-      41.7663737
-    ]
-  },
-  {
-    "id": "brnik",
-    "name": "Brnik",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0813401,
-    "longitude": 21.6414788,
-    "coordinates": [
-      21.6414788,
-      41.0813401
-    ]
-  },
-  {
-    "id": "petachko_vodiche",
-    "name": "Petachko Vodiche",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1450738,
-    "longitude": 21.0996814,
-    "coordinates": [
-      21.0996814,
-      42.1450738
-    ]
-  },
-  {
-    "id": "monastery_of_st._george",
-    "name": "Monastery of St. George",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3264782,
-    "longitude": 22.5481627,
-    "coordinates": [
-      22.5481627,
-      41.3264782
-    ]
-  },
-  {
-    "id": "otoshnica",
-    "name": "Otoshnica",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1869399,
-    "longitude": 22.1057624,
-    "coordinates": [
-      22.1057624,
-      42.1869399
-    ]
-  },
-  {
-    "id": "monastery_of_saint_nicholas",
-    "name": "Monastery of Saint Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3842757,
-    "longitude": 22.291872,
-    "coordinates": [
-      22.291872,
-      41.3842757
-    ]
-  },
-  {
-    "id": "ren_villas",
-    "name": "Ren Villas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6702329,
-    "longitude": 20.731364,
-    "coordinates": [
-      20.731364,
-      41.6702329
-    ]
-  },
-  {
-    "id": "cottage_modrich",
-    "name": "Cottage Modrich",
-    "description": "",
-    "type": "city",
-    "latitude": 41.36399,
-    "longitude": 20.56912,
-    "coordinates": [
-      20.56912,
-      41.36399
-    ]
-  },
-  {
-    "id": "hotel_belica",
-    "name": "Hotel Belica",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2237396,
-    "longitude": 20.5527134,
-    "coordinates": [
-      20.5527134,
-      41.2237396
-    ]
-  },
-  {
-    "id": "tauresium_archaeological_park",
-    "name": "Tauresium Archaeological Park",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9001358,
-    "longitude": 21.6134642,
-    "coordinates": [
-      21.6134642,
-      41.9001358
-    ]
-  },
-  {
-    "id": "gradovci",
-    "name": "Gradovci",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8497639,
-    "longitude": 21.5811123,
-    "coordinates": [
-      21.5811123,
-      41.8497639
-    ]
-  },
-  {
-    "id": "извиднички_дом_„ипо_јадран“_-_катлановска_брезица",
-    "name": "Извиднички дом „ИПО Јадран“ - Катлановска Брезица",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8691733,
-    "longitude": 21.7245626,
-    "coordinates": [
-      21.7245626,
-      41.8691733
-    ]
-  },
-  {
-    "id": "church_of_st._nikola",
-    "name": "Church of St. Nikola",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0976009,
-    "longitude": 21.4664111,
-    "coordinates": [
-      21.4664111,
-      42.0976009
-    ]
-  },
-  {
-    "id": "манастир_„свети_никола_шишевски“",
-    "name": "Манастир „Свети Никола Шишевски“",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9520432,
-    "longitude": 21.3040538,
-    "coordinates": [
-      21.3040538,
-      41.9520432
-    ]
-  },
-  {
-    "id": "свети_спас_/_church_of_the_ascension_of_jesus",
-    "name": "Свети Спас / Church of the Ascension of Jesus",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9542329,
-    "longitude": 21.2891428,
-    "coordinates": [
-      21.2891428,
-      41.9542329
-    ]
-  },
-  {
-    "id": "duf_waterfall",
-    "name": "Duf Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6032951,
-    "longitude": 20.5980357,
-    "coordinates": [
-      20.5980357,
-      41.6032951
-    ]
-  },
-  {
-    "id": "church_of_st._elijah",
-    "name": "Church of St. Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6177654,
-    "longitude": 20.5908814,
-    "coordinates": [
-      20.5908814,
-      41.6177654
-    ]
-  },
-  {
-    "id": "skete_of_st_cyrill_and_methodius",
-    "name": "Skete of St Cyrill and Methodius",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6175482,
-    "longitude": 20.5789677,
-    "coordinates": [
-      20.5789677,
-      41.6175482
-    ]
-  },
-  {
-    "id": "church_of_saint_achillius_of_larissa",
-    "name": "Church of Saint Achillius of Larissa",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6264903,
-    "longitude": 20.5901618,
-    "coordinates": [
-      20.5901618,
-      41.6264903
-    ]
-  },
-  {
-    "id": "galichnik",
-    "name": "Galichnik",
-    "description": "",
-    "type": "city",
-    "latitude": 41.594532,
-    "longitude": 20.6511592,
-    "coordinates": [
-      20.6511592,
-      41.594532
-    ]
-  },
-  {
-    "id": "river_ribnichka",
-    "name": "River Ribnichka",
-    "description": "",
-    "type": "city",
-    "latitude": 41.708229,
-    "longitude": 20.6500067,
-    "coordinates": [
-      20.6500067,
-      41.708229
-    ]
-  },
-  {
-    "id": "monastery_of_the_nativity_of_the_blessed_virgin_mary_kališta",
-    "name": "Monastery of the Nativity of the Blessed Virgin Mary Kališta",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1445298,
-    "longitude": 20.6502614,
-    "coordinates": [
-      20.6502614,
-      41.1445298
-    ]
-  },
-  {
-    "id": "church_of_saint_archangel_michael",
-    "name": "Church of Saint Archangel Michael",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1071493,
-    "longitude": 20.6325521,
-    "coordinates": [
-      20.6325521,
-      41.1071493
-    ]
-  },
-  {
-    "id": "mountain_hut_jankov_kamen_планинарски_дом_јанков_камен",
-    "name": "Mountain Hut Jankov Kamen Планинарски Дом Јанков Камен",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2312554,
-    "longitude": 20.5714642,
-    "coordinates": [
-      20.5714642,
-      41.2312554
-    ]
-  },
-  {
-    "id": "jankov_kamen",
-    "name": "Jankov Kamen",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2319449,
-    "longitude": 20.5725699,
-    "coordinates": [
-      20.5725699,
-      41.2319449
-    ]
-  },
-  {
-    "id": "вевчански_извори",
-    "name": "Вевчански Извори",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2393481,
-    "longitude": 20.5852022,
-    "coordinates": [
-      20.5852022,
-      41.2393481
-    ]
-  },
-  {
-    "id": "вевчанска_голина_-_видиковец",
-    "name": "Вевчанска Голина - Видиковец",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2463664,
-    "longitude": 20.5443397,
-    "coordinates": [
-      20.5443397,
-      41.2463664
-    ]
-  },
-  {
-    "id": "jablanica",
-    "name": "Jablanica",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3182357,
-    "longitude": 20.5729424,
-    "coordinates": [
-      20.5729424,
-      41.3182357
-    ]
-  },
-  {
-    "id": "tresonce_waterfall",
-    "name": "Tresonce Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.567862,
-    "longitude": 20.75718,
-    "coordinates": [
-      20.75718,
-      41.567862
-    ]
-  },
-  {
-    "id": "prisoj",
-    "name": "Prisoj",
-    "description": "",
-    "type": "city",
-    "latitude": 41.5652778,
-    "longitude": 20.7272222,
-    "coordinates": [
-      20.7272222,
-      41.5652778
-    ]
-  },
-  {
-    "id": "church_of_st._john_vladimir",
-    "name": "Church of St. John Vladimir",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2581977,
-    "longitude": 20.6043176,
-    "coordinates": [
-      20.6043176,
-      41.2581977
-    ]
-  },
-  {
-    "id": "peshter",
-    "name": "Peshter",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0729121,
-    "longitude": 21.1400074,
-    "coordinates": [
-      21.1400074,
-      42.0729121
-    ]
-  },
-  {
-    "id": "tunnel-channel",
-    "name": "Tunnel-Channel",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9444091,
-    "longitude": 20.8471899,
-    "coordinates": [
-      20.8471899,
-      41.9444091
-    ]
-  },
-  {
-    "id": "church_of_the_holy_mother_of_god_-_village_gallate_/_црква_пресвета_богородица_-_с._галате",
-    "name": "Church of the Holy Mother of God - village Gallate / Црква Пресвета Богородица - с. Галате",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8423112,
-    "longitude": 20.8743443,
-    "coordinates": [
-      20.8743443,
-      41.8423112
-    ]
-  },
-  {
-    "id": "church_of_saint_marena",
-    "name": "Church of Saint Marena",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8303298,
-    "longitude": 20.8768277,
-    "coordinates": [
-      20.8768277,
-      41.8303298
-    ]
-  },
-  {
-    "id": "monastery_of_saint_elijah",
-    "name": "Monastery of Saint Elijah",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8015641,
-    "longitude": 20.8398437,
-    "coordinates": [
-      20.8398437,
-      41.8015641
-    ]
-  },
-  {
-    "id": "church_of_saint_athanasius",
-    "name": "Church of Saint Athanasius",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8084942,
-    "longitude": 20.7881808,
-    "coordinates": [
-      20.7881808,
-      41.8084942
-    ]
-  },
-  {
-    "id": "leshnica_watterfalls_-_водопади_лешница_-_ujevarat_e_leshnices",
-    "name": "Leshnica Watterfalls - Водопади Лешница - Ujevarat e Leshnices",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0176875,
-    "longitude": 20.7816875,
-    "coordinates": [
-      20.7816875,
-      42.0176875
-    ]
-  },
-  {
-    "id": "leshnica_waterfalls",
-    "name": "Leshnica Waterfalls",
-    "description": "",
-    "type": "city",
-    "latitude": 42.011027,
-    "longitude": 20.7802174,
-    "coordinates": [
-      20.7802174,
-      42.011027
-    ]
-  },
-  {
-    "id": "планинарски_дом_„китка“",
-    "name": "Планинарски дом „Китка“",
-    "description": "",
-    "type": "city",
-    "latitude": 41.8433,
-    "longitude": 21.4917,
-    "coordinates": [
-      21.4917,
-      41.8433
-    ]
-  },
-  {
-    "id": "golemo_gradiste_-_konjuh",
-    "name": "Golemo Gradiste - Konjuh",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1003731,
-    "longitude": 21.9665019,
-    "coordinates": [
-      21.9665019,
-      42.1003731
-    ]
-  },
-  {
-    "id": "cocev_kamen",
-    "name": "Cocev Kamen",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0837464,
-    "longitude": 21.9859706,
-    "coordinates": [
-      21.9859706,
-      42.0837464
-    ]
-  },
-  {
-    "id": "monastery_of_saint_george",
-    "name": "Monastery of Saint George",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0856887,
-    "longitude": 21.9292071,
-    "coordinates": [
-      21.9292071,
-      42.0856887
-    ]
-  },
-  {
-    "id": "monastery_of_saint_spiridon",
-    "name": "Monastery of Saint Spiridon",
-    "description": "",
-    "type": "city",
-    "latitude": 42.0330825,
-    "longitude": 22.269371,
-    "coordinates": [
-      22.269371,
-      42.0330825
-    ]
-  },
-  {
-    "id": "kompleks_studenac",
-    "name": "KOMPLEKS STUDENAC",
-    "description": "",
-    "type": "city",
-    "latitude": 42.2658279,
-    "longitude": 22.231891,
-    "coordinates": [
-      22.231891,
-      42.2658279
-    ]
-  },
-  {
-    "id": "orthodox_monastery_saint_joachim_osogovski",
-    "name": "Orthodox Monastery Saint Joachim Osogovski",
-    "description": "",
-    "type": "city",
-    "latitude": 42.2091055,
-    "longitude": 22.3622509,
-    "coordinates": [
-      22.3622509,
-      42.2091055
-    ]
-  },
-  {
-    "id": "испосница_на_св._јоаким_осоговски_во_село_градец",
-    "name": "Испосница на Св. Јоаким Осоговски во Село Градец",
-    "description": "",
-    "type": "city",
-    "latitude": 42.2333392,
-    "longitude": 22.2941277,
-    "coordinates": [
-      22.2941277,
-      42.2333392
-    ]
-  },
-  {
-    "id": "orthodox_church_„saint_george”",
-    "name": "Orthodox church „Saint George”",
-    "description": "",
-    "type": "city",
-    "latitude": 42.1982605,
-    "longitude": 21.8280364,
-    "coordinates": [
-      21.8280364,
-      42.1982605
-    ]
-  },
-  {
-    "id": "otoshnica_lake",
-    "name": "Otoshnica Lake",
-    "description": "",
-    "type": "city",
-    "latitude": 42.2105304,
-    "longitude": 22.0754896,
-    "coordinates": [
-      22.0754896,
-      42.2105304
-    ]
-  },
-  {
-    "id": "church_of_immaculate_mother_of_god",
-    "name": "Church of Immaculate Mother of God",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2139514,
-    "longitude": 20.6628833,
-    "coordinates": [
-      20.6628833,
-      41.2139514
-    ]
-  },
-  {
-    "id": "church_of_st._nicholas",
-    "name": "Church of St. Nicholas",
-    "description": "",
-    "type": "city",
-    "latitude": 41.235422,
-    "longitude": 20.6007466,
-    "coordinates": [
-      20.6007466,
-      41.235422
-    ]
-  },
-  {
-    "id": "bizantin_time_basilica_near_struga",
-    "name": "Bizantin time Basilica near Struga",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1630653,
-    "longitude": 20.6266319,
-    "coordinates": [
-      20.6266319,
-      41.1630653
-    ]
-  },
-  {
-    "id": "црква_св._спаса_вишенска",
-    "name": "Црква Св. Спаса Вишенска",
-    "description": "",
-    "type": "city",
-    "latitude": 41.200025,
-    "longitude": 20.602436,
-    "coordinates": [
-      20.602436,
-      41.200025
-    ]
-  },
-  {
-    "id": "church_of_of_saint_clement_of_ohrid",
-    "name": "Church Of of Saint Clement of Ohrid",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2171095,
-    "longitude": 20.5728916,
-    "coordinates": [
-      20.5728916,
-      41.2171095
-    ]
-  },
-  {
-    "id": "3_корабни",
-    "name": "3 Корабни",
-    "description": "",
-    "type": "city",
-    "latitude": 41.235422,
-    "longitude": 20.6007466,
-    "coordinates": [
-      20.6007466,
-      41.235422
-    ]
-  },
-  {
-    "id": "holy_mother_of_god_zahumska",
-    "name": "Holy Mother of God Zahumska",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9488976,
-    "longitude": 20.774653,
-    "coordinates": [
-      20.774653,
-      40.9488976
-    ]
-  },
-  {
-    "id": "saint_naum_monastery",
-    "name": "Saint Naum Monastery",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9140226,
-    "longitude": 20.7406744,
-    "coordinates": [
-      20.7406744,
-      40.9140226
-    ]
-  },
-  {
-    "id": "church_of_saint_athanasius",
-    "name": "Church of Saint Athanasius",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9113315,
-    "longitude": 20.7493114,
-    "coordinates": [
-      20.7493114,
-      40.9113315
-    ]
-  },
-  {
-    "id": "church_of_holy_mother_of_god",
-    "name": "Church of Holy Mother of God",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9101898,
-    "longitude": 20.7452997,
-    "coordinates": [
-      20.7452997,
-      40.9101898
-    ]
-  },
-  {
-    "id": "golemo_ezero",
-    "name": "Golemo Ezero",
-    "description": "",
-    "type": "city",
-    "latitude": 40.9689375,
-    "longitude": 21.2050625,
-    "coordinates": [
-      21.2050625,
-      40.9689375
-    ]
-  },
-  {
-    "id": "cave_church_of_saint_stephen",
-    "name": "Cave Church of Saint Stephen",
-    "description": "",
-    "type": "city",
-    "latitude": 41.0738411,
-    "longitude": 20.804278,
-    "coordinates": [
-      20.804278,
-      41.0738411
-    ]
-  },
-  {
-    "id": "smolari,_north_macedonia",
-    "name": "Smolari, North Macedonia",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9981,
-    "longitude": 21.42542,
-    "coordinates": [
-      21.42542,
-      41.9981
-    ]
-  },
-  {
-    "id": "skopje",
-    "name": "Skopje",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9980994,
-    "longitude": 21.4254206,
-    "coordinates": [
-      21.4254206,
-      41.9980994
-    ]
-  },
-  {
-    "id": "smolare_waterfall",
-    "name": "Smolare Waterfall",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3707846,
-    "longitude": 22.9005554,
-    "coordinates": [
-      22.9005554,
-      41.3707846
-    ]
-  },
-  {
-    "id": "sermenin",
-    "name": "Sermenin",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2200177,
-    "longitude": 22.3475152,
-    "coordinates": [
-      22.3475152,
-      41.2200177
-    ]
-  },
-  {
-    "id": "bohula",
-    "name": "Bohula",
-    "description": "",
-    "type": "city",
-    "latitude": 41.2885673,
-    "longitude": 22.1628368,
-    "coordinates": [
-      22.1628368,
-      41.2885673
-    ]
-  },
-  {
-    "id": "prilep",
-    "name": "Prilep",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3461823,
-    "longitude": 21.5535933,
-    "coordinates": [
-      21.5535933,
-      41.3461823
-    ]
-  },
-  {
-    "id": "vitolishte",
-    "name": "Vitolishte",
-    "description": "",
-    "type": "city",
-    "latitude": 41.1811787,
-    "longitude": 21.8256967,
-    "coordinates": [
-      21.8256967,
-      41.1811787
-    ]
-  },
-  {
-    "id": "radoviš",
-    "name": "Radoviš",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6372241,
-    "longitude": 22.4622557,
-    "coordinates": [
-      22.4622557,
-      41.6372241
-    ]
-  },
-  {
-    "id": "negotino",
-    "name": "Negotino",
-    "description": "Wander through Negotino, a town rich in wine culture, local markets, and authentic Macedonian charm.",
-    "type": "city",
-    "latitude": 41.4829514,
-    "longitude": 22.0924914,
-    "coordinates": [
-      22.0924914,
-      41.4829514
-    ]
-  },
-  {
-    "id": "bogomila",
-    "name": "Bogomila",
-    "description": "",
-    "type": "city",
-    "latitude": 41.594502,
-    "longitude": 21.4769697,
-    "coordinates": [
-      21.4769697,
-      41.594502
-    ]
-  },
-  {
-    "id": "kruševo",
-    "name": "Kruševo",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3706684,
-    "longitude": 21.2502965,
-    "coordinates": [
-      21.2502965,
-      41.3706684
-    ]
-  },
-  {
-    "id": "tauresium_archaeological_park",
-    "name": "Tauresium Archaeological Park",
-    "description": "",
-    "type": "city",
-    "latitude": 41.9005028,
-    "longitude": 21.6132488,
-    "coordinates": [
-      21.6132488,
-      41.9005028
-    ]
-  },
-  {
-    "id": "bitushe",
-    "name": "Bitushe",
-    "description": "",
-    "type": "city",
-    "latitude": 41.6166017,
-    "longitude": 20.588184,
-    "coordinates": [
-      20.588184,
-      41.6166017
-    ]
-  },
-  {
-    "id": "cottage_modrich",
-    "name": "Cottage Modrich",
-    "description": "",
-    "type": "city",
-    "latitude": 41.3636121,
-    "longitude": 20.5686164,
-    "coordinates": [
-      20.5686164,
-      41.3636121
-    ]
+    "description": "Explore Macedonia's mysterious megalithic circle! These ancient standing stones rival Stonehenge, offering archaeological adventures and spectacular sunset photography.",
+    "type": "monument",
+    "latitude": 41.4500000,
+    "longitude": 20.9700000,
+    "coordinates": [20.9700000, 41.4500000]
   }
 ]
