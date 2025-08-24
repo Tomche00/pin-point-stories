@@ -448,5 +448,563 @@
     "latitude": 41.4500000,
     "longitude": 20.9700000,
     "coordinates": [20.9700000, 41.4500000]
+  },
+  {
+    "id": "ohrid_old_town",
+    "name": "Ohrid Old Town",
+    "description": "Explore this UNESCO World Heritage treasure where ancient cobblestones meet azure waters! Medieval churches and Ottoman architecture create a living museum perfect for cultural overlanding adventures.",
+    "type": "monument",
+    "latitude": 41.1081,
+    "longitude": 20.8019,
+    "coordinates": [20.8019, 41.1081]
+  },
+  {
+    "id": "samuel_fortress",
+    "name": "Samuel's Fortress",
+    "description": "Storm the walls of this legendary medieval stronghold overlooking Lake Ohrid! Ancient battlements and panoramic views offer epic photography and historical adventures.",
+    "type": "monument",
+    "latitude": 41.1094,
+    "longitude": 20.8014,
+    "coordinates": [20.8014, 41.1094]
+  },
+  {
+    "id": "plaoshnik",
+    "name": "Plaoshnik Archaeological Site",
+    "description": "Uncover millennia of civilizations at this sacred archaeological wonder! Ancient basilicas and Byzantine mosaics reveal Macedonia's spiritual heritage amid stunning lake vistas.",
+    "type": "monument",
+    "latitude": 41.1089,
+    "longitude": 20.7997,
+    "coordinates": [20.7997, 41.1089]
+  },
+  {
+    "id": "sveti_naum",
+    "name": "Sveti Naum Monastery",
+    "description": "Journey to this mystical lakeside monastery where peacocks roam sacred grounds! Ancient frescoes and crystal springs create a spiritual paradise for adventurous souls.",
+    "type": "monument",
+    "latitude": 40.9239,
+    "longitude": 20.7428,
+    "coordinates": [20.7428, 40.9239]
+  },
+  {
+    "id": "gradiste",
+    "name": "Gradište Archaeological Site",
+    "description": "Discover the ancient city of Lychnidos buried beneath rolling hills! Roman theaters and Byzantine basilicas offer fascinating archaeological adventures near Ohrid's shores.",
+    "type": "monument",
+    "latitude": 41.1175,
+    "longitude": 20.8033,
+    "coordinates": [20.8033, 41.1175]
+  },
+  {
+    "id": "galicica_national_park",
+    "name": "Galicica National Park",
+    "description": "Conquer this pristine mountain wilderness between two legendary lakes! Dramatic ridges, endemic flowers, and spectacular overlooks create the ultimate overlanding paradise.",
+    "type": "nature",
+    "latitude": 41.0167,
+    "longitude": 20.8833,
+    "coordinates": [20.8833, 41.0167]
+  },
+  {
+    "id": "magaro_peak",
+    "name": "Magaro Peak",
+    "description": "Scale Macedonia's dramatic mountain summit for breathtaking dual-lake panoramas! This challenging trek rewards brave adventurers with unforgettable Ohrid and Prespa views.",
+    "type": "nature",
+    "latitude": 40.9833,
+    "longitude": 20.8667,
+    "coordinates": [20.8667, 40.9833]
+  },
+  {
+    "id": "bay_of_bones",
+    "name": "Bay of Bones Museum",
+    "description": "Step into Bronze Age lake dwelling reconstructions built on stilts over ancient waters! This unique underwater archaeological site offers fascinating prehistoric adventures.",
+    "type": "monument",
+    "latitude": 40.9358,
+    "longitude": 20.7431,
+    "coordinates": [20.7431, 40.9358]
+  },
+  {
+    "id": "prespa_lake",
+    "name": "Prespa Lake",
+    "description": "Explore this pristine transborder lake where three countries meet! Crystal waters, ancient islands, and diverse wildlife create perfect wilderness camping and photography opportunities.",
+    "type": "nature",
+    "latitude": 40.9167,
+    "longitude": 20.9833,
+    "coordinates": [20.9833, 40.9167]
+  },
+  {
+    "id": "golem_grad",
+    "name": "Golem Grad (Snake Island)",
+    "description": "Venture to this mysterious island fortress where medieval ruins meet wild serpents! Ancient churches and endemic species create thrilling archaeological and wildlife adventures.",
+    "type": "monument",
+    "latitude": 40.8833,
+    "longitude": 20.9167,
+    "coordinates": [20.9167, 40.8833]
+  },
+  {
+    "id": "pelister_national_park",
+    "name": "Pelister National Park",
+    "description": "Trek through ancient Molika pine forests to glacial mountain lakes! This pristine wilderness offers challenging hikes, endemic flora, and spectacular peak adventures.",
+    "type": "nature",
+    "latitude": 41.0000,
+    "longitude": 21.2167,
+    "coordinates": [21.2167, 41.0000]
+  },
+  {
+    "id": "pelister_peak",
+    "name": "Pelister Peak",
+    "description": "Conquer this mighty mountain summit towering over ancient forests! At 2,601 meters, this challenging climb rewards adventurers with panoramic Balkan vistas.",
+    "type": "nature",
+    "latitude": 40.9667,
+    "longitude": 21.2167,
+    "coordinates": [21.2167, 40.9667]
+  },
+  {
+    "id": "big_prespa_lake",
+    "name": "Big Prespa Lake",
+    "description": "Navigate this vast transnational water paradise shared by three Balkan nations! Ancient fishing villages and pristine wetlands offer unique cross-border adventures.",
+    "type": "nature",
+    "latitude": 40.8167,
+    "longitude": 20.9833,
+    "coordinates": [20.9833, 40.8167]
+  },
+  {
+    "id": "small_prespa_lake",
+    "name": "Small Prespa Lake",
+    "description": "Discover this intimate mountain lake jewel surrounded by dramatic peaks! Crystal waters and traditional fishing culture create perfect wilderness retreats.",
+    "type": "nature",
+    "latitude": 40.7500,
+    "longitude": 21.0000,
+    "coordinates": [21.0000, 40.7500]
+  },
+  {
+    "id": "bitola",
+    "name": "Bitola",
+    "description": "Experience Macedonia's cultural capital where Ottoman elegance meets European sophistication! Historic bazaars, consulate architecture, and vibrant cafe culture await urban explorers.",
+    "type": "city",
+    "latitude": 41.0297,
+    "longitude": 21.3347,
+    "coordinates": [21.3347, 41.0297]
+  },
+  {
+    "id": "shirok_sokak",
+    "name": "Shirok Sokak",
+    "description": "Stroll down this legendary pedestrian boulevard where Ottoman heritage meets European elegance! Historic architecture and vibrant street life create perfect cultural photography.",
+    "type": "city",
+    "latitude": 41.0297,
+    "longitude": 21.3350,
+    "coordinates": [21.3350, 41.0297]
+  },
+  {
+    "id": "heraclea_lyncestis",
+    "name": "Heraclea Lyncestis",
+    "description": "Walk through this spectacular Roman city founded by Philip II of Macedon! Ancient theaters, intricate mosaics, and Byzantine basilicas create archaeological adventures.",
+    "type": "monument",
+    "latitude": 41.0089,
+    "longitude": 21.3381,
+    "coordinates": [21.3381, 41.0089]
+  },
+  {
+    "id": "skopje",
+    "name": "Skopje",
+    "description": "Explore Macedonia's dynamic capital where ancient fortresses meet bold modern architecture! The Stone Bridge, Old Bazaar, and Kale Fortress offer endless urban adventures.",
+    "type": "city",
+    "latitude": 41.9981,
+    "longitude": 21.4254,
+    "coordinates": [21.4254, 41.9981]
+  },
+  {
+    "id": "old_bazaar_skopje",
+    "name": "Old Bazaar Skopje",
+    "description": "Dive into the Balkans' largest Ottoman market where centuries of trade traditions survive! Cobblestone alleys, traditional crafts, and authentic cuisine await cultural explorers.",
+    "type": "monument",
+    "latitude": 41.9958,
+    "longitude": 21.4331,
+    "coordinates": [21.4331, 41.9958]
+  },
+  {
+    "id": "kale_fortress",
+    "name": "Kale Fortress",
+    "description": "Storm this ancient citadel overlooking the Vardar River! Medieval walls and panoramic city views create perfect historical adventures in Macedonia's capital.",
+    "type": "monument",
+    "latitude": 41.9981,
+    "longitude": 21.4289,
+    "coordinates": [21.4289, 41.9981]
+  },
+  {
+    "id": "stone_bridge",
+    "name": "Stone Bridge",
+    "description": "Cross this iconic Ottoman masterpiece connecting Skopje's old and new worlds! Historic arches over the Vardar River offer perfect photography and city exploration.",
+    "type": "monument",
+    "latitude": 41.9981,
+    "longitude": 21.4314,
+    "coordinates": [21.4314, 41.9981]
+  },
+  {
+    "id": "matka_canyon",
+    "name": "Matka Canyon",
+    "description": "Navigate this dramatic river gorge carved through ancient limestone! Kayaking, cave exploration, and monastery visits create the ultimate outdoor adventure playground.",
+    "type": "nature",
+    "latitude": 41.9333,
+    "longitude": 21.2833,
+    "coordinates": [21.2833, 41.9333]
+  },
+  {
+    "id": "vrelo_cave",
+    "name": "Vrelo Cave",
+    "description": "Venture into one of the world's deepest underwater cave systems! This mysterious submerged wonder offers unique speleological adventures in Matka Canyon.",
+    "type": "nature",
+    "latitude": 41.9333,
+    "longitude": 21.2817,
+    "coordinates": [21.2817, 41.9333]
+  },
+  {
+    "id": "vodno_mountain",
+    "name": "Vodno Mountain",
+    "description": "Climb this urban wilderness overlooking Macedonia's capital! Forest trails, the Millennium Cross, and panoramic city views create perfect hiking adventures.",
+    "type": "nature",
+    "latitude": 41.9667,
+    "longitude": 21.4333,
+    "coordinates": [21.4333, 41.9667]
+  },
+  {
+    "id": "millennium_cross",
+    "name": "Millennium Cross",
+    "description": "Ascend to this towering symbol visible from across Skopje! At 66 meters tall, this illuminated cross offers spectacular sunset photography and city panoramas.",
+    "type": "monument",
+    "latitude": 41.9667,
+    "longitude": 21.4333,
+    "coordinates": [21.4333, 41.9667]
+  },
+  {
+    "id": "kumanovo",
+    "name": "Kumanovo",
+    "description": "Discover Macedonia's industrial heartland where mining heritage meets mountain wilderness! Historic architecture and dramatic landscapes offer unique urban-nature adventures.",
+    "type": "city",
+    "latitude": 42.1322,
+    "longitude": 21.7144,
+    "coordinates": [21.7144, 42.1322]
+  },
+  {
+    "id": "kokino_observatory",
+    "name": "Kokino Megalithic Observatory",
+    "description": "Witness this ancient astronomical wonder ranking among the world's oldest observatories! Bronze Age stone markers and celestial alignments create mystical archaeological adventures.",
+    "type": "monument",
+    "latitude": 42.2667,
+    "longitude": 21.9667,
+    "coordinates": [21.9667, 42.2667]
+  },
+  {
+    "id": "kratovo",
+    "name": "Kratovo",
+    "description": "Explore this medieval mining town carved into volcanic terrain! Ancient stone bridges, Ottoman towers, and dramatic geology create unique historical adventures.",
+    "type": "city",
+    "latitude": 42.0781,
+    "longitude": 22.1781,
+    "coordinates": [22.1781, 42.0781]
+  },
+  {
+    "id": "kuklica_stone_dolls",
+    "name": "Kuklica Stone Dolls",
+    "description": "Marvel at these mysterious natural stone pillars resembling petrified people! Volcanic formations and local legends create fascinating geological adventures.",
+    "type": "nature",
+    "latitude": 42.0833,
+    "longitude": 22.1833,
+    "coordinates": [22.1833, 42.0833]
+  },
+  {
+    "id": "berovo_lake",
+    "name": "Berovo Lake",
+    "description": "Fish and camp at this pristine artificial lake surrounded by dense pine forests! Crystal waters and mountain wilderness create perfect overlanding retreats.",
+    "type": "recreation",
+    "latitude": 41.7000,
+    "longitude": 22.8500,
+    "coordinates": [22.8500, 41.7000]
+  },
+  {
+    "id": "berovo",
+    "name": "Berovo",
+    "description": "Breathe the cleanest air in this highland spa town nestled in pristine forests! Traditional wooden architecture and wellness traditions offer authentic mountain experiences.",
+    "type": "city",
+    "latitude": 41.7031,
+    "longitude": 22.8547,
+    "coordinates": [22.8547, 41.7031]
+  },
+  {
+    "id": "maleshevo_mountains",
+    "name": "Maleševo Mountains",
+    "description": "Trek through this pristine mountain range where ancient forests hide crystal streams! Remote trails and endemic wildlife create perfect wilderness adventures.",
+    "type": "nature",
+    "latitude": 41.6500,
+    "longitude": 22.9000,
+    "coordinates": [22.9000, 41.6500]
+  },
+  {
+    "id": "strumica",
+    "name": "Strumica",
+    "description": "Experience this thermal spa town where healing waters meet ancient culture! Roman baths, Ottoman architecture, and natural hot springs create unique wellness adventures.",
+    "type": "city",
+    "latitude": 41.4375,
+    "longitude": 22.6431,
+    "coordinates": [22.6431, 41.4375]
+  },
+  {
+    "id": "bansko_spa",
+    "name": "Bansko Spa",
+    "description": "Soak in therapeutic thermal waters bubbling from deep within the earth! These legendary healing springs offer natural wellness retreats in pristine mountain settings.",
+    "type": "recreation",
+    "latitude": 41.4333,
+    "longitude": 22.6333,
+    "coordinates": [22.6333, 41.4333]
+  },
+  {
+    "id": "tikvesh_wine_region",
+    "name": "Tikvesh Wine Region",
+    "description": "Journey through Macedonia's premier wine country where ancient vines meet modern winemaking! Rolling vineyards and cellar tours create perfect gastronomic adventures.",
+    "type": "recreation",
+    "latitude": 41.4333,
+    "longitude": 22.0667,
+    "coordinates": [22.0667, 41.4333]
+  },
+  {
+    "id": "kavadarci",
+    "name": "Kavadarci",
+    "description": "Explore the heart of Macedonia's wine country where tradition meets innovation! Historic wineries and vineyard landscapes offer authentic viticultural adventures.",
+    "type": "city",
+    "latitude": 41.4333,
+    "longitude": 22.0111,
+    "coordinates": [22.0111, 41.4333]
+  },
+  {
+    "id": "negotino",
+    "name": "Negotino",
+    "description": "Discover this ancient trading town where the Vardar River meets wine country! Historic architecture and vineyard tours create perfect cultural and gastronomic stops.",
+    "type": "city",
+    "latitude": 41.4844,
+    "longitude": 22.0886,
+    "coordinates": [22.0886, 41.4844]
+  },
+  {
+    "id": "demir_kapiya",
+    "name": "Demir Kapiya",
+    "description": "Navigate this dramatic river gorge where the Vardar cuts through towering cliffs! Ancient fortress ruins and spectacular geology create thrilling natural adventures.",
+    "type": "nature",
+    "latitude": 41.4069,
+    "longitude": 22.0431,
+    "coordinates": [22.0431, 41.4069]
+  },
+  {
+    "id": "mariovo_region",
+    "name": "Mariovo Region",
+    "description": "Explore this remote highland region where traditional pastoral life survives! Stone villages and pristine wilderness create authentic cultural immersion adventures.",
+    "type": "nature",
+    "latitude": 41.2500,
+    "longitude": 21.5000,
+    "coordinates": [21.5000, 41.2500]
+  },
+  {
+    "id": "treskavec_monastery",
+    "name": "Treskavec Monastery",
+    "description": "Climb to this ancient monastery perched on a dramatic mountain peak! Medieval frescoes and panoramic views reward brave pilgrims with spiritual adventures.",
+    "type": "monument",
+    "latitude": 41.2833,
+    "longitude": 21.6167,
+    "coordinates": [21.6167, 41.2833]
+  },
+  {
+    "id": "prilep",
+    "name": "Prilep",
+    "description": "Experience this historic tobacco town beneath dramatic granite towers! Ancient monasteries, Ottoman architecture, and natural rock formations create diverse adventures.",
+    "type": "city",
+    "latitude": 41.3453,
+    "longitude": 21.5547,
+    "coordinates": [21.5547, 41.3453]
+  },
+  {
+    "id": "marko_towers",
+    "name": "Marko's Towers",
+    "description": "Scale these legendary granite formations named after medieval king Marko! Dramatic rock towers and ancient legends create perfect climbing and photography adventures.",
+    "type": "nature",
+    "latitude": 41.3167,
+    "longitude": 21.5833,
+    "coordinates": [21.5833, 41.3167]
+  },
+  {
+    "id": "krushevo",
+    "name": "Krushevo",
+    "description": "Ascend to the Balkans' highest town where revolutionary history meets pristine mountain air! Traditional Vlach architecture and panoramic views create unique cultural adventures.",
+    "type": "city",
+    "latitude": 41.3689,
+    "longitude": 21.2489,
+    "coordinates": [21.2489, 41.3689]
+  },
+  {
+    "id": "makedonium",
+    "name": "Makedonium Monument",
+    "description": "Marvel at this striking modern monument commemorating the Ilinden Uprising! Unique architecture and historical significance create powerful cultural experiences.",
+    "type": "monument",
+    "latitude": 41.3689,
+    "longitude": 21.2489,
+    "coordinates": [21.2489, 41.3689]
+  },
+  {
+    "id": "mečkin_kamen",
+    "name": "Mečkin Kamen",
+    "description": "Conquer this dramatic mountain peak offering panoramic Balkan views! Challenging trails and spectacular vistas reward serious mountain adventurers.",
+    "type": "nature",
+    "latitude": 41.3333,
+    "longitude": 21.2000,
+    "coordinates": [21.2000, 41.3333]
+  },
+  {
+    "id": "veles",
+    "name": "Veles",
+    "description": "Explore this ancient Vardar River town where Byzantine heritage meets industrial history! Ottoman bridges and diverse architecture offer rich cultural adventures.",
+    "type": "city",
+    "latitude": 41.7161,
+    "longitude": 21.7753,
+    "coordinates": [21.7753, 41.7161]
+  },
+  {
+    "id": "stobi",
+    "name": "Stobi Archaeological Site",
+    "description": "Walk through this magnificent ancient city where Roman roads meet Christian basilicas! Well-preserved mosaics and theaters create world-class archaeological adventures.",
+    "type": "monument",
+    "latitude": 41.5500,
+    "longitude": 21.9167,
+    "coordinates": [21.9167, 41.5500]
+  },
+  {
+    "id": "tikvesh_lake",
+    "name": "Tikvesh Lake",
+    "description": "Navigate Macedonia's largest artificial lake surrounded by wine country! Boating, fishing, and vineyard tours create perfect recreational adventures.",
+    "type": "recreation",
+    "latitude": 41.5167,
+    "longitude": 21.9833,
+    "coordinates": [21.9833, 41.5167]
+  },
+    {
+    "id": "dojran_lake",
+    "name": "Dojran Lake",
+    "description": "Discover this shallow thermal lake shared with Greece where ancient spa traditions thrive! Healing mud baths and warm waters create unique wellness adventures.",
+    "type": "recreation",
+    "latitude": 41.2167,
+    "longitude": 22.7167,
+    "coordinates": [22.7167, 41.2167]
+  },
+  {
+    "id": "star_dojran",
+    "name": "Star Dojran",
+    "description": "Experience this charming lakeside resort town where thermal springs meet traditional fishing culture! Historic spa architecture and waterfront dining await relaxation seekers.",
+    "type": "city",
+    "latitude": 41.1889,
+    "longitude": 22.7244,
+    "coordinates": [22.7244, 41.1889]
+  },
+  {
+    "id": "gevgelija",
+    "name": "Gevgelija",
+    "description": "Explore this vibrant border town where Mediterranean climate meets Balkan culture! Casinos, thermal spas, and cross-border adventures create unique entertainment experiences.",
+    "type": "city",
+    "latitude": 41.1431,
+    "longitude": 22.5047,
+    "coordinates": [22.5047, 41.1431]
+  },
+  {
+    "id": "valandovo",
+    "name": "Valandovo",
+    "description": "Journey through Macedonia's warmest region where Mediterranean agriculture flourishes! Rice fields, tobacco farms, and thermal springs create diverse agricultural adventures.",
+    "type": "city",
+    "latitude": 41.3181,
+    "longitude": 22.5606,
+    "coordinates": [22.5606, 41.3181]
+  },
+  {
+    "id": "bogdanci",
+    "name": "Bogdanci",
+    "description": "Discover this southern agricultural town where early harvests and warm climate create Mediterranean atmosphere! Traditional farming and cross-border culture await exploration.",
+    "type": "city",
+    "latitude": 41.2031,
+    "longitude": 22.5797,
+    "coordinates": [22.5797, 41.2031]
+  },
+  {
+    "id": "radoviš",
+    "name": "Radoviš",
+    "description": "Explore this mining heritage town nestled in mountainous terrain! Industrial archaeology and surrounding wilderness create unique urban-nature adventures.",
+    "type": "city",
+    "latitude": 41.6383,
+    "longitude": 22.4647,
+    "coordinates": [22.4647, 41.6383]
+  },
+    {
+    "id": "štip",
+    "name": "Štip",
+    "description": "Experience this eastern textile town where the Bregalnica River meets ancient trade routes! Historic architecture and river valley views create charming urban adventures.",
+    "type": "city",
+    "latitude": 41.7414,
+    "longitude": 22.1953,
+    "coordinates": [22.1953, 41.7414]
+  },
+  {
+    "id": "bregalnica_river",
+    "name": "Bregalnica River",
+    "description": "Follow Macedonia's second-longest river through diverse landscapes from mountains to plains! Fishing, kayaking, and riverside camping create perfect water adventures.",
+    "type": "nature",
+    "latitude": 41.6500,
+    "longitude": 22.3000,
+    "coordinates": [22.3000, 41.6500]
+  },
+  {
+    "id": "kočani",
+    "name": "Kočani",
+    "description": "Discover this rice-growing town in Macedonia's warmest valley! Traditional agriculture, thermal springs, and river adventures create unique lowland experiences.",
+    "type": "city",
+    "latitude": 41.9161,
+    "longitude": 22.4133,
+    "coordinates": [22.4133, 41.9161]
+  },
+  {
+    "id": "vinica",
+    "name": "Vinica",
+    "description": "Explore this ancient town where Roman archaeology meets traditional winemaking! Historic ruins and vineyard culture create perfect archaeological and gastronomic adventures.",
+    "type": "city",
+    "latitude": 41.8839,
+    "longitude": 22.5081,
+    "coordinates": [22.5081, 41.8839]
+  },
+  {
+    "id": "bargala",
+    "name": "Bargala Archaeological Site",
+    "description": "Uncover this Early Christian city hidden in eastern Macedonia! Ancient basilicas with stunning mosaics create remarkable archaeological adventures off the beaten path.",
+    "type": "monument",
+    "latitude": 41.8833,
+    "longitude": 22.5167,
+    "coordinates": [22.5167, 41.8833]
+  },
+  {
+    "id": "delčevo",
+    "name": "Delčevo",
+    "description": "Venture to this highland mining town surrounded by pristine forests! Traditional mountain culture and wilderness access create authentic overlanding adventures.",
+    "type": "city",
+    "latitude": 41.9681,
+    "longitude": 22.7681,
+    "coordinates": [22.7681, 41.9681]
+  },
+  {
+    "id": "pehčevo",
+    "name": "Pehčevo",
+    "description": "Discover this small mountain town gateway to pristine wilderness! Forest trails and traditional highland life create perfect base camp adventures.",
+    "type": "city",
+    "latitude": 41.7619,
+    "longitude": 22.8947,
+    "coordinates": [22.8947, 41.7619]
+  },
+  {
+    "id": "osogovo_mountains",
+    "name": "Osogovo Mountains",
+    "description": "Trek through this pristine mountain range on the Bulgarian border! Dense forests, glacial lakes, and endemic species create spectacular wilderness adventures.",
+    "type": "nature",
+    "latitude": 42.0000,
+    "longitude": 22.6667,
+    "coordinates": [22.6667, 42.0000]
   }
 ]
