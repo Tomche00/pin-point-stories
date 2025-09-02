@@ -17,7 +17,7 @@ const CustomMap = () => {
   const [hoveredLocation, setHoveredLocation] = useState<Location | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [tooltipVisible, setTooltipVisible] = useState(false);
-  const [visibleTypes, setVisibleTypes] = useState<Set<string>>(new Set(['monument', 'city', 'camping', 'nature']));
+  const [visibleTypes, setVisibleTypes] = useState<Set<string>>(new Set(['monument', 'city', 'recreation', 'nature']));
 
   // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
@@ -38,7 +38,7 @@ const CustomMap = () => {
     const colors = {
       monument: '#fbbf24', // yellow
       city: '#10b981', // emerald
-      camping: '#f97316', // orange
+      recreation: '#f97316', // orange
       nature: '#84cc16', // lime
 	  monastery: 'ff00ff',
     };
@@ -171,7 +171,7 @@ const CustomMap = () => {
                     <div className="absolute inset-0 flex items-center justify-center text-white text-xs font-bold">
                       {location.type === 'monument' && '🏛️'}
                       {location.type === 'city' && '🏙️'}
-                      {location.type === 'camping' && '🏕️'}
+                      {location.type === 'recreation' && '🏕️'}
                       {location.type === 'nature' && '🌲'}
                     </div>
                   </div>
@@ -212,9 +212,9 @@ const CustomMap = () => {
           </div>
           <div 
             className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-              visibleTypes.has('camping') ? 'opacity-100' : 'opacity-50'
+              visibleTypes.has('recreation') ? 'opacity-100' : 'opacity-50'
             }`}
-            onClick={() => toggleLocationType('camping')}
+            onClick={() => toggleLocationType('recreation')}
           >
             <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#f97316' }}></div>
             <span className="text-sm text-muted-foreground">Recreation 🏕️</span>
@@ -237,7 +237,7 @@ const CustomMap = () => {
         <div className="text-sm text-muted-foreground space-y-1">
           {visibleTypes.has('monument') && <div>🏛️ {filteredLocations.filter(l => l.type === 'monument').length} Monuments</div>}
           {visibleTypes.has('city') && <div>🏙️ {filteredLocations.filter(l => l.type === 'city').length} Cities</div>}
-          {visibleTypes.has('camping') && <div>🏕️ {filteredLocations.filter(l => l.type === 'camping').length} Recreation</div>}
+          {visibleTypes.has('recreation') && <div>🏕️ {filteredLocations.filter(l => l.type === 'recreation').length} Recreation</div>}
           {visibleTypes.has('nature') && <div>🌲 {filteredLocations.filter(l => l.type === 'nature').length} Nature</div>}
         </div>
       </div>
