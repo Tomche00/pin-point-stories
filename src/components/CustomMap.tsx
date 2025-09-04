@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import locations from '@/data/locations.json';
 import { LocationTooltip } from './LocationTooltip';
 import macedoniaMap from '@/assets/macedonia-focused-map.jpg';
+import { LOCATION_TYPES, DEFAULT_VISIBLE_TYPES } from '@/constants/locationTypes';
 
 interface Location {
   id: string;
@@ -17,7 +18,11 @@ const CustomMap = () => {
   const [hoveredLocation, setHoveredLocation] = useState<Location | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
   const [tooltipVisible, setTooltipVisible] = useState(false);
-  const [visibleTypes, setVisibleTypes] = useState<Set<string>>(new Set(['monument', 'city', 'recreation', 'nature']));
+  const [visibleTypes, setVisibleTypes] = useState<Set<string>>(DEFAULT_VISIBLE_TYPES);
+
+  // Get unique location types from data
+  const availableTypes = Array.from(new Set(locations.map(location => location.type)))
+    .filter(type => LOCATION_TYPES[type]); // Only show types we have configs for
 
   // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
@@ -35,14 +40,11 @@ const CustomMap = () => {
   };
 
   const getLocationColor = (type: string) => {
-    const colors = {
-      monument: '#fbbf24', // yellow
-      city: '#10b981', // emerald
-      recreation: '#f97316', // orange
-      nature: '#84cc16', // lime
-	  monastery: 'ff00ff',
-    };
-    return colors[type as keyof typeof colors] || '#60a5fa';
+    return LOCATION_TYPES[type]?.color || '#60a5fa';
+  };
+
+  const getLocationIcon = (type: string) => {
+    return LOCATION_TYPES[type]?.icon || '📍';
   };
 
   const handlePinHover = (location: Location, event: React.MouseEvent) => {
@@ -167,13 +169,10 @@ const CustomMap = () => {
                       boxShadow: `0 0 20px ${getLocationColor(location.type)}40`
                     }}
                   >
-                    {/* Type icon */}
-                    <div className="absolute inset-0 flex items-center justify-center text-white text-xs font-bold">
-                      {location.type === 'monument' && '🏛️'}
-                      {location.type === 'city' && '🏙️'}
-                      {location.type === 'recreation' && '🏕️'}
-                      {location.type === 'nature' && '🌲'}
-                    </div>
+                     {/* Type icon */}
+                     <div className="absolute inset-0 flex items-center justify-center text-white text-xs font-bold">
+                       {getLocationIcon(location.type)}
+                     </div>
                   </div>
                 </div>
               );
@@ -192,42 +191,21 @@ const CustomMap = () => {
       <div className="absolute bottom-6 left-6 z-20 map-tooltip">
         <h3 className="font-semibold text-foreground mb-3">Location Types</h3>
         <div className="space-y-2">
-          <div 
-            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-              visibleTypes.has('monument') ? 'opacity-100' : 'opacity-50'
-            }`}
-            onClick={() => toggleLocationType('monument')}
-          >
-            <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#fbbf24' }}></div>
-            <span className="text-sm text-muted-foreground">Monuments 🏛️</span>
-          </div>
-          <div 
-            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-              visibleTypes.has('city') ? 'opacity-100' : 'opacity-50'
-            }`}
-            onClick={() => toggleLocationType('city')}
-          >
-            <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#10b981' }}></div>
-            <span className="text-sm text-muted-foreground">Cities 🏙️</span>
-          </div>
-          <div 
-            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-              visibleTypes.has('recreation') ? 'opacity-100' : 'opacity-50'
-            }`}
-            onClick={() => toggleLocationType('recreation')}
-          >
-            <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#f97316' }}></div>
-            <span className="text-sm text-muted-foreground">Recreation 🏕️</span>
-          </div>
-          <div 
-            className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-              visibleTypes.has('nature') ? 'opacity-100' : 'opacity-50'
-            }`}
-            onClick={() => toggleLocationType('nature')}
-          >
-            <div className="w-4 h-4 rounded-full" style={{ backgroundColor: '#84cc16' }}></div>
-            <span className="text-sm text-muted-foreground">Nature 🌲</span>
-          </div>
+          {availableTypes.map(type => {
+            const config = LOCATION_TYPES[type];
+            return (
+              <div 
+                key={type}
+                className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
+                  visibleTypes.has(type) ? 'opacity-100' : 'opacity-50'
+                }`}
+                onClick={() => toggleLocationType(type)}
+              >
+                <div className="w-4 h-4 rounded-full" style={{ backgroundColor: config.color }}></div>
+                <span className="text-sm text-muted-foreground">{config.label} {config.icon}</span>
+              </div>
+            );
+          })}
         </div>
       </div>
 
@@ -235,10 +213,16 @@ const CustomMap = () => {
       <div className="absolute top-6 right-6 z-20 map-tooltip">
         <h3 className="font-semibold text-foreground mb-2">Showing {filteredLocations.length} Locations</h3>
         <div className="text-sm text-muted-foreground space-y-1">
-          {visibleTypes.has('monument') && <div>🏛️ {filteredLocations.filter(l => l.type === 'monument').length} Monuments</div>}
-          {visibleTypes.has('city') && <div>🏙️ {filteredLocations.filter(l => l.type === 'city').length} Cities</div>}
-          {visibleTypes.has('recreation') && <div>🏕️ {filteredLocations.filter(l => l.type === 'recreation').length} Recreation</div>}
-          {visibleTypes.has('nature') && <div>🌲 {filteredLocations.filter(l => l.type === 'nature').length} Nature</div>}
+          {availableTypes.map(type => {
+            const config = LOCATION_TYPES[type];
+            const count = filteredLocations.filter(l => l.type === type).length;
+            if (!visibleTypes.has(type) || count === 0) return null;
+            return (
+              <div key={type}>
+                {config.icon} {count} {config.label}
+              </div>
+            );
+          })}
         </div>
       </div>
 
