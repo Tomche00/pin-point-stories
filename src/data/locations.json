@@ -102,7 +102,7 @@
     "id": "ribnik_kapinovo_nezilovski_merak",
     "name": "Ribnik Kapinovo & Nezilovski Merak",
     "description": "Discover hidden mountain lakes and recreational paradise! These pristine waters offer perfect wild camping, fishing, and nature photography in Macedonia's untouched highlands.",
-    "type": "recreation",
+    "type": "camping",
     "latitude": 41.6288738,
     "longitude": 21.4552288,
     "coordinates": [21.4552288, 41.6288738]
@@ -714,7 +714,7 @@
     "id": "berovo_lake",
     "name": "Berovo Lake",
     "description": "Fish and camp at this pristine artificial lake surrounded by dense pine forests! Crystal waters and mountain wilderness create perfect overlanding retreats.",
-    "type": "recreation",
+    "type": "camping",
     "latitude": 41.7000,
     "longitude": 22.8500,
     "coordinates": [22.8500, 41.7000]
@@ -759,7 +759,7 @@
     "id": "tikvesh_wine_region",
     "name": "Tikvesh Wine Region",
     "description": "Journey through Macedonia's premier wine country where ancient vines meet modern winemaking! Rolling vineyards and cellar tours create perfect gastronomic adventures.",
-    "type": "recreation",
+    "type": "restaurant",
     "latitude": 41.4333,
     "longitude": 22.0667,
     "coordinates": [22.0667, 41.4333]
@@ -1092,7 +1092,7 @@
     "id": "popova_sapka",
     "name": "Popova Šapka",
     "description": "Ski and hike this premier mountain resort where winter sports meet summer trekking! Panoramic views and alpine adventures await year-round explorers.",
-    "type": "recreation",
+    "type": "accommodation",
     "latitude": 42.0333,
     "longitude": 20.9167,
     "coordinates": [20.9167, 42.0333]
@@ -1353,7 +1353,7 @@
     "id": "black_drin_springs",
     "name": "Black Drin Springs",
     "description": "Witness the birthplace of a mighty river emerging from Lake Ohrid's depths! Crystal springs and underwater mysteries create fascinating natural adventures.",
-    "type": "nature",
+    "type": "water",
     "latitude": 41.1800,
     "longitude": 20.6500,
     "coordinates": [20.6500, 41.1800]
