@@ -1,8 +1,9 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useState } from 'react';
 import locations from '@/data/locations.json';
 import { LocationTooltip } from './LocationTooltip';
 import macedoniaMap from '@/assets/macedonia-focused-map.jpg';
 import { LOCATION_TYPES, DEFAULT_VISIBLE_TYPES } from '@/constants/locationTypes';
+import { MapPin, Eye, EyeOff, Compass } from 'lucide-react';
 
 interface Location {
   id: string;
@@ -20,32 +21,24 @@ const CustomMap = () => {
   const [tooltipVisible, setTooltipVisible] = useState(false);
   const [visibleTypes, setVisibleTypes] = useState<Set<string>>(DEFAULT_VISIBLE_TYPES);
 
-  // Get unique location types from data
   const availableTypes = Array.from(new Set(locations.map(location => location.type)))
-    .filter(type => LOCATION_TYPES[type]); // Only show types we have configs for
+    .filter(type => LOCATION_TYPES[type]);
 
-  // Map bounds for North Macedonia focused view (80% Macedonia, 20% surrounding countries)
   const MAP_BOUNDS = {
-    north: 42.44,    // 42.5 Include southern Serbia
-    south: 40.65,    // 40.8 Include northern Greece  
-    west: 19.68,     // 20.2 Include eastern Albania
-    east: 23.75      // 23.0 Include western Bulgaria
+    north: 42.44,
+    south: 40.65,
+    west: 19.68,
+    east: 23.75
   };
 
-  // Convert lat/lng to percentage coordinates
   const coordsToPercent = (lng: number, lat: number) => {
     const x = ((lng - MAP_BOUNDS.west) / (MAP_BOUNDS.east - MAP_BOUNDS.west)) * 100;
     const y = ((MAP_BOUNDS.north - lat) / (MAP_BOUNDS.north - MAP_BOUNDS.south)) * 100;
     return { x: Math.max(0, Math.min(100, x)), y: Math.max(0, Math.min(100, y)) };
   };
 
-  const getLocationColor = (type: string) => {
-    return LOCATION_TYPES[type]?.color || '#60a5fa';
-  };
-
-  const getLocationIcon = (type: string) => {
-    return LOCATION_TYPES[type]?.icon || '📍';
-  };
+  const getLocationColor = (type: string) => LOCATION_TYPES[type]?.color || '#60a5fa';
+  const getLocationIcon = (type: string) => LOCATION_TYPES[type]?.icon || '📍';
 
   const handlePinHover = (location: Location, event: React.MouseEvent) => {
     setHoveredLocation(location);
@@ -56,38 +49,25 @@ const CustomMap = () => {
   const handleNavigation = (location: Location) => {
     const { latitude, longitude } = location;
     const coords = `${latitude},${longitude}`;
-    
-    // For mobile devices, try to open native maps app
     if (/Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      // Try Google Maps app first, fallback to web
       window.open(`geo:${coords}?q=${coords}(${encodeURIComponent(location.name)})`, '_system');
-      // Fallback for iOS
       setTimeout(() => {
         window.open(`https://maps.google.com/maps?q=${coords}&z=15`, '_blank');
       }, 1000);
     } else {
-      // For desktop, open Google Maps in new tab
       window.open(`https://maps.google.com/maps?q=${coords}&z=15`, '_blank');
     }
   };
 
-  const handlePinClick = (location: Location) => {
-    handleNavigation(location);
-  };
+  const handlePinClick = (location: Location) => handleNavigation(location);
 
   const handlePinLeave = () => {
-    // Delay hiding tooltip to allow hovering over it
     setTimeout(() => {
-      if (!tooltipVisible) {
-        setHoveredLocation(null);
-      }
+      if (!tooltipVisible) setHoveredLocation(null);
     }, 100);
   };
 
-  const handleTooltipMouseEnter = () => {
-    setTooltipVisible(true);
-  };
-
+  const handleTooltipMouseEnter = () => setTooltipVisible(true);
   const handleTooltipMouseLeave = () => {
     setTooltipVisible(false);
     setHoveredLocation(null);
@@ -100,11 +80,8 @@ const CustomMap = () => {
   const toggleLocationType = (type: string) => {
     setVisibleTypes(prev => {
       const newSet = new Set(prev);
-      if (newSet.has(type)) {
-        newSet.delete(type);
-      } else {
-        newSet.add(type);
-      }
+      if (newSet.has(type)) newSet.delete(type);
+      else newSet.add(type);
       return newSet;
     });
   };
@@ -112,119 +89,166 @@ const CustomMap = () => {
   const filteredLocations = locations.filter(location => visibleTypes.has(location.type));
 
   return (
-    <div className="relative w-full h-screen bg-background overflow-hidden">
-      {/* Title overlay */}
-      <div className="absolute top-4 left-4 sm:top-6 sm:left-6 z-20">
-        <div className="bg-gradient-to-br from-primary/90 to-primary/70 backdrop-blur-md rounded-2xl px-5 py-4 sm:px-7 sm:py-5 shadow-xl border border-white/10">
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
-            Explore North Macedonia
-          </h1>
-          <p className="text-white/80 text-sm sm:text-base mt-1 font-medium">
-            Discover monuments, cities, and natural wonders
-          </p>
-        </div>
-      </div>
+    <div className="relative w-full min-h-[calc(100vh-3.5rem)] bg-gradient-to-b from-background via-background to-secondary overflow-hidden">
+      
+      {/* Hero Title Section */}
+      <div className="relative z-20 px-4 sm:px-8 pt-6 pb-4">
+        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+          <div>
+            <div className="flex items-center gap-2 mb-2">
+              <Compass className="w-5 h-5 text-accent" />
+              <span className="text-xs font-semibold uppercase tracking-widest text-accent">Interactive Map</span>
+            </div>
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight">
+              <span className="gradient-text">Explore North Macedonia</span>
+            </h1>
+            <p className="text-muted-foreground text-base sm:text-lg mt-2 max-w-lg">
+              Discover monuments, cities, and natural wonders across the country
+            </p>
+          </div>
 
-      {/* Map container */}
-      <div className="absolute inset-0 flex items-center justify-center p-4">
-        <div className="relative max-w-full max-h-full">
-          {/* Background map image */}
-          <img 
-            src={macedoniaMap}
-            alt="North Macedonia Map"
-            className="w-full h-full object-contain rounded-lg shadow-2xl border border-border/20"
-            style={{ maxWidth: '95vw', maxHeight: '90vh' }}
-          />
-          
-          {/* Location pins overlay */}
-          <div className="absolute inset-0">
-            {filteredLocations.map((location: Location) => {
-              const { x, y } = coordsToPercent(location.coordinates[0], location.coordinates[1]);
-              
+          {/* Stats pills */}
+          <div className="flex flex-wrap gap-2">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-semibold">
+              <MapPin className="w-3.5 h-3.5" />
+              {filteredLocations.length} locations
+            </div>
+            {availableTypes.map(type => {
+              const config = LOCATION_TYPES[type];
+              const count = filteredLocations.filter(l => l.type === type).length;
+              if (!visibleTypes.has(type) || count === 0) return null;
               return (
-                <div
-                  key={location.id}
-                  className="absolute transform -translate-x-1/2 -translate-y-1/2 cursor-pointer group"
-                  style={{ 
-                    left: `${x}%`, 
-                    top: `${y}%`,
-                  }}
-                  onMouseEnter={(e) => handlePinHover(location, e)}
-                  onMouseLeave={handlePinLeave}
-                  onMouseMove={handlePinMove}
-                  onClick={() => handlePinClick(location)}
-                >
-                  {/* Glow effect */}
-                  <div 
-                    className="absolute inset-0 rounded-full opacity-0 group-hover:opacity-30 transition-all duration-300 transform scale-150"
-                    style={{ 
-                      backgroundColor: getLocationColor(location.type),
-                      filter: 'blur(8px)'
-                    }}
-                  />
-                  
-                  {/* Main pin */}
-                  <div 
-                    className="relative w-6 h-6 rounded-full border-2 border-white shadow-lg transform transition-all duration-300 group-hover:scale-125"
-                    style={{ 
-                      backgroundColor: getLocationColor(location.type),
-                      boxShadow: `0 0 20px ${getLocationColor(location.type)}40`
-                    }}
-                  >
-                     {/* Type icon */}
-                     <div className="absolute inset-0 flex items-center justify-center text-white text-xs font-bold">
-                       {getLocationIcon(location.type)}
-                     </div>
-                  </div>
+                <div key={type} className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-full bg-muted text-muted-foreground text-xs font-medium">
+                  <span>{config.icon}</span> {count}
                 </div>
               );
             })}
           </div>
+        </div>
+      </div>
+
+      {/* Main content area */}
+      <div className="relative z-10 px-4 sm:px-8 pb-6">
+        <div className="max-w-7xl mx-auto flex gap-4">
           
-          {/* Gradient overlays */}
-          <div className="absolute inset-0 pointer-events-none">
-            <div className="absolute top-0 left-0 right-0 h-16 bg-gradient-to-b from-background/30 to-transparent rounded-t-lg" />
-            <div className="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-t from-background/30 to-transparent rounded-b-lg" />
+          {/* Legend sidebar */}
+          <div className="hidden lg:block w-56 flex-shrink-0">
+            <div className="glass-panel p-4 sticky top-20">
+              <h3 className="text-sm font-bold text-foreground mb-3 uppercase tracking-wider">Filters</h3>
+              <div className="space-y-1">
+                {availableTypes.map(type => {
+                  const config = LOCATION_TYPES[type];
+                  const isVisible = visibleTypes.has(type);
+                  const count = locations.filter(l => l.type === type).length;
+                  return (
+                    <button
+                      key={type}
+                      className={`w-full flex items-center gap-2.5 px-3 py-2 rounded-xl text-sm transition-all duration-200 ${
+                        isVisible 
+                          ? 'bg-primary/8 text-foreground font-medium' 
+                          : 'text-muted-foreground hover:bg-muted/50 opacity-50'
+                      }`}
+                      onClick={() => toggleLocationType(type)}
+                    >
+                      <div 
+                        className="w-3 h-3 rounded-full flex-shrink-0 transition-transform duration-200"
+                        style={{ 
+                          backgroundColor: config.color,
+                          transform: isVisible ? 'scale(1)' : 'scale(0.7)',
+                          opacity: isVisible ? 1 : 0.4
+                        }}
+                      />
+                      <span className="flex-1 text-left">{config.label}</span>
+                      <span className="text-xs text-muted-foreground">{count}</span>
+                      {isVisible ? (
+                        <Eye className="w-3.5 h-3.5 text-primary" />
+                      ) : (
+                        <EyeOff className="w-3.5 h-3.5" />
+                      )}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
 
-      {/* Legend */}
-      <div className="absolute bottom-6 left-6 z-20 map-tooltip">
-        <h3 className="font-semibold text-foreground mb-3">Location Types</h3>
-        <div className="space-y-2">
-          {availableTypes.map(type => {
-            const config = LOCATION_TYPES[type];
-            return (
-              <div 
-                key={type}
-                className={`flex items-center gap-3 cursor-pointer p-2 rounded-md transition-all hover:bg-muted/50 ${
-                  visibleTypes.has(type) ? 'opacity-100' : 'opacity-50'
-                }`}
-                onClick={() => toggleLocationType(type)}
-              >
-                <div className="w-4 h-4 rounded-full" style={{ backgroundColor: config.color }}></div>
-                <span className="text-sm text-muted-foreground">{config.label} {config.icon}</span>
-              </div>
-            );
-          })}
-        </div>
-      </div>
+          {/* Map area */}
+          <div className="flex-1 min-w-0">
+            <div className="glass-panel overflow-hidden">
+              <div className="relative">
+                <img 
+                  src={macedoniaMap}
+                  alt="North Macedonia Map"
+                  className="w-full h-auto object-contain"
+                />
+                
+                {/* Pins overlay */}
+                <div className="absolute inset-0">
+                  {filteredLocations.map((location: Location) => {
+                    const { x, y } = coordsToPercent(location.coordinates[0], location.coordinates[1]);
+                    return (
+                      <div
+                        key={location.id}
+                        className="absolute transform -translate-x-1/2 -translate-y-1/2 cursor-pointer group"
+                        style={{ left: `${x}%`, top: `${y}%` }}
+                        onMouseEnter={(e) => handlePinHover(location, e)}
+                        onMouseLeave={handlePinLeave}
+                        onMouseMove={handlePinMove}
+                        onClick={() => handlePinClick(location)}
+                      >
+                        <div 
+                          className="absolute inset-0 rounded-full opacity-0 group-hover:opacity-40 transition-all duration-300 transform scale-[2]"
+                          style={{ backgroundColor: getLocationColor(location.type), filter: 'blur(8px)' }}
+                        />
+                        <div 
+                          className="relative w-5 h-5 sm:w-6 sm:h-6 rounded-full border-2 border-white shadow-md transform transition-all duration-300 group-hover:scale-150 group-hover:z-10"
+                          style={{ 
+                            backgroundColor: getLocationColor(location.type),
+                            boxShadow: `0 2px 8px ${getLocationColor(location.type)}50`
+                          }}
+                        >
+                          <div className="absolute inset-0 flex items-center justify-center text-[8px] sm:text-[10px]">
+                            {getLocationIcon(location.type)}
+                          </div>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
 
-      {/* Statistics */}
-      <div className="absolute top-6 right-6 z-20 map-tooltip">
-        <h3 className="font-semibold text-foreground mb-2">Showing {filteredLocations.length} Locations</h3>
-        <div className="text-sm text-muted-foreground space-y-1">
-          {availableTypes.map(type => {
-            const config = LOCATION_TYPES[type];
-            const count = filteredLocations.filter(l => l.type === type).length;
-            if (!visibleTypes.has(type) || count === 0) return null;
-            return (
-              <div key={type}>
-                {config.icon} {count} {config.label}
+                {/* Subtle gradient edges */}
+                <div className="absolute inset-0 pointer-events-none rounded-2xl">
+                  <div className="absolute top-0 inset-x-0 h-12 bg-gradient-to-b from-card/20 to-transparent" />
+                  <div className="absolute bottom-0 inset-x-0 h-12 bg-gradient-to-t from-card/20 to-transparent" />
+                </div>
               </div>
-            );
-          })}
+            </div>
+
+            {/* Mobile legend */}
+            <div className="lg:hidden mt-4 glass-panel p-4">
+              <h3 className="text-sm font-bold text-foreground mb-3 uppercase tracking-wider">Filters</h3>
+              <div className="flex flex-wrap gap-2">
+                {availableTypes.map(type => {
+                  const config = LOCATION_TYPES[type];
+                  const isVisible = visibleTypes.has(type);
+                  return (
+                    <button
+                      key={type}
+                      className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium transition-all duration-200 border ${
+                        isVisible
+                          ? 'border-primary/30 bg-primary/10 text-foreground'
+                          : 'border-border bg-muted/50 text-muted-foreground opacity-60'
+                      }`}
+                      onClick={() => toggleLocationType(type)}
+                    >
+                      <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: config.color }} />
+                      {config.label} {config.icon}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
