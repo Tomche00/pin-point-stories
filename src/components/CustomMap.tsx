@@ -114,13 +114,15 @@ const CustomMap = () => {
   return (
     <div className="relative w-full h-screen bg-background overflow-hidden">
       {/* Title overlay */}
-      <div className="absolute top-6 left-6 z-20">
-        <h1 className="text-4xl font-bold text-white drop-shadow-lg">
-          Explore North Macedonia
-        </h1>
-        <p className="text-white/80 text-lg drop-shadow-md">
-          Discover monuments, cities, and natural wonders
-        </p>
+      <div className="absolute top-4 left-4 sm:top-6 sm:left-6 z-20">
+        <div className="bg-gradient-to-br from-primary/90 to-primary/70 backdrop-blur-md rounded-2xl px-5 py-4 sm:px-7 sm:py-5 shadow-xl border border-white/10">
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-tight">
+            Explore North Macedonia
+          </h1>
+          <p className="text-white/80 text-sm sm:text-base mt-1 font-medium">
+            Discover monuments, cities, and natural wonders
+          </p>
+        </div>
       </div>
 
       {/* Map container */}
