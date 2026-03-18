@@ -1,73 +1,111 @@
-# Welcome to your Lovable project
+# 🗺️ Macedonia Explorer
 
-## Project info
+An interactive map application for exploring **North Macedonia** — discover monuments, cities, nature spots, camping locations, restaurants, and more across the country.
 
-**URL**: https://lovable.dev/projects/f81ab002-c603-4909-afdf-5146da531858
+![Macedonia Explorer Preview](docs/screenshots/preview.png)
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- **Interactive Map** — Browse 250+ curated locations plotted on a custom map of North Macedonia
+- **Dynamic Categories** — Filter by location type: Monuments 🏛️, Cities 🏙️, Nature 🌲, Camping ⛺, Recreation 🏕️, Restaurants 🍽️, Hotels 🏨, and more
+- **Auto-Detection** — New location categories are automatically detected from the data
+- **Location Details** — Click any pin to view name, description, and coordinates
+- **Statistics Panel** — Real-time count of visible locations by category
+- **Toggleable Legend** — Show/hide location types with a single click
+- **Responsive Design** — Works on desktop, tablet, and mobile
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f81ab002-c603-4909-afdf-5146da531858) and start prompting.
+| Technology | Purpose |
+|---|---|
+| **React 18** | UI framework |
+| **TypeScript** | Type safety |
+| **Vite** | Build tool & dev server |
+| **Tailwind CSS** | Utility-first styling |
+| **shadcn/ui** | Component library |
+| **React Router** | Client-side routing |
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Getting Started
 
-**Use your preferred IDE**
+### Prerequisites
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- [Node.js](https://nodejs.org/) (v18+)
+- npm or bun
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Installation
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
+cd macedonia-explorer
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Install dependencies
+npm install
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app will be available at `http://localhost:5173`.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📁 Project Structure
 
-**Use GitHub Codespaces**
+```
+src/
+├── assets/              # Map images and static assets
+├── components/
+│   ├── CustomMap.tsx     # Main interactive map component
+│   ├── LocationTooltip.tsx  # Tooltip for location details
+│   └── Navigation.tsx   # Top navigation bar
+├── constants/
+│   └── locationTypes.ts # Location category configuration
+├── data/
+│   └── locations.json   # All location data (coordinates, names, types)
+├── pages/
+│   ├── Index.tsx        # Home page with map
+│   ├── About.tsx        # About page
+│   └── Rent.tsx         # Rental page
+└── main.tsx             # App entry point
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📍 Adding New Locations
 
-## What technologies are used for this project?
+Location data lives in `src/data/locations.json`. Each entry follows this format:
 
-This project is built with:
+```json
+{
+  "name": "Location Name",
+  "lat": 41.9981,
+  "lng": 21.4254,
+  "type": "monument",
+  "description": "Brief description"
+}
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Adding a New Category
 
-## How can I deploy this project?
+1. Add locations with the new `type` value in `locations.json`
+2. Register the category in `src/constants/locationTypes.ts`:
 
-Simply open [Lovable](https://lovable.dev/projects/f81ab002-c603-4909-afdf-5146da531858) and click on Share -> Publish.
+```ts
+export const LOCATION_TYPES = {
+  // ...existing types
+  yourNewType: {
+    color: '#hexcolor',
+    icon: '🎯',
+    label: 'Display Name'
+  }
+};
+```
 
-## Can I connect a custom domain to my Lovable project?
+The legend and statistics will update automatically.
 
-Yes, you can!
+## 🌐 Deployment
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+This project is deployed via [Lovable](https://lovable.dev).
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Live URL:** [pin-point-stories.lovable.app](https://pin-point-stories.lovable.app)
+
+## 📄 License
+
+This project is private. All rights reserved.
