@@ -57,7 +57,7 @@ const Navigation = () => {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden border-t border-border/40 bg-background/95 backdrop-blur-xl">
+        <div className="md:hidden border-t border-white/20 bg-primary/95 backdrop-blur-xl">
           <div className="px-4 py-3 space-y-1">
             {navItems.map((item) => (
               <Link
