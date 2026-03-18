@@ -2,59 +2,56 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
-*/
-
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
+    --background: 220 20% 97%;
+    --foreground: 220 25% 10%;
 
     --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
+    --card-foreground: 220 25% 10%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
+    --popover-foreground: 220 25% 10%;
 
-    --primary: 220 70% 50%;
-    --primary-foreground: 0 0% 98%;
-    --primary-glow: 220 70% 60%;
+    --primary: 220 72% 50%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 200 80% 55%;
 
-    --secondary: 210 40% 98%;
-    --secondary-foreground: 222.2 84% 4.9%;
+    --secondary: 220 20% 94%;
+    --secondary-foreground: 220 25% 15%;
 
-    --muted: 210 40% 98%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 220 15% 92%;
+    --muted-foreground: 220 10% 45%;
 
-    --accent: 210 40% 98%;
-    --accent-foreground: 222.2 84% 4.9%;
+    --accent: 160 60% 45%;
+    --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 72% 55%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 220 70% 50%;
+    --border: 220 15% 88%;
+    --input: 220 15% 88%;
+    --ring: 220 72% 50%;
 
-    /* Map-specific design tokens */
     --map-pin-monument: 45 100% 65%;
     --map-pin-city: 120 60% 55%;
     --map-pin-camping: 30 90% 60%;
     --map-pin-nature: 90 70% 50%;
-    
-    /* Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)));
-    --gradient-pin: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(220 70% 60%) 100%);
-    --gradient-hero: linear-gradient(135deg, hsl(220 70% 50%) 0%, hsl(220 70% 60%) 100%);
-    
-    /* Shadows */
-    --shadow-pin: 0 10px 30px -10px hsl(var(--primary) / 0.4);
-    --shadow-tooltip: 0 20px 40px -10px hsl(0 0% 0% / 0.1);
-    --shadow-glow: 0 0 40px hsl(var(--primary-glow) / 0.3);
-    --shadow-nav: 0 1px 3px 0 hsl(0 0% 0% / 0.1), 0 1px 2px -1px hsl(0 0% 0% / 0.1);
-    
-    /* Animations */
+
+    --gradient-primary: linear-gradient(135deg, hsl(220 72% 50%), hsl(200 80% 55%));
+    --gradient-hero: linear-gradient(135deg, hsl(220 72% 50%) 0%, hsl(200 80% 55%) 50%, hsl(160 60% 45%) 100%);
+    --gradient-warm: linear-gradient(135deg, hsl(30 90% 55%) 0%, hsl(0 72% 55%) 100%);
+    --gradient-surface: linear-gradient(180deg, hsl(220 20% 97%) 0%, hsl(220 20% 94%) 100%);
+
+    --shadow-sm: 0 1px 2px hsl(220 25% 10% / 0.05);
+    --shadow-md: 0 4px 12px hsl(220 25% 10% / 0.08);
+    --shadow-lg: 0 8px 30px hsl(220 25% 10% / 0.12);
+    --shadow-xl: 0 20px 50px hsl(220 25% 10% / 0.15);
+    --shadow-glow: 0 0 40px hsl(220 72% 50% / 0.2);
+    --shadow-pin: 0 4px 14px hsl(220 72% 50% / 0.3);
+    --shadow-tooltip: 0 16px 40px hsl(220 25% 10% / 0.12);
+    --shadow-nav: 0 1px 3px hsl(220 25% 10% / 0.06);
+
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-bounce: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 
@@ -67,42 +64,42 @@ All colors MUST be HSL.
     --sidebar-accent: 240 4.8% 95.9%;
     --sidebar-accent-foreground: 240 5.9% 10%;
     --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-ring: 220 72% 50%;
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
+    --background: 222 30% 8%;
+    --foreground: 210 20% 95%;
 
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
+    --card: 222 25% 12%;
+    --card-foreground: 210 20% 95%;
 
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 222 25% 12%;
+    --popover-foreground: 210 20% 95%;
 
-    --primary: 220 70% 50%;
-    --primary-foreground: 210 40% 98%;
-    --primary-glow: 220 70% 60%;
+    --primary: 220 72% 55%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 200 80% 60%;
 
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 222 20% 18%;
+    --secondary-foreground: 210 20% 95%;
 
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
+    --muted: 222 20% 18%;
+    --muted-foreground: 215 15% 60%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 160 60% 45%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 220 70% 50%;
-    
-    --shadow-tooltip: 0 20px 40px -10px hsl(0 0% 0% / 0.4);
-    --shadow-nav: 0 1px 3px 0 hsl(0 0% 0% / 0.3), 0 1px 2px -1px hsl(0 0% 0% / 0.3);
-    
+    --border: 222 20% 18%;
+    --input: 222 20% 18%;
+    --ring: 220 72% 55%;
+
+    --shadow-tooltip: 0 20px 40px hsl(0 0% 0% / 0.4);
+    --shadow-nav: 0 1px 3px hsl(0 0% 0% / 0.3);
+
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
@@ -110,7 +107,7 @@ All colors MUST be HSL.
     --sidebar-accent: 240 3.7% 15.9%;
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-ring: 220 72% 55%;
   }
 }
 
@@ -120,41 +117,41 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground antialiased;
   }
 }
 
 @layer components {
+  .glass-panel {
+    @apply bg-card/80 backdrop-blur-xl border border-border/50 rounded-2xl;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .glass-panel-dark {
+    @apply bg-foreground/80 backdrop-blur-xl border border-white/10 rounded-2xl;
+    box-shadow: var(--shadow-xl);
+  }
+
   .map-pin {
-    @apply w-8 h-8 rounded-full border-2 border-primary/20 backdrop-blur-sm transition-all duration-300;
-    background: var(--gradient-pin);
+    @apply w-8 h-8 rounded-full border-2 border-white/80 backdrop-blur-sm transition-all duration-300;
     box-shadow: var(--shadow-pin);
   }
-  
+
   .map-pin:hover {
     @apply scale-110;
     box-shadow: var(--shadow-pin), var(--shadow-glow);
   }
-  
+
   .map-tooltip {
-    @apply bg-card/95 backdrop-blur-md border border-border/50 rounded-lg p-4 shadow-2xl;
-    background: hsl(var(--card) / 0.95);
-    box-shadow: var(--shadow-tooltip);
+    @apply glass-panel p-4;
   }
-  
-  .location-type-monument {
-    @apply bg-gradient-to-r from-yellow-500 to-orange-500;
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-hero);
   }
-  
-  .location-type-city {
-    @apply bg-gradient-to-r from-emerald-500 to-teal-500;
-  }
-  
-  .location-type-camping {
-    @apply bg-gradient-to-r from-orange-500 to-red-500;
-  }
-  
-  .location-type-nature {
-    @apply bg-gradient-to-r from-green-500 to-lime-500;
+
+  .section-card {
+    @apply bg-card rounded-2xl border border-border/50 p-6 sm:p-8 transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5;
   }
 }
