@@ -34,10 +34,10 @@ const Navigation = () => {
                 key={item.href}
                 to={item.href}
                 className={cn(
-                  "relative px-3.5 py-2 rounded-md text-sm font-medium transition-colors",
+                  "relative px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200",
                   location.pathname === item.href
-                    ? "text-foreground bg-accent"
-                    : "text-muted-foreground hover:text-foreground hover:bg-accent/50"
+                    ? "text-white bg-white/25 shadow-inner"
+                    : "text-white/75 hover:text-white hover:bg-white/15"
                 )}
               >
                 {item.label}
