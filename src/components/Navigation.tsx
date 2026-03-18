@@ -14,7 +14,7 @@ const Navigation = () => {
   ];
 
   return (
-    <nav className="w-full sticky top-0 z-50 border-b border-border/40 bg-background/80 backdrop-blur-xl supports-[backdrop-filter]:bg-background/60">
+    <nav className="w-full sticky top-0 z-50 bg-gradient-to-r from-primary via-primary/90 to-accent-foreground/80 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-14">
           {/* Logo */}
