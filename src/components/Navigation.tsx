@@ -36,8 +36,8 @@ const Navigation = () => {
                 className={cn(
                   "relative px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200",
                   location.pathname === item.href
-                    ? "text-white bg-white/25 shadow-inner"
-                    : "text-white/75 hover:text-white hover:bg-white/15"
+                    ? "text-foreground bg-secondary font-semibold"
+                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
                 )}
               >
                 {item.label}
