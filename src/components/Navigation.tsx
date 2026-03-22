@@ -14,7 +14,7 @@ const Navigation = () => {
   ];
 
   return (
-    <nav className="w-full sticky top-0 z-50 bg-gradient-to-r from-primary via-primary/90 to-accent-foreground/80 shadow-lg">
+    <nav className="w-full sticky top-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border/60" style={{ boxShadow: 'var(--shadow-nav)' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-14">
           {/* Logo */}
