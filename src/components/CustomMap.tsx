@@ -3,7 +3,7 @@ import locations from '@/data/locations.json';
 import { LocationTooltip } from './LocationTooltip';
 import macedoniaMap from '@/assets/macedonia-focused-map.jpg';
 import { LOCATION_TYPES, DEFAULT_VISIBLE_TYPES } from '@/constants/locationTypes';
-import { MapPin, Eye, EyeOff, Compass } from 'lucide-react';
+import { Eye, EyeOff } from 'lucide-react';
 
 interface Location {
   id: string;
@@ -49,7 +49,7 @@ const CustomMap = () => {
   const handleNavigation = (location: Location) => {
     const { latitude, longitude } = location;
     const coords = `${latitude},${longitude}`;
-    if (/Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
       window.open(`geo:${coords}?q=${coords}(${encodeURIComponent(location.name)})`, '_system');
       setTimeout(() => {
         window.open(`https://maps.google.com/maps?q=${coords}&z=15`, '_blank');
@@ -89,100 +89,91 @@ const CustomMap = () => {
   const filteredLocations = locations.filter(location => visibleTypes.has(location.type));
 
   return (
-    <div className="relative w-full min-h-[calc(100vh-3.5rem)] bg-gradient-to-b from-background via-background to-secondary overflow-hidden">
-      
-      {/* Hero Title Section */}
-      <div className="relative z-20 px-4 sm:px-8 pt-6 pb-4">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
-          <div>
-            <div className="flex items-center gap-2 mb-2">
-              <Compass className="w-5 h-5 text-accent" />
-              <span className="text-xs font-semibold uppercase tracking-widest text-accent">Interactive Map</span>
-            </div>
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight">
-              <span className="gradient-text">Explore North Macedonia</span>
-            </h1>
-            <p className="text-muted-foreground text-base sm:text-lg mt-2 max-w-lg">
-              Discover monuments, cities, and natural wonders across the country
-            </p>
-          </div>
+    <div className="w-full min-h-[calc(100vh-3.5rem)] bg-background">
+      {/* Header */}
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-8 pb-6">
+        <p className="text-xs font-medium uppercase tracking-widest text-muted-foreground mb-2">
+          Interactive Map
+        </p>
+        <h1 className="text-2xl sm:text-3xl font-semibold tracking-tight text-foreground">
+          Explore North Macedonia
+        </h1>
+        <p className="text-muted-foreground text-sm mt-1.5 max-w-md">
+          Discover monuments, cities, and natural wonders across the country.
+        </p>
 
-          {/* Stats pills */}
-          <div className="flex flex-wrap gap-2">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-semibold">
-              <MapPin className="w-3.5 h-3.5" />
-              {filteredLocations.length} locations
-            </div>
-            {availableTypes.map(type => {
-              const config = LOCATION_TYPES[type];
-              const count = filteredLocations.filter(l => l.type === type).length;
-              if (!visibleTypes.has(type) || count === 0) return null;
-              return (
-                <div key={type} className="inline-flex items-center gap-1 px-2.5 py-1.5 rounded-full bg-muted text-muted-foreground text-xs font-medium">
-                  <span>{config.icon}</span> {count}
-                </div>
-              );
-            })}
-          </div>
+        {/* Stats */}
+        <div className="flex flex-wrap items-center gap-2 mt-4">
+          <span className="badge-pill">
+            {filteredLocations.length} locations
+          </span>
+          {availableTypes.map(type => {
+            const config = LOCATION_TYPES[type];
+            const count = filteredLocations.filter(l => l.type === type).length;
+            if (!visibleTypes.has(type) || count === 0) return null;
+            return (
+              <span key={type} className="badge-pill">
+                <span>{config.icon}</span> {count}
+              </span>
+            );
+          })}
         </div>
       </div>
 
-      {/* Main content area */}
-      <div className="relative z-10 px-4 sm:px-8 pb-6">
-        <div className="max-w-7xl mx-auto flex gap-4">
-          
-          {/* Legend sidebar */}
-          <div className="hidden lg:block w-56 flex-shrink-0">
-            <div className="glass-panel p-4 sticky top-20">
-              <h3 className="text-sm font-bold text-foreground mb-3 uppercase tracking-wider">Filters</h3>
-              <div className="space-y-1">
-                {availableTypes.map(type => {
-                  const config = LOCATION_TYPES[type];
-                  const isVisible = visibleTypes.has(type);
-                  const count = locations.filter(l => l.type === type).length;
-                  return (
-                    <button
-                      key={type}
-                      className={`w-full flex items-center gap-2.5 px-3 py-2 rounded-xl text-sm transition-all duration-200 ${
-                        isVisible 
-                          ? 'bg-primary/8 text-foreground font-medium' 
-                          : 'text-muted-foreground hover:bg-muted/50 opacity-50'
-                      }`}
-                      onClick={() => toggleLocationType(type)}
-                    >
-                      <div 
-                        className="w-3 h-3 rounded-full flex-shrink-0 transition-transform duration-200"
-                        style={{ 
-                          backgroundColor: config.color,
-                          transform: isVisible ? 'scale(1)' : 'scale(0.7)',
-                          opacity: isVisible ? 1 : 0.4
-                        }}
-                      />
-                      <span className="flex-1 text-left">{config.label}</span>
-                      <span className="text-xs text-muted-foreground">{count}</span>
-                      {isVisible ? (
-                        <Eye className="w-3.5 h-3.5 text-primary" />
-                      ) : (
-                        <EyeOff className="w-3.5 h-3.5" />
-                      )}
-                    </button>
-                  );
-                })}
-              </div>
+      {/* Content */}
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 pb-8">
+        <div className="flex gap-5">
+          {/* Sidebar filters */}
+          <div className="hidden lg:block w-52 flex-shrink-0">
+            <div className="sticky top-20 space-y-1">
+              <p className="text-[11px] font-medium uppercase tracking-widest text-muted-foreground px-2 mb-2">
+                Filters
+              </p>
+              {availableTypes.map(type => {
+                const config = LOCATION_TYPES[type];
+                const isVisible = visibleTypes.has(type);
+                const count = locations.filter(l => l.type === type).length;
+                return (
+                  <button
+                    key={type}
+                    className={`w-full flex items-center gap-2.5 px-2.5 py-2 rounded-lg text-sm transition-colors ${
+                      isVisible
+                        ? 'text-foreground bg-secondary'
+                        : 'text-muted-foreground hover:text-foreground hover:bg-secondary/50'
+                    }`}
+                    onClick={() => toggleLocationType(type)}
+                  >
+                    <span
+                      className="w-2.5 h-2.5 rounded-full flex-shrink-0 transition-opacity"
+                      style={{
+                        backgroundColor: config.color,
+                        opacity: isVisible ? 1 : 0.3
+                      }}
+                    />
+                    <span className="flex-1 text-left text-[13px]">{config.label}</span>
+                    <span className="text-xs text-muted-foreground tabular-nums">{count}</span>
+                    {isVisible ? (
+                      <Eye className="w-3.5 h-3.5 text-muted-foreground" />
+                    ) : (
+                      <EyeOff className="w-3.5 h-3.5 text-muted-foreground/50" />
+                    )}
+                  </button>
+                );
+              })}
             </div>
           </div>
 
-          {/* Map area */}
+          {/* Map */}
           <div className="flex-1 min-w-0">
             <div className="glass-panel overflow-hidden">
               <div className="relative">
-                <img 
+                <img
                   src={macedoniaMap}
                   alt="North Macedonia Map"
                   className="w-full h-auto object-contain"
                 />
-                
-                {/* Pins overlay */}
+
+                {/* Pins */}
                 <div className="absolute inset-0">
                   {filteredLocations.map((location: Location) => {
                     const { x, y } = coordsToPercent(location.coordinates[0], location.coordinates[1]);
@@ -196,53 +187,45 @@ const CustomMap = () => {
                         onMouseMove={handlePinMove}
                         onClick={() => handlePinClick(location)}
                       >
-                        <div 
-                          className="absolute inset-0 rounded-full opacity-0 group-hover:opacity-40 transition-all duration-300 transform scale-[2]"
-                          style={{ backgroundColor: getLocationColor(location.type), filter: 'blur(8px)' }}
-                        />
-                        <div 
-                          className="relative w-5 h-5 sm:w-6 sm:h-6 rounded-full border-2 border-white shadow-md transform transition-all duration-300 group-hover:scale-150 group-hover:z-10"
-                          style={{ 
+                        <div
+                          className="relative w-5 h-5 sm:w-6 sm:h-6 rounded-full border-[1.5px] border-background transform transition-transform duration-200 group-hover:scale-[1.4]"
+                          style={{
                             backgroundColor: getLocationColor(location.type),
-                            boxShadow: `0 2px 8px ${getLocationColor(location.type)}50`
+                            boxShadow: `0 1px 4px ${getLocationColor(location.type)}40`
                           }}
                         >
-                          <div className="absolute inset-0 flex items-center justify-center text-[8px] sm:text-[10px]">
+                          <span className="absolute inset-0 flex items-center justify-center text-[8px] sm:text-[10px]">
                             {getLocationIcon(location.type)}
-                          </div>
+                          </span>
                         </div>
                       </div>
                     );
                   })}
                 </div>
-
-                {/* Subtle gradient edges */}
-                <div className="absolute inset-0 pointer-events-none rounded-2xl">
-                  <div className="absolute top-0 inset-x-0 h-12 bg-gradient-to-b from-card/20 to-transparent" />
-                  <div className="absolute bottom-0 inset-x-0 h-12 bg-gradient-to-t from-card/20 to-transparent" />
-                </div>
               </div>
             </div>
 
-            {/* Mobile legend */}
-            <div className="lg:hidden mt-4 glass-panel p-4">
-              <h3 className="text-sm font-bold text-foreground mb-3 uppercase tracking-wider">Filters</h3>
-              <div className="flex flex-wrap gap-2">
+            {/* Mobile filters */}
+            <div className="lg:hidden mt-4">
+              <p className="text-[11px] font-medium uppercase tracking-widest text-muted-foreground mb-2">
+                Filters
+              </p>
+              <div className="flex flex-wrap gap-1.5">
                 {availableTypes.map(type => {
                   const config = LOCATION_TYPES[type];
                   const isVisible = visibleTypes.has(type);
                   return (
                     <button
                       key={type}
-                      className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium transition-all duration-200 border ${
+                      className={`inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-md text-xs transition-colors border ${
                         isVisible
-                          ? 'border-primary/30 bg-primary/10 text-foreground'
-                          : 'border-border bg-muted/50 text-muted-foreground opacity-60'
+                          ? 'border-border bg-secondary text-foreground'
+                          : 'border-transparent bg-transparent text-muted-foreground'
                       }`}
                       onClick={() => toggleLocationType(type)}
                     >
-                      <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: config.color }} />
-                      {config.label} {config.icon}
+                      <span className="w-2 h-2 rounded-full" style={{ backgroundColor: config.color, opacity: isVisible ? 1 : 0.3 }} />
+                      {config.label}
                     </button>
                   );
                 })}
