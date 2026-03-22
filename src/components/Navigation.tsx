@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import { cn } from '@/lib/utils';
-import { Menu, X } from 'lucide-react';
+import { MapPin, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
 const Navigation = () => {
