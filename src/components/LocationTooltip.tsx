@@ -20,12 +20,12 @@ interface LocationTooltipProps {
   onMouseLeave?: () => void;
 }
 
-export const LocationTooltip: React.FC<LocationTooltipProps> = ({ 
-  location, 
-  position, 
-  onNavigate, 
-  onMouseEnter, 
-  onMouseLeave 
+export const LocationTooltip: React.FC<LocationTooltipProps> = ({
+  location,
+  position,
+  onNavigate,
+  onMouseEnter,
+  onMouseLeave
 }) => {
   const config = LOCATION_TYPES[location.type];
   const icon = config?.icon || '📍';
@@ -34,7 +34,7 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
 
   return (
     <div
-      className="fixed z-50 pointer-events-auto transition-all duration-200"
+      className="fixed z-50 pointer-events-auto"
       style={{
         left: position.x + 10,
         top: position.y - 10,
@@ -43,36 +43,33 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
       onMouseEnter={onMouseEnter}
       onMouseLeave={onMouseLeave}
     >
-      <div className="glass-panel p-4 max-w-xs animate-in fade-in-0 zoom-in-95 duration-200">
-        <div className="flex items-start gap-3 mb-3">
-          <div 
-            className="w-9 h-9 rounded-xl flex-shrink-0 flex items-center justify-center text-sm shadow-sm"
-            style={{ backgroundColor: `${color}20`, border: `1px solid ${color}30` }}
-          >
-            {icon}
-          </div>
+      <div className="bg-card border border-border rounded-lg p-3.5 max-w-[260px] shadow-lg animate-in fade-in-0 zoom-in-95 duration-150">
+        <div className="flex items-start gap-2.5 mb-2">
+          <span className="text-base mt-0.5">{icon}</span>
           <div className="flex-1 min-w-0">
-            <h3 className="font-bold text-foreground text-base leading-tight">
+            <h3 className="font-medium text-foreground text-sm leading-snug">
               {location.name}
             </h3>
-            <span 
-              className="inline-block px-2 py-0.5 text-[10px] rounded-full font-semibold mt-1 uppercase tracking-wider"
-              style={{ backgroundColor: `${color}15`, color }}
+            <span
+              className="inline-block text-[10px] font-medium mt-0.5 uppercase tracking-wider"
+              style={{ color }}
             >
               {label}
             </span>
           </div>
         </div>
-        
-        <p className="text-muted-foreground text-sm leading-relaxed">
+
+        <p className="text-muted-foreground text-xs leading-relaxed">
           {location.description}
         </p>
-        
-        <div className="flex items-center gap-3 mt-3 pt-3 border-t border-border/50 text-xs text-muted-foreground">
-          <span>{location.latitude.toFixed(4)}, {location.longitude.toFixed(4)}</span>
-          <button 
+
+        <div className="flex items-center justify-between mt-3 pt-2.5 border-t border-border">
+          <span className="text-[11px] text-muted-foreground tabular-nums">
+            {location.latitude.toFixed(4)}, {location.longitude.toFixed(4)}
+          </span>
+          <button
             onClick={() => onNavigate?.(location)}
-            className="ml-auto inline-flex items-center gap-1.5 px-3 py-1.5 bg-primary text-primary-foreground text-xs rounded-lg hover:bg-primary/90 transition-colors font-semibold"
+            className="inline-flex items-center gap-1 px-2.5 py-1 bg-foreground text-background text-[11px] rounded-md hover:bg-foreground/90 transition-colors font-medium"
           >
             <Navigation2 className="w-3 h-3" />
             Navigate
