@@ -14,15 +14,15 @@ const Navigation = () => {
   ];
 
   return (
-    <nav className="w-full sticky top-0 z-50 bg-gradient-to-r from-primary via-primary/90 to-accent-foreground/80 shadow-lg">
+    <nav className="w-full sticky top-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border/60" style={{ boxShadow: 'var(--shadow-nav)' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-14">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2.5 group">
-            <div className="relative flex items-center justify-center w-9 h-9 rounded-xl bg-white/20 backdrop-blur-sm text-white shadow-sm transition-transform group-hover:scale-110 group-hover:bg-white/30">
-              <MapPin className="w-5 h-5" />
+            <div className="relative flex items-center justify-center w-8 h-8 rounded-lg bg-primary text-primary-foreground shadow-sm transition-transform group-hover:scale-105">
+              <MapPin className="w-4 h-4" />
             </div>
-            <span className="font-bold text-lg tracking-tight text-white">
+            <span className="font-semibold text-base tracking-tight text-foreground">
               Macedonia Explorer
             </span>
           </Link>
@@ -36,8 +36,8 @@ const Navigation = () => {
                 className={cn(
                   "relative px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200",
                   location.pathname === item.href
-                    ? "text-white bg-white/25 shadow-inner"
-                    : "text-white/75 hover:text-white hover:bg-white/15"
+                    ? "text-foreground bg-secondary font-semibold"
+                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
                 )}
               >
                 {item.label}
@@ -48,7 +48,7 @@ const Navigation = () => {
           {/* Mobile menu button */}
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
-            className="md:hidden inline-flex items-center justify-center rounded-md p-2 text-white/80 hover:text-white hover:bg-white/15 transition-colors"
+            className="md:hidden inline-flex items-center justify-center rounded-md p-2 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
           >
             {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
           </button>
@@ -57,7 +57,7 @@ const Navigation = () => {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden border-t border-white/20 bg-primary/95 backdrop-blur-xl">
+        <div className="md:hidden border-t border-border bg-background/95 backdrop-blur-xl">
           <div className="px-4 py-3 space-y-1">
             {navItems.map((item) => (
               <Link
@@ -67,8 +67,8 @@ const Navigation = () => {
                 className={cn(
                   "block px-3 py-2 rounded-md text-sm font-medium transition-colors",
                   location.pathname === item.href
-                    ? "text-white bg-white/25"
-                    : "text-white/75 hover:text-white hover:bg-white/15"
+                    ? "text-foreground bg-secondary"
+                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
                 )}
               >
                 {item.label}
