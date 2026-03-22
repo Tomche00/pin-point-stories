@@ -57,7 +57,7 @@ const Navigation = () => {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden border-t border-white/20 bg-primary/95 backdrop-blur-xl">
+        <div className="md:hidden border-t border-border bg-background/95 backdrop-blur-xl">
           <div className="px-4 py-3 space-y-1">
             {navItems.map((item) => (
               <Link
@@ -67,8 +67,8 @@ const Navigation = () => {
                 className={cn(
                   "block px-3 py-2 rounded-md text-sm font-medium transition-colors",
                   location.pathname === item.href
-                    ? "text-white bg-white/25"
-                    : "text-white/75 hover:text-white hover:bg-white/15"
+                    ? "text-foreground bg-secondary"
+                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
                 )}
               >
                 {item.label}
