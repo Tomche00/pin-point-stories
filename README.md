@@ -1,76 +1,53 @@
-# 🗺️ Macedonia Explorer
+# Macedonia Explorer
 
-An interactive map application for exploring **North Macedonia** — discover monuments, cities, nature spots, camping locations, restaurants, and more across the country.
+Interactive map application for exploring North Macedonia — browse monuments, cities, nature spots, camping locations, and more.
 
-![Macedonia Explorer Preview](docs/screenshots/preview.png)
+**Live:** [pin-point-stories.lovable.app](https://pin-point-stories.lovable.app)
 
-## ✨ Features
+## Features
 
-- **Interactive Map** — Browse 250+ curated locations plotted on a custom map of North Macedonia
-- **Dynamic Categories** — Filter by location type: Monuments 🏛️, Cities 🏙️, Nature 🌲, Camping ⛺, Recreation 🏕️, Restaurants 🍽️, Hotels 🏨, and more
-- **Auto-Detection** — New location categories are automatically detected from the data
-- **Location Details** — Click any pin to view name, description, and coordinates
-- **Statistics Panel** — Real-time count of visible locations by category
-- **Toggleable Legend** — Show/hide location types with a single click
-- **Responsive Design** — Works on desktop, tablet, and mobile
+- **Interactive map** with 250+ curated locations on a custom map
+- **Category filters** — Monuments, Cities, Nature, Camping, Recreation, Restaurants, Hotels, and more
+- **Auto-detection** — new location types from data appear automatically in the legend
+- **Location details** — hover any pin for name, description, coordinates, and Google Maps navigation
+- **Responsive** — desktop sidebar filters, mobile-optimized chip filters
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **React 18** | UI framework |
-| **TypeScript** | Type safety |
-| **Vite** | Build tool & dev server |
-| **Tailwind CSS** | Utility-first styling |
-| **shadcn/ui** | Component library |
-| **React Router** | Client-side routing |
+- React 18 + TypeScript
+- Vite
+- Tailwind CSS + shadcn/ui
+- React Router
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18+)
-- npm or bun
-
-### Installation
+## Getting Started
 
 ```bash
-# Clone the repository
-git clone <YOUR_GIT_URL>
-cd macedonia-explorer
-
-# Install dependencies
 npm install
-
-# Start development server
 npm run dev
 ```
 
-The app will be available at `http://localhost:5173`.
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
-├── assets/              # Map images and static assets
 ├── components/
-│   ├── CustomMap.tsx     # Main interactive map component
-│   ├── LocationTooltip.tsx  # Tooltip for location details
-│   └── Navigation.tsx   # Top navigation bar
+│   ├── CustomMap.tsx         # Map with pins and filters
+│   ├── LocationTooltip.tsx   # Hover tooltip
+│   └── Navigation.tsx        # Top nav bar
 ├── constants/
-│   └── locationTypes.ts # Location category configuration
+│   └── locationTypes.ts      # Category config (color, icon, label)
 ├── data/
-│   └── locations.json   # All location data (coordinates, names, types)
+│   └── locations.json        # Location data
 ├── pages/
-│   ├── Index.tsx        # Home page with map
-│   ├── About.tsx        # About page
-│   └── Rent.tsx         # Rental page
-└── main.tsx             # App entry point
+│   ├── Index.tsx
+│   ├── About.tsx
+│   └── Rent.tsx
+└── index.css                 # Design tokens
 ```
 
-## 📍 Adding New Locations
+## Adding Locations
 
-Location data lives in `src/data/locations.json`. Each entry follows this format:
+Add entries to `src/data/locations.json`:
 
 ```json
 {
@@ -82,30 +59,8 @@ Location data lives in `src/data/locations.json`. Each entry follows this format
 }
 ```
 
-### Adding a New Category
+Register new types in `src/constants/locationTypes.ts` — they appear in the UI automatically.
 
-1. Add locations with the new `type` value in `locations.json`
-2. Register the category in `src/constants/locationTypes.ts`:
+## License
 
-```ts
-export const LOCATION_TYPES = {
-  // ...existing types
-  yourNewType: {
-    color: '#hexcolor',
-    icon: '🎯',
-    label: 'Display Name'
-  }
-};
-```
-
-The legend and statistics will update automatically.
-
-## 🌐 Deployment
-
-This project is deployed via [Lovable](https://lovable.dev).
-
-**Live URL:** [pin-point-stories.lovable.app](https://pin-point-stories.lovable.app)
-
-## 📄 License
-
-This project is private. All rights reserved.
+All rights reserved.
