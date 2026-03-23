@@ -34,18 +34,26 @@ npm run dev
 ```
 src/
 ├── components/
-│   ├── CustomMap.tsx         # Map with pins and filters
-│   ├── LocationTooltip.tsx   # Hover tooltip
-│   └── Navigation.tsx        # Top nav bar
+│   ├── map/
+│   │   ├── MapHeader.tsx       # Page title, stats, and badge pills
+│   │   ├── MapFilters.tsx      # Desktop sidebar + mobile chip filters
+│   │   └── MapPins.tsx         # Pin rendering and coordinate mapping
+│   ├── CustomMap.tsx           # Main map orchestrator
+│   ├── LocationTooltip.tsx     # Hover tooltip with navigation
+│   └── Navigation.tsx          # Top nav bar
+├── hooks/
+│   └── useMapInteractions.ts   # Tooltip state and navigation logic
+├── types/
+│   └── location.ts             # Shared Location interface
 ├── constants/
-│   └── locationTypes.ts      # Category config (color, icon, label)
+│   └── locationTypes.ts        # Category config (color, icon, label)
 ├── data/
-│   └── locations.json        # Location data
+│   └── locations.json          # Location data
 ├── pages/
 │   ├── Index.tsx
 │   ├── About.tsx
 │   └── Rent.tsx
-└── index.css                 # Design tokens
+└── index.css                   # Design tokens
 ```
 
 ## Adding Locations
