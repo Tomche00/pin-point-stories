@@ -1,16 +1,7 @@
 import React from 'react';
 import { LOCATION_TYPES } from '@/constants/locationTypes';
 import { Navigation2 } from 'lucide-react';
-
-interface Location {
-  id: string;
-  name: string;
-  description: string;
-  type: string;
-  latitude: number;
-  longitude: number;
-  coordinates: [number, number];
-}
+import type { Location } from '@/types/location';
 
 interface LocationTooltipProps {
   location: Location;
