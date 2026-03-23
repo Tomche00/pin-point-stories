@@ -2,15 +2,18 @@
 
 Interactive map application for exploring North Macedonia — browse monuments, cities, nature spots, camping locations, and more.
 
+![Macedonia Explorer](docs/product-shot.png)
+
 **Live:** [pin-point-stories.lovable.app](https://pin-point-stories.lovable.app)
 
 ## Features
 
-- **Interactive map** with 250+ curated locations on a custom map
-- **Category filters** — Monuments, Cities, Nature, Camping, Recreation, Restaurants, Hotels, and more
+- **Interactive map** with 257+ curated locations on a custom map
+- **Category filters** — Monuments, Cities, Nature, Camping, Recreation, Restaurants, Hotels, Lakes & Rivers
 - **Auto-detection** — new location types from data appear automatically in the legend
 - **Location details** — hover any pin for name, description, coordinates, and Google Maps navigation
 - **Responsive** — desktop sidebar filters, mobile-optimized chip filters
+- **Modern UI** — frosted-glass navigation, cool-toned palette with teal accents, clean typography
 
 ## Tech Stack
 
@@ -60,6 +63,13 @@ Add entries to `src/data/locations.json`:
 ```
 
 Register new types in `src/constants/locationTypes.ts` — they appear in the UI automatically.
+
+## Design
+
+- **Palette:** Cool blue-gray background with teal accent (`hsl(172, 50%, 40%)`)
+- **Navigation:** Frosted glass with subtle gradient tint
+- **Components:** Glass panels, badge pills, section cards
+- **Tokens:** All colors defined as HSL CSS variables in `index.css`
 
 ## License
 
