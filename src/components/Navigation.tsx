@@ -18,8 +18,8 @@ const Navigation = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center h-14">
           <Link to="/" className="flex items-center gap-2 group">
-            <div className="w-7 h-7 rounded-lg bg-foreground flex items-center justify-center transition-transform group-hover:scale-105">
-              <MapPin className="w-4 h-4 text-background" />
+            <div className="w-7 h-7 rounded-lg bg-accent flex items-center justify-center transition-transform group-hover:scale-105">
+              <MapPin className="w-4 h-4 text-accent-foreground" />
             </div>
             <span className="font-semibold text-sm text-foreground tracking-tight">
               Macedonia Explorer
