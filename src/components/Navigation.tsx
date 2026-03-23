@@ -14,7 +14,7 @@ const Navigation = () => {
   ];
 
   return (
-    <nav className="w-full sticky top-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border/50 shadow-sm">
+    <nav className="w-full sticky top-0 z-50 backdrop-blur-xl border-b border-accent/10 shadow-sm" style={{ background: 'linear-gradient(135deg, hsl(220 25% 95%), hsl(172 20% 94%))' }}>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center h-14">
           <Link to="/" className="flex items-center gap-2 group">
