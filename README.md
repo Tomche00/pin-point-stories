@@ -4,8 +4,6 @@ Interactive map application for exploring North Macedonia — browse monuments, 
 
 ![Macedonia Explorer](docs/product-shot.png)
 
-**Live:** [pin-point-stories.lovable.app](https://pin-point-stories.lovable.app)
-
 ## Features
 
 - **Interactive map** with 257+ curated locations on a custom map
