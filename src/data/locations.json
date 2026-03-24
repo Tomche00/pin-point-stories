@@ -6,7 +6,10 @@
     "type": "monument",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
-    "coordinates": [21.7171465, 41.1187657]
+    "coordinates": [
+      21.7171465,
+      41.1187657
+    ]
   },
   {
     "id": "holy_transfiguration",
@@ -15,7 +18,11 @@
     "type": "monument",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
-    "coordinates": [21.3416941, 41.5215773]
+    "coordinates": [
+      21.3416941,
+      41.5215773
+    ],
+    "nameMk": "Свето Преображение"
   },
   {
     "id": "gabrovo_waterfalls",
@@ -24,7 +31,11 @@
     "type": "nature",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
-    "coordinates": [22.7889993, 41.3755924]
+    "coordinates": [
+      22.7889993,
+      41.3755924
+    ],
+    "nameMk": "Габровски Водопади"
   },
   {
     "id": "malovishte",
@@ -33,7 +44,11 @@
     "type": "city",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
-    "coordinates": [21.1298722, 41.0333696]
+    "coordinates": [
+      21.1298722,
+      41.0333696
+    ],
+    "nameMk": "Маловиште"
   },
   {
     "id": "zovich",
@@ -42,7 +57,10 @@
     "type": "city",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
-    "coordinates": [21.7122789, 41.1172694]
+    "coordinates": [
+      21.7122789,
+      41.1172694
+    ]
   },
   {
     "id": "monastery_saint_ana",
@@ -51,7 +69,10 @@
     "type": "monument",
     "latitude": 41.0283542,
     "longitude": 21.1144679,
-    "coordinates": [21.1144679, 41.0283542]
+    "coordinates": [
+      21.1144679,
+      41.0283542
+    ]
   },
   {
     "id": "shlegovo",
@@ -60,7 +81,10 @@
     "type": "city",
     "latitude": 42.0655501,
     "longitude": 22.1616508,
-    "coordinates": [22.1616508, 42.0655501]
+    "coordinates": [
+      22.1616508,
+      42.0655501
+    ]
   },
   {
     "id": "papradiste",
@@ -69,7 +93,10 @@
     "type": "city",
     "latitude": 41.6416537,
     "longitude": 21.4387676,
-    "coordinates": [21.4387676, 41.6416537]
+    "coordinates": [
+      21.4387676,
+      41.6416537
+    ]
   },
   {
     "id": "st._gjorgjija_monastery",
@@ -78,7 +105,10 @@
     "type": "monument",
     "latitude": 41.6348083,
     "longitude": 21.4027214,
-    "coordinates": [21.4027214, 41.6348083]
+    "coordinates": [
+      21.4027214,
+      41.6348083
+    ]
   },
   {
     "id": "oreshe_waterfall",
@@ -87,7 +117,10 @@
     "type": "nature",
     "latitude": 41.6359698,
     "longitude": 21.3905499,
-    "coordinates": [21.3905499, 41.6359698]
+    "coordinates": [
+      21.3905499,
+      41.6359698
+    ]
   },
   {
     "id": "oreshe",
@@ -96,7 +129,10 @@
     "type": "city",
     "latitude": 41.6196632,
     "longitude": 21.4201362,
-    "coordinates": [21.4201362, 41.6196632]
+    "coordinates": [
+      21.4201362,
+      41.6196632
+    ]
   },
   {
     "id": "ribnik_kapinovo_nezilovski_merak",
@@ -105,7 +141,10 @@
     "type": "camping",
     "latitude": 41.6288738,
     "longitude": 21.4552288,
-    "coordinates": [21.4552288, 41.6288738]
+    "coordinates": [
+      21.4552288,
+      41.6288738
+    ]
   },
   {
     "id": "markovo_stapalo",
@@ -114,7 +153,10 @@
     "type": "monument",
     "latitude": 41.640668,
     "longitude": 21.4461963,
-    "coordinates": [21.4461963, 41.640668]
+    "coordinates": [
+      21.4461963,
+      41.640668
+    ]
   },
   {
     "id": "monastery_sveti_petar_i_pavle",
@@ -123,7 +165,10 @@
     "type": "monument",
     "latitude": 41.6312313,
     "longitude": 21.510399,
-    "coordinates": [21.510399, 41.6312313]
+    "coordinates": [
+      21.510399,
+      41.6312313
+    ]
   },
   {
     "id": "konjsko",
@@ -132,7 +177,10 @@
     "type": "city",
     "latitude": 40.9118299,
     "longitude": 20.9882922,
-    "coordinates": [20.9882922, 40.9118299]
+    "coordinates": [
+      20.9882922,
+      40.9118299
+    ]
   },
   {
     "id": "ljubojno",
@@ -141,7 +189,10 @@
     "type": "city",
     "latitude": 40.8945369,
     "longitude": 21.1376967,
-    "coordinates": [21.1376967, 40.8945369]
+    "coordinates": [
+      21.1376967,
+      40.8945369
+    ]
   },
   {
     "id": "rusjatsi",
@@ -150,7 +201,10 @@
     "type": "city",
     "latitude": 41.4999893,
     "longitude": 21.1514826,
-    "coordinates": [21.1514826, 41.4999893]
+    "coordinates": [
+      21.1514826,
+      41.4999893
+    ]
   },
   {
     "id": "zheleznets",
@@ -159,7 +213,10 @@
     "type": "city",
     "latitude": 41.3257034,
     "longitude": 21.062993,
-    "coordinates": [21.062993, 41.3257034]
+    "coordinates": [
+      21.062993,
+      41.3257034
+    ]
   },
   {
     "id": "knezhino",
@@ -168,7 +225,10 @@
     "type": "city",
     "latitude": 41.5215996,
     "longitude": 20.9160162,
-    "coordinates": [20.9160162, 41.5215996]
+    "coordinates": [
+      20.9160162,
+      41.5215996
+    ]
   },
   {
     "id": "skrebatno",
@@ -177,7 +237,10 @@
     "type": "city",
     "latitude": 41.1522564,
     "longitude": 20.8914281,
-    "coordinates": [20.8914281, 41.1522564]
+    "coordinates": [
+      20.8914281,
+      41.1522564
+    ]
   },
   {
     "id": "rosoki",
@@ -186,7 +249,10 @@
     "type": "city",
     "latitude": 41.566465,
     "longitude": 20.6939945,
-    "coordinates": [20.6939945, 41.566465]
+    "coordinates": [
+      20.6939945,
+      41.566465
+    ]
   },
   {
     "id": "rosoki_springs",
@@ -195,7 +261,10 @@
     "type": "nature",
     "latitude": 41.5687791,
     "longitude": 20.692748,
-    "coordinates": [20.692748, 41.5687791]
+    "coordinates": [
+      20.692748,
+      41.5687791
+    ]
   },
   {
     "id": "krushevica",
@@ -204,7 +273,10 @@
     "type": "city",
     "latitude": 41.205838,
     "longitude": 21.6526577,
-    "coordinates": [21.6526577, 41.205838]
+    "coordinates": [
+      21.6526577,
+      41.205838
+    ]
   },
   {
     "id": "vitolishte",
@@ -213,7 +285,10 @@
     "type": "city",
     "latitude": 41.1812657,
     "longitude": 21.8255581,
-    "coordinates": [21.8255581, 41.1812657]
+    "coordinates": [
+      21.8255581,
+      41.1812657
+    ]
   },
   {
     "id": "caniste",
@@ -222,7 +297,10 @@
     "type": "city",
     "latitude": 41.1657837,
     "longitude": 21.6854494,
-    "coordinates": [21.6854494, 41.1657837]
+    "coordinates": [
+      21.6854494,
+      41.1657837
+    ]
   },
   {
     "id": "petralitsa",
@@ -231,7 +309,10 @@
     "type": "city",
     "latitude": 42.211824,
     "longitude": 22.1802799,
-    "coordinates": [22.1802799, 42.211824]
+    "coordinates": [
+      22.1802799,
+      42.211824
+    ]
   },
   {
     "id": "koleshino_waterfall",
@@ -240,7 +321,10 @@
     "type": "nature",
     "latitude": 41.3695082,
     "longitude": 22.8068927,
-    "coordinates": [22.8068927, 41.3695082]
+    "coordinates": [
+      22.8068927,
+      41.3695082
+    ]
   },
   {
     "id": "smolare_waterfall",
@@ -249,7 +333,10 @@
     "type": "nature",
     "latitude": 41.3662782,
     "longitude": 22.8996196,
-    "coordinates": [22.8996196, 41.3662782]
+    "coordinates": [
+      22.8996196,
+      41.3662782
+    ]
   },
   {
     "id": "blatec",
@@ -258,7 +345,10 @@
     "type": "city",
     "latitude": 41.8385763,
     "longitude": 22.5778948,
-    "coordinates": [22.5778948, 41.8385763]
+    "coordinates": [
+      22.5778948,
+      41.8385763
+    ]
   },
   {
     "id": "blatec_lake",
@@ -267,7 +357,10 @@
     "type": "nature",
     "latitude": 41.8389149,
     "longitude": 22.5946481,
-    "coordinates": [22.5946481, 41.8389149]
+    "coordinates": [
+      22.5946481,
+      41.8389149
+    ]
   },
   {
     "id": "sermenin",
@@ -276,7 +369,10 @@
     "type": "city",
     "latitude": 41.2200456,
     "longitude": 22.3471886,
-    "coordinates": [22.3471886, 41.2200456]
+    "coordinates": [
+      22.3471886,
+      41.2200456
+    ]
   },
   {
     "id": "waterfall_vera",
@@ -285,7 +381,10 @@
     "type": "nature",
     "latitude": 41.217188,
     "longitude": 22.347312,
-    "coordinates": [22.347312, 41.217188]
+    "coordinates": [
+      22.347312,
+      41.217188
+    ]
   },
   {
     "id": "smrdliva_voda",
@@ -294,7 +393,10 @@
     "type": "nature",
     "latitude": 41.192718,
     "longitude": 22.2816193,
-    "coordinates": [22.2816193, 41.192718]
+    "coordinates": [
+      22.2816193,
+      41.192718
+    ]
   },
   {
     "id": "teovo",
@@ -303,7 +405,10 @@
     "type": "city",
     "latitude": 41.5784655,
     "longitude": 21.5729144,
-    "coordinates": [21.5729144, 41.5784655]
+    "coordinates": [
+      21.5729144,
+      41.5784655
+    ]
   },
   {
     "id": "bitushe",
@@ -312,7 +417,10 @@
     "type": "city",
     "latitude": 41.6165295,
     "longitude": 20.5878404,
-    "coordinates": [20.5878404, 41.6165295]
+    "coordinates": [
+      20.5878404,
+      41.6165295
+    ]
   },
   {
     "id": "trebishte",
@@ -321,7 +429,10 @@
     "type": "city",
     "latitude": 41.6282128,
     "longitude": 20.5893302,
-    "coordinates": [20.5893302, 41.6282128]
+    "coordinates": [
+      20.5893302,
+      41.6282128
+    ]
   },
   {
     "id": "belitsa",
@@ -330,7 +441,10 @@
     "type": "city",
     "latitude": 41.6768835,
     "longitude": 21.3049963,
-    "coordinates": [21.3049963, 41.6768835]
+    "coordinates": [
+      21.3049963,
+      41.6768835
+    ]
   },
   {
     "id": "vishni",
@@ -339,7 +453,10 @@
     "type": "city",
     "latitude": 41.1931228,
     "longitude": 20.5982691,
-    "coordinates": [20.5982691, 41.1931228]
+    "coordinates": [
+      20.5982691,
+      41.1931228
+    ]
   },
   {
     "id": "gorna_belica",
@@ -348,7 +465,10 @@
     "type": "city",
     "latitude": 41.223316,
     "longitude": 20.55581,
-    "coordinates": [20.55581, 41.223316]
+    "coordinates": [
+      20.55581,
+      41.223316
+    ]
   },
   {
     "id": "vevcanska_lokva",
@@ -357,7 +477,10 @@
     "type": "nature",
     "latitude": 41.2432388,
     "longitude": 20.5333121,
-    "coordinates": [20.5333121, 41.2432388]
+    "coordinates": [
+      20.5333121,
+      41.2432388
+    ]
   },
   {
     "id": "babino",
@@ -366,7 +489,10 @@
     "type": "city",
     "latitude": 41.2990659,
     "longitude": 21.0806907,
-    "coordinates": [21.0806907, 41.2990659]
+    "coordinates": [
+      21.0806907,
+      41.2990659
+    ]
   },
   {
     "id": "bazernik",
@@ -375,7 +501,10 @@
     "type": "city",
     "latitude": 41.2820967,
     "longitude": 21.0477173,
-    "coordinates": [21.0477173, 41.2820967]
+    "coordinates": [
+      21.0477173,
+      41.2820967
+    ]
   },
   {
     "id": "zbazhdi",
@@ -384,7 +513,10 @@
     "type": "city",
     "latitude": 41.3168733,
     "longitude": 21.0354629,
-    "coordinates": [21.0354629, 41.3168733]
+    "coordinates": [
+      21.0354629,
+      41.3168733
+    ]
   },
   {
     "id": "globochica",
@@ -393,7 +525,10 @@
     "type": "city",
     "latitude": 41.2938467,
     "longitude": 21.0137659,
-    "coordinates": [21.0137659, 41.2938467]
+    "coordinates": [
+      21.0137659,
+      41.2938467
+    ]
   },
   {
     "id": "tashmarunishta",
@@ -402,7 +537,10 @@
     "type": "city",
     "latitude": 41.2680714,
     "longitude": 20.6403575,
-    "coordinates": [20.6403575, 41.2680714]
+    "coordinates": [
+      20.6403575,
+      41.2680714
+    ]
   },
   {
     "id": "capari",
@@ -411,7 +549,10 @@
     "type": "city",
     "latitude": 41.2627195,
     "longitude": 20.6377864,
-    "coordinates": [20.6377864, 41.2627195]
+    "coordinates": [
+      20.6377864,
+      41.2627195
+    ]
   },
   {
     "id": "capari_vir",
@@ -419,8 +560,11 @@
     "description": "Witness this natural phenomenon where underground springs create dramatic water spirals! This geological wonder offers unique photography and swimming adventures.",
     "type": "nature",
     "latitude": 41.2627195,
-    "longitude": 20.6400000,
-    "coordinates": [20.6400000, 41.2627195]
+    "longitude": 20.64,
+    "coordinates": [
+      20.64,
+      41.2627195
+    ]
   },
   {
     "id": "belovishte",
@@ -429,7 +573,10 @@
     "type": "city",
     "latitude": 41.4453849,
     "longitude": 20.9804226,
-    "coordinates": [20.9804226, 41.4453849]
+    "coordinates": [
+      20.9804226,
+      41.4453849
+    ]
   },
   {
     "id": "belovishki_waterfall",
@@ -437,17 +584,23 @@
     "description": "Chase this thundering cascade hidden in Macedonia's western mountains! Multiple tiers of crystal water create natural pools perfect for brave swimmers and photographers.",
     "type": "nature",
     "latitude": 41.4453849,
-    "longitude": 20.9850000,
-    "coordinates": [20.9850000, 41.4453849]
+    "longitude": 20.985,
+    "coordinates": [
+      20.985,
+      41.4453849
+    ]
   },
   {
     "id": "todorovci_stonehenge",
     "name": "Todorovci Stonehenge",
     "description": "Explore Macedonia's mysterious megalithic circle! These ancient standing stones rival Stonehenge, offering archaeological adventures and spectacular sunset photography.",
     "type": "monument",
-    "latitude": 41.4500000,
-    "longitude": 20.9700000,
-    "coordinates": [20.9700000, 41.4500000]
+    "latitude": 41.45,
+    "longitude": 20.97,
+    "coordinates": [
+      20.97,
+      41.45
+    ]
   },
   {
     "id": "ohrid_old_town",
@@ -456,7 +609,11 @@
     "type": "monument",
     "latitude": 41.1081,
     "longitude": 20.8019,
-    "coordinates": [20.8019, 41.1081]
+    "coordinates": [
+      20.8019,
+      41.1081
+    ],
+    "nameMk": "Охрид"
   },
   {
     "id": "samuel_fortress",
@@ -465,7 +622,11 @@
     "type": "monument",
     "latitude": 41.1094,
     "longitude": 20.8014,
-    "coordinates": [20.8014, 41.1094]
+    "coordinates": [
+      20.8014,
+      41.1094
+    ],
+    "nameMk": "Самоилова Тврдина"
   },
   {
     "id": "plaoshnik",
@@ -474,7 +635,11 @@
     "type": "monument",
     "latitude": 41.1089,
     "longitude": 20.7997,
-    "coordinates": [20.7997, 41.1089]
+    "coordinates": [
+      20.7997,
+      41.1089
+    ],
+    "nameMk": "Плаошник"
   },
   {
     "id": "sveti_naum",
@@ -483,7 +648,10 @@
     "type": "monument",
     "latitude": 40.9239,
     "longitude": 20.7428,
-    "coordinates": [20.7428, 40.9239]
+    "coordinates": [
+      20.7428,
+      40.9239
+    ]
   },
   {
     "id": "gradiste",
@@ -492,7 +660,10 @@
     "type": "monument",
     "latitude": 41.1175,
     "longitude": 20.8033,
-    "coordinates": [20.8033, 41.1175]
+    "coordinates": [
+      20.8033,
+      41.1175
+    ]
   },
   {
     "id": "galicica_national_park",
@@ -501,7 +672,11 @@
     "type": "nature",
     "latitude": 41.0167,
     "longitude": 20.8833,
-    "coordinates": [20.8833, 41.0167]
+    "coordinates": [
+      20.8833,
+      41.0167
+    ],
+    "nameMk": "Галичица"
   },
   {
     "id": "magaro_peak",
@@ -510,7 +685,10 @@
     "type": "nature",
     "latitude": 40.9833,
     "longitude": 20.8667,
-    "coordinates": [20.8667, 40.9833]
+    "coordinates": [
+      20.8667,
+      40.9833
+    ]
   },
   {
     "id": "bay_of_bones",
@@ -519,7 +697,11 @@
     "type": "monument",
     "latitude": 40.9358,
     "longitude": 20.7431,
-    "coordinates": [20.7431, 40.9358]
+    "coordinates": [
+      20.7431,
+      40.9358
+    ],
+    "nameMk": "Залив на Коските"
   },
   {
     "id": "prespa_lake",
@@ -528,7 +710,10 @@
     "type": "nature",
     "latitude": 40.9167,
     "longitude": 20.9833,
-    "coordinates": [20.9833, 40.9167]
+    "coordinates": [
+      20.9833,
+      40.9167
+    ]
   },
   {
     "id": "golem_grad",
@@ -537,16 +722,23 @@
     "type": "monument",
     "latitude": 40.8833,
     "longitude": 20.9167,
-    "coordinates": [20.9167, 40.8833]
+    "coordinates": [
+      20.9167,
+      40.8833
+    ]
   },
   {
     "id": "pelister_national_park",
     "name": "Pelister National Park",
     "description": "Trek through ancient Molika pine forests to glacial mountain lakes! This pristine wilderness offers challenging hikes, endemic flora, and spectacular peak adventures.",
     "type": "nature",
-    "latitude": 41.0000,
+    "latitude": 41,
     "longitude": 21.2167,
-    "coordinates": [21.2167, 41.0000]
+    "coordinates": [
+      21.2167,
+      41
+    ],
+    "nameMk": "Пелистер"
   },
   {
     "id": "pelister_peak",
@@ -555,7 +747,11 @@
     "type": "nature",
     "latitude": 40.9667,
     "longitude": 21.2167,
-    "coordinates": [21.2167, 40.9667]
+    "coordinates": [
+      21.2167,
+      40.9667
+    ],
+    "nameMk": "Пелистер"
   },
   {
     "id": "big_prespa_lake",
@@ -564,16 +760,22 @@
     "type": "nature",
     "latitude": 40.8167,
     "longitude": 20.9833,
-    "coordinates": [20.9833, 40.8167]
+    "coordinates": [
+      20.9833,
+      40.8167
+    ]
   },
   {
     "id": "small_prespa_lake",
     "name": "Small Prespa Lake",
     "description": "Discover this intimate mountain lake jewel surrounded by dramatic peaks! Crystal waters and traditional fishing culture create perfect wilderness retreats.",
     "type": "nature",
-    "latitude": 40.7500,
-    "longitude": 21.0000,
-    "coordinates": [21.0000, 40.7500]
+    "latitude": 40.75,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      40.75
+    ]
   },
   {
     "id": "bitola",
@@ -582,7 +784,11 @@
     "type": "city",
     "latitude": 41.0297,
     "longitude": 21.3347,
-    "coordinates": [21.3347, 41.0297]
+    "coordinates": [
+      21.3347,
+      41.0297
+    ],
+    "nameMk": "Битола"
   },
   {
     "id": "shirok_sokak",
@@ -590,8 +796,11 @@
     "description": "Stroll down this legendary pedestrian boulevard where Ottoman heritage meets European elegance! Historic architecture and vibrant street life create perfect cultural photography.",
     "type": "city",
     "latitude": 41.0297,
-    "longitude": 21.3350,
-    "coordinates": [21.3350, 41.0297]
+    "longitude": 21.335,
+    "coordinates": [
+      21.335,
+      41.0297
+    ]
   },
   {
     "id": "heraclea_lyncestis",
@@ -600,7 +809,11 @@
     "type": "monument",
     "latitude": 41.0089,
     "longitude": 21.3381,
-    "coordinates": [21.3381, 41.0089]
+    "coordinates": [
+      21.3381,
+      41.0089
+    ],
+    "nameMk": "Хераклеа Линкестис"
   },
   {
     "id": "skopje",
@@ -609,7 +822,11 @@
     "type": "city",
     "latitude": 41.9981,
     "longitude": 21.4254,
-    "coordinates": [21.4254, 41.9981]
+    "coordinates": [
+      21.4254,
+      41.9981
+    ],
+    "nameMk": "Скопје"
   },
   {
     "id": "old_bazaar_skopje",
@@ -618,7 +835,11 @@
     "type": "monument",
     "latitude": 41.9958,
     "longitude": 21.4331,
-    "coordinates": [21.4331, 41.9958]
+    "coordinates": [
+      21.4331,
+      41.9958
+    ],
+    "nameMk": "Скопје"
   },
   {
     "id": "kale_fortress",
@@ -627,7 +848,10 @@
     "type": "monument",
     "latitude": 41.9981,
     "longitude": 21.4289,
-    "coordinates": [21.4289, 41.9981]
+    "coordinates": [
+      21.4289,
+      41.9981
+    ]
   },
   {
     "id": "stone_bridge",
@@ -636,7 +860,11 @@
     "type": "monument",
     "latitude": 41.9981,
     "longitude": 21.4314,
-    "coordinates": [21.4314, 41.9981]
+    "coordinates": [
+      21.4314,
+      41.9981
+    ],
+    "nameMk": "Камен Мост"
   },
   {
     "id": "matka_canyon",
@@ -645,7 +873,11 @@
     "type": "nature",
     "latitude": 41.9333,
     "longitude": 21.2833,
-    "coordinates": [21.2833, 41.9333]
+    "coordinates": [
+      21.2833,
+      41.9333
+    ],
+    "nameMk": "Кањон Матка"
   },
   {
     "id": "vrelo_cave",
@@ -654,7 +886,10 @@
     "type": "nature",
     "latitude": 41.9333,
     "longitude": 21.2817,
-    "coordinates": [21.2817, 41.9333]
+    "coordinates": [
+      21.2817,
+      41.9333
+    ]
   },
   {
     "id": "vodno_mountain",
@@ -663,7 +898,10 @@
     "type": "nature",
     "latitude": 41.9667,
     "longitude": 21.4333,
-    "coordinates": [21.4333, 41.9667]
+    "coordinates": [
+      21.4333,
+      41.9667
+    ]
   },
   {
     "id": "millennium_cross",
@@ -672,7 +910,11 @@
     "type": "monument",
     "latitude": 41.9667,
     "longitude": 21.4333,
-    "coordinates": [21.4333, 41.9667]
+    "coordinates": [
+      21.4333,
+      41.9667
+    ],
+    "nameMk": "Милениумски Крст"
   },
   {
     "id": "kumanovo",
@@ -681,7 +923,11 @@
     "type": "city",
     "latitude": 42.1322,
     "longitude": 21.7144,
-    "coordinates": [21.7144, 42.1322]
+    "coordinates": [
+      21.7144,
+      42.1322
+    ],
+    "nameMk": "Куманово"
   },
   {
     "id": "kokino_observatory",
@@ -690,7 +936,11 @@
     "type": "monument",
     "latitude": 42.2667,
     "longitude": 21.9667,
-    "coordinates": [21.9667, 42.2667]
+    "coordinates": [
+      21.9667,
+      42.2667
+    ],
+    "nameMk": "Кокино"
   },
   {
     "id": "kratovo",
@@ -699,7 +949,11 @@
     "type": "city",
     "latitude": 42.0781,
     "longitude": 22.1781,
-    "coordinates": [22.1781, 42.0781]
+    "coordinates": [
+      22.1781,
+      42.0781
+    ],
+    "nameMk": "Кратово"
   },
   {
     "id": "kuklica_stone_dolls",
@@ -708,16 +962,23 @@
     "type": "nature",
     "latitude": 42.0833,
     "longitude": 22.1833,
-    "coordinates": [22.1833, 42.0833]
+    "coordinates": [
+      22.1833,
+      42.0833
+    ]
   },
   {
     "id": "berovo_lake",
     "name": "Berovo Lake",
     "description": "Fish and camp at this pristine artificial lake surrounded by dense pine forests! Crystal waters and mountain wilderness create perfect overlanding retreats.",
     "type": "camping",
-    "latitude": 41.7000,
-    "longitude": 22.8500,
-    "coordinates": [22.8500, 41.7000]
+    "latitude": 41.7,
+    "longitude": 22.85,
+    "coordinates": [
+      22.85,
+      41.7
+    ],
+    "nameMk": "Берово"
   },
   {
     "id": "berovo",
@@ -726,16 +987,23 @@
     "type": "city",
     "latitude": 41.7031,
     "longitude": 22.8547,
-    "coordinates": [22.8547, 41.7031]
+    "coordinates": [
+      22.8547,
+      41.7031
+    ],
+    "nameMk": "Берово"
   },
   {
     "id": "maleshevo_mountains",
     "name": "Maleševo Mountains",
     "description": "Trek through this pristine mountain range where ancient forests hide crystal streams! Remote trails and endemic wildlife create perfect wilderness adventures.",
     "type": "nature",
-    "latitude": 41.6500,
-    "longitude": 22.9000,
-    "coordinates": [22.9000, 41.6500]
+    "latitude": 41.65,
+    "longitude": 22.9,
+    "coordinates": [
+      22.9,
+      41.65
+    ]
   },
   {
     "id": "strumica",
@@ -744,7 +1012,11 @@
     "type": "city",
     "latitude": 41.4375,
     "longitude": 22.6431,
-    "coordinates": [22.6431, 41.4375]
+    "coordinates": [
+      22.6431,
+      41.4375
+    ],
+    "nameMk": "Струмица"
   },
   {
     "id": "bansko_spa",
@@ -753,7 +1025,10 @@
     "type": "recreation",
     "latitude": 41.4333,
     "longitude": 22.6333,
-    "coordinates": [22.6333, 41.4333]
+    "coordinates": [
+      22.6333,
+      41.4333
+    ]
   },
   {
     "id": "tikvesh_wine_region",
@@ -762,7 +1037,10 @@
     "type": "restaurant",
     "latitude": 41.4333,
     "longitude": 22.0667,
-    "coordinates": [22.0667, 41.4333]
+    "coordinates": [
+      22.0667,
+      41.4333
+    ]
   },
   {
     "id": "kavadarci",
@@ -771,7 +1049,11 @@
     "type": "city",
     "latitude": 41.4333,
     "longitude": 22.0111,
-    "coordinates": [22.0111, 41.4333]
+    "coordinates": [
+      22.0111,
+      41.4333
+    ],
+    "nameMk": "Кавадарци"
   },
   {
     "id": "negotino",
@@ -780,7 +1062,11 @@
     "type": "city",
     "latitude": 41.4844,
     "longitude": 22.0886,
-    "coordinates": [22.0886, 41.4844]
+    "coordinates": [
+      22.0886,
+      41.4844
+    ],
+    "nameMk": "Неготино"
   },
   {
     "id": "demir_kapiya",
@@ -789,16 +1075,22 @@
     "type": "nature",
     "latitude": 41.4069,
     "longitude": 22.0431,
-    "coordinates": [22.0431, 41.4069]
+    "coordinates": [
+      22.0431,
+      41.4069
+    ]
   },
   {
     "id": "mariovo_region",
     "name": "Mariovo Region",
     "description": "Explore this remote highland region where traditional pastoral life survives! Stone villages and pristine wilderness create authentic cultural immersion adventures.",
     "type": "nature",
-    "latitude": 41.2500,
-    "longitude": 21.5000,
-    "coordinates": [21.5000, 41.2500]
+    "latitude": 41.25,
+    "longitude": 21.5,
+    "coordinates": [
+      21.5,
+      41.25
+    ]
   },
   {
     "id": "treskavec_monastery",
@@ -807,7 +1099,10 @@
     "type": "monument",
     "latitude": 41.2833,
     "longitude": 21.6167,
-    "coordinates": [21.6167, 41.2833]
+    "coordinates": [
+      21.6167,
+      41.2833
+    ]
   },
   {
     "id": "prilep",
@@ -816,7 +1111,11 @@
     "type": "city",
     "latitude": 41.3453,
     "longitude": 21.5547,
-    "coordinates": [21.5547, 41.3453]
+    "coordinates": [
+      21.5547,
+      41.3453
+    ],
+    "nameMk": "Прилеп"
   },
   {
     "id": "marko_towers",
@@ -825,7 +1124,10 @@
     "type": "nature",
     "latitude": 41.3167,
     "longitude": 21.5833,
-    "coordinates": [21.5833, 41.3167]
+    "coordinates": [
+      21.5833,
+      41.3167
+    ]
   },
   {
     "id": "krushevo",
@@ -834,7 +1136,10 @@
     "type": "city",
     "latitude": 41.3689,
     "longitude": 21.2489,
-    "coordinates": [21.2489, 41.3689]
+    "coordinates": [
+      21.2489,
+      41.3689
+    ]
   },
   {
     "id": "makedonium",
@@ -843,7 +1148,10 @@
     "type": "monument",
     "latitude": 41.3689,
     "longitude": 21.2489,
-    "coordinates": [21.2489, 41.3689]
+    "coordinates": [
+      21.2489,
+      41.3689
+    ]
   },
   {
     "id": "mečkin_kamen",
@@ -851,8 +1159,11 @@
     "description": "Conquer this dramatic mountain peak offering panoramic Balkan views! Challenging trails and spectacular vistas reward serious mountain adventurers.",
     "type": "nature",
     "latitude": 41.3333,
-    "longitude": 21.2000,
-    "coordinates": [21.2000, 41.3333]
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.3333
+    ]
   },
   {
     "id": "veles",
@@ -861,16 +1172,23 @@
     "type": "city",
     "latitude": 41.7161,
     "longitude": 21.7753,
-    "coordinates": [21.7753, 41.7161]
+    "coordinates": [
+      21.7753,
+      41.7161
+    ],
+    "nameMk": "Велес"
   },
   {
     "id": "stobi",
     "name": "Stobi Archaeological Site",
     "description": "Walk through this magnificent ancient city where Roman roads meet Christian basilicas! Well-preserved mosaics and theaters create world-class archaeological adventures.",
     "type": "monument",
-    "latitude": 41.5500,
+    "latitude": 41.55,
     "longitude": 21.9167,
-    "coordinates": [21.9167, 41.5500]
+    "coordinates": [
+      21.9167,
+      41.55
+    ]
   },
   {
     "id": "tikvesh_lake",
@@ -879,16 +1197,22 @@
     "type": "recreation",
     "latitude": 41.5167,
     "longitude": 21.9833,
-    "coordinates": [21.9833, 41.5167]
+    "coordinates": [
+      21.9833,
+      41.5167
+    ]
   },
-    {
+  {
     "id": "dojran_lake",
     "name": "Dojran Lake",
     "description": "Discover this shallow thermal lake shared with Greece where ancient spa traditions thrive! Healing mud baths and warm waters create unique wellness adventures.",
     "type": "recreation",
     "latitude": 41.2167,
     "longitude": 22.7167,
-    "coordinates": [22.7167, 41.2167]
+    "coordinates": [
+      22.7167,
+      41.2167
+    ]
   },
   {
     "id": "star_dojran",
@@ -897,7 +1221,10 @@
     "type": "city",
     "latitude": 41.1889,
     "longitude": 22.7244,
-    "coordinates": [22.7244, 41.1889]
+    "coordinates": [
+      22.7244,
+      41.1889
+    ]
   },
   {
     "id": "gevgelija",
@@ -906,7 +1233,11 @@
     "type": "city",
     "latitude": 41.1431,
     "longitude": 22.5047,
-    "coordinates": [22.5047, 41.1431]
+    "coordinates": [
+      22.5047,
+      41.1431
+    ],
+    "nameMk": "Гевгелија"
   },
   {
     "id": "valandovo",
@@ -915,7 +1246,10 @@
     "type": "city",
     "latitude": 41.3181,
     "longitude": 22.5606,
-    "coordinates": [22.5606, 41.3181]
+    "coordinates": [
+      22.5606,
+      41.3181
+    ]
   },
   {
     "id": "bogdanci",
@@ -924,7 +1258,10 @@
     "type": "city",
     "latitude": 41.2031,
     "longitude": 22.5797,
-    "coordinates": [22.5797, 41.2031]
+    "coordinates": [
+      22.5797,
+      41.2031
+    ]
   },
   {
     "id": "radoviš",
@@ -933,25 +1270,34 @@
     "type": "city",
     "latitude": 41.6383,
     "longitude": 22.4647,
-    "coordinates": [22.4647, 41.6383]
+    "coordinates": [
+      22.4647,
+      41.6383
+    ]
   },
-    {
+  {
     "id": "štip",
     "name": "Štip",
     "description": "Experience this eastern textile town where the Bregalnica River meets ancient trade routes! Historic architecture and river valley views create charming urban adventures.",
     "type": "city",
     "latitude": 41.7414,
     "longitude": 22.1953,
-    "coordinates": [22.1953, 41.7414]
+    "coordinates": [
+      22.1953,
+      41.7414
+    ]
   },
   {
     "id": "bregalnica_river",
     "name": "Bregalnica River",
     "description": "Follow Macedonia's second-longest river through diverse landscapes from mountains to plains! Fishing, kayaking, and riverside camping create perfect water adventures.",
     "type": "nature",
-    "latitude": 41.6500,
-    "longitude": 22.3000,
-    "coordinates": [22.3000, 41.6500]
+    "latitude": 41.65,
+    "longitude": 22.3,
+    "coordinates": [
+      22.3,
+      41.65
+    ]
   },
   {
     "id": "kočani",
@@ -960,7 +1306,10 @@
     "type": "city",
     "latitude": 41.9161,
     "longitude": 22.4133,
-    "coordinates": [22.4133, 41.9161]
+    "coordinates": [
+      22.4133,
+      41.9161
+    ]
   },
   {
     "id": "vinica",
@@ -969,7 +1318,11 @@
     "type": "city",
     "latitude": 41.8839,
     "longitude": 22.5081,
-    "coordinates": [22.5081, 41.8839]
+    "coordinates": [
+      22.5081,
+      41.8839
+    ],
+    "nameMk": "Виница"
   },
   {
     "id": "bargala",
@@ -978,7 +1331,10 @@
     "type": "monument",
     "latitude": 41.8833,
     "longitude": 22.5167,
-    "coordinates": [22.5167, 41.8833]
+    "coordinates": [
+      22.5167,
+      41.8833
+    ]
   },
   {
     "id": "delčevo",
@@ -987,7 +1343,10 @@
     "type": "city",
     "latitude": 41.9681,
     "longitude": 22.7681,
-    "coordinates": [22.7681, 41.9681]
+    "coordinates": [
+      22.7681,
+      41.9681
+    ]
   },
   {
     "id": "pehčevo",
@@ -996,25 +1355,35 @@
     "type": "city",
     "latitude": 41.7619,
     "longitude": 22.8947,
-    "coordinates": [22.8947, 41.7619]
+    "coordinates": [
+      22.8947,
+      41.7619
+    ]
   },
   {
     "id": "osogovo_mountains",
     "name": "Osogovo Mountains",
     "description": "Trek through this pristine mountain range on the Bulgarian border! Dense forests, glacial lakes, and endemic species create spectacular wilderness adventures.",
     "type": "nature",
-    "latitude": 42.0000,
+    "latitude": 42,
     "longitude": 22.6667,
-    "coordinates": [22.6667, 42.0000]
+    "coordinates": [
+      22.6667,
+      42
+    ]
   },
   {
     "id": "mavrovo_national_park",
     "name": "Mavrovo National Park",
     "description": "Conquer Macedonia's largest national park where pristine lakes meet towering peaks! Lynx roam ancient forests while eagles soar over glacial waters in this wilderness paradise.",
     "type": "nature",
-    "latitude": 41.7000,
-    "longitude": 20.7500,
-    "coordinates": [20.7500, 41.7000]
+    "latitude": 41.7,
+    "longitude": 20.75,
+    "coordinates": [
+      20.75,
+      41.7
+    ],
+    "nameMk": "Маврово"
   },
   {
     "id": "mavrovo_lake",
@@ -1023,16 +1392,23 @@
     "type": "recreation",
     "latitude": 41.6833,
     "longitude": 20.7167,
-    "coordinates": [20.7167, 41.6833]
+    "coordinates": [
+      20.7167,
+      41.6833
+    ],
+    "nameMk": "Маврово"
   },
   {
     "id": "bistra_mountain",
     "name": "Bistra Mountain",
     "description": "Scale Macedonia's third-highest peak where ancient beech forests hide endemic species! Challenging trails and panoramic views reward serious mountain adventurers.",
     "type": "nature",
-    "latitude": 41.7500,
+    "latitude": 41.75,
     "longitude": 20.6667,
-    "coordinates": [20.6667, 41.7500]
+    "coordinates": [
+      20.6667,
+      41.75
+    ]
   },
   {
     "id": "janche",
@@ -1041,7 +1417,10 @@
     "type": "city",
     "latitude": 41.6167,
     "longitude": 20.6833,
-    "coordinates": [20.6833, 41.6167]
+    "coordinates": [
+      20.6833,
+      41.6167
+    ]
   },
   {
     "id": "lazaropole",
@@ -1049,17 +1428,23 @@
     "description": "Experience this authentic mountain village where stone architecture meets shepherd traditions! Highland pastures and ancient customs create perfect cultural immersion.",
     "type": "city",
     "latitude": 41.5833,
-    "longitude": 20.6500,
-    "coordinates": [20.6500, 41.5833]
+    "longitude": 20.65,
+    "coordinates": [
+      20.65,
+      41.5833
+    ]
   },
   {
     "id": "galicnik",
     "name": "Galičnik",
     "description": "Venture to this legendary highland village famous for traditional weddings! Stone houses and mountain meadows create perfect cultural photography opportunities.",
     "type": "city",
-    "latitude": 41.6000,
+    "latitude": 41.6,
     "longitude": 20.6167,
-    "coordinates": [20.6167, 41.6000]
+    "coordinates": [
+      20.6167,
+      41.6
+    ]
   },
   {
     "id": "tetovo",
@@ -1068,25 +1453,35 @@
     "type": "city",
     "latitude": 42.0106,
     "longitude": 20.9714,
-    "coordinates": [20.9714, 42.0106]
+    "coordinates": [
+      20.9714,
+      42.0106
+    ],
+    "nameMk": "Тетово"
   },
   {
     "id": "painted_mosque",
     "name": "Painted Mosque (Šarena Džamija)",
     "description": "Marvel at the Balkans' most colorful mosque adorned with spectacular Ottoman frescoes! This architectural jewel offers unique cultural and artistic adventures.",
     "type": "monument",
-    "latitude": 42.0100,
-    "longitude": 20.9700,
-    "coordinates": [20.9700, 42.0100]
+    "latitude": 42.01,
+    "longitude": 20.97,
+    "coordinates": [
+      20.97,
+      42.01
+    ]
   },
   {
     "id": "sar_mountain",
     "name": "Šar Mountain",
     "description": "Conquer this mighty mountain range where glacial lakes sparkle beneath towering peaks! Alpine meadows and endemic flowers create spectacular high-altitude adventures.",
     "type": "nature",
-    "latitude": 42.0500,
-    "longitude": 20.8000,
-    "coordinates": [20.8000, 42.0500]
+    "latitude": 42.05,
+    "longitude": 20.8,
+    "coordinates": [
+      20.8,
+      42.05
+    ]
   },
   {
     "id": "popova_sapka",
@@ -1095,7 +1490,10 @@
     "type": "accommodation",
     "latitude": 42.0333,
     "longitude": 20.9167,
-    "coordinates": [20.9167, 42.0333]
+    "coordinates": [
+      20.9167,
+      42.0333
+    ]
   },
   {
     "id": "brezovica_ski_center",
@@ -1104,7 +1502,10 @@
     "type": "recreation",
     "latitude": 42.0833,
     "longitude": 21.0167,
-    "coordinates": [21.0167, 42.0833]
+    "coordinates": [
+      21.0167,
+      42.0833
+    ]
   },
   {
     "id": "gostivar",
@@ -1113,7 +1514,11 @@
     "type": "city",
     "latitude": 41.7964,
     "longitude": 20.9081,
-    "coordinates": [20.9081, 41.7964]
+    "coordinates": [
+      20.9081,
+      41.7964
+    ],
+    "nameMk": "Гостивар"
   },
   {
     "id": "kicevo",
@@ -1122,7 +1527,11 @@
     "type": "city",
     "latitude": 41.5125,
     "longitude": 20.9597,
-    "coordinates": [20.9597, 41.5125]
+    "coordinates": [
+      20.9597,
+      41.5125
+    ],
+    "nameMk": "Кичево"
   },
   {
     "id": "makedonski_brod",
@@ -1131,106 +1540,143 @@
     "type": "city",
     "latitude": 41.5133,
     "longitude": 21.2147,
-    "coordinates": [21.2147, 41.5133]
+    "coordinates": [
+      21.2147,
+      41.5133
+    ]
   },
   {
     "id": "tikvesh_fortress",
     "name": "Tikvesh Fortress",
     "description": "Storm this medieval stronghold overlooking wine country! Ancient walls and vineyard panoramas create perfect historical and gastronomic adventures.",
     "type": "monument",
-    "latitude": 41.4500,
-    "longitude": 22.0000,
-    "coordinates": [22.0000, 41.4500]
+    "latitude": 41.45,
+    "longitude": 22,
+    "coordinates": [
+      22,
+      41.45
+    ]
   },
   {
     "id": "koleshino",
     "name": "Kolešino",
     "description": "Experience this mountain village famous for Macedonia's tallest waterfall! Traditional stone architecture and natural wonders create perfect adventure combinations.",
     "type": "city",
-    "latitude": 41.3700,
-    "longitude": 22.8100,
-    "coordinates": [22.8100, 41.3700]
+    "latitude": 41.37,
+    "longitude": 22.81,
+    "coordinates": [
+      22.81,
+      41.37
+    ]
   },
   {
     "id": "polog_valley",
     "name": "Polog Valley",
     "description": "Journey through this fertile valley where three mountain ranges converge! Agricultural landscapes and cultural diversity create unique regional adventures.",
     "type": "nature",
-    "latitude": 41.9000,
-    "longitude": 20.9000,
-    "coordinates": [20.9000, 41.9000]
+    "latitude": 41.9,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      41.9
+    ]
   },
   {
     "id": "vardar_river",
     "name": "Vardar River",
     "description": "Follow Macedonia's longest river from mountain springs to Aegean destiny! Kayaking, fishing, and riverside camping create epic water adventures.",
     "type": "nature",
-    "latitude": 41.6000,
-    "longitude": 21.7000,
-    "coordinates": [21.7000, 41.6000]
+    "latitude": 41.6,
+    "longitude": 21.7,
+    "coordinates": [
+      21.7,
+      41.6
+    ]
   },
   {
     "id": "crna_river",
     "name": "Crna River",
     "description": "Navigate this pristine mountain river flowing through untouched valleys! Crystal waters and wilderness camping create perfect nature escape adventures.",
     "type": "nature",
-    "latitude": 41.2000,
-    "longitude": 21.0000,
-    "coordinates": [21.0000, 41.2000]
+    "latitude": 41.2,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      41.2
+    ]
   },
   {
     "id": "treska_river",
     "name": "Treska River",
     "description": "Explore this dramatic river carving spectacular canyons through limestone! White-water adventures and canyon photography await thrill-seeking explorers.",
     "type": "nature",
-    "latitude": 41.8000,
-    "longitude": 21.3000,
-    "coordinates": [21.3000, 41.8000]
+    "latitude": 41.8,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      41.8
+    ]
   },
   {
     "id": "pcinja_river",
     "name": "Pčinja River",
     "description": "Follow this border river through diverse landscapes and cultures! Fishing, wildlife watching, and cross-border adventures create unique experiences.",
     "type": "nature",
-    "latitude": 41.9500,
-    "longitude": 22.1000,
-    "coordinates": [22.1000, 41.9500]
+    "latitude": 41.95,
+    "longitude": 22.1,
+    "coordinates": [
+      22.1,
+      41.95
+    ]
   },
   {
     "id": "babuna_river",
     "name": "Babuna River",
     "description": "Discover this mountain river flowing through pristine valleys! Traditional water mills and clear streams create perfect rural adventure experiences.",
     "type": "nature",
-    "latitude": 41.4000,
-    "longitude": 21.8000,
-    "coordinates": [21.8000, 41.4000]
+    "latitude": 41.4,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      41.4
+    ]
   },
   {
     "id": "lakavica_river",
     "name": "Lakavica River",
     "description": "Trek alongside this pristine mountain stream through untouched forests! Wildlife spotting and wilderness camping create perfect nature adventures.",
     "type": "nature",
-    "latitude": 41.8500,
-    "longitude": 22.2000,
-    "coordinates": [22.2000, 41.8500]
+    "latitude": 41.85,
+    "longitude": 22.2,
+    "coordinates": [
+      22.2,
+      41.85
+    ]
   },
   {
     "id": "zletovska_river",
     "name": "Zletovska River",
     "description": "Explore this mountain river valley where traditional villages meet pristine nature! Fishing and cultural photography create perfect highland adventures.",
     "type": "nature",
-    "latitude": 42.1000,
-    "longitude": 22.0500,
-    "coordinates": [22.0500, 42.1000]
+    "latitude": 42.1,
+    "longitude": 22.05,
+    "coordinates": [
+      22.05,
+      42.1
+    ]
   },
   {
     "id": "strumica_river",
     "name": "Strumica River",
     "description": "Navigate this southeastern river through thermal spring country! Hot springs and riverside camping create unique wellness and nature adventures.",
     "type": "nature",
-    "latitude": 41.4000,
-    "longitude": 22.6000,
-    "coordinates": [22.6000, 41.4000]
+    "latitude": 41.4,
+    "longitude": 22.6,
+    "coordinates": [
+      22.6,
+      41.4
+    ],
+    "nameMk": "Струмица"
   },
   {
     "id": "monastery_sv_jovan_bigorski",
@@ -1239,88 +1685,118 @@
     "type": "monument",
     "latitude": 41.6833,
     "longitude": 20.6167,
-    "coordinates": [20.6167, 41.6833]
+    "coordinates": [
+      20.6167,
+      41.6833
+    ]
   },
   {
     "id": "monastery_sv_pantelejmon",
     "name": "Monastery St. Panteleimon",
     "description": "Experience this medieval monastery where ancient frescoes tell spiritual stories! Mountain isolation and Byzantine art create transcendent cultural adventures.",
     "type": "monument",
-    "latitude": 41.7000,
-    "longitude": 21.4000,
-    "coordinates": [21.4000, 41.7000]
+    "latitude": 41.7,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      41.7
+    ]
   },
   {
     "id": "monastery_sv_dimitrij",
     "name": "Monastery St. Dimitri",
     "description": "Explore this ancient spiritual sanctuary perched on dramatic cliffs! Medieval architecture and panoramic views create perfect pilgrimage adventures.",
     "type": "monument",
-    "latitude": 41.5500,
-    "longitude": 21.3000,
-    "coordinates": [21.3000, 41.5500]
+    "latitude": 41.55,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      41.55
+    ]
   },
   {
     "id": "monastery_sv_nikola",
     "name": "Monastery St. Nicholas",
     "description": "Visit this lakeside monastery where spiritual reflection meets natural beauty! Ancient stones and water views create serene contemplative experiences.",
     "type": "monument",
-    "latitude": 41.1000,
-    "longitude": 20.8000,
-    "coordinates": [20.8000, 41.1000]
+    "latitude": 41.1,
+    "longitude": 20.8,
+    "coordinates": [
+      20.8,
+      41.1
+    ]
   },
   {
     "id": "monastery_sv_archangel_michael",
     "name": "Monastery Archangel Michael",
     "description": "Climb to this mountain monastery where angels seem to dwell among clouds! Spiritual architecture and heavenly views create divine adventure experiences.",
     "type": "monument",
-    "latitude": 41.6000,
-    "longitude": 21.2000,
-    "coordinates": [21.2000, 41.6000]
+    "latitude": 41.6,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.6
+    ]
   },
   {
     "id": "monastery_sv_bogorodica",
     "name": "Monastery Holy Mother of God",
     "description": "Discover this sacred feminine sanctuary where maternal protection meets mountain majesty! Ancient icons and peaceful gardens create healing spiritual journeys.",
     "type": "monument",
-    "latitude": 41.4000,
-    "longitude": 21.1000,
-    "coordinates": [21.1000, 41.4000]
+    "latitude": 41.4,
+    "longitude": 21.1,
+    "coordinates": [
+      21.1,
+      41.4
+    ]
   },
   {
     "id": "monastery_sv_erasmo",
     "name": "Monastery St. Erasmus",
     "description": "Experience this remote mountain monastery where hermit traditions survive! Wilderness isolation and spiritual discipline create profound contemplative adventures.",
     "type": "monument",
-    "latitude": 41.3500,
-    "longitude": 20.9500,
-    "coordinates": [20.9500, 41.3500]
+    "latitude": 41.35,
+    "longitude": 20.95,
+    "coordinates": [
+      20.95,
+      41.35
+    ]
   },
   {
     "id": "monastery_sv_spas",
     "name": "Monastery Holy Savior",
     "description": "Visit this salvation sanctuary where miraculous stories echo through stone halls! Ancient healing traditions and mountain peace create transformative experiences.",
     "type": "monument",
-    "latitude": 41.2500,
-    "longitude": 21.4500,
-    "coordinates": [21.4500, 41.2500]
+    "latitude": 41.25,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.25
+    ]
   },
   {
     "id": "monastery_sv_petka",
     "name": "Monastery St. Petka",
     "description": "Explore this women's healing monastery where traditional remedies meet spiritual power! Herbal gardens and ancient wisdom create unique wellness adventures.",
     "type": "monument",
-    "latitude": 41.1500,
-    "longitude": 21.6000,
-    "coordinates": [21.6000, 41.1500]
+    "latitude": 41.15,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.15
+    ]
   },
   {
     "id": "monastery_sv_gjorgji",
     "name": "Monastery St. George",
     "description": "Discover this dragon-slaying saint's mountain fortress! Legendary tales and warrior spirit create epic mythological adventure experiences.",
     "type": "monument",
-    "latitude": 41.0500,
-    "longitude": 21.8000,
-    "coordinates": [21.8000, 41.0500]
+    "latitude": 41.05,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      41.05
+    ]
   },
   {
     "id": "debar",
@@ -1329,7 +1805,11 @@
     "type": "city",
     "latitude": 41.5236,
     "longitude": 20.5247,
-    "coordinates": [20.5247, 41.5236]
+    "coordinates": [
+      20.5247,
+      41.5236
+    ],
+    "nameMk": "Дебар"
   },
   {
     "id": "debar_lake",
@@ -1338,7 +1818,11 @@
     "type": "recreation",
     "latitude": 41.5167,
     "longitude": 20.4833,
-    "coordinates": [20.4833, 41.5167]
+    "coordinates": [
+      20.4833,
+      41.5167
+    ],
+    "nameMk": "Дебар"
   },
   {
     "id": "struga",
@@ -1347,79 +1831,108 @@
     "type": "city",
     "latitude": 41.1781,
     "longitude": 20.6781,
-    "coordinates": [20.6781, 41.1781]
+    "coordinates": [
+      20.6781,
+      41.1781
+    ],
+    "nameMk": "Струга"
   },
   {
     "id": "black_drin_springs",
     "name": "Black Drin Springs",
     "description": "Witness the birthplace of a mighty river emerging from Lake Ohrid's depths! Crystal springs and underwater mysteries create fascinating natural adventures.",
     "type": "water",
-    "latitude": 41.1800,
-    "longitude": 20.6500,
-    "coordinates": [20.6500, 41.1800]
+    "latitude": 41.18,
+    "longitude": 20.65,
+    "coordinates": [
+      20.65,
+      41.18
+    ]
   },
   {
     "id": "gabrovo_village",
     "name": "Gabrovo Village",
     "description": "Discover this highland village gateway to spectacular waterfalls! Traditional mountain life and natural wonders create perfect adventure combinations.",
     "type": "city",
-    "latitude": 41.3800,
-    "longitude": 22.7900,
-    "coordinates": [22.7900, 41.3800]
+    "latitude": 41.38,
+    "longitude": 22.79,
+    "coordinates": [
+      22.79,
+      41.38
+    ]
   },
   {
     "id": "sm_waterfall",
     "name": "SM Waterfall",
     "description": "Chase this hidden cascade tumbling through pristine mountain forests! Secret location and crystal pools create perfect wilderness swimming adventures.",
     "type": "nature",
-    "latitude": 41.3600,
-    "longitude": 22.9000,
-    "coordinates": [22.9000, 41.3600]
+    "latitude": 41.36,
+    "longitude": 22.9,
+    "coordinates": [
+      22.9,
+      41.36
+    ]
   },
   {
     "id": "berovo_spa",
     "name": "Berovo Spa",
     "description": "Breathe the cleanest mountain air while soaking in therapeutic mineral waters! Alpine wellness and forest tranquility create perfect healing retreats.",
     "type": "recreation",
-    "latitude": 41.7000,
-    "longitude": 22.8600,
-    "coordinates": [22.8600, 41.7000]
+    "latitude": 41.7,
+    "longitude": 22.86,
+    "coordinates": [
+      22.86,
+      41.7
+    ],
+    "nameMk": "Берово"
   },
   {
     "id": "ablanitsa_peak",
     "name": "Ablanitsa Peak",
     "description": "Scale this challenging summit in the Maleševo Mountains! Demanding trails and spectacular views reward serious mountain adventurers.",
     "type": "nature",
-    "latitude": 41.6000,
-    "longitude": 22.9500,
-    "coordinates": [22.9500, 41.6000]
+    "latitude": 41.6,
+    "longitude": 22.95,
+    "coordinates": [
+      22.95,
+      41.6
+    ]
   },
   {
     "id": "carev_vrv_peak",
     "name": "Carev Vrv Peak",
     "description": "Conquer this royal summit where kings once surveyed their domains! Majestic views and challenging climbs create epic mountain adventures.",
     "type": "nature",
-    "latitude": 41.0000,
-    "longitude": 21.2000,
-    "coordinates": [21.2000, 41.0000]
+    "latitude": 41,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41
+    ]
   },
   {
     "id": "solunska_glava_peak",
     "name": "Solunska Glava Peak",
     "description": "Reach this towering peak named for distant Thessaloniki views! Alpine challenges and panoramic vistas reward determined climbers.",
     "type": "nature",
-    "latitude": 40.9500,
-    "longitude": 21.1500,
-    "coordinates": [21.1500, 40.9500]
+    "latitude": 40.95,
+    "longitude": 21.15,
+    "coordinates": [
+      21.15,
+      40.95
+    ]
   },
   {
     "id": "titov_vrv_peak",
     "name": "Titov Vrv Peak",
     "description": "Scale Macedonia's second-highest summit in Šar Mountain! Glacial lakes and alpine meadows create spectacular high-altitude adventures.",
     "type": "nature",
-    "latitude": 42.0000,
-    "longitude": 20.7500,
-    "coordinates": [20.7500, 42.0000]
+    "latitude": 42,
+    "longitude": 20.75,
+    "coordinates": [
+      20.75,
+      42
+    ]
   },
   {
     "id": "korab_peak",
@@ -1427,17 +1940,23 @@
     "description": "Conquer Macedonia's highest summit on the Albanian border! At 2,764 meters, this ultimate challenge rewards brave climbers with Balkan supremacy.",
     "type": "nature",
     "latitude": 41.7833,
-    "longitude": 20.5500,
-    "coordinates": [20.5500, 41.7833]
+    "longitude": 20.55,
+    "coordinates": [
+      20.55,
+      41.7833
+    ]
   },
   {
     "id": "deshat_peak",
     "name": "Dešat Peak",
     "description": "Scale this dramatic Šar Mountain summit where ten valleys converge! Alpine beauty and panoramic views create perfect high-altitude adventures.",
     "type": "nature",
-    "latitude": 42.0500,
-    "longitude": 20.8500,
-    "coordinates": [20.8500, 42.0500]
+    "latitude": 42.05,
+    "longitude": 20.85,
+    "coordinates": [
+      20.85,
+      42.05
+    ]
   },
   {
     "id": "golem_korab_peak",
@@ -1446,34 +1965,46 @@
     "type": "nature",
     "latitude": 41.7889,
     "longitude": 20.5481,
-    "coordinates": [20.5481, 41.7889]
+    "coordinates": [
+      20.5481,
+      41.7889
+    ]
   },
   {
     "id": "mal_korab_peak",
     "name": "Mal Korab Peak",
     "description": "Challenge this lesser Korab sibling offering spectacular border views! High-altitude trails and pristine wilderness create perfect mountain adventures.",
     "type": "nature",
-    "latitude": 41.7800,
-    "longitude": 20.5400,
-    "coordinates": [20.5400, 41.7800]
+    "latitude": 41.78,
+    "longitude": 20.54,
+    "coordinates": [
+      20.54,
+      41.78
+    ]
   },
   {
     "id": "krcin_peak",
     "name": "Krčin Peak",
     "description": "Conquer this Osogovo Mountains giant where Bulgarian borders meet pristine wilderness! Challenging trails and cross-border views reward serious hikers.",
     "type": "nature",
-    "latitude": 42.0500,
-    "longitude": 22.7000,
-    "coordinates": [22.7000, 42.0500]
+    "latitude": 42.05,
+    "longitude": 22.7,
+    "coordinates": [
+      22.7,
+      42.05
+    ]
   },
   {
     "id": "ruen_peak",
     "name": "Ruen Peak",
     "description": "Scale the Osogovo Mountains' highest summit! Ancient forests and glacial features create spectacular wilderness adventures.",
     "type": "nature",
-    "latitude": 42.1000,
-    "longitude": 22.7500,
-    "coordinates": [22.7500, 42.1000]
+    "latitude": 42.1,
+    "longitude": 22.75,
+    "coordinates": [
+      22.75,
+      42.1
+    ]
   },
   {
     "id": "kajmakcalan_peak",
@@ -1482,7 +2013,10 @@
     "type": "monument",
     "latitude": 40.9167,
     "longitude": 21.7833,
-    "coordinates": [21.7833, 40.9167]
+    "coordinates": [
+      21.7833,
+      40.9167
+    ]
   },
   {
     "id": "nidje_peak",
@@ -1491,97 +2025,130 @@
     "type": "nature",
     "latitude": 41.0167,
     "longitude": 21.2333,
-    "coordinates": [21.2333, 41.0167]
+    "coordinates": [
+      21.2333,
+      41.0167
+    ]
   },
   {
     "id": "veternik_peak",
     "name": "Veternik Peak",
     "description": "Scale this wind-swept summit where eagles ride thermals above pristine valleys! Challenging climbs and aerial views reward mountain adventurers.",
     "type": "nature",
-    "latitude": 41.5000,
-    "longitude": 21.0000,
-    "coordinates": [21.0000, 41.5000]
+    "latitude": 41.5,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      41.5
+    ]
   },
   {
     "id": "crn_kamen_peak",
     "name": "Crn Kamen Peak",
     "description": "Reach this 'Black Stone' summit where dark rocks meet bright sky! Dramatic geology and panoramic views create striking mountain adventures.",
     "type": "nature",
-    "latitude": 41.4500,
-    "longitude": 20.9000,
-    "coordinates": [20.9000, 41.4500]
+    "latitude": 41.45,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      41.45
+    ]
   },
   {
     "id": "kozuf_peak",
     "name": "Kozuf Peak",
     "description": "Climb this southern mountain giant where Greek borders meet highland wilderness! Cross-border views and challenging trails reward determined explorers.",
     "type": "nature",
-    "latitude": 41.2000,
-    "longitude": 22.4500,
-    "coordinates": [22.4500, 41.2000]
+    "latitude": 41.2,
+    "longitude": 22.45,
+    "coordinates": [
+      22.45,
+      41.2
+    ]
   },
   {
     "id": "plackovica_peak",
     "name": "Plačkovica Peak",
     "description": "Conquer this eastern mountain summit where ancient mining meets pristine nature! Industrial heritage and wilderness views create unique adventures.",
     "type": "nature",
-    "latitude": 41.9000,
-    "longitude": 22.5000,
-    "coordinates": [22.5000, 41.9000]
+    "latitude": 41.9,
+    "longitude": 22.5,
+    "coordinates": [
+      22.5,
+      41.9
+    ]
   },
   {
     "id": "golak_peak",
     "name": "Golak Peak",
     "description": "Scale this naked mountain summit where barren beauty meets dramatic skies! Stark landscapes and panoramic views create powerful alpine experiences.",
     "type": "nature",
-    "latitude": 42.2000,
-    "longitude": 21.8000,
-    "coordinates": [21.8000, 42.2000]
+    "latitude": 42.2,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      42.2
+    ]
   },
   {
     "id": "kitka_peak",
     "name": "Kitka Peak",
     "description": "Reach this remote eastern summit where pristine wilderness meets endless horizons! Challenging access and untouched nature reward serious adventurers.",
     "type": "nature",
-    "latitude": 41.8000,
-    "longitude": 22.8000,
-    "coordinates": [22.8000, 41.8000]
+    "latitude": 41.8,
+    "longitude": 22.8,
+    "coordinates": [
+      22.8,
+      41.8
+    ]
   },
   {
     "id": "babuna_peak",
     "name": "Babuna Peak",
     "description": "Climb this central mountain summit where traditional villages dot pristine valleys! Cultural encounters and mountain views create perfect overlanding adventures.",
     "type": "nature",
-    "latitude": 41.4000,
-    "longitude": 21.9000,
-    "coordinates": [21.9000, 41.4000]
+    "latitude": 41.4,
+    "longitude": 21.9,
+    "coordinates": [
+      21.9,
+      41.4
+    ]
   },
   {
     "id": "dautica_peak",
     "name": "Dautica Peak",
     "description": "Conquer this challenging summit where ancient trails meet modern adventure! Historical paths and mountain vistas create timeless trekking experiences.",
     "type": "nature",
-    "latitude": 41.6500,
-    "longitude": 21.7000,
-    "coordinates": [21.7000, 41.6500]
+    "latitude": 41.65,
+    "longitude": 21.7,
+    "coordinates": [
+      21.7,
+      41.65
+    ]
   },
   {
     "id": "selechka_planina",
     "name": "Selečka Planina",
     "description": "Trek across this pristine mountain plateau where shepherds still roam! Traditional pastoral life and highland meadows create authentic cultural adventures.",
     "type": "nature",
-    "latitude": 41.5500,
-    "longitude": 22.2000,
-    "coordinates": [22.2000, 41.5500]
+    "latitude": 41.55,
+    "longitude": 22.2,
+    "coordinates": [
+      22.2,
+      41.55
+    ]
   },
   {
     "id": "ograzden_peak",
     "name": "Ogražden Peak",
     "description": "Scale this Bulgarian border summit where two nations meet in mountain majesty! Cross-border views and challenging trails reward international adventurers.",
     "type": "nature",
-    "latitude": 41.3000,
-    "longitude": 22.8500,
-    "coordinates": [22.8500, 41.3000]
+    "latitude": 41.3,
+    "longitude": 22.85,
+    "coordinates": [
+      22.85,
+      41.3
+    ]
   },
   {
     "id": "belasica_peak",
@@ -1589,772 +2156,1039 @@
     "description": "Conquer this tri-border summit where Macedonia, Bulgaria, and Greece converge! Triple-nation views and challenging climbs create ultimate border adventures.",
     "type": "nature",
     "latitude": 41.3333,
-    "longitude": 23.0000,
-    "coordinates": [23.0000, 41.3333]
+    "longitude": 23,
+    "coordinates": [
+      23,
+      41.3333
+    ]
   },
   {
     "id": "karadzica_peak",
     "name": "Karadžica Peak",
     "description": "Reach this remote mountain summit where pristine wilderness meets endless horizons! Solitary climbing and untouched nature create profound mountain experiences.",
     "type": "nature",
-    "latitude": 41.7000,
-    "longitude": 22.3000,
-    "coordinates": [22.3000, 41.7000]
+    "latitude": 41.7,
+    "longitude": 22.3,
+    "coordinates": [
+      22.3,
+      41.7
+    ]
   },
   {
     "id": "suva_gora_peak",
     "name": "Suva Gora Peak",
     "description": "Scale this 'Dry Mountain' where stark beauty meets dramatic weather! Challenging conditions and raw landscapes create intense mountain adventures.",
     "type": "nature",
-    "latitude": 41.8500,
-    "longitude": 21.9000,
-    "coordinates": [21.9000, 41.8500]
+    "latitude": 41.85,
+    "longitude": 21.9,
+    "coordinates": [
+      21.9,
+      41.85
+    ]
   },
   {
     "id": "jakupica_peak",
     "name": "Jakupica Peak",
     "description": "Conquer this central mountain giant where glacial lakes reflect pristine skies! Alpine beauty and challenging trails create perfect wilderness adventures.",
     "type": "nature",
-    "latitude": 41.6000,
-    "longitude": 21.4500,
-    "coordinates": [21.4500, 41.6000]
+    "latitude": 41.6,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.6
+    ]
   },
   {
     "id": "kitino_village",
     "name": "Kitino Village",
     "description": "Experience this remote highland settlement where traditional life survives in mountain isolation! Authentic culture and dramatic landscapes create perfect overlanding stops.",
     "type": "city",
-    "latitude": 41.2800,
-    "longitude": 20.9200,
-    "coordinates": [20.9200, 41.2800]
+    "latitude": 41.28,
+    "longitude": 20.92,
+    "coordinates": [
+      20.92,
+      41.28
+    ]
   },
   {
     "id": "labunishta_village",
     "name": "Labuništa Village",
     "description": "Discover this lakeside village where apple orchards meet crystal waters! Traditional fruit cultivation and Ohrid beauty create perfect agricultural adventures.",
     "type": "city",
-    "latitude": 41.1200,
-    "longitude": 20.7800,
-    "coordinates": [20.7800, 41.1200]
+    "latitude": 41.12,
+    "longitude": 20.78,
+    "coordinates": [
+      20.78,
+      41.12
+    ]
   },
   {
     "id": "pestani_village",
     "name": "Pestani Village",
     "description": "Explore this traditional fishing village where nets dry beside ancient stones! Lakeside culture and timeless traditions create authentic waterfront experiences.",
     "type": "city",
-    "latitude": 41.1100,
-    "longitude": 20.7700,
-    "coordinates": [20.7700, 41.1100]
+    "latitude": 41.11,
+    "longitude": 20.77,
+    "coordinates": [
+      20.77,
+      41.11
+    ]
   },
   {
     "id": "trpejca_village",
     "name": "Trpejca Village",
     "description": "Experience this pristine lakeside settlement where traditional architecture meets crystal waters! Stone houses and lake views create perfect photography opportunities.",
     "type": "city",
-    "latitude": 41.0900,
-    "longitude": 20.7600,
-    "coordinates": [20.7600, 41.0900]
+    "latitude": 41.09,
+    "longitude": 20.76,
+    "coordinates": [
+      20.76,
+      41.09
+    ]
   },
   {
     "id": "kalishta_village",
     "name": "Kališta Village",
     "description": "Venture to this remote lakeside village accessible only by boat or mountain trail! Isolation and natural beauty create ultimate wilderness retreat experiences.",
     "type": "city",
-    "latitude": 41.0800,
-    "longitude": 20.7400,
-    "coordinates": [20.7400, 41.0800]
+    "latitude": 41.08,
+    "longitude": 20.74,
+    "coordinates": [
+      20.74,
+      41.08
+    ]
   },
   {
     "id": "radozda_village",
     "name": "Radožda Village",
     "description": "Discover this border village where Albanian culture meets Ohrid's pristine shores! Cross-cultural experiences and lakeside beauty create unique adventures.",
     "type": "city",
-    "latitude": 41.0700,
-    "longitude": 20.7200,
-    "coordinates": [20.7200, 41.0700]
+    "latitude": 41.07,
+    "longitude": 20.72,
+    "coordinates": [
+      20.72,
+      41.07
+    ]
   },
   {
     "id": "oktisi_village",
     "name": "Oktisi Village",
     "description": "Experience this highland village where traditional building methods create authentic mountain architecture! Stone craftsmanship and cultural heritage offer perfect exploration.",
     "type": "city",
-    "latitude": 41.0600,
-    "longitude": 20.7000,
-    "coordinates": [20.7000, 41.0600]
+    "latitude": 41.06,
+    "longitude": 20.7,
+    "coordinates": [
+      20.7,
+      41.06
+    ]
   },
   {
     "id": "earshnica_village",
     "name": "Earšnica Village",
     "description": "Explore this mountain village where pristine streams cascade through traditional settlements! Highland culture and natural beauty create perfect overlanding adventures.",
     "type": "city",
-    "latitude": 41.0500,
-    "longitude": 20.6800,
-    "coordinates": [20.6800, 41.0500]
+    "latitude": 41.05,
+    "longitude": 20.68,
+    "coordinates": [
+      20.68,
+      41.05
+    ]
   },
   {
     "id": "gorno_dupeni_village",
     "name": "Gorno Dupeni Village",
     "description": "Trek to this upper mountain village where shepherd traditions survive in pristine isolation! Highland pastoral life creates authentic cultural immersion experiences.",
     "type": "city",
-    "latitude": 41.0400,
-    "longitude": 20.6600,
-    "coordinates": [20.6600, 41.0400]
+    "latitude": 41.04,
+    "longitude": 20.66,
+    "coordinates": [
+      20.66,
+      41.04
+    ]
   },
   {
     "id": "dolno_dupeni_village",
     "name": "Dolno Dupeni Village",
     "description": "Discover this lower highland village where mountain streams meet traditional architecture! Stone bridges and cultural heritage create perfect photography opportunities.",
     "type": "city",
-    "latitude": 41.0300,
-    "longitude": 20.6400,
-    "coordinates": [20.6400, 41.0300]
+    "latitude": 41.03,
+    "longitude": 20.64,
+    "coordinates": [
+      20.64,
+      41.03
+    ]
   },
   {
     "id": "novo_selo_strumica",
     "name": "Novo Selo (Strumica)",
     "description": "Experience this 'new village' where thermal springs meet traditional culture! Geothermal wonders and rural life create unique wellness adventures.",
     "type": "city",
-    "latitude": 41.4200,
-    "longitude": 22.7200,
-    "coordinates": [22.7200, 41.4200]
+    "latitude": 41.42,
+    "longitude": 22.72,
+    "coordinates": [
+      22.72,
+      41.42
+    ],
+    "nameMk": "Струмица"
   },
   {
     "id": "bansko_village",
     "name": "Bansko Village",
     "description": "Soak in this thermal spa village where healing waters bubble from ancient earth! Natural wellness and mountain beauty create perfect therapeutic retreats.",
     "type": "city",
-    "latitude": 41.4100,
-    "longitude": 22.6200,
-    "coordinates": [22.6200, 41.4100]
+    "latitude": 41.41,
+    "longitude": 22.62,
+    "coordinates": [
+      22.62,
+      41.41
+    ]
   },
   {
     "id": "dobrejci_village",
     "name": "Dobrejci Village",
     "description": "Explore this 'good people' village where traditional hospitality meets mountain beauty! Authentic Balkan welcome and highland vistas create memorable experiences.",
     "type": "city",
-    "latitude": 41.4000,
-    "longitude": 22.6100,
-    "coordinates": [22.6100, 41.4000]
+    "latitude": 41.4,
+    "longitude": 22.61,
+    "coordinates": [
+      22.61,
+      41.4
+    ]
   },
   {
     "id": "veljusa_monastery",
     "name": "Veljusa Monastery",
     "description": "Discover this ancient female monastery where nuns preserve medieval traditions! Sacred femininity and spiritual architecture create profound contemplative adventures.",
     "type": "monument",
-    "latitude": 41.4500,
-    "longitude": 22.6500,
-    "coordinates": [22.6500, 41.4500]
+    "latitude": 41.45,
+    "longitude": 22.65,
+    "coordinates": [
+      22.65,
+      41.45
+    ]
   },
   {
     "id": "eleusa_monastery",
     "name": "Eleusa Monastery",
     "description": "Experience this 'merciful' monastery where Byzantine art meets mountain serenity! Ancient compassion and artistic beauty create healing spiritual journeys.",
     "type": "monument",
-    "latitude": 41.4400,
-    "longitude": 22.6400,
-    "coordinates": [22.6400, 41.4400]
+    "latitude": 41.44,
+    "longitude": 22.64,
+    "coordinates": [
+      22.64,
+      41.44
+    ]
   },
   {
     "id": "memorial_house_goce_delcev",
     "name": "Memorial House Goce Delčev",
     "description": "Honor this revolutionary hero's birthplace where freedom fighters planned independence! Historical significance and patriotic spirit create powerful cultural experiences.",
     "type": "monument",
-    "latitude": 41.3900,
-    "longitude": 23.3900,
-    "coordinates": [23.3900, 41.3900]
+    "latitude": 41.39,
+    "longitude": 23.39,
+    "coordinates": [
+      23.39,
+      41.39
+    ]
   },
   {
     "id": "kukuš_archaeological_site",
     "name": "Kukuš Archaeological Site",
     "description": "Uncover ancient civilizations at this prehistoric settlement! Archaeological mysteries and cultural layers create fascinating historical adventure experiences.",
     "type": "monument",
-    "latitude": 41.4300,
-    "longitude": 22.6700,
-    "coordinates": [22.6700, 41.4300]
+    "latitude": 41.43,
+    "longitude": 22.67,
+    "coordinates": [
+      22.67,
+      41.43
+    ]
   },
   {
     "id": "carevi_kuli_fortress",
     "name": "Carevi Kuli Fortress",
     "description": "Storm this 'Emperor's Towers' fortress overlooking the Strumica valley! Medieval warfare and panoramic views create epic historical adventures.",
     "type": "monument",
-    "latitude": 41.4600,
-    "longitude": 22.6800,
-    "coordinates": [22.6800, 41.4600]
+    "latitude": 41.46,
+    "longitude": 22.68,
+    "coordinates": [
+      22.68,
+      41.46
+    ]
   },
   {
     "id": "kolešino_springs",
     "name": "Kolešino Springs",
     "description": "Discover these crystal mountain springs feeding Macedonia's tallest waterfall! Pure water sources and pristine nature create perfect wilderness refreshment.",
     "type": "nature",
-    "latitude": 41.3650,
-    "longitude": 22.8050,
-    "coordinates": [22.8050, 41.3650]
+    "latitude": 41.365,
+    "longitude": 22.805,
+    "coordinates": [
+      22.805,
+      41.365
+    ]
   },
   {
     "id": "smolare_springs",
     "name": "Smolare Springs",
     "description": "Experience these pristine mountain springs where crystal waters begin their spectacular cascade! Source exploration and nature photography create perfect adventures.",
     "type": "nature",
-    "latitude": 41.3600,
-    "longitude": 22.8900,
-    "coordinates": [22.8900, 41.3600]
+    "latitude": 41.36,
+    "longitude": 22.89,
+    "coordinates": [
+      22.89,
+      41.36
+    ]
   },
   {
     "id": "banishte_ski_center",
     "name": "Banište Ski Center",
     "description": "Carve powder on Pelister's pristine slopes where ancient pines frame perfect runs! Winter sports and mountain beauty create ultimate alpine adventures.",
     "type": "recreation",
-    "latitude": 41.0200,
-    "longitude": 21.2400,
-    "coordinates": [21.2400, 41.0200]
+    "latitude": 41.02,
+    "longitude": 21.24,
+    "coordinates": [
+      21.24,
+      41.02
+    ]
   },
   {
     "id": "zare_lazarevski_hut",
     "name": "Zare Lazarevski Mountain Hut",
     "description": "Rest at this high-altitude refuge where mountaineers gather for peak adventures! Alpine hospitality and summit access create perfect base camp experiences.",
     "type": "recreation",
-    "latitude": 41.0100,
-    "longitude": 21.2100,
-    "coordinates": [21.2100, 41.0100]
+    "latitude": 41.01,
+    "longitude": 21.21,
+    "coordinates": [
+      21.21,
+      41.01
+    ]
   },
   {
     "id": "shiroka_river",
     "name": "Široka River",
     "description": "Follow this 'wide river' through pristine mountain valleys! Crystal waters and wilderness camping create perfect nature escape adventures.",
     "type": "nature",
-    "latitude": 41.1500,
-    "longitude": 21.1800,
-    "coordinates": [21.1800, 41.1500]
+    "latitude": 41.15,
+    "longitude": 21.18,
+    "coordinates": [
+      21.18,
+      41.15
+    ]
   },
   {
     "id": "baba_mountain_glacial_lakes",
     "name": "Baba Mountain Glacial Lakes",
     "description": "Trek to these pristine glacial jewels nestled beneath towering peaks! Crystal mountain mirrors and alpine wilderness create spectacular high-altitude adventures.",
     "type": "nature",
-    "latitude": 41.0000,
-    "longitude": 21.2200,
-    "coordinates": [21.2200, 41.0000]
+    "latitude": 41,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      41
+    ]
   },
   {
     "id": "large_lake_pelister",
     "name": "Large Lake (Pelister)",
     "description": "Discover this magnificent glacial lake reflecting ancient Molika pines! Pristine alpine waters and endemic forests create perfect wilderness photography.",
     "type": "nature",
-    "latitude": 40.9900,
-    "longitude": 21.2300,
-    "coordinates": [21.2300, 40.9900]
+    "latitude": 40.99,
+    "longitude": 21.23,
+    "coordinates": [
+      21.23,
+      40.99
+    ],
+    "nameMk": "Пелистер"
   },
   {
     "id": "small_lake_pelister",
     "name": "Small Lake (Pelister)",
     "description": "Find solitude at this intimate glacial gem where silence speaks louder than words! Peaceful waters and mountain reflections create perfect meditation spots.",
     "type": "nature",
-    "latitude": 40.9850,
-    "longitude": 21.2250,
-    "coordinates": [21.2250, 40.9850]
+    "latitude": 40.985,
+    "longitude": 21.225,
+    "coordinates": [
+      21.225,
+      40.985
+    ],
+    "nameMk": "Пелистер"
   },
   {
     "id": "eye_lake_pelister",
     "name": "Eye Lake (Pelister)",
     "description": "Gaze into this mystical 'eye' reflecting the soul of Baba Mountain! Circular perfection and alpine beauty create transcendent natural experiences.",
     "type": "nature",
-    "latitude": 40.9800,
-    "longitude": 21.2200,
-    "coordinates": [21.2200, 40.9800]
+    "latitude": 40.98,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      40.98
+    ],
+    "nameMk": "Пелистер"
   },
   {
     "id": "lower_cardak_lake",
     "name": "Lower Čardak Lake",
     "description": "Rest at this peaceful glacial lake where mountain shepherds once sheltered! Traditional highland culture and pristine waters create perfect cultural adventures.",
     "type": "nature",
-    "latitude": 40.9750,
-    "longitude": 21.2150,
-    "coordinates": [21.2150, 40.9750]
+    "latitude": 40.975,
+    "longitude": 21.215,
+    "coordinates": [
+      21.215,
+      40.975
+    ]
   },
   {
     "id": "upper_cardak_lake",
     "name": "Upper Čardak Lake",
     "description": "Climb to this high-altitude glacial jewel where few footsteps disturb pristine silence! Remote beauty and challenging access reward dedicated adventurers.",
     "type": "nature",
-    "latitude": 40.9700,
-    "longitude": 21.2100,
-    "coordinates": [21.2100, 40.9700]
+    "latitude": 40.97,
+    "longitude": 21.21,
+    "coordinates": [
+      21.21,
+      40.97
+    ]
   },
   {
     "id": "monastery_zrze",
     "name": "Monastery Zrze",
     "description": "Explore this medieval monastery where 14th-century frescoes tell ancient stories! Artistic heritage and spiritual atmosphere create profound cultural experiences.",
     "type": "monument",
-    "latitude": 41.4700,
-    "longitude": 21.4200,
-    "coordinates": [21.4200, 41.4700]
+    "latitude": 41.47,
+    "longitude": 21.42,
+    "coordinates": [
+      21.42,
+      41.47
+    ]
   },
   {
     "id": "poeševo_village",
     "name": "Poeševo Village",
     "description": "Experience this mountain village where poetic beauty meets traditional life! Highland culture and scenic landscapes create perfect overlanding poetry.",
     "type": "city",
-    "latitude": 41.4800,
-    "longitude": 21.4300,
-    "coordinates": [21.4300, 41.4800]
+    "latitude": 41.48,
+    "longitude": 21.43,
+    "coordinates": [
+      21.43,
+      41.48
+    ]
   },
   {
     "id": "vatašha_village",
     "name": "Vataša Village",
     "description": "Discover this highland settlement where ancient fire traditions illuminate mountain nights! Cultural ceremonies and dramatic landscapes create mystical experiences.",
     "type": "city",
-    "latitude": 41.4900,
-    "longitude": 21.4400,
-    "coordinates": [21.4400, 41.4900]
+    "latitude": 41.49,
+    "longitude": 21.44,
+    "coordinates": [
+      21.44,
+      41.49
+    ]
   },
   {
     "id": "skočivir_village",
     "name": "Skočivir Village",
     "description": "Venture to this 'jumping whirlpool' village where mountain streams create natural water features! Dynamic landscapes and highland culture await exploration.",
     "type": "city",
-    "latitude": 41.5000,
-    "longitude": 21.4500,
-    "coordinates": [21.4500, 41.5000]
+    "latitude": 41.5,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.5
+    ]
   },
   {
     "id": "manastirec_village",
     "name": "Manastirec Village",
     "description": "Explore this 'little monastery' village where spiritual heritage meets mountain beauty! Religious traditions and highland vistas create perfect cultural adventures.",
     "type": "city",
-    "latitude": 41.5100,
-    "longitude": 21.4600,
-    "coordinates": [21.4600, 41.5100]
+    "latitude": 41.51,
+    "longitude": 21.46,
+    "coordinates": [
+      21.46,
+      41.51
+    ]
   },
   {
     "id": "dihovo_village",
     "name": "Dihovo Village",
     "description": "Experience this traditional Vlach village where ancient pastoral culture survives! Highland shepherding and mountain architecture create authentic cultural immersion.",
     "type": "city",
-    "latitude": 41.0200,
-    "longitude": 21.3400,
-    "coordinates": [21.3400, 41.0200]
+    "latitude": 41.02,
+    "longitude": 21.34,
+    "coordinates": [
+      21.34,
+      41.02
+    ]
   },
   {
     "id": "magarevo_village",
     "name": "Magarevo Village",
     "description": "Discover this highland village where traditional mountain transport meets modern adventures! Pack animal heritage and scenic trails create unique trekking experiences.",
     "type": "city",
-    "latitude": 41.0300,
-    "longitude": 21.3500,
-    "coordinates": [21.3500, 41.0300]
+    "latitude": 41.03,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.03
+    ]
   },
   {
     "id": "trnovo_village_bitola",
     "name": "Trnovo Village (Bitola)",
     "description": "Explore this 'thorny' village where resilient mountain culture thrives! Hardy traditions and dramatic landscapes create perfect highland adventures.",
     "type": "city",
-    "latitude": 41.0400,
-    "longitude": 21.3600,
-    "coordinates": [21.3600, 41.0400]
+    "latitude": 41.04,
+    "longitude": 21.36,
+    "coordinates": [
+      21.36,
+      41.04
+    ],
+    "nameMk": "Битола"
   },
   {
     "id": "bukovo_village",
     "name": "Bukovo Village",
     "description": "Experience this 'beech forest' village where ancient trees meet traditional architecture! Forest culture and mountain beauty create perfect nature adventures.",
     "type": "city",
-    "latitude": 41.0500,
-    "longitude": 21.3700,
-    "coordinates": [21.3700, 41.0500]
+    "latitude": 41.05,
+    "longitude": 21.37,
+    "coordinates": [
+      21.37,
+      41.05
+    ]
   },
   {
     "id": "rotino_village",
     "name": "Rotino Village",
     "description": "Venture to this remote highland settlement where traditional life rotates with mountain seasons! Pastoral cycles and authentic culture create timeless experiences.",
     "type": "city",
-    "latitude": 41.0600,
-    "longitude": 21.3800,
-    "coordinates": [21.3800, 41.0600]
+    "latitude": 41.06,
+    "longitude": 21.38,
+    "coordinates": [
+      21.38,
+      41.06
+    ]
   },
   {
     "id": "capeljsko_village",
     "name": "Čapeljsko Village",
     "description": "Discover this highland village where chapel traditions meet mountain majesty! Spiritual heritage and dramatic landscapes create perfect pilgrimage adventures.",
     "type": "city",
-    "latitude": 41.0700,
-    "longitude": 21.3900,
-    "coordinates": [21.3900, 41.0700]
+    "latitude": 41.07,
+    "longitude": 21.39,
+    "coordinates": [
+      21.39,
+      41.07
+    ]
   },
   {
     "id": "brajčino_village",
     "name": "Brajčino Village",
     "description": "Experience this traditional mountain village where Vlach culture preserves ancient traditions! Highland heritage and scenic beauty create authentic cultural adventures.",
     "type": "city",
-    "latitude": 40.9600,
-    "longitude": 21.0800,
-    "coordinates": [21.0800, 40.9600]
+    "latitude": 40.96,
+    "longitude": 21.08,
+    "coordinates": [
+      21.08,
+      40.96
+    ]
   },
   {
     "id": "ljubojno_monastery",
     "name": "Ljubojno Monastery",
     "description": "Visit this mountain monastery where love and devotion meet spiritual architecture! Sacred spaces and highland peace create profound contemplative experiences.",
     "type": "monument",
-    "latitude": 40.8900,
-    "longitude": 21.1300,
-    "coordinates": [21.1300, 40.8900]
+    "latitude": 40.89,
+    "longitude": 21.13,
+    "coordinates": [
+      21.13,
+      40.89
+    ]
   },
   {
     "id": "asamati_village",
     "name": "Asamati Village",
     "description": "Explore this border village where traditional Greek culture meets Macedonian mountains! Cross-cultural experiences and highland beauty create unique adventures.",
     "type": "city",
-    "latitude": 40.8800,
-    "longitude": 21.1200,
-    "coordinates": [21.1200, 40.8800]
+    "latitude": 40.88,
+    "longitude": 21.12,
+    "coordinates": [
+      21.12,
+      40.88
+    ]
   },
   {
     "id": "gevgelija_spa",
     "name": "Gevgelija Spa Resort",
     "description": "Relax at this premier thermal spa destination where healing waters meet luxury wellness! Modern facilities and ancient mineral springs create perfect therapeutic retreats.",
     "type": "recreation",
-    "latitude": 41.1400,
-    "longitude": 22.5000,
-    "coordinates": [22.5000, 41.1400]
+    "latitude": 41.14,
+    "longitude": 22.5,
+    "coordinates": [
+      22.5,
+      41.14
+    ],
+    "nameMk": "Гевгелија"
   },
   {
     "id": "kurbinovo_church",
     "name": "Church of St. George Kurbinovo",
     "description": "Marvel at this 12th-century masterpiece adorned with Byzantine frescoes! Medieval artistry and lakeside serenity create profound spiritual adventures.",
     "type": "monument",
-    "latitude": 40.9500,
-    "longitude": 20.9000,
-    "coordinates": [20.9000, 40.9500]
+    "latitude": 40.95,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      40.95
+    ]
   },
   {
     "id": "lazaropole_waterfall",
     "name": "Lazaropole Waterfall",
     "description": "Chase this hidden cascade tumbling through pristine Bistra forests! Crystal waters and mountain wilderness create perfect photography adventures.",
     "type": "nature",
-    "latitude": 41.5800,
-    "longitude": 20.6450,
-    "coordinates": [20.6450, 41.5800]
+    "latitude": 41.58,
+    "longitude": 20.645,
+    "coordinates": [
+      20.645,
+      41.58
+    ]
   },
   {
     "id": "radika_river",
     "name": "Radika River",
     "description": "Navigate this pristine mountain river flowing through Mavrovo wilderness! White-water rafting and trout fishing create perfect aquatic adventures.",
     "type": "nature",
-    "latitude": 41.6500,
-    "longitude": 20.7000,
-    "coordinates": [20.7000, 41.6500]
+    "latitude": 41.65,
+    "longitude": 20.7,
+    "coordinates": [
+      20.7,
+      41.65
+    ]
   },
   {
     "id": "shar_planina_glacial_lakes",
     "name": "Šar Planina Glacial Lakes",
     "description": "Trek to these pristine alpine gems scattered across high mountain plateaus! Crystal mirrors and endemic flowers create spectacular high-altitude adventures.",
     "type": "nature",
-    "latitude": 42.0000,
-    "longitude": 20.8500,
-    "coordinates": [20.8500, 42.0000]
+    "latitude": 42,
+    "longitude": 20.85,
+    "coordinates": [
+      20.85,
+      42
+    ]
   },
   {
     "id": "kale_krstoar",
     "name": "Kale Krstoar Fortress",
     "description": "Storm this medieval stronghold perched on dramatic cliffs! Ancient battlements and valley views create epic historical adventures.",
     "type": "monument",
-    "latitude": 41.8000,
-    "longitude": 21.6000,
-    "coordinates": [21.6000, 41.8000]
+    "latitude": 41.8,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.8
+    ]
   },
   {
     "id": "gradsko_archaeological_site",
     "name": "Gradsko Archaeological Site",
     "description": "Explore ancient Stobi's sister city where Roman engineering meets Vardar beauty! Archaeological treasures and river views create historical adventures.",
     "type": "monument",
-    "latitude": 41.5800,
-    "longitude": 21.9500,
-    "coordinates": [21.9500, 41.5800]
+    "latitude": 41.58,
+    "longitude": 21.95,
+    "coordinates": [
+      21.95,
+      41.58
+    ]
   },
   {
     "id": "kavadarci_wine_cellars",
     "name": "Kavadarci Historic Wine Cellars",
     "description": "Descend into legendary underground cellars where premium wines age in darkness! Viticultural heritage and tasting adventures await wine explorers.",
     "type": "recreation",
-    "latitude": 41.4300,
-    "longitude": 22.0100,
-    "coordinates": [22.0100, 41.4300]
+    "latitude": 41.43,
+    "longitude": 22.01,
+    "coordinates": [
+      22.01,
+      41.43
+    ],
+    "nameMk": "Кавадарци"
   },
   {
     "id": "markova_noga",
     "name": "Markova Noga Peak",
     "description": "Climb this 'Marko's Leg' summit where legendary king left his footprint! Mythical tales and mountain views create epic folklore adventures.",
     "type": "nature",
-    "latitude": 41.3000,
-    "longitude": 21.6000,
-    "coordinates": [21.6000, 41.3000]
+    "latitude": 41.3,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.3
+    ]
   },
   {
     "id": "demir_hisar",
     "name": "Demir Hisar",
     "description": "Discover this 'Iron Fortress' town where mining heritage meets mountain beauty! Industrial archaeology and highland vistas create unique adventures.",
     "type": "city",
-    "latitude": 41.2200,
-    "longitude": 21.2000,
-    "coordinates": [21.2000, 41.2200]
+    "latitude": 41.22,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.22
+    ],
+    "nameMk": "Демир Хисар"
   },
   {
     "id": "slepce_spa",
     "name": "Slepče Spa",
     "description": "Soak in therapeutic thermal waters bubbling from ancient volcanic earth! Natural healing and mountain tranquility create perfect wellness retreats.",
     "type": "recreation",
-    "latitude": 41.4000,
-    "longitude": 22.2500,
-    "coordinates": [22.2500, 41.4000]
+    "latitude": 41.4,
+    "longitude": 22.25,
+    "coordinates": [
+      22.25,
+      41.4
+    ]
   },
   {
     "id": "tikvesh_archaeological_site",
     "name": "Tikvesh Archaeological Complex",
     "description": "Uncover ancient settlements where wine-making traditions began millennia ago! Archaeological mysteries and viticultural heritage create fascinating explorations.",
     "type": "monument",
-    "latitude": 41.4200,
-    "longitude": 22.0500,
-    "coordinates": [22.0500, 41.4200]
+    "latitude": 41.42,
+    "longitude": 22.05,
+    "coordinates": [
+      22.05,
+      41.42
+    ]
   },
   {
     "id": "kozjak_dam",
     "name": "Kozjak Dam",
     "description": "Navigate this engineering marvel creating pristine recreational waters! Boating, fishing, and lakeside camping create perfect water sport adventures.",
     "type": "recreation",
-    "latitude": 41.9000,
-    "longitude": 21.3500,
-    "coordinates": [21.3500, 41.9000]
+    "latitude": 41.9,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.9
+    ]
   },
   {
     "id": "vardarski_rid",
     "name": "Vardarski Rid",
     "description": "Explore this ancient settlement where Neolithic people first farmed Balkan soil! Archaeological significance and river views create profound historical adventures.",
     "type": "monument",
-    "latitude": 41.6000,
-    "longitude": 21.8500,
-    "coordinates": [21.8500, 41.6000]
+    "latitude": 41.6,
+    "longitude": 21.85,
+    "coordinates": [
+      21.85,
+      41.6
+    ]
   },
   {
     "id": "pelagonia_plain",
     "name": "Pelagonia Plain",
     "description": "Journey across Macedonia's breadbasket where golden wheat meets endless horizons! Agricultural landscapes and rural culture create perfect overlanding adventures.",
     "type": "nature",
-    "latitude": 41.2000,
-    "longitude": 21.4000,
-    "coordinates": [21.4000, 41.2000]
+    "latitude": 41.2,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      41.2
+    ]
   },
   {
     "id": "ovce_pole",
     "name": "Ovče Pole",
     "description": "Traverse this 'Sheep Field' where pastoral traditions meet modern agriculture! Rolling plains and shepherd culture create authentic rural adventures.",
     "type": "nature",
-    "latitude": 41.8000,
-    "longitude": 22.0000,
-    "coordinates": [22.0000, 41.8000]
+    "latitude": 41.8,
+    "longitude": 22,
+    "coordinates": [
+      22,
+      41.8
+    ]
   },
   {
     "id": "skopska_kotlina",
     "name": "Skopska Kotlina",
     "description": "Explore the capital's river valley where urban civilization meets natural beauty! City escapes and recreational trails create perfect metropolitan adventures.",
     "type": "nature",
-    "latitude": 42.0000,
-    "longitude": 21.4000,
-    "coordinates": [21.4000, 42.0000]
+    "latitude": 42,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      42
+    ]
   },
   {
     "id": "lakeside_springs_ohrid",
     "name": "Lakeside Springs Ohrid",
     "description": "Discover hidden springs bubbling directly into Lake Ohrid's crystal waters! Underwater mysteries and pristine sources create magical aquatic adventures.",
     "type": "nature",
-    "latitude": 41.1000,
-    "longitude": 20.8100,
-    "coordinates": [20.8100, 41.1000]
+    "latitude": 41.1,
+    "longitude": 20.81,
+    "coordinates": [
+      20.81,
+      41.1
+    ],
+    "nameMk": "Охрид"
   },
   {
     "id": "monastery_kalishta",
     "name": "Monastery Kališta",
     "description": "Trek to this remote lakeside monastery accessible only by mountain paths! Spiritual isolation and pristine beauty create profound pilgrimage adventures.",
     "type": "monument",
-    "latitude": 41.0850,
-    "longitude": 20.7450,
-    "coordinates": [20.7450, 41.0850]
+    "latitude": 41.085,
+    "longitude": 20.745,
+    "coordinates": [
+      20.745,
+      41.085
+    ]
   },
   {
     "id": "duvalo_village",
     "name": "Duvalo Village",
     "description": "Experience this traditional tobacco village where golden leaves meet mountain air! Agricultural heritage and highland beauty create authentic rural adventures.",
     "type": "city",
-    "latitude": 41.3500,
-    "longitude": 21.5800,
-    "coordinates": [21.5800, 41.3500]
+    "latitude": 41.35,
+    "longitude": 21.58,
+    "coordinates": [
+      21.58,
+      41.35
+    ]
   },
   {
     "id": "krklino_village",
     "name": "Krklino Village",
     "description": "Discover this highland settlement where stone architecture meets pristine wilderness! Traditional building and mountain vistas create perfect overlanding stops.",
     "type": "city",
-    "latitude": 41.2800,
-    "longitude": 21.1500,
-    "coordinates": [21.1500, 41.2800]
+    "latitude": 41.28,
+    "longitude": 21.15,
+    "coordinates": [
+      21.15,
+      41.28
+    ]
   },
   {
     "id": "chanishte_village",
     "name": "Čanište Village",
     "description": "Venture to this remote mountain village where ancient customs survive in pristine isolation! Traditional culture and dramatic landscapes await exploration.",
     "type": "city",
-    "latitude": 41.1700,
-    "longitude": 21.6900,
-    "coordinates": [21.6900, 41.1700]
+    "latitude": 41.17,
+    "longitude": 21.69,
+    "coordinates": [
+      21.69,
+      41.17
+    ]
   },
   {
     "id": "bitovo_village",
     "name": "Bitovo Village",
     "description": "Explore this highland settlement where shepherd traditions meet mountain majesty! Pastoral life and scenic beauty create perfect cultural adventures.",
     "type": "city",
-    "latitude": 41.0900,
-    "longitude": 21.1200,
-    "coordinates": [21.1200, 41.0900]
+    "latitude": 41.09,
+    "longitude": 21.12,
+    "coordinates": [
+      21.12,
+      41.09
+    ]
   },
   {
     "id": "drmeni_village",
     "name": "Drmeni Village",
     "description": "Experience this border village where traditional architecture meets pristine nature! Highland culture and dramatic vistas create memorable overlanding adventures.",
     "type": "city",
-    "latitude": 41.0800,
-    "longitude": 21.0800,
-    "coordinates": [21.0800, 41.0800]
+    "latitude": 41.08,
+    "longitude": 21.08,
+    "coordinates": [
+      21.08,
+      41.08
+    ]
   },
   {
     "id": "gopes_village",
     "name": "Gopes Village",
     "description": "Discover this mountain settlement where ancient traditions flourish amid pristine wilderness! Highland culture and natural beauty create perfect exploration opportunities.",
     "type": "city",
-    "latitude": 41.0700,
-    "longitude": 21.0500,
-    "coordinates": [21.0500, 41.0700]
+    "latitude": 41.07,
+    "longitude": 21.05,
+    "coordinates": [
+      21.05,
+      41.07
+    ]
   },
   {
     "id": "ramne_village",
     "name": "Ramne Village",
     "description": "Venture to this plateau village where level ground meets mountain drama! Highland agriculture and scenic views create unique geographical adventures.",
     "type": "city",
-    "latitude": 41.0600,
-    "longitude": 21.0200,
-    "coordinates": [21.0200, 41.0600]
+    "latitude": 41.06,
+    "longitude": 21.02,
+    "coordinates": [
+      21.02,
+      41.06
+    ]
   },
   {
     "id": "kondovo_village",
     "name": "Kondovo Village",
     "description": "Experience this traditional village where ancient customs meet modern overlanding! Cultural heritage and mountain access create perfect adventure combinations.",
     "type": "city",
-    "latitude": 41.9500,
-    "longitude": 21.3800,
-    "coordinates": [21.3800, 41.9500]
+    "latitude": 41.95,
+    "longitude": 21.38,
+    "coordinates": [
+      21.38,
+      41.95
+    ]
   },
   {
     "id": "lisiče_village",
     "name": "Lisičе Village",
     "description": "Explore this 'fox' village where cunning wildlife meets highland beauty! Natural encounters and mountain landscapes create perfect wilderness adventures.",
     "type": "city",
-    "latitude": 41.9200,
-    "longitude": 21.3500,
-    "coordinates": [21.3500, 41.9200]
+    "latitude": 41.92,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.92
+    ]
   },
   {
     "id": "volkovo_village",
     "name": "Volkovo Village",
     "description": "Discover this highland settlement where wolf legends echo through mountain valleys! Wild heritage and pristine nature create thrilling adventure experiences.",
     "type": "city",
-    "latitude": 41.9000,
-    "longitude": 21.3200,
-    "coordinates": [21.3200, 41.9000]
+    "latitude": 41.9,
+    "longitude": 21.32,
+    "coordinates": [
+      21.32,
+      41.9
+    ]
   },
   {
     "id": "горно_соње_village",
     "name": "Gorno Sonje Village",
     "description": "Trek to this upper mountain village where dreamlike beauty meets highland reality! Scenic splendor and traditional life create perfect overlanding poetry.",
     "type": "city",
-    "latitude": 41.8800,
-    "longitude": 21.2900,
-    "coordinates": [21.2900, 41.8800]
+    "latitude": 41.88,
+    "longitude": 21.29,
+    "coordinates": [
+      21.29,
+      41.88
+    ]
   },
   {
     "id": "dolno_sonje_village",
     "name": "Dolno Sonje Village",
     "description": "Experience this lower highland settlement where mountain streams meet traditional architecture! Valley culture and scenic beauty create memorable adventures.",
     "type": "city",
-    "latitude": 41.8600,
-    "longitude": 21.2600,
-    "coordinates": [21.2600, 41.8600]
+    "latitude": 41.86,
+    "longitude": 21.26,
+    "coordinates": [
+      21.26,
+      41.86
+    ]
   },
   {
     "id": "gorno_orizari_village",
     "name": "Gorno Orizari Village",
     "description": "Venture to this upper rice village where mountain agriculture meets pristine streams! Highland farming and natural beauty create unique cultural adventures.",
     "type": "city",
-    "latitude": 41.8400,
-    "longitude": 21.2300,
-    "coordinates": [21.2300, 41.8400]
+    "latitude": 41.84,
+    "longitude": 21.23,
+    "coordinates": [
+      21.23,
+      41.84
+    ]
   },
   {
     "id": "dolno_orizari_village",
     "name": "Dolno Orizari Village",
     "description": "Explore this lower agricultural settlement where traditional farming meets mountain beauty! Rural heritage and scenic landscapes create perfect overlanding stops.",
     "type": "city",
-    "latitude": 41.8200,
-    "longitude": 21.2000,
-    "coordinates": [21.2000, 41.8200]
+    "latitude": 41.82,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.82
+    ]
   },
   {
     "id": "saraj_village",
     "name": "Saraj Village",
     "description": "Experience this 'palace' village where royal memories meet highland majesty! Historical significance and mountain beauty create regal adventure experiences.",
     "type": "city",
-    "latitude": 42.0200,
-    "longitude": 21.3000,
-    "coordinates": [21.3000, 42.0200]
+    "latitude": 42.02,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      42.02
+    ]
   },
   {
     "id": "studenichani_village",
     "name": "Studeničani Village",
     "description": "Discover this 'cold springs' village where mountain waters meet traditional culture! Natural refreshment and highland life create perfect wilderness stops.",
     "type": "city",
-    "latitude": 42.0000,
-    "longitude": 21.2800,
-    "coordinates": [21.2800, 42.0000]
+    "latitude": 42,
+    "longitude": 21.28,
+    "coordinates": [
+      21.28,
+      42
+    ]
   },
   {
     "id": "brazda_village",
     "name": "Brazda Village",
     "description": "Venture to this 'furrow' village where agricultural traditions meet mountain landscapes! Farming heritage and scenic beauty create authentic rural adventures.",
     "type": "city",
-    "latitude": 41.9800,
-    "longitude": 21.2500,
-    "coordinates": [21.2500, 41.9800]
+    "latitude": 41.98,
+    "longitude": 21.25,
+    "coordinates": [
+      21.25,
+      41.98
+    ]
   },
   {
     "id": "gorno_lisiche_village",
     "name": "Gorno Lisiche Village",
     "description": "Trek to this upper 'fox' settlement where wildlife encounters meet highland beauty! Natural adventures and mountain vistas create perfect overlanding experiences.",
     "type": "city",
-    "latitude": 41.9600,
-    "longitude": 21.2200,
-    "coordinates": [21.2200, 41.9600]
+    "latitude": 41.96,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      41.96
+    ]
   },
   {
     "id": "dolno_lisiche_village",
     "name": "Dolno Lisiche Village",
     "description": "Explore this lower highland settlement where cunning nature meets traditional culture! Wildlife watching and mountain beauty create memorable adventures.",
     "type": "city",
-    "latitude": 41.9400,
-    "longitude": 21.1900,
-    "coordinates": [21.1900, 41.9400]
+    "latitude": 41.94,
+    "longitude": 21.19,
+    "coordinates": [
+      21.19,
+      41.94
+    ]
   },
   {
     "id": "zlokuchani_village",
     "name": "Zlokučani Village",
     "description": "Experience this mountain village where dramatic landscapes meet resilient highland culture! Rugged beauty and traditional life create powerful adventure stories.",
     "type": "city",
-    "latitude": 41.9200,
-    "longitude": 21.1600,
-    "coordinates": [21.1600, 41.9200]
+    "latitude": 41.92,
+    "longitude": 21.16,
+    "coordinates": [
+      21.16,
+      41.92
+    ]
   }
 ]
