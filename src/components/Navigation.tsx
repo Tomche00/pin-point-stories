@@ -45,18 +45,20 @@ const Navigation = () => {
             ))}
             <button
               onClick={toggleLanguage}
-              className="ml-2 px-2.5 py-1.5 rounded-md text-xs font-semibold border border-border text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors uppercase tracking-wide"
+              className="ml-2 w-8 h-8 rounded-md flex items-center justify-center border border-border hover:bg-secondary transition-colors text-base"
+              title={language === 'en' ? 'Switch to Macedonian' : 'Префрли на Англиски'}
             >
-              {language === 'en' ? 'MK' : 'EN'}
+              {language === 'en' ? '🇬🇧' : '🇲🇰'}
             </button>
           </div>
 
           <div className="flex items-center gap-1 md:hidden">
             <button
               onClick={toggleLanguage}
-              className="p-2 text-xs font-semibold text-muted-foreground hover:text-foreground transition-colors uppercase"
+              className="w-8 h-8 flex items-center justify-center text-base"
+              title={language === 'en' ? 'Switch to Macedonian' : 'Префрли на Англиски'}
             >
-              {language === 'en' ? 'MK' : 'EN'}
+              {language === 'en' ? '🇬🇧' : '🇲🇰'}
             </button>
             <button
               onClick={() => setMobileOpen(!mobileOpen)}

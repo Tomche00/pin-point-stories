@@ -76,14 +76,82 @@ Add entries to `src/data/locations.json`:
 
 Register new types in `src/constants/locationTypes.ts` — they appear in the UI automatically.
 
-## Multi-Language
+## Multi-Language (i18n)
 
-The app uses a lightweight context-based i18n system (no external libraries):
+The app uses a lightweight context-based i18n system with zero external dependencies.
 
-- **Toggle**: EN/MK button in navbar (persisted to localStorage)
-- **UI strings**: All labels, titles, and descriptions translated via `src/i18n/translations.ts`
-- **Location names**: Locations can include an optional `nameMk` field; when switching to Macedonian, the tooltip shows the Macedonian name if available
-- **Adding translations**: Add keys to both `en` and `mk` objects in `translations.ts`, then use `const { t } = useLanguage()` in components
+### How It Works
+
+1. **LanguageContext** (`src/i18n/LanguageContext.tsx`) wraps the app and provides:
+   - `language` — current language (`'en'` or `'mk'`)
+   - `t` — translation object for the active language
+   - `toggleLanguage()` — switches between EN ↔ MK and persists to `localStorage`
+
+2. **Translation strings** live in `src/i18n/translations.ts` — a single file with `en` and `mk` objects sharing the same key structure.
+
+3. **Flag toggle** (🇬🇧 / 🇲🇰) in the navbar shows the current language and switches on click.
+
+### Using Translations in Components
+
+```tsx
+import { useLanguage } from '@/i18n/LanguageContext';
+
+const MyComponent = () => {
+  const { t, language } = useLanguage();
+  return <h1>{t.map.title}</h1>;
+};
+```
+
+### Adding New UI Translations
+
+1. Open `src/i18n/translations.ts`
+2. Add your key to both `en` and `mk` objects:
+
+```ts
+en: {
+  mySection: {
+    greeting: 'Welcome',
+  }
+},
+mk: {
+  mySection: {
+    greeting: 'Добредојдовте',
+  }
+}
+```
+
+3. Use in component: `t.mySection.greeting`
+
+### Translating Location Pin Names
+
+Each location in `src/data/locations.json` supports an optional `nameMk` field for its Macedonian name:
+
+```json
+{
+  "id": "ohrid",
+  "name": "Ohrid",
+  "nameMk": "Охрид",
+  "description": "A lakeside city with UNESCO heritage...",
+  "type": "city",
+  "latitude": 41.1231,
+  "longitude": 20.8016,
+  "coordinates": [20.8016, 41.1231]
+}
+```
+
+**Rules:**
+- `name` (required) — always the English name, used as default
+- `nameMk` (optional) — Macedonian name shown in tooltips when language is MK
+- If `nameMk` is missing, the English `name` is shown in both languages
+- Descriptions remain in English for now (translating 262+ descriptions is a future task)
+
+### Adding a New Language
+
+1. Add the locale code to the `Language` type in `translations.ts`: `type Language = 'en' | 'mk' | 'sq';`
+2. Add a full translation object matching the `en` structure
+3. Update `toggleLanguage()` in `LanguageContext.tsx` to cycle through languages
+4. Add the corresponding flag emoji to the navbar toggle
+5. Optionally add `nameSq` (or similar) to `Location` interface and `locations.json`
 
 ## Design
 
