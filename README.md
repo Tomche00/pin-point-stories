@@ -6,7 +6,8 @@ Interactive map application for exploring North Macedonia — browse monuments, 
 
 ## Features
 
-- **Interactive map** with 257+ curated locations on a custom map
+- **Interactive map** with 262+ curated locations on a custom map
+- **Multi-language** — English / Macedonian toggle with translated UI, filters, and location names
 - **Category filters** — Monuments, Cities, Nature, Camping, Recreation, Restaurants, Hotels, Lakes & Rivers
 - **Auto-detection** — new location types from data appear automatically in the legend
 - **Location details** — hover any pin for name, description, coordinates, and Google Maps navigation
@@ -19,6 +20,7 @@ Interactive map application for exploring North Macedonia — browse monuments, 
 - Vite
 - Tailwind CSS + shadcn/ui
 - React Router
+- Custom i18n (context-based, zero dependencies)
 
 ## Getting Started
 
@@ -31,6 +33,9 @@ npm run dev
 
 ```
 src/
+├── i18n/
+│   ├── translations.ts        # EN + MK translation strings
+│   └── LanguageContext.tsx     # React context provider + useLanguage hook
 ├── components/
 │   ├── map/
 │   │   ├── MapHeader.tsx       # Page title, stats, and badge pills
@@ -38,15 +43,15 @@ src/
 │   │   └── MapPins.tsx         # Pin rendering and coordinate mapping
 │   ├── CustomMap.tsx           # Main map orchestrator
 │   ├── LocationTooltip.tsx     # Hover tooltip with navigation
-│   └── Navigation.tsx          # Top nav bar
+│   └── Navigation.tsx          # Top nav bar with language toggle
 ├── hooks/
 │   └── useMapInteractions.ts   # Tooltip state and navigation logic
 ├── types/
-│   └── location.ts             # Shared Location interface
+│   └── location.ts             # Shared Location interface (name + nameMk)
 ├── constants/
 │   └── locationTypes.ts        # Category config (color, icon, label)
 ├── data/
-│   └── locations.json          # Location data
+│   └── locations.json          # Location data (262+ entries)
 ├── pages/
 │   ├── Index.tsx
 │   ├── About.tsx
@@ -61,6 +66,7 @@ Add entries to `src/data/locations.json`:
 ```json
 {
   "name": "Location Name",
+  "nameMk": "Име на Локација",
   "lat": 41.9981,
   "lng": 21.4254,
   "type": "monument",
@@ -69,6 +75,15 @@ Add entries to `src/data/locations.json`:
 ```
 
 Register new types in `src/constants/locationTypes.ts` — they appear in the UI automatically.
+
+## Multi-Language
+
+The app uses a lightweight context-based i18n system (no external libraries):
+
+- **Toggle**: EN/MK button in navbar (persisted to localStorage)
+- **UI strings**: All labels, titles, and descriptions translated via `src/i18n/translations.ts`
+- **Location names**: Locations can include an optional `nameMk` field; when switching to Macedonian, the tooltip shows the Macedonian name if available
+- **Adding translations**: Add keys to both `en` and `mk` objects in `translations.ts`, then use `const { t } = useLanguage()` in components
 
 ## Design
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import { LOCATION_TYPES } from '@/constants/locationTypes';
 import { Navigation2 } from 'lucide-react';
+import { useLanguage } from '@/i18n/LanguageContext';
 import type { Location } from '@/types/location';
 
 interface LocationTooltipProps {
@@ -18,10 +19,14 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
   onMouseEnter,
   onMouseLeave
 }) => {
+  const { language, t } = useLanguage();
   const config = LOCATION_TYPES[location.type];
   const icon = config?.icon || '📍';
-  const label = config?.label || location.type;
+  const typeLabels = t.types as Record<string, string>;
+  const label = typeLabels[location.type] || config?.label || location.type;
   const color = config?.color || '#60a5fa';
+
+  const displayName = language === 'mk' && location.nameMk ? location.nameMk : location.name;
 
   return (
     <div
@@ -39,7 +44,7 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
           <span className="text-base mt-0.5">{icon}</span>
           <div className="flex-1 min-w-0">
             <h3 className="font-medium text-foreground text-sm leading-snug">
-              {location.name}
+              {displayName}
             </h3>
             <span
               className="inline-block text-[10px] font-medium mt-0.5 uppercase tracking-wider"
@@ -63,7 +68,7 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
             className="inline-flex items-center gap-1 px-2.5 py-1 bg-foreground text-background text-[11px] rounded-md hover:bg-foreground/90 transition-colors font-medium"
           >
             <Navigation2 className="w-3 h-3" />
-            Navigate
+            {t.map.navigate}
           </button>
         </div>
       </div>
