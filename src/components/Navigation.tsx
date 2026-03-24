@@ -55,9 +55,10 @@ const Navigation = () => {
           <div className="flex items-center gap-1 md:hidden">
             <button
               onClick={toggleLanguage}
-              className="p-2 text-xs font-semibold text-muted-foreground hover:text-foreground transition-colors uppercase"
+              className="w-8 h-8 flex items-center justify-center text-base"
+              title={language === 'en' ? 'Switch to Macedonian' : 'Префрли на Англиски'}
             >
-              {language === 'en' ? 'MK' : 'EN'}
+              {language === 'en' ? '🇬🇧' : '🇲🇰'}
             </button>
             <button
               onClick={() => setMobileOpen(!mobileOpen)}
