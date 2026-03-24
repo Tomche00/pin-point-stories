@@ -66,6 +66,7 @@ Add entries to `src/data/locations.json`:
 ```json
 {
   "name": "Location Name",
+  "nameMk": "Име на Локација",
   "lat": 41.9981,
   "lng": 21.4254,
   "type": "monument",
@@ -74,6 +75,15 @@ Add entries to `src/data/locations.json`:
 ```
 
 Register new types in `src/constants/locationTypes.ts` — they appear in the UI automatically.
+
+## Multi-Language
+
+The app uses a lightweight context-based i18n system (no external libraries):
+
+- **Toggle**: EN/MK button in navbar (persisted to localStorage)
+- **UI strings**: All labels, titles, and descriptions translated via `src/i18n/translations.ts`
+- **Location names**: Locations can include an optional `nameMk` field; when switching to Macedonian, the tooltip shows the Macedonian name if available
+- **Adding translations**: Add keys to both `en` and `mk` objects in `translations.ts`, then use `const { t } = useLanguage()` in components
 
 ## Design
 
