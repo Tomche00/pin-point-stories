@@ -2,15 +2,17 @@ import { Link, useLocation } from 'react-router-dom';
 import { cn } from '@/lib/utils';
 import { MapPin, Menu, X } from 'lucide-react';
 import { useState } from 'react';
+import { useLanguage } from '@/i18n/LanguageContext';
 
 const Navigation = () => {
   const location = useLocation();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const { language, t, toggleLanguage } = useLanguage();
 
   const navItems = [
-    { href: '/', label: 'Map' },
-    { href: '/rent', label: 'Rent' },
-    { href: '/about', label: 'About' },
+    { href: '/', label: t.nav.map },
+    { href: '/rent', label: t.nav.rent },
+    { href: '/about', label: t.nav.about },
   ];
 
   return (
@@ -22,7 +24,7 @@ const Navigation = () => {
               <MapPin className="w-4 h-4 text-accent-foreground" />
             </div>
             <span className="font-semibold text-sm text-foreground tracking-tight">
-              Macedonia Explorer
+              {t.nav.brandName}
             </span>
           </Link>
 
@@ -41,14 +43,28 @@ const Navigation = () => {
                 {item.label}
               </Link>
             ))}
+            <button
+              onClick={toggleLanguage}
+              className="ml-2 px-2.5 py-1.5 rounded-md text-xs font-semibold border border-border text-muted-foreground hover:text-foreground hover:bg-secondary transition-colors uppercase tracking-wide"
+            >
+              {language === 'en' ? 'MK' : 'EN'}
+            </button>
           </div>
 
-          <button
-            onClick={() => setMobileOpen(!mobileOpen)}
-            className="md:hidden p-2 text-muted-foreground hover:text-foreground transition-colors"
-          >
-            {mobileOpen ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}
-          </button>
+          <div className="flex items-center gap-1 md:hidden">
+            <button
+              onClick={toggleLanguage}
+              className="p-2 text-xs font-semibold text-muted-foreground hover:text-foreground transition-colors uppercase"
+            >
+              {language === 'en' ? 'MK' : 'EN'}
+            </button>
+            <button
+              onClick={() => setMobileOpen(!mobileOpen)}
+              className="p-2 text-muted-foreground hover:text-foreground transition-colors"
+            >
+              {mobileOpen ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}
+            </button>
+          </div>
         </div>
       </div>
 
