@@ -3,6 +3,7 @@ export interface Location {
   name: string;
   nameMk?: string;
   description: string;
+  descriptionMk?: string;
   type: string;
   latitude: number;
   longitude: number;
