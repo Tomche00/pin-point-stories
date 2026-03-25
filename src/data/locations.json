@@ -9,7 +9,9 @@
     "coordinates": [
       21.7171465,
       41.1187657
-    ]
+    ],
+    "nameMk": "Зовички бридге / Мовие Бридге",
+    "descriptionMk": "Поминете го овој legendary cinematic мост where Hollywood meets балкански убавина! This драматични камен arch spans нетакнати waters, offering совршени photo ops and a taste of movie magic in the heart of Македонија's дивина."
   },
   {
     "id": "holy_transfiguration",
@@ -22,7 +24,8 @@
       21.3416941,
       41.5215773
     ],
-    "nameMk": "Свето Преображение"
+    "nameMk": "Свето Преображение",
+    "descriptionMk": "Откријте древни духовно power at овој величествен православен sanctuary! Perched драматичниally against планински slopes, this свето site offers неверојатни architecture and панорамски долина погледи that will leave you speechless."
   },
   {
     "id": "gabrovo_waterfalls",
@@ -35,7 +38,8 @@
       22.7889993,
       41.3755924
     ],
-    "nameMk": "Габровски Водопади"
+    "nameMk": "Габровски Водопади",
+    "descriptionMk": "Нурнете во природа's thunderous spectacle! These cascading giants crash down rocky cliffs into crystal pools, creating the совршени wild swimming and фотографија paradise for adventurous souls."
   },
   {
     "id": "malovishte",
@@ -48,7 +52,8 @@
       21.1298722,
       41.0333696
     ],
-    "nameMk": "Маловиште"
+    "nameMk": "Маловиште",
+    "descriptionMk": "Вратете се назад во времето in ова автентично планински село! камен houses dot драматични hillsides where shepherds still roam, offering genuine културни immersion and спектакуларни highland vistas."
   },
   {
     "id": "zovich",
@@ -60,7 +65,9 @@
     "coordinates": [
       21.7122789,
       41.1172694
-    ]
+    ],
+    "nameMk": "Зовиќ",
+    "descriptionMk": "Доживејте raw балкански село life in ова оддалечено планински settlement! древни traditions survive amid нетакнати дивина, совршени for културни фотографија and authentic local encounters."
   },
   {
     "id": "monastery_saint_ana",
@@ -72,7 +79,9 @@
     "coordinates": [
       21.1144679,
       41.0283542
-    ]
+    ],
+    "nameMk": "Манастир Света Ана",
+    "descriptionMk": "Откријте средновековни mysteries at ова скриено духовно тврдина! Tucked into драматични планинскиsides, овој древен манастир offers profound tranquility and прекрасни византиски architecture."
   },
   {
     "id": "shlegovo",
@@ -84,7 +93,9 @@
     "coordinates": [
       22.1616508,
       42.0655501
-    ]
+    ],
+    "nameMk": "Шлегово",
+    "descriptionMk": "Истражете this mining heritage town nestled in rugged hills! Industrial history meets natural убавина, offering unique фотографија opportunities and insights into Македонија's working past."
   },
   {
     "id": "papradiste",
@@ -96,7 +107,9 @@
     "coordinates": [
       21.4387676,
       41.6416537
-    ]
+    ],
+    "nameMk": "Папрадиште",
+    "descriptionMk": "Откријте ова шармантно highland село where планински streams meet древни architecture! традиционални камен houses and драматични долина погледи create совршени overlanding photo opportunities."
   },
   {
     "id": "st._gjorgjija_monastery",
@@ -108,7 +121,9 @@
     "coordinates": [
       21.4027214,
       41.6348083
-    ]
+    ],
+    "nameMk": "Ст. Ѓорѓија Монастерy",
+    "descriptionMk": "Enter this свето планински sanctuary where средновековни monks once sought enlightenment! Perched on драматични cliffs, this манастир offers неверојатни духовно architecture and долина panoramas."
   },
   {
     "id": "oreshe_waterfall",
@@ -120,7 +135,9 @@
     "coordinates": [
       21.3905499,
       41.6359698
-    ]
+    ],
+    "nameMk": "Ореше Wатерфалл",
+    "descriptionMk": "Chase the thunder of cascading планински waters! This спектакуларни водопад plunges into emerald pools, creating a natural авантура playground совршени for wild swimming and фотографија."
   },
   {
     "id": "oreshe",
@@ -132,7 +149,9 @@
     "coordinates": [
       21.4201362,
       41.6196632
-    ]
+    ],
+    "nameMk": "Ореше",
+    "descriptionMk": "Доживејте authentic highland life in ова оддалечено планински село! древни камен architecture and shepherding traditions survive amid драматични peaks and нетакнати дивина."
   },
   {
     "id": "ribnik_kapinovo_nezilovski_merak",
@@ -144,7 +163,9 @@
     "coordinates": [
       21.4552288,
       41.6288738
-    ]
+    ],
+    "nameMk": "Рибник Капиново & Незиловски Мерак",
+    "descriptionMk": "Откријте hidden планински езероs and recreational paradise! These нетакнати waters offer совршени wild camping, fishing, and природа фотографија in Македонија's untouched highlands."
   },
   {
     "id": "markovo_stapalo",
@@ -156,7 +177,9 @@
     "coordinates": [
       21.4461963,
       41.640668
-    ]
+    ],
+    "nameMk": "Марко'с Фоотпринт",
+    "descriptionMk": "Stand where legendary King Marko left his mark! This mythical rock formation offers драматични планински погледи and fascinating folklore, совршени for adventurous Истражетеrs seeking epic stories."
   },
   {
     "id": "monastery_sveti_petar_i_pavle",
@@ -168,7 +191,9 @@
     "coordinates": [
       21.510399,
       41.6312313
-    ]
+    ],
+    "nameMk": "Монастерy Саинтс Петер анд Паул",
+    "descriptionMk": "Истражете овој древен духовно тврдина hidden in планински дивина! византиски frescoes and драматични architecture create an unforgettable културни авантура in нетакнати природа."
   },
   {
     "id": "konjsko",
@@ -180,7 +205,9 @@
     "coordinates": [
       20.9882922,
       40.9118299
-    ]
+    ],
+    "nameMk": "Коњско",
+    "descriptionMk": "Доживејте border село life where three cultures meet! ова оддалечено settlement offers authentic балкански hospitality and прекрасни планински vistas near the Albanian frontier."
   },
   {
     "id": "ljubojno",
@@ -192,7 +219,9 @@
     "coordinates": [
       21.1376967,
       40.8945369
-    ]
+    ],
+    "nameMk": "Љубојно",
+    "descriptionMk": "Venture to this highland село where древни traditions thrive! камен houses and pastoral landscapes create совршени overlanding авантураs amid Македонија's нетакнати планинскиs."
   },
   {
     "id": "rusjatsi",
@@ -204,7 +233,9 @@
     "coordinates": [
       21.1514826,
       41.4999893
-    ]
+    ],
+    "nameMk": "Русјатси",
+    "descriptionMk": "Откријте ова скриено планински село where time stands still! традиционални architecture and shepherding culture offer authentic културни immersion in драматични highland settings."
   },
   {
     "id": "zheleznets",
@@ -216,7 +247,9 @@
     "coordinates": [
       21.062993,
       41.3257034
-    ]
+    ],
+    "nameMk": "Железнетс",
+    "descriptionMk": "Истражете this iron-rich планински село where mining heritage meets natural убавина! драматични landscapes and industrial history create unique фотографија opportunities."
   },
   {
     "id": "knezhino",
@@ -228,7 +261,9 @@
     "coordinates": [
       20.9160162,
       41.5215996
-    ]
+    ],
+    "nameMk": "Кнежино",
+    "descriptionMk": "Доживејте royal село history in this picturesque highland settlement! древни nobility once ruled from these драматични планински slopes offering спектакуларни долина погледи."
   },
   {
     "id": "skrebatno",
@@ -240,7 +275,9 @@
     "coordinates": [
       20.8914281,
       41.1522564
-    ]
+    ],
+    "nameMk": "Скребатно",
+    "descriptionMk": "Venture to ова оддалечено планински село where eagles soar overhead! традиционални камен architecture and нетакнати дивина create совршени overlanding авантураs."
   },
   {
     "id": "rosoki",
@@ -252,7 +289,9 @@
     "coordinates": [
       20.6939945,
       41.566465
-    ]
+    ],
+    "nameMk": "Росоки",
+    "descriptionMk": "Откријте this highland село famous for its нетакнати natural springs! Crystal-clear планински waters and традиционални architecture make this a совршени дивина stop."
   },
   {
     "id": "rosoki_springs",
@@ -264,7 +303,9 @@
     "coordinates": [
       20.692748,
       41.5687791
-    ]
+    ],
+    "nameMk": "Росоки Спрингс",
+    "descriptionMk": "Refresh at these legendary планински springs where crystal waters bubble from древни rocks! совршени for wild camping and experiencing Македонија's purest natural refreshment."
   },
   {
     "id": "krushevica",
@@ -276,7 +317,9 @@
     "coordinates": [
       21.6526577,
       41.205838
-    ]
+    ],
+    "nameMk": "Крушевица",
+    "descriptionMk": "Истражете ова автентично планински село where pear orchards meet нетакнати дивина! традиционални rural life and драматични landscapes offer совршени културни авантураs."
   },
   {
     "id": "vitolishte",
@@ -288,7 +331,9 @@
     "coordinates": [
       21.8255581,
       41.1812657
-    ]
+    ],
+    "nameMk": "Витолиште",
+    "descriptionMk": "Доживејте this highland село where древни viticulture traditions survive! планински vineyards and традиционални wine-making offer unique културни and gastronomic авантураs."
   },
   {
     "id": "caniste",
@@ -300,7 +345,9 @@
     "coordinates": [
       21.6854494,
       41.1657837
-    ]
+    ],
+    "nameMk": "Čаниšте",
+    "descriptionMk": "Откријте ова шармантно планински село where традиционални crafts flourish! камен architecture and highland pastoral life create authentic балкански културни Доживејтеs."
   },
   {
     "id": "petralitsa",
@@ -312,7 +359,9 @@
     "coordinates": [
       22.1802799,
       42.211824
-    ]
+    ],
+    "nameMk": "Петралитса",
+    "descriptionMk": "Venture to ова оддалечено highland село where камен architecture meets нетакнати природа! древни building traditions and драматични планински vistas create совршени photo opportunities."
   },
   {
     "id": "koleshino_waterfall",
@@ -324,7 +373,9 @@
     "coordinates": [
       22.8068927,
       41.3695082
-    ]
+    ],
+    "nameMk": "Колешински Водопад",
+    "descriptionMk": "Witness Македонија's tallest водопад thunder down 60 meters of sheer rock! This спектакуларни cascade creates rainbow mists and offers world-class природа фотографија opportunities."
   },
   {
     "id": "smolare_waterfall",
@@ -336,7 +387,9 @@
     "coordinates": [
       22.8996196,
       41.3662782
-    ]
+    ],
+    "nameMk": "Смоларски Водопад",
+    "descriptionMk": "Доживејте the raw power of Македонија's highest водопад! At 39 meters, this thundering cascade offers спектакуларни hiking trails and нетакнати swimming pools for brave авантураrs."
   },
   {
     "id": "blatec",
@@ -348,7 +401,9 @@
     "coordinates": [
       22.5778948,
       41.8385763
-    ]
+    ],
+    "nameMk": "Блатец",
+    "descriptionMk": "Истражете this планински село gateway to нетакнати езеро авантураs! традиционални highland life meets спектакуларни natural убавина in Македонија's most scenic region."
   },
   {
     "id": "blatec_lake",
@@ -360,7 +415,9 @@
     "coordinates": [
       22.5946481,
       41.8389149
-    ]
+    ],
+    "nameMk": "Блатец Лаке",
+    "descriptionMk": "Откријте this нетакнати glacial езеро nestled in драматични планински peaks! Crystal waters reflect snow-capped summits, creating совршени wild camping and fishing paradise."
   },
   {
     "id": "sermenin",
@@ -372,7 +429,9 @@
     "coordinates": [
       22.3471886,
       41.2200456
-    ]
+    ],
+    "nameMk": "Серменин",
+    "descriptionMk": "Откријте ова скриено highland село where древни mining traditions meet нетакнати планински дивина! камен architecture and драматични landscapes create совршени overlanding photo opportunities."
   },
   {
     "id": "waterfall_vera",
@@ -384,7 +443,9 @@
     "coordinates": [
       22.347312,
       41.217188
-    ]
+    ],
+    "nameMk": "Wатерфалл Вера",
+    "descriptionMk": "Chase this спектакуларни cascade hidden in Македонија's планински heart! Crystal waters plunge through древни rocks, creating a natural amphitheater совршени for дивина camping and фотографија."
   },
   {
     "id": "smrdliva_voda",
@@ -396,7 +457,9 @@
     "coordinates": [
       22.2816193,
       41.192718
-    ]
+    ],
+    "nameMk": "Смрдлива Вода",
+    "descriptionMk": "Доживејте therapeutic mineral springs bubbling from древни earth! These legendary healing waters have attracted авантураrs for centuries, offering unique geological wonders."
   },
   {
     "id": "teovo",
@@ -408,7 +471,9 @@
     "coordinates": [
       21.5729144,
       41.5784655
-    ]
+    ],
+    "nameMk": "Теово",
+    "descriptionMk": "Истражете this multi-културни планински town where Albanian and Македонијаn traditions blend! драматични landscapes and authentic културни encounters await adventurous overlanders."
   },
   {
     "id": "bitushe",
@@ -420,7 +485,9 @@
     "coordinates": [
       20.5878404,
       41.6165295
-    ]
+    ],
+    "nameMk": "Битуше",
+    "descriptionMk": "Venture to ова оддалечено езероside село on the Albanian border! традиционални fishing culture and нетакнати waters create совршени wild camping авантураs."
   },
   {
     "id": "trebishte",
@@ -432,7 +499,9 @@
     "coordinates": [
       20.5893302,
       41.6282128
-    ]
+    ],
+    "nameMk": "Требиште",
+    "descriptionMk": "Откријте древни archaeological treasures in this border село! Bronze Age artifacts and драматични езеро погледи offer unique културни and natural авантураs."
   },
   {
     "id": "belitsa",
@@ -444,7 +513,9 @@
     "coordinates": [
       21.3049963,
       41.6768835
-    ]
+    ],
+    "nameMk": "Белитса",
+    "descriptionMk": "Доживејте highland село life where pastoral traditions thrive! планински meadows and древни камен architecture create совршени културни immersion opportunities."
   },
   {
     "id": "vishni",
@@ -456,7 +527,9 @@
     "coordinates": [
       20.5982691,
       41.1931228
-    ]
+    ],
+    "nameMk": "Вишни",
+    "descriptionMk": "Истражете this cherry orchard село nestled in драматични планинскиs! традиционални fruit cultivation and прекрасни highland vistas offer authentic rural авантураs."
   },
   {
     "id": "gorna_belica",
@@ -468,7 +541,9 @@
     "coordinates": [
       20.55581,
       41.223316
-    ]
+    ],
+    "nameMk": "Горна Белица",
+    "descriptionMk": "Venture to this upper highland село where shepherding traditions survive! планински pastures and традиционални architecture create совршени overlanding културни stops."
   },
   {
     "id": "vevcanska_lokva",
@@ -480,7 +555,9 @@
     "coordinates": [
       20.5333121,
       41.2432388
-    ]
+    ],
+    "nameMk": "Вевčани Спрингс",
+    "descriptionMk": "Откријте these legendary healing springs where crystal waters flow year-round! Natural pools and древни wellness traditions create совршени дивина refreshment stops."
   },
   {
     "id": "babino",
@@ -492,7 +569,9 @@
     "coordinates": [
       21.0806907,
       41.2990659
-    ]
+    ],
+    "nameMk": "Бабино",
+    "descriptionMk": "Доживејте традиционални планински село life where древни customs thrive! камен houses and драматични долина погледи offer authentic балкански културни авантураs."
   },
   {
     "id": "bazernik",
@@ -504,7 +583,9 @@
     "coordinates": [
       21.0477173,
       41.2820967
-    ]
+    ],
+    "nameMk": "Базерник",
+    "descriptionMk": "Истражете ова скриено планински село where традиционални crafts flourish! древни building techniques and нетакнати дивина create совршени културни фотографија opportunities."
   },
   {
     "id": "zbazhdi",
@@ -516,7 +597,9 @@
     "coordinates": [
       21.0354629,
       41.3168733
-    ]
+    ],
+    "nameMk": "Збажди",
+    "descriptionMk": "Venture to ова оддалечено highland settlement where eagle migrations pass overhead! драматични планински vistas and традиционални architecture offer спектакуларни overlanding авантураs."
   },
   {
     "id": "globochica",
@@ -528,7 +611,9 @@
     "coordinates": [
       21.0137659,
       41.2938467
-    ]
+    ],
+    "nameMk": "Глобоčица",
+    "descriptionMk": "Откријте this picturesque село where hawthorn forests meet планински streams! традиционални rural life and нетакнати природа create совршени дивина camping spots."
   },
   {
     "id": "tashmarunishta",
@@ -540,7 +625,9 @@
     "coordinates": [
       20.6403575,
       41.2680714
-    ]
+    ],
+    "nameMk": "Таšмаруниšта",
+    "descriptionMk": "Истражете this border село where three cultures converge! традиционални architecture and драматични планински backdrops create unique overlanding photo opportunities."
   },
   {
     "id": "capari",
@@ -552,7 +639,9 @@
     "coordinates": [
       20.6377864,
       41.2627195
-    ]
+    ],
+    "nameMk": "Čапари",
+    "descriptionMk": "Доживејте this езероside село where нетакнати waters meet древни traditions! совршени for wild camping and experiencing authentic балкански fishing culture."
   },
   {
     "id": "capari_vir",
@@ -564,7 +653,9 @@
     "coordinates": [
       20.64,
       41.2627195
-    ]
+    ],
+    "nameMk": "Čапари Wхирлпоол",
+    "descriptionMk": "Witness this natural phenomenon where underground springs create драматични water spirals! This geological wonder offers unique фотографија and swimming авантураs."
   },
   {
     "id": "belovishte",
@@ -576,7 +667,9 @@
     "coordinates": [
       20.9804226,
       41.4453849
-    ]
+    ],
+    "nameMk": "Беловиšте",
+    "descriptionMk": "Откријте this планински село gateway to спектакуларни водопадs! традиционални камен architecture and нетакнати природа create совршени авантура base camps."
   },
   {
     "id": "belovishki_waterfall",
@@ -588,7 +681,9 @@
     "coordinates": [
       20.985,
       41.4453849
-    ]
+    ],
+    "nameMk": "Беловиšте Wатерфалл",
+    "descriptionMk": "Chase this thundering cascade hidden in Македонија's western планинскиs! Multiple tiers of crystal water create natural pools совршени for brave swimmers and photographers."
   },
   {
     "id": "todorovci_stonehenge",
@@ -600,7 +695,9 @@
     "coordinates": [
       20.97,
       41.45
-    ]
+    ],
+    "nameMk": "Тодоровци Стонехенге",
+    "descriptionMk": "Истражете Македонија's mysterious megalithic circle! These древни standing каменs rival каменhenge, offering archaeological авантураs and спектакуларни sunset фотографија."
   },
   {
     "id": "ohrid_old_town",
@@ -613,7 +710,8 @@
       20.8019,
       41.1081
     ],
-    "nameMk": "Охрид"
+    "nameMk": "Охрид",
+    "descriptionMk": "Истражете this UNESCO World Heritage treasure where древни cobbleкаменs meet azure waters! средновековни цркваes and Ottoman architecture create a living museum совршени for културни overlanding авантураs."
   },
   {
     "id": "samuel_fortress",
@@ -626,7 +724,8 @@
       20.8014,
       41.1094
     ],
-    "nameMk": "Самоилова Тврдина"
+    "nameMk": "Самоилова Тврдина",
+    "descriptionMk": "Storm the walls of this legendary средновековни stronghold overlooking езеро Ohrid! древни battlements and панорамски погледи offer epic фотографија and историски авантураs."
   },
   {
     "id": "plaoshnik",
@@ -639,7 +738,8 @@
       20.7997,
       41.1089
     ],
-    "nameMk": "Плаошник"
+    "nameMk": "Плаошник",
+    "descriptionMk": "Откријте millennia of civilizations at this свето archaeological wonder! древни basilicas and византиски mosaics reveal Македонија's духовно heritage amid прекрасни езеро vistas."
   },
   {
     "id": "sveti_naum",
@@ -651,7 +751,9 @@
     "coordinates": [
       20.7428,
       40.9239
-    ]
+    ],
+    "nameMk": "Свети Наум Монастерy",
+    "descriptionMk": "Journey to this mystical езероside манастир where peacocks roam свето grounds! древни frescoes and crystal springs create a духовно paradise for adventurous souls."
   },
   {
     "id": "gradiste",
@@ -663,7 +765,9 @@
     "coordinates": [
       20.8033,
       41.1175
-    ]
+    ],
+    "nameMk": "Градиšте Арчаеологицал Сите",
+    "descriptionMk": "Откријте the древни city of Lychnidos buried beneath rolling hills! Roman theaters and византиски basilicas offer fascinating archaeological авантураs near Ohrid's shores."
   },
   {
     "id": "galicica_national_park",
@@ -676,7 +780,8 @@
       20.8833,
       41.0167
     ],
-    "nameMk": "Галичица"
+    "nameMk": "Галичица",
+    "descriptionMk": "Conquer this нетакнати планински дивина between two legendary езероs! драматични ridges, endemic flowers, and спектакуларни overlooks create the ultimate overlanding paradise."
   },
   {
     "id": "magaro_peak",
@@ -688,7 +793,9 @@
     "coordinates": [
       20.8667,
       40.9833
-    ]
+    ],
+    "nameMk": "Магаро Пеак",
+    "descriptionMk": "Scale Македонија's драматични планински summit for неверојатни dual-езеро panoramas! This challenging trek rewards brave авантураrs with unforgettable Ohrid and Prespa погледи."
   },
   {
     "id": "bay_of_bones",
@@ -701,7 +808,8 @@
       20.7431,
       40.9358
     ],
-    "nameMk": "Залив на Коските"
+    "nameMk": "Залив на Коските",
+    "descriptionMk": "Step into Bronze Age езеро dwelling reconstructions built on stilts over древни waters! This unique underwater archaeological site offers fascinating prehistoric авантураs."
   },
   {
     "id": "prespa_lake",
@@ -713,7 +821,9 @@
     "coordinates": [
       20.9833,
       40.9167
-    ]
+    ],
+    "nameMk": "Преспа Лаке",
+    "descriptionMk": "Истражете this нетакнати transborder езеро where three countries meet! Crystal waters, древни islands, and diverse wildlife create совршени дивина camping and фотографија opportunities."
   },
   {
     "id": "golem_grad",
@@ -725,7 +835,9 @@
     "coordinates": [
       20.9167,
       40.8833
-    ]
+    ],
+    "nameMk": "Голем Град (Снаке Исланд)",
+    "descriptionMk": "Venture to this mysterious island тврдина where средновековни ruins meet wild serpents! древни цркваes and endemic species create thrilling archaeological and wildlife авантураs."
   },
   {
     "id": "pelister_national_park",
@@ -738,7 +850,8 @@
       21.2167,
       41
     ],
-    "nameMk": "Пелистер"
+    "nameMk": "Пелистер",
+    "descriptionMk": "Trek through древни Molika pine forests to glacial планински езероs! This нетакнати дивина offers challenging hikes, endemic flora, and спектакуларни peak авантураs."
   },
   {
     "id": "pelister_peak",
@@ -751,7 +864,8 @@
       21.2167,
       40.9667
     ],
-    "nameMk": "Пелистер"
+    "nameMk": "Пелистер",
+    "descriptionMk": "Conquer this mighty планински summit towering over древни forests! At 2,601 meters, this challenging climb rewards авантураrs with панорамски балкански vistas."
   },
   {
     "id": "big_prespa_lake",
@@ -763,7 +877,9 @@
     "coordinates": [
       20.9833,
       40.8167
-    ]
+    ],
+    "nameMk": "Биг Преспа Лаке",
+    "descriptionMk": "Navigate this vast transnational water paradise shared by three балкански nations! древни fishing селоs and нетакнати wetlands offer unique cross-border авантураs."
   },
   {
     "id": "small_prespa_lake",
@@ -775,7 +891,9 @@
     "coordinates": [
       21,
       40.75
-    ]
+    ],
+    "nameMk": "Смалл Преспа Лаке",
+    "descriptionMk": "Откријте this intimate планински езеро jewel surrounded by драматични peaks! Crystal waters and традиционални fishing culture create совршени дивина retreats."
   },
   {
     "id": "bitola",
@@ -788,7 +906,8 @@
       21.3347,
       41.0297
     ],
-    "nameMk": "Битола"
+    "nameMk": "Битола",
+    "descriptionMk": "Доживејте Македонија's културни capital where Ottoman elegance meets European sophistication! Historic bazaars, consulate architecture, and vibrant cafe culture await urban Истражетеrs."
   },
   {
     "id": "shirok_sokak",
@@ -800,7 +919,9 @@
     "coordinates": [
       21.335,
       41.0297
-    ]
+    ],
+    "nameMk": "Широк Сокак",
+    "descriptionMk": "Stroll down this legendary pedestrian boulevard where Ottoman heritage meets European elegance! Historic architecture and vibrant street life create совршени културни фотографија."
   },
   {
     "id": "heraclea_lyncestis",
@@ -813,7 +934,8 @@
       21.3381,
       41.0089
     ],
-    "nameMk": "Хераклеа Линкестис"
+    "nameMk": "Хераклеа Линкестис",
+    "descriptionMk": "Walk through this спектакуларни Roman city founded by Philip II of Macedon! древни theaters, intricate mosaics, and византиски basilicas create archaeological авантураs."
   },
   {
     "id": "skopje",
@@ -826,7 +948,8 @@
       21.4254,
       41.9981
     ],
-    "nameMk": "Скопје"
+    "nameMk": "Скопје",
+    "descriptionMk": "Истражете Македонија's dynamic capital where древни тврдинаes meet bold modern architecture! The камен мост, Old Bazaar, and Kale тврдина offer endless urban авантураs."
   },
   {
     "id": "old_bazaar_skopje",
@@ -839,7 +962,8 @@
       21.4331,
       41.9958
     ],
-    "nameMk": "Скопје"
+    "nameMk": "Скопје",
+    "descriptionMk": "Dive into the балканскиs' largest Ottoman market where centuries of trade traditions survive! Cobbleкамен alleys, традиционални crafts, and authentic cuisine await културни Истражетеrs."
   },
   {
     "id": "kale_fortress",
@@ -851,7 +975,9 @@
     "coordinates": [
       21.4289,
       41.9981
-    ]
+    ],
+    "nameMk": "Кале Тврдина",
+    "descriptionMk": "Storm овој древен citadel overlooking the Vardar река! средновековни walls and панорамски city погледи create совршени историски авантураs in Македонија's capital."
   },
   {
     "id": "stone_bridge",
@@ -864,7 +990,8 @@
       21.4314,
       41.9981
     ],
-    "nameMk": "Камен Мост"
+    "nameMk": "Камен Мост",
+    "descriptionMk": "Поминете го овој iconic Ottoman masterpiece connecting Skopje's old and new worlds! Historic arches over the Vardar река offer совршени фотографија and city exploration."
   },
   {
     "id": "matka_canyon",
@@ -877,7 +1004,8 @@
       21.2833,
       41.9333
     ],
-    "nameMk": "Кањон Матка"
+    "nameMk": "Кањон Матка",
+    "descriptionMk": "Navigate this драматични река gorge carved through древни limeкамен! Kayaking, cave exploration, and манастир Посететеs create the ultimate outdoor авантура playground."
   },
   {
     "id": "vrelo_cave",
@@ -889,7 +1017,9 @@
     "coordinates": [
       21.2817,
       41.9333
-    ]
+    ],
+    "nameMk": "Врело Цаве",
+    "descriptionMk": "Venture into one of the world's deepest underwater cave systems! This mysterious submerged wonder offers unique speleological авантураs in Matka кањон."
   },
   {
     "id": "vodno_mountain",
@@ -901,7 +1031,9 @@
     "coordinates": [
       21.4333,
       41.9667
-    ]
+    ],
+    "nameMk": "Водно Моунтаин",
+    "descriptionMk": "Climb this urban дивина overlooking Македонија's capital! Forest trails, the Millennium Cross, and панорамски city погледи create совршени hiking авантураs."
   },
   {
     "id": "millennium_cross",
@@ -914,7 +1046,8 @@
       21.4333,
       41.9667
     ],
-    "nameMk": "Милениумски Крст"
+    "nameMk": "Милениумски Крст",
+    "descriptionMk": "Ascend to this towering symbol visible from across Skopje! At 66 meters tall, this illuminated cross offers спектакуларни sunset фотографија and city panoramas."
   },
   {
     "id": "kumanovo",
@@ -927,7 +1060,8 @@
       21.7144,
       42.1322
     ],
-    "nameMk": "Куманово"
+    "nameMk": "Куманово",
+    "descriptionMk": "Откријте Македонија's industrial heartland where mining heritage meets планински дивина! Historic architecture and драматични landscapes offer unique urban-природа авантураs."
   },
   {
     "id": "kokino_observatory",
@@ -940,7 +1074,8 @@
       21.9667,
       42.2667
     ],
-    "nameMk": "Кокино"
+    "nameMk": "Кокино",
+    "descriptionMk": "Witness овој древен astronomical wonder ranking among the world's oldest observatories! Bronze Age камен markers and celestial alignments create mystical archaeological авантураs."
   },
   {
     "id": "kratovo",
@@ -953,7 +1088,8 @@
       22.1781,
       42.0781
     ],
-    "nameMk": "Кратово"
+    "nameMk": "Кратово",
+    "descriptionMk": "Истражете this средновековни mining town carved into volcanic terrain! древни камен мостs, Ottoman towers, and драматични geology create unique историски авантураs."
   },
   {
     "id": "kuklica_stone_dolls",
@@ -965,7 +1101,9 @@
     "coordinates": [
       22.1833,
       42.0833
-    ]
+    ],
+    "nameMk": "Куклица Стоне Доллс",
+    "descriptionMk": "Восхитете се на these mysterious natural камен pillars resembling petrified people! Volcanic formations and local legends create fascinating geological авантураs."
   },
   {
     "id": "berovo_lake",
@@ -978,7 +1116,8 @@
       22.85,
       41.7
     ],
-    "nameMk": "Берово"
+    "nameMk": "Берово",
+    "descriptionMk": "Fish and camp at this нетакнати artificial езеро surrounded by dense pine forests! Crystal waters and планински дивина create совршени overlanding retreats."
   },
   {
     "id": "berovo",
@@ -991,7 +1130,8 @@
       22.8547,
       41.7031
     ],
-    "nameMk": "Берово"
+    "nameMk": "Берово",
+    "descriptionMk": "Breathe the cleanest air in this highland spa town nestled in нетакнати forests! традиционални wooden architecture and wellness traditions offer authentic планински Доживејтеs."
   },
   {
     "id": "maleshevo_mountains",
@@ -1003,7 +1143,9 @@
     "coordinates": [
       22.9,
       41.65
-    ]
+    ],
+    "nameMk": "Малеšево Моунтаинс",
+    "descriptionMk": "Trek through this нетакнати планински range where древни forests hide crystal streams! Remote trails and endemic wildlife create совршени дивина авантураs."
   },
   {
     "id": "strumica",
@@ -1016,7 +1158,8 @@
       22.6431,
       41.4375
     ],
-    "nameMk": "Струмица"
+    "nameMk": "Струмица",
+    "descriptionMk": "Доживејте this thermal spa town where healing waters meet древни culture! Roman baths, Ottoman architecture, and natural hot springs create unique wellness авантураs."
   },
   {
     "id": "bansko_spa",
@@ -1028,7 +1171,9 @@
     "coordinates": [
       22.6333,
       41.4333
-    ]
+    ],
+    "nameMk": "Банско Спа",
+    "descriptionMk": "Soak in therapeutic thermal waters bubbling from deep within the earth! These legendary healing springs offer natural wellness retreats in нетакнати планински settings."
   },
   {
     "id": "tikvesh_wine_region",
@@ -1040,7 +1185,9 @@
     "coordinates": [
       22.0667,
       41.4333
-    ]
+    ],
+    "nameMk": "Тиквеш Wине Регион",
+    "descriptionMk": "Journey through Македонија's premier wine country where древни vines meet modern winemaking! Rolling vineyards and cellar tours create совршени gastronomic авантураs."
   },
   {
     "id": "kavadarci",
@@ -1053,7 +1200,8 @@
       22.0111,
       41.4333
     ],
-    "nameMk": "Кавадарци"
+    "nameMk": "Кавадарци",
+    "descriptionMk": "Истражете the heart of Македонија's wine country where tradition meets innovation! Historic wineries and vineyard landscapes offer authentic vitiкултурни авантураs."
   },
   {
     "id": "negotino",
@@ -1066,7 +1214,8 @@
       22.0886,
       41.4844
     ],
-    "nameMk": "Неготино"
+    "nameMk": "Неготино",
+    "descriptionMk": "Откријте овој древен trading town where the Vardar река meets wine country! Historic architecture and vineyard tours create совршени културни and gastronomic stops."
   },
   {
     "id": "demir_kapiya",
@@ -1078,7 +1227,9 @@
     "coordinates": [
       22.0431,
       41.4069
-    ]
+    ],
+    "nameMk": "Демир Капиyа",
+    "descriptionMk": "Navigate this драматични река gorge where the Vardar cuts through towering cliffs! древни тврдина ruins and спектакуларни geology create thrilling natural авантураs."
   },
   {
     "id": "mariovo_region",
@@ -1090,7 +1241,9 @@
     "coordinates": [
       21.5,
       41.25
-    ]
+    ],
+    "nameMk": "Мариово Регион",
+    "descriptionMk": "Истражете ова оддалечено highland region where традиционални pastoral life survives! камен селоs and нетакнати дивина create authentic културни immersion авантураs."
   },
   {
     "id": "treskavec_monastery",
@@ -1102,7 +1255,9 @@
     "coordinates": [
       21.6167,
       41.2833
-    ]
+    ],
+    "nameMk": "Трескавец Монастерy",
+    "descriptionMk": "Climb to овој древен манастир perched on a драматични планински peak! средновековни frescoes and панорамски погледи reward brave pilgrims with духовно авантураs."
   },
   {
     "id": "prilep",
@@ -1115,7 +1270,8 @@
       21.5547,
       41.3453
     ],
-    "nameMk": "Прилеп"
+    "nameMk": "Прилеп",
+    "descriptionMk": "Доживејте this historic tobacco town beneath драматични granite towers! древни monasteries, Ottoman architecture, and natural rock formations create diverse авантураs."
   },
   {
     "id": "marko_towers",
@@ -1127,7 +1283,9 @@
     "coordinates": [
       21.5833,
       41.3167
-    ]
+    ],
+    "nameMk": "Марко'с Тоwерс",
+    "descriptionMk": "Scale these legendary granite formations named after средновековни king Marko! драматични rock towers and древни legends create совршени climbing and фотографија авантураs."
   },
   {
     "id": "krushevo",
@@ -1139,7 +1297,9 @@
     "coordinates": [
       21.2489,
       41.3689
-    ]
+    ],
+    "nameMk": "Крушево",
+    "descriptionMk": "Ascend to the балканскиs' highest town where revolutionary history meets нетакнати планински air! традиционални Vlach architecture and панорамски погледи create unique културни авантураs."
   },
   {
     "id": "makedonium",
@@ -1151,7 +1311,9 @@
     "coordinates": [
       21.2489,
       41.3689
-    ]
+    ],
+    "nameMk": "Македониум Монумент",
+    "descriptionMk": "Восхитете се на this striking modern monument commemorating the Ilinden Uprising! Unique architecture and историски significance create powerful културни Доживејтеs."
   },
   {
     "id": "mečkin_kamen",
@@ -1163,7 +1325,9 @@
     "coordinates": [
       21.2,
       41.3333
-    ]
+    ],
+    "nameMk": "Меčкин Камен",
+    "descriptionMk": "Conquer this драматични планински peak offering панорамски балкански погледи! Challenging trails and спектакуларни vistas reward serious планински авантураrs."
   },
   {
     "id": "veles",
@@ -1176,7 +1340,8 @@
       21.7753,
       41.7161
     ],
-    "nameMk": "Велес"
+    "nameMk": "Велес",
+    "descriptionMk": "Истражете овој древен Vardar река town where византиски heritage meets industrial history! Ottoman мостs and diverse architecture offer rich културни авантураs."
   },
   {
     "id": "stobi",
@@ -1188,7 +1353,9 @@
     "coordinates": [
       21.9167,
       41.55
-    ]
+    ],
+    "nameMk": "Стоби",
+    "descriptionMk": "Walk through овој величествен древни city where Roman roads meet Christian basilicas! Well-preserved mosaics and theaters create world-class archaeological авантураs."
   },
   {
     "id": "tikvesh_lake",
@@ -1200,7 +1367,9 @@
     "coordinates": [
       21.9833,
       41.5167
-    ]
+    ],
+    "nameMk": "Тиквеш Лаке",
+    "descriptionMk": "Navigate Македонија's largest artificial езеро surrounded by wine country! Boating, fishing, and vineyard tours create совршени recreational авантураs."
   },
   {
     "id": "dojran_lake",
@@ -1212,7 +1381,9 @@
     "coordinates": [
       22.7167,
       41.2167
-    ]
+    ],
+    "nameMk": "Дојран Лаке",
+    "descriptionMk": "Откријте this shallow thermal езеро shared with Greece where древни spa traditions thrive! Healing mud baths and warm waters create unique wellness авантураs."
   },
   {
     "id": "star_dojran",
@@ -1224,7 +1395,9 @@
     "coordinates": [
       22.7244,
       41.1889
-    ]
+    ],
+    "nameMk": "Стар Дојран",
+    "descriptionMk": "Доживејте ова шармантно езероside resort town where thermal springs meet традиционални fishing culture! Historic spa architecture and waterfront dining await relaxation seekers."
   },
   {
     "id": "gevgelija",
@@ -1237,7 +1410,8 @@
       22.5047,
       41.1431
     ],
-    "nameMk": "Гевгелија"
+    "nameMk": "Гевгелија",
+    "descriptionMk": "Истражете this vibrant border town where Mediterranean climate meets балкански culture! Casinos, thermal spas, and cross-border авантураs create unique entertainment Доживејтеs."
   },
   {
     "id": "valandovo",
@@ -1249,7 +1423,9 @@
     "coordinates": [
       22.5606,
       41.3181
-    ]
+    ],
+    "nameMk": "Валандово",
+    "descriptionMk": "Journey through Македонија's warmest region where Mediterranean agriculture flourishes! Rice fields, tobacco farms, and thermal springs create diverse agriкултурни авантураs."
   },
   {
     "id": "bogdanci",
@@ -1261,7 +1437,9 @@
     "coordinates": [
       22.5797,
       41.2031
-    ]
+    ],
+    "nameMk": "Богданци",
+    "descriptionMk": "Откријте this southern agriкултурни town where early harvests and warm climate create Mediterranean atmosphere! традиционални farming and cross-border culture await exploration."
   },
   {
     "id": "radoviš",
@@ -1273,7 +1451,9 @@
     "coordinates": [
       22.4647,
       41.6383
-    ]
+    ],
+    "nameMk": "Радовиš",
+    "descriptionMk": "Истражете this mining heritage town nestled in планинскиous terrain! Industrial archaeology and surrounding дивина create unique urban-природа авантураs."
   },
   {
     "id": "štip",
@@ -1285,7 +1465,9 @@
     "coordinates": [
       22.1953,
       41.7414
-    ]
+    ],
+    "nameMk": "Šтип",
+    "descriptionMk": "Доживејте this eastern textile town where the Bregalnica река meets древни trade routes! Historic architecture and река долина погледи create charming urban авантураs."
   },
   {
     "id": "bregalnica_river",
@@ -1297,7 +1479,9 @@
     "coordinates": [
       22.3,
       41.65
-    ]
+    ],
+    "nameMk": "Брегалница Ривер",
+    "descriptionMk": "Follow Македонија's second-longest река through diverse landscapes from планинскиs to plains! Fishing, kayaking, and рекаside camping create совршени water авантураs."
   },
   {
     "id": "kočani",
@@ -1309,7 +1493,9 @@
     "coordinates": [
       22.4133,
       41.9161
-    ]
+    ],
+    "nameMk": "Коčани",
+    "descriptionMk": "Откријте this rice-growing town in Македонија's warmest долина! традиционални agriculture, thermal springs, and река авантураs create unique lowland Доживејтеs."
   },
   {
     "id": "vinica",
@@ -1322,7 +1508,8 @@
       22.5081,
       41.8839
     ],
-    "nameMk": "Виница"
+    "nameMk": "Виница",
+    "descriptionMk": "Истражете овој древен town where Roman archaeology meets традиционални winemaking! Historic ruins and vineyard culture create совршени archaeological and gastronomic авантураs."
   },
   {
     "id": "bargala",
@@ -1334,7 +1521,9 @@
     "coordinates": [
       22.5167,
       41.8833
-    ]
+    ],
+    "nameMk": "Баргала Арчаеологицал Сите",
+    "descriptionMk": "Откријте this Early Christian city hidden in eastern Македонија! древни basilicas with прекрасни mosaics create remarkable archaeological авантураs off the beaten path."
   },
   {
     "id": "delčevo",
@@ -1346,7 +1535,9 @@
     "coordinates": [
       22.7681,
       41.9681
-    ]
+    ],
+    "nameMk": "Делčево",
+    "descriptionMk": "Venture to this highland mining town surrounded by нетакнати forests! традиционални планински culture and дивина access create authentic overlanding авантураs."
   },
   {
     "id": "pehčevo",
@@ -1358,7 +1549,9 @@
     "coordinates": [
       22.8947,
       41.7619
-    ]
+    ],
+    "nameMk": "Пехčево",
+    "descriptionMk": "Откријте this small планински town gateway to нетакнати дивина! Forest trails and традиционални highland life create совршени base camp авантураs."
   },
   {
     "id": "osogovo_mountains",
@@ -1370,7 +1563,9 @@
     "coordinates": [
       22.6667,
       42
-    ]
+    ],
+    "nameMk": "Осогово Моунтаинс",
+    "descriptionMk": "Trek through this нетакнати планински range on the Bulgarian border! Dense forests, glacial езероs, and endemic species create спектакуларни дивина авантураs."
   },
   {
     "id": "mavrovo_national_park",
@@ -1383,7 +1578,8 @@
       20.75,
       41.7
     ],
-    "nameMk": "Маврово"
+    "nameMk": "Маврово",
+    "descriptionMk": "Conquer Македонија's largest national park where нетакнати езероs meet towering peaks! Lynx roam древни forests while eagles soar over glacial waters in this дивина paradise."
   },
   {
     "id": "mavrovo_lake",
@@ -1396,7 +1592,8 @@
       20.7167,
       41.6833
     ],
-    "nameMk": "Маврово"
+    "nameMk": "Маврово",
+    "descriptionMk": "Kayak aПоминете го овој прекрасни artificial езеро surrounded by планински giants! Crystal waters reflect snow-capped peaks, creating совршени wild camping and fishing авантураs."
   },
   {
     "id": "bistra_mountain",
@@ -1408,7 +1605,9 @@
     "coordinates": [
       20.6667,
       41.75
-    ]
+    ],
+    "nameMk": "Бистра Моунтаин",
+    "descriptionMk": "Scale Македонија's third-highest peak where древни beech forests hide endemic species! Challenging trails and панорамски погледи reward serious планински авантураrs."
   },
   {
     "id": "janche",
@@ -1420,7 +1619,9 @@
     "coordinates": [
       20.6833,
       41.6167
-    ]
+    ],
+    "nameMk": "Јанčе",
+    "descriptionMk": "Откријте ова оддалечено планински село where традиционални log cabins meet нетакнати дивина! Authentic highland culture and драматични landscapes create совршени overlanding stops."
   },
   {
     "id": "lazaropole",
@@ -1432,7 +1633,9 @@
     "coordinates": [
       20.65,
       41.5833
-    ]
+    ],
+    "nameMk": "Лазарополе",
+    "descriptionMk": "Доживејте ова автентично планински село where камен architecture meets shepherd traditions! Highland pastures and древни customs create совршени културни immersion."
   },
   {
     "id": "galicnik",
@@ -1444,7 +1647,9 @@
     "coordinates": [
       20.6167,
       41.6
-    ]
+    ],
+    "nameMk": "Галиčник",
+    "descriptionMk": "Venture to this legendary highland село famous for традиционални weddings! камен houses and планински meadows create совршени културни фотографија opportunities."
   },
   {
     "id": "tetovo",
@@ -1457,7 +1662,8 @@
       20.9714,
       42.0106
     ],
-    "nameMk": "Тетово"
+    "nameMk": "Тетово",
+    "descriptionMk": "Истражете this multiкултурни планински city where Albanian and Македонијаn cultures blend! Colorful Painted Mosque and Šar планински access create diverse urban авантураs."
   },
   {
     "id": "painted_mosque",
@@ -1469,7 +1675,9 @@
     "coordinates": [
       20.97,
       42.01
-    ]
+    ],
+    "nameMk": "Паинтед Мосqуе (Šарена Дžамија)",
+    "descriptionMk": "Восхитете се на the балканскиs' most colorful mosque adorned with спектакуларни Ottoman frescoes! This architectural jewel offers unique културни and artistic авантураs."
   },
   {
     "id": "sar_mountain",
@@ -1481,7 +1689,9 @@
     "coordinates": [
       20.8,
       42.05
-    ]
+    ],
+    "nameMk": "Šар Моунтаин",
+    "descriptionMk": "Conquer this mighty планински range where glacial езероs sparkle beneath towering peaks! Alpine meadows and endemic flowers create спектакуларни high-altitude авантураs."
   },
   {
     "id": "popova_sapka",
@@ -1493,7 +1703,9 @@
     "coordinates": [
       20.9167,
       42.0333
-    ]
+    ],
+    "nameMk": "Попова Šапка",
+    "descriptionMk": "Ski and hike this premier планински resort where winter sports meet summer trekking! панорамски погледи and alpine авантураs await year-round Истражетеrs."
   },
   {
     "id": "brezovica_ski_center",
@@ -1505,7 +1717,9 @@
     "coordinates": [
       21.0167,
       42.0833
-    ]
+    ],
+    "nameMk": "Брезовица Ски Центер",
+    "descriptionMk": "Carve fresh powder on нетакнати Šar планински slopes! This high-altitude ski resort offers world-class winter авантураs and summer hiking opportunities."
   },
   {
     "id": "gostivar",
@@ -1518,7 +1732,8 @@
       20.9081,
       41.7964
     ],
-    "nameMk": "Гостивар"
+    "nameMk": "Гостивар",
+    "descriptionMk": "Доживејте this multiкултурни река town where diverse traditions flourish! Historic architecture and планински access create совршени културни and авантура base camps."
   },
   {
     "id": "kicevo",
@@ -1531,7 +1746,8 @@
       20.9597,
       41.5125
     ],
-    "nameMk": "Кичево"
+    "nameMk": "Кичево",
+    "descriptionMk": "Истражете this highland town gateway to нетакнати national parks! традиционални architecture and дивина access create совршени overlanding авантураs."
   },
   {
     "id": "makedonski_brod",
@@ -1543,7 +1759,9 @@
     "coordinates": [
       21.2147,
       41.5133
-    ]
+    ],
+    "nameMk": "Македонски Брод",
+    "descriptionMk": "Откријте this рекаside town where the Treska река meets древни history! традиционални мостs and планински vistas create совршени фотографија opportunities."
   },
   {
     "id": "tikvesh_fortress",
@@ -1555,7 +1773,9 @@
     "coordinates": [
       22,
       41.45
-    ]
+    ],
+    "nameMk": "Тиквеш Фортресс",
+    "descriptionMk": "Storm this средновековни stronghold overlooking wine country! древни walls and vineyard panoramas create совршени историски and gastronomic авантураs."
   },
   {
     "id": "koleshino",
@@ -1567,7 +1787,9 @@
     "coordinates": [
       22.81,
       41.37
-    ]
+    ],
+    "nameMk": "Колеšино",
+    "descriptionMk": "Доживејте this планински село famous for Македонија's tallest водопад! традиционални камен architecture and natural wonders create совршени авантура combinations."
   },
   {
     "id": "polog_valley",
@@ -1579,7 +1801,9 @@
     "coordinates": [
       20.9,
       41.9
-    ]
+    ],
+    "nameMk": "Полог Валлеy",
+    "descriptionMk": "Journey through this fertile долина where three планински ranges converge! Agriкултурни landscapes and културни diversity create unique regional авантураs."
   },
   {
     "id": "vardar_river",
@@ -1591,7 +1815,9 @@
     "coordinates": [
       21.7,
       41.6
-    ]
+    ],
+    "nameMk": "Вардар Ривер",
+    "descriptionMk": "Follow Македонија's longest река from планински springs to Aegean destiny! Kayaking, fishing, and рекаside camping create epic water авантураs."
   },
   {
     "id": "crna_river",
@@ -1603,7 +1829,9 @@
     "coordinates": [
       21,
       41.2
-    ]
+    ],
+    "nameMk": "Црна Ривер",
+    "descriptionMk": "Navigate this нетакнати планински река flowing through untouched долинаs! Crystal waters and дивина camping create совршени природа escape авантураs."
   },
   {
     "id": "treska_river",
@@ -1615,7 +1843,9 @@
     "coordinates": [
       21.3,
       41.8
-    ]
+    ],
+    "nameMk": "Треска Ривер",
+    "descriptionMk": "Истражете this драматични река carving спектакуларни кањонs through limeкамен! White-water авантураs and кањон фотографија await thrill-seeking Истражетеrs."
   },
   {
     "id": "pcinja_river",
@@ -1627,7 +1857,9 @@
     "coordinates": [
       22.1,
       41.95
-    ]
+    ],
+    "nameMk": "Пčиња Ривер",
+    "descriptionMk": "Follow this border река through diverse landscapes and cultures! Fishing, wildlife watching, and cross-border авантураs create unique Доживејтеs."
   },
   {
     "id": "babuna_river",
@@ -1639,7 +1871,9 @@
     "coordinates": [
       21.8,
       41.4
-    ]
+    ],
+    "nameMk": "Бабуна Ривер",
+    "descriptionMk": "Откријте this планински река flowing through нетакнати долинаs! традиционални water mills and clear streams create совршени rural авантура Доживејтеs."
   },
   {
     "id": "lakavica_river",
@@ -1651,7 +1885,9 @@
     "coordinates": [
       22.2,
       41.85
-    ]
+    ],
+    "nameMk": "Лакавица Ривер",
+    "descriptionMk": "Trek alongside this нетакнати планински stream through untouched forests! Wildlife spotting and дивина camping create совршени природа авантураs."
   },
   {
     "id": "zletovska_river",
@@ -1663,7 +1899,9 @@
     "coordinates": [
       22.05,
       42.1
-    ]
+    ],
+    "nameMk": "Злетовска Ривер",
+    "descriptionMk": "Истражете this планински река долина where традиционални селоs meet нетакнати природа! Fishing and културни фотографија create совршени highland авантураs."
   },
   {
     "id": "strumica_river",
@@ -1676,7 +1914,8 @@
       22.6,
       41.4
     ],
-    "nameMk": "Струмица"
+    "nameMk": "Струмица",
+    "descriptionMk": "Navigate this southeastern река through thermal spring country! Hot springs and рекаside camping create unique wellness and природа авантураs."
   },
   {
     "id": "monastery_sv_jovan_bigorski",
@@ -1688,7 +1927,9 @@
     "coordinates": [
       20.6167,
       41.6833
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Јохн Бигорски",
+    "descriptionMk": "Откријте овој величествен манастир hidden in нетакнати Bistra forests! Intricate wood carvings and планински serenity create profound духовно авантураs."
   },
   {
     "id": "monastery_sv_pantelejmon",
@@ -1700,7 +1941,9 @@
     "coordinates": [
       21.4,
       41.7
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Пантелеимон",
+    "descriptionMk": "Доживејте this средновековни манастир where древни frescoes tell духовно stories! планински isolation and византиски art create transcendent културни авантураs."
   },
   {
     "id": "monastery_sv_dimitrij",
@@ -1712,7 +1955,9 @@
     "coordinates": [
       21.3,
       41.55
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Димитри",
+    "descriptionMk": "Истражете овој древен духовно sanctuary perched on драматични cliffs! средновековни architecture and панорамски погледи create совршени pilgrimage авантураs."
   },
   {
     "id": "monastery_sv_nikola",
@@ -1724,7 +1969,9 @@
     "coordinates": [
       20.8,
       41.1
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Ничолас",
+    "descriptionMk": "Посетете this езероside манастир where духовно reflection meets natural убавина! древни каменs and water погледи create serene contemplative Доживејтеs."
   },
   {
     "id": "monastery_sv_archangel_michael",
@@ -1736,7 +1983,9 @@
     "coordinates": [
       21.2,
       41.6
-    ]
+    ],
+    "nameMk": "Монастерy Арчангел Мичаел",
+    "descriptionMk": "Climb to this планински манастир where angels seem to dwell among clouds! духовно architecture and heavenly погледи create divine авантура Доживејтеs."
   },
   {
     "id": "monastery_sv_bogorodica",
@@ -1748,7 +1997,9 @@
     "coordinates": [
       21.1,
       41.4
-    ]
+    ],
+    "nameMk": "Монастерy Холy Мотхер оф Год",
+    "descriptionMk": "Откријте this свето feminine sanctuary where maternal protection meets планински majesty! древни icons and peaceful gardens create healing духовно journeys."
   },
   {
     "id": "monastery_sv_erasmo",
@@ -1760,7 +2011,9 @@
     "coordinates": [
       20.95,
       41.35
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Ерасмус",
+    "descriptionMk": "Доживејте ова оддалечено планински манастир where hermit traditions survive! дивина isolation and духовно discipline create profound contemplative авантураs."
   },
   {
     "id": "monastery_sv_spas",
@@ -1772,7 +2025,9 @@
     "coordinates": [
       21.45,
       41.25
-    ]
+    ],
+    "nameMk": "Монастерy Холy Савиор",
+    "descriptionMk": "Посетете this salvation sanctuary where miraculous stories echo through камен halls! древни healing traditions and планински peace create transformative Доживејтеs."
   },
   {
     "id": "monastery_sv_petka",
@@ -1784,7 +2039,9 @@
     "coordinates": [
       21.6,
       41.15
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Петка",
+    "descriptionMk": "Истражете this women's healing манастир where традиционални remedies meet духовно power! Herbal gardens and древни wisdom create unique wellness авантураs."
   },
   {
     "id": "monastery_sv_gjorgji",
@@ -1796,7 +2053,9 @@
     "coordinates": [
       21.8,
       41.05
-    ]
+    ],
+    "nameMk": "Монастерy Ст. Георге",
+    "descriptionMk": "Откријте this dragon-slaying saint's планински тврдина! Legendary tales and warrior spirit create epic mythological авантура Доживејтеs."
   },
   {
     "id": "debar",
@@ -1809,7 +2068,8 @@
       20.5247,
       41.5236
     ],
-    "nameMk": "Дебар"
+    "nameMk": "Дебар",
+    "descriptionMk": "Истражете this border town where Albanian culture meets планински дивина! Historic architecture and hot springs create совршени multiкултурни авантураs."
   },
   {
     "id": "debar_lake",
@@ -1822,7 +2082,8 @@
       20.4833,
       41.5167
     ],
-    "nameMk": "Дебар"
+    "nameMk": "Дебар",
+    "descriptionMk": "Navigate this artificial езеро shared between Македонија and Albania! Crystal waters and cross-border авантураs create unique international Доживејтеs."
   },
   {
     "id": "struga",
@@ -1835,7 +2096,8 @@
       20.6781,
       41.1781
     ],
-    "nameMk": "Струга"
+    "nameMk": "Струга",
+    "descriptionMk": "Доживејте this poetry town where the Black Drin река meets езеро Ohrid! Literary festivals and езероside убавина create совршени културни авантураs."
   },
   {
     "id": "black_drin_springs",
@@ -1847,7 +2109,9 @@
     "coordinates": [
       20.65,
       41.18
-    ]
+    ],
+    "nameMk": "Блацк Дрин Спрингс",
+    "descriptionMk": "Witness the birthplace of a mighty река emerging from езеро Ohrid's depths! Crystal springs and underwater mysteries create fascinating natural авантураs."
   },
   {
     "id": "gabrovo_village",
@@ -1859,7 +2123,9 @@
     "coordinates": [
       22.79,
       41.38
-    ]
+    ],
+    "nameMk": "Габрово Виллаге",
+    "descriptionMk": "Откријте this highland село gateway to спектакуларни водопадs! традиционални планински life and natural wonders create совршени авантура combinations."
   },
   {
     "id": "sm_waterfall",
@@ -1871,7 +2137,9 @@
     "coordinates": [
       22.9,
       41.36
-    ]
+    ],
+    "nameMk": "СМ Wатерфалл",
+    "descriptionMk": "Chase ова скриено cascade tumbling through нетакнати планински forests! Secret location and crystal pools create совршени дивина swimming авантураs."
   },
   {
     "id": "berovo_spa",
@@ -1884,7 +2152,8 @@
       22.86,
       41.7
     ],
-    "nameMk": "Берово"
+    "nameMk": "Берово",
+    "descriptionMk": "Breathe the cleanest планински air while soaking in therapeutic mineral waters! Alpine wellness and forest tranquility create совршени healing retreats."
   },
   {
     "id": "ablanitsa_peak",
@@ -1896,7 +2165,9 @@
     "coordinates": [
       22.95,
       41.6
-    ]
+    ],
+    "nameMk": "Абланитса Пеак",
+    "descriptionMk": "Scale this challenging summit in the Maleševo планинскиs! Demanding trails and спектакуларни погледи reward serious планински авантураrs."
   },
   {
     "id": "carev_vrv_peak",
@@ -1908,7 +2179,9 @@
     "coordinates": [
       21.2,
       41
-    ]
+    ],
+    "nameMk": "Царев Врв Пеак",
+    "descriptionMk": "Conquer this royal summit where kings once surveyed their domains! Majestic погледи and challenging climbs create epic планински авантураs."
   },
   {
     "id": "solunska_glava_peak",
@@ -1920,7 +2193,9 @@
     "coordinates": [
       21.15,
       40.95
-    ]
+    ],
+    "nameMk": "Солунска Глава Пеак",
+    "descriptionMk": "Reach this towering peak named for distant Thessaloniki погледи! Alpine challenges and панорамски vistas reward determined climbers."
   },
   {
     "id": "titov_vrv_peak",
@@ -1932,7 +2207,9 @@
     "coordinates": [
       20.75,
       42
-    ]
+    ],
+    "nameMk": "Титов Врв Пеак",
+    "descriptionMk": "Scale Македонија's second-highest summit in Šar планински! Glacial езероs and alpine meadows create спектакуларни high-altitude авантураs."
   },
   {
     "id": "korab_peak",
@@ -1944,7 +2221,9 @@
     "coordinates": [
       20.55,
       41.7833
-    ]
+    ],
+    "nameMk": "Кораб Пеак",
+    "descriptionMk": "Conquer Македонија's highest summit on the Albanian border! At 2,764 meters, this ultimate challenge rewards brave climbers with балкански supremacy."
   },
   {
     "id": "deshat_peak",
@@ -1956,7 +2235,9 @@
     "coordinates": [
       20.85,
       42.05
-    ]
+    ],
+    "nameMk": "Деšат Пеак",
+    "descriptionMk": "Scale this драматични Šar планински summit where ten долинаs converge! Alpine убавина and панорамски погледи create совршени high-altitude авантураs."
   },
   {
     "id": "golem_korab_peak",
@@ -1968,7 +2249,9 @@
     "coordinates": [
       20.5481,
       41.7889
-    ]
+    ],
+    "nameMk": "Голем Кораб Пеак",
+    "descriptionMk": "Reach Македонија's ultimate summit crown! This challenging border peak offers the highest авантураs in the entire балкански Peninsula."
   },
   {
     "id": "mal_korab_peak",
@@ -1980,7 +2263,9 @@
     "coordinates": [
       20.54,
       41.78
-    ]
+    ],
+    "nameMk": "Мал Кораб Пеак",
+    "descriptionMk": "Challenge this lesser Korab sibling offering спектакуларни border погледи! High-altitude trails and нетакнати дивина create совршени планински авантураs."
   },
   {
     "id": "krcin_peak",
@@ -1992,7 +2277,9 @@
     "coordinates": [
       22.7,
       42.05
-    ]
+    ],
+    "nameMk": "Крčин Пеак",
+    "descriptionMk": "Conquer this Osogovo планинскиs giant where Bulgarian borders meet нетакнати дивина! Challenging trails and cross-border погледи reward serious hikers."
   },
   {
     "id": "ruen_peak",
@@ -2004,7 +2291,9 @@
     "coordinates": [
       22.75,
       42.1
-    ]
+    ],
+    "nameMk": "Руен Пеак",
+    "descriptionMk": "Scale the Osogovo планинскиs' highest summit! древни forests and glacial features create спектакуларни дивина авантураs."
   },
   {
     "id": "kajmakcalan_peak",
@@ -2016,7 +2305,9 @@
     "coordinates": [
       21.7833,
       40.9167
-    ]
+    ],
+    "nameMk": "Кајмакčалан Пеак",
+    "descriptionMk": "Reach this WWI battlefield summit where history meets high-altitude авантура! Memorial sites and планински погледи create profound историски Доживејтеs."
   },
   {
     "id": "nidje_peak",
@@ -2028,7 +2319,9 @@
     "coordinates": [
       21.2333,
       41.0167
-    ]
+    ],
+    "nameMk": "Ниџе Пеак",
+    "descriptionMk": "Conquer this Baba планински summit offering спектакуларни Pelister погледи! Alpine езероs and endemic pine forests create совршени планински дивина."
   },
   {
     "id": "veternik_peak",
@@ -2040,7 +2333,9 @@
     "coordinates": [
       21,
       41.5
-    ]
+    ],
+    "nameMk": "Ветерник Пеак",
+    "descriptionMk": "Scale this wind-swept summit where eagles ride thermals above нетакнати долинаs! Challenging climbs and aerial погледи reward планински авантураrs."
   },
   {
     "id": "crn_kamen_peak",
@@ -2052,7 +2347,9 @@
     "coordinates": [
       20.9,
       41.45
-    ]
+    ],
+    "nameMk": "Црн Камен Пеак",
+    "descriptionMk": "Reach this 'Black камен' summit where dark rocks meet bright sky! драматични geology and панорамски погледи create striking планински авантураs."
   },
   {
     "id": "kozuf_peak",
@@ -2064,7 +2361,9 @@
     "coordinates": [
       22.45,
       41.2
-    ]
+    ],
+    "nameMk": "Козуф Пеак",
+    "descriptionMk": "Climb this southern планински giant where Greek borders meet highland дивина! Cross-border погледи and challenging trails reward determined Истражетеrs."
   },
   {
     "id": "plackovica_peak",
@@ -2076,7 +2375,9 @@
     "coordinates": [
       22.5,
       41.9
-    ]
+    ],
+    "nameMk": "Плаčковица Пеак",
+    "descriptionMk": "Conquer this eastern планински summit where древни mining meets нетакнати природа! Industrial heritage and дивина погледи create unique авантураs."
   },
   {
     "id": "golak_peak",
@@ -2088,7 +2389,9 @@
     "coordinates": [
       21.8,
       42.2
-    ]
+    ],
+    "nameMk": "Голак Пеак",
+    "descriptionMk": "Scale this naked планински summit where barren убавина meets драматични skies! Stark landscapes and панорамски погледи create powerful alpine Доживејтеs."
   },
   {
     "id": "kitka_peak",
@@ -2100,7 +2403,9 @@
     "coordinates": [
       22.8,
       41.8
-    ]
+    ],
+    "nameMk": "Китка Пеак",
+    "descriptionMk": "Reach ова оддалечено eastern summit where нетакнати дивина meets endless horizons! Challenging access and untouched природа reward serious авантураrs."
   },
   {
     "id": "babuna_peak",
@@ -2112,7 +2417,9 @@
     "coordinates": [
       21.9,
       41.4
-    ]
+    ],
+    "nameMk": "Бабуна Пеак",
+    "descriptionMk": "Climb this central планински summit where традиционални селоs dot нетакнати долинаs! културни encounters and планински погледи create совршени overlanding авантураs."
   },
   {
     "id": "dautica_peak",
@@ -2124,7 +2431,9 @@
     "coordinates": [
       21.7,
       41.65
-    ]
+    ],
+    "nameMk": "Даутица Пеак",
+    "descriptionMk": "Conquer this challenging summit where древни trails meet modern авантура! историски paths and планински vistas create timeless trekking Доживејтеs."
   },
   {
     "id": "selechka_planina",
@@ -2136,7 +2445,9 @@
     "coordinates": [
       22.2,
       41.55
-    ]
+    ],
+    "nameMk": "Селеčка Планина",
+    "descriptionMk": "Trek aПоминете го овој нетакнати планински plateau where shepherds still roam! традиционални pastoral life and highland meadows create authentic културни авантураs."
   },
   {
     "id": "ograzden_peak",
@@ -2148,7 +2459,9 @@
     "coordinates": [
       22.85,
       41.3
-    ]
+    ],
+    "nameMk": "Ограžден Пеак",
+    "descriptionMk": "Scale this Bulgarian border summit where two nations meet in планински majesty! Cross-border погледи and challenging trails reward international авантураrs."
   },
   {
     "id": "belasica_peak",
@@ -2160,7 +2473,9 @@
     "coordinates": [
       23,
       41.3333
-    ]
+    ],
+    "nameMk": "Беласица Пеак",
+    "descriptionMk": "Conquer this tri-border summit where Македонија, Bulgaria, and Greece converge! Triple-nation погледи and challenging climbs create ultimate border авантураs."
   },
   {
     "id": "karadzica_peak",
@@ -2172,7 +2487,9 @@
     "coordinates": [
       22.3,
       41.7
-    ]
+    ],
+    "nameMk": "Карадžица Пеак",
+    "descriptionMk": "Reach ова оддалечено планински summit where нетакнати дивина meets endless horizons! Solitary climbing and untouched природа create profound планински Доживејтеs."
   },
   {
     "id": "suva_gora_peak",
@@ -2184,7 +2501,9 @@
     "coordinates": [
       21.9,
       41.85
-    ]
+    ],
+    "nameMk": "Сува Гора Пеак",
+    "descriptionMk": "Scale this 'Dry планински' where stark убавина meets драматични weather! Challenging conditions and raw landscapes create intense планински авантураs."
   },
   {
     "id": "jakupica_peak",
@@ -2196,7 +2515,9 @@
     "coordinates": [
       21.45,
       41.6
-    ]
+    ],
+    "nameMk": "Јакупица Пеак",
+    "descriptionMk": "Conquer this central планински giant where glacial езероs reflect нетакнати skies! Alpine убавина and challenging trails create совршени дивина авантураs."
   },
   {
     "id": "kitino_village",
@@ -2208,7 +2529,9 @@
     "coordinates": [
       20.92,
       41.28
-    ]
+    ],
+    "nameMk": "Китино Виллаге",
+    "descriptionMk": "Доживејте ова оддалечено highland settlement where традиционални life survives in планински isolation! Authentic culture and драматични landscapes create совршени overlanding stops."
   },
   {
     "id": "labunishta_village",
@@ -2220,7 +2543,9 @@
     "coordinates": [
       20.78,
       41.12
-    ]
+    ],
+    "nameMk": "Лабуниšта Виллаге",
+    "descriptionMk": "Откријте this езероside село where apple orchards meet crystal waters! традиционални fruit cultivation and Ohrid убавина create совршени agriкултурни авантураs."
   },
   {
     "id": "pestani_village",
@@ -2232,7 +2557,9 @@
     "coordinates": [
       20.77,
       41.11
-    ]
+    ],
+    "nameMk": "Пестани Виллаге",
+    "descriptionMk": "Истражете this традиционални fishing село where nets dry beside древни каменs! езероside culture and timeless traditions create authentic waterfront Доживејтеs."
   },
   {
     "id": "trpejca_village",
@@ -2244,7 +2571,9 @@
     "coordinates": [
       20.76,
       41.09
-    ]
+    ],
+    "nameMk": "Трпејца Виллаге",
+    "descriptionMk": "Доживејте this нетакнати езероside settlement where традиционални architecture meets crystal waters! камен houses and езеро погледи create совршени фотографија opportunities."
   },
   {
     "id": "kalishta_village",
@@ -2256,7 +2585,9 @@
     "coordinates": [
       20.74,
       41.08
-    ]
+    ],
+    "nameMk": "Калиšта Виллаге",
+    "descriptionMk": "Venture to ова оддалечено езероside село accessible only by boat or планински trail! Isolation and natural убавина create ultimate дивина retreat Доживејтеs."
   },
   {
     "id": "radozda_village",
@@ -2268,7 +2599,9 @@
     "coordinates": [
       20.72,
       41.07
-    ]
+    ],
+    "nameMk": "Радоžда Виллаге",
+    "descriptionMk": "Откријте this border село where Albanian culture meets Ohrid's нетакнати shores! Cross-културни Доживејтеs and езероside убавина create unique авантураs."
   },
   {
     "id": "oktisi_village",
@@ -2280,7 +2613,9 @@
     "coordinates": [
       20.7,
       41.06
-    ]
+    ],
+    "nameMk": "Октиси Виллаге",
+    "descriptionMk": "Доживејте this highland село where традиционални building methods create authentic планински architecture! камен craftsmanship and културни heritage offer совршени exploration."
   },
   {
     "id": "earshnica_village",
@@ -2292,7 +2627,9 @@
     "coordinates": [
       20.68,
       41.05
-    ]
+    ],
+    "nameMk": "Еарšница Виллаге",
+    "descriptionMk": "Истражете this планински село where нетакнати streams cascade through традиционални settlements! Highland culture and natural убавина create совршени overlanding авантураs."
   },
   {
     "id": "gorno_dupeni_village",
@@ -2304,7 +2641,9 @@
     "coordinates": [
       20.66,
       41.04
-    ]
+    ],
+    "nameMk": "Горно Дупени Виллаге",
+    "descriptionMk": "Trek to this upper планински село where shepherd traditions survive in нетакнати isolation! Highland pastoral life creates authentic културни immersion Доживејтеs."
   },
   {
     "id": "dolno_dupeni_village",
@@ -2316,7 +2655,9 @@
     "coordinates": [
       20.64,
       41.03
-    ]
+    ],
+    "nameMk": "Долно Дупени Виллаге",
+    "descriptionMk": "Откријте this lower highland село where планински streams meet традиционални architecture! камен мостs and културни heritage create совршени фотографија opportunities."
   },
   {
     "id": "novo_selo_strumica",
@@ -2329,7 +2670,8 @@
       22.72,
       41.42
     ],
-    "nameMk": "Струмица"
+    "nameMk": "Струмица",
+    "descriptionMk": "Доживејте this 'new село' where thermal springs meet традиционални culture! Geothermal wonders and rural life create unique wellness авантураs."
   },
   {
     "id": "bansko_village",
@@ -2341,7 +2683,9 @@
     "coordinates": [
       22.62,
       41.41
-    ]
+    ],
+    "nameMk": "Банско Виллаге",
+    "descriptionMk": "Soak in this thermal spa село where healing waters bubble from древни earth! Natural wellness and планински убавина create совршени therapeutic retreats."
   },
   {
     "id": "dobrejci_village",
@@ -2353,7 +2697,9 @@
     "coordinates": [
       22.61,
       41.4
-    ]
+    ],
+    "nameMk": "Добрејци Виллаге",
+    "descriptionMk": "Истражете this 'good people' село where традиционални hospitality meets планински убавина! Authentic балкански welcome and highland vistas create memorable Доживејтеs."
   },
   {
     "id": "veljusa_monastery",
@@ -2365,7 +2711,9 @@
     "coordinates": [
       22.65,
       41.45
-    ]
+    ],
+    "nameMk": "Вељуса Монастерy",
+    "descriptionMk": "Откријте овој древен female манастир where nuns preserve средновековни traditions! свето femininity and духовно architecture create profound contemplative авантураs."
   },
   {
     "id": "eleusa_monastery",
@@ -2377,7 +2725,9 @@
     "coordinates": [
       22.64,
       41.44
-    ]
+    ],
+    "nameMk": "Елеуса Монастерy",
+    "descriptionMk": "Доживејте this 'merciful' манастир where византиски art meets планински serenity! древни compassion and artistic убавина create healing духовно journeys."
   },
   {
     "id": "memorial_house_goce_delcev",
@@ -2389,7 +2739,9 @@
     "coordinates": [
       23.39,
       41.39
-    ]
+    ],
+    "nameMk": "Мемориал Хоусе Гоце Делčев",
+    "descriptionMk": "Honor this revolutionary hero's birthplace where freedom fighters planned independence! историски significance and patriotic spirit create powerful културни Доживејтеs."
   },
   {
     "id": "kukuš_archaeological_site",
@@ -2401,7 +2753,9 @@
     "coordinates": [
       22.67,
       41.43
-    ]
+    ],
+    "nameMk": "Кукуš Арчаеологицал Сите",
+    "descriptionMk": "Откријте древни civilizations at this prehistoric settlement! Archaeological mysteries and културни layers create fascinating историски авантура Доживејтеs."
   },
   {
     "id": "carevi_kuli_fortress",
@@ -2413,7 +2767,9 @@
     "coordinates": [
       22.68,
       41.46
-    ]
+    ],
+    "nameMk": "Цареви Кули Фортресс",
+    "descriptionMk": "Storm this 'Emperor's Towers' тврдина overlooking the Strumica долина! средновековни warfare and панорамски погледи create epic историски авантураs."
   },
   {
     "id": "kolešino_springs",
@@ -2425,7 +2781,9 @@
     "coordinates": [
       22.805,
       41.365
-    ]
+    ],
+    "nameMk": "Колеšино Спрингс",
+    "descriptionMk": "Откријте these crystal планински springs feeding Македонија's tallest водопад! Pure water sources and нетакнати природа create совршени дивина refreshment."
   },
   {
     "id": "smolare_springs",
@@ -2437,7 +2795,9 @@
     "coordinates": [
       22.89,
       41.36
-    ]
+    ],
+    "nameMk": "Смоларе Спрингс",
+    "descriptionMk": "Доживејте these нетакнати планински springs where crystal waters begin their спектакуларни cascade! Source exploration and природа фотографија create совршени авантураs."
   },
   {
     "id": "banishte_ski_center",
@@ -2449,7 +2809,9 @@
     "coordinates": [
       21.24,
       41.02
-    ]
+    ],
+    "nameMk": "Баниšте Ски Центер",
+    "descriptionMk": "Carve powder on Pelister's нетакнати slopes where древни pines frame совршени runs! Winter sports and планински убавина create ultimate alpine авантураs."
   },
   {
     "id": "zare_lazarevski_hut",
@@ -2461,7 +2823,9 @@
     "coordinates": [
       21.21,
       41.01
-    ]
+    ],
+    "nameMk": "Заре Лазаревски Моунтаин Хут",
+    "descriptionMk": "Rest at this high-altitude refuge where планинскиeers gather for peak авантураs! Alpine hospitality and summit access create совршени base camp Доживејтеs."
   },
   {
     "id": "shiroka_river",
@@ -2473,7 +2837,9 @@
     "coordinates": [
       21.18,
       41.15
-    ]
+    ],
+    "nameMk": "Šирока Ривер",
+    "descriptionMk": "Follow this 'wide река' through нетакнати планински долинаs! Crystal waters and дивина camping create совршени природа escape авантураs."
   },
   {
     "id": "baba_mountain_glacial_lakes",
@@ -2485,7 +2851,9 @@
     "coordinates": [
       21.22,
       41
-    ]
+    ],
+    "nameMk": "Баба Моунтаин Глациал Лакес",
+    "descriptionMk": "Trek to these нетакнати glacial jewels nestled beneath towering peaks! Crystal планински mirrors and alpine дивина create спектакуларни high-altitude авантураs."
   },
   {
     "id": "large_lake_pelister",
@@ -2498,7 +2866,8 @@
       21.23,
       40.99
     ],
-    "nameMk": "Пелистер"
+    "nameMk": "Пелистер",
+    "descriptionMk": "Откријте овој величествен glacial езеро reflecting древни Molika pines! нетакнати alpine waters and endemic forests create совршени дивина фотографија."
   },
   {
     "id": "small_lake_pelister",
@@ -2511,7 +2880,8 @@
       21.225,
       40.985
     ],
-    "nameMk": "Пелистер"
+    "nameMk": "Пелистер",
+    "descriptionMk": "Find solitude at this intimate glacial gem where silence speaks louder than words! Peaceful waters and планински reflections create совршени meditation spots."
   },
   {
     "id": "eye_lake_pelister",
@@ -2524,7 +2894,8 @@
       21.22,
       40.98
     ],
-    "nameMk": "Пелистер"
+    "nameMk": "Пелистер",
+    "descriptionMk": "Gaze into this mystical 'eye' reflecting the soul of Baba планински! Circular совршениion and alpine убавина create transcendent natural Доживејтеs."
   },
   {
     "id": "lower_cardak_lake",
@@ -2536,7 +2907,9 @@
     "coordinates": [
       21.215,
       40.975
-    ]
+    ],
+    "nameMk": "Лоwер Čардак Лаке",
+    "descriptionMk": "Rest at this peaceful glacial езеро where планински shepherds once sheltered! традиционални highland culture and нетакнати waters create совршени културни авантураs."
   },
   {
     "id": "upper_cardak_lake",
@@ -2548,7 +2921,9 @@
     "coordinates": [
       21.21,
       40.97
-    ]
+    ],
+    "nameMk": "Уппер Čардак Лаке",
+    "descriptionMk": "Climb to this high-altitude glacial jewel where few footsteps disturb нетакнати silence! Remote убавина and challenging access reward dedicated авантураrs."
   },
   {
     "id": "monastery_zrze",
@@ -2560,7 +2935,9 @@
     "coordinates": [
       21.42,
       41.47
-    ]
+    ],
+    "nameMk": "Монастерy Зрзе",
+    "descriptionMk": "Истражете this средновековни манастир where 14th-century frescoes tell древни stories! Artistic heritage and духовно atmosphere create profound културни Доживејтеs."
   },
   {
     "id": "poeševo_village",
@@ -2572,7 +2949,9 @@
     "coordinates": [
       21.43,
       41.48
-    ]
+    ],
+    "nameMk": "Поеšево Виллаге",
+    "descriptionMk": "Доживејте this планински село where poetic убавина meets традиционални life! Highland culture and scenic landscapes create совршени overlanding poetry."
   },
   {
     "id": "vatašha_village",
@@ -2584,7 +2963,9 @@
     "coordinates": [
       21.44,
       41.49
-    ]
+    ],
+    "nameMk": "Ватаšа Виллаге",
+    "descriptionMk": "Откријте this highland settlement where древни fire traditions illuminate планински nights! културни ceremonies and драматични landscapes create mystical Доживејтеs."
   },
   {
     "id": "skočivir_village",
@@ -2596,7 +2977,9 @@
     "coordinates": [
       21.45,
       41.5
-    ]
+    ],
+    "nameMk": "Скоčивир Виллаге",
+    "descriptionMk": "Venture to this 'jumping whirlpool' село where планински streams create natural water features! Dynamic landscapes and highland culture await exploration."
   },
   {
     "id": "manastirec_village",
@@ -2608,7 +2991,9 @@
     "coordinates": [
       21.46,
       41.51
-    ]
+    ],
+    "nameMk": "Манастирец Виллаге",
+    "descriptionMk": "Истражете this 'little манастир' село where духовно heritage meets планински убавина! Religious traditions and highland vistas create совршени културни авантураs."
   },
   {
     "id": "dihovo_village",
@@ -2620,7 +3005,9 @@
     "coordinates": [
       21.34,
       41.02
-    ]
+    ],
+    "nameMk": "Дихово Виллаге",
+    "descriptionMk": "Доживејте this традиционални Vlach село where древни pastoral culture survives! Highland shepherding and планински architecture create authentic културни immersion."
   },
   {
     "id": "magarevo_village",
@@ -2632,7 +3019,9 @@
     "coordinates": [
       21.35,
       41.03
-    ]
+    ],
+    "nameMk": "Магарево Виллаге",
+    "descriptionMk": "Откријте this highland село where традиционални планински transport meets modern авантураs! Pack animal heritage and scenic trails create unique trekking Доживејтеs."
   },
   {
     "id": "trnovo_village_bitola",
@@ -2645,7 +3034,8 @@
       21.36,
       41.04
     ],
-    "nameMk": "Битола"
+    "nameMk": "Битола",
+    "descriptionMk": "Истражете this 'thorny' село where resilient планински culture thrives! Hardy traditions and драматични landscapes create совршени highland авантураs."
   },
   {
     "id": "bukovo_village",
@@ -2657,7 +3047,9 @@
     "coordinates": [
       21.37,
       41.05
-    ]
+    ],
+    "nameMk": "Буково Виллаге",
+    "descriptionMk": "Доживејте this 'beech forest' село where древни trees meet традиционални architecture! Forest culture and планински убавина create совршени природа авантураs."
   },
   {
     "id": "rotino_village",
@@ -2669,7 +3061,9 @@
     "coordinates": [
       21.38,
       41.06
-    ]
+    ],
+    "nameMk": "Ротино Виллаге",
+    "descriptionMk": "Venture to ова оддалечено highland settlement where традиционални life rotates with планински seasons! Pastoral cycles and authentic culture create timeless Доживејтеs."
   },
   {
     "id": "capeljsko_village",
@@ -2681,7 +3075,9 @@
     "coordinates": [
       21.39,
       41.07
-    ]
+    ],
+    "nameMk": "Čапељско Виллаге",
+    "descriptionMk": "Откријте this highland село where chapel traditions meet планински majesty! духовно heritage and драматични landscapes create совршени pilgrimage авантураs."
   },
   {
     "id": "brajčino_village",
@@ -2693,7 +3089,9 @@
     "coordinates": [
       21.08,
       40.96
-    ]
+    ],
+    "nameMk": "Брајčино Виллаге",
+    "descriptionMk": "Доживејте this традиционални планински село where Vlach culture preserves древни traditions! Highland heritage and scenic убавина create authentic културни авантураs."
   },
   {
     "id": "ljubojno_monastery",
@@ -2705,7 +3103,9 @@
     "coordinates": [
       21.13,
       40.89
-    ]
+    ],
+    "nameMk": "Љубојно Монастерy",
+    "descriptionMk": "Посетете this планински манастир where love and devotion meet духовно architecture! свето spaces and highland peace create profound contemplative Доживејтеs."
   },
   {
     "id": "asamati_village",
@@ -2717,7 +3117,9 @@
     "coordinates": [
       21.12,
       40.88
-    ]
+    ],
+    "nameMk": "Асамати Виллаге",
+    "descriptionMk": "Истражете this border село where традиционални Greek culture meets Македонијаn планинскиs! Cross-културни Доживејтеs and highland убавина create unique авантураs."
   },
   {
     "id": "gevgelija_spa",
@@ -2730,7 +3132,8 @@
       22.5,
       41.14
     ],
-    "nameMk": "Гевгелија"
+    "nameMk": "Гевгелија",
+    "descriptionMk": "Relax at this premier thermal spa destination where healing waters meet luxury wellness! Modern facilities and древни mineral springs create совршени therapeutic retreats."
   },
   {
     "id": "kurbinovo_church",
@@ -2742,7 +3145,9 @@
     "coordinates": [
       20.9,
       40.95
-    ]
+    ],
+    "nameMk": "Чурч оф Ст. Георге Курбиново",
+    "descriptionMk": "Восхитете се на this 12th-century masterpiece adorned with византиски frescoes! средновековни artistry and езероside serenity create profound духовно авантураs."
   },
   {
     "id": "lazaropole_waterfall",
@@ -2754,7 +3159,9 @@
     "coordinates": [
       20.645,
       41.58
-    ]
+    ],
+    "nameMk": "Лазарополе Wатерфалл",
+    "descriptionMk": "Chase ова скриено cascade tumbling through нетакнати Bistra forests! Crystal waters and планински дивина create совршени фотографија авантураs."
   },
   {
     "id": "radika_river",
@@ -2766,7 +3173,9 @@
     "coordinates": [
       20.7,
       41.65
-    ]
+    ],
+    "nameMk": "Радика Ривер",
+    "descriptionMk": "Navigate this нетакнати планински река flowing through Mavrovo дивина! White-water rafting and trout fishing create совршени aquatic авантураs."
   },
   {
     "id": "shar_planina_glacial_lakes",
@@ -2778,7 +3187,9 @@
     "coordinates": [
       20.85,
       42
-    ]
+    ],
+    "nameMk": "Šар Планина Глациал Лакес",
+    "descriptionMk": "Trek to these нетакнати alpine gems scattered across high планински plateaus! Crystal mirrors and endemic flowers create спектакуларни high-altitude авантураs."
   },
   {
     "id": "kale_krstoar",
@@ -2790,7 +3201,9 @@
     "coordinates": [
       21.6,
       41.8
-    ]
+    ],
+    "nameMk": "Кале Крстоар Фортресс",
+    "descriptionMk": "Storm this средновековни stronghold perched on драматични cliffs! древни battlements and долина погледи create epic историски авантураs."
   },
   {
     "id": "gradsko_archaeological_site",
@@ -2802,7 +3215,9 @@
     "coordinates": [
       21.95,
       41.58
-    ]
+    ],
+    "nameMk": "Градско Арчаеологицал Сите",
+    "descriptionMk": "Истражете древни Stobi's sister city where Roman engineering meets Vardar убавина! Archaeological treasures and река погледи create историски авантураs."
   },
   {
     "id": "kavadarci_wine_cellars",
@@ -2815,7 +3230,8 @@
       22.01,
       41.43
     ],
-    "nameMk": "Кавадарци"
+    "nameMk": "Кавадарци",
+    "descriptionMk": "Descend into legendary underground cellars where premium wines age in darkness! Vitiкултурни heritage and tasting авантураs await wine Истражетеrs."
   },
   {
     "id": "markova_noga",
@@ -2827,7 +3243,9 @@
     "coordinates": [
       21.6,
       41.3
-    ]
+    ],
+    "nameMk": "Маркова Нога Пеак",
+    "descriptionMk": "Climb this 'Marko's Leg' summit where legendary king left his footprint! Mythical tales and планински погледи create epic folklore авантураs."
   },
   {
     "id": "demir_hisar",
@@ -2840,7 +3258,8 @@
       21.2,
       41.22
     ],
-    "nameMk": "Демир Хисар"
+    "nameMk": "Демир Хисар",
+    "descriptionMk": "Откријте this 'Iron тврдина' town where mining heritage meets планински убавина! Industrial archaeology and highland vistas create unique авантураs."
   },
   {
     "id": "slepce_spa",
@@ -2852,7 +3271,9 @@
     "coordinates": [
       22.25,
       41.4
-    ]
+    ],
+    "nameMk": "Слепčе Спа",
+    "descriptionMk": "Soak in therapeutic thermal waters bubbling from древни volcanic earth! Natural healing and планински tranquility create совршени wellness retreats."
   },
   {
     "id": "tikvesh_archaeological_site",
@@ -2864,7 +3285,9 @@
     "coordinates": [
       22.05,
       41.42
-    ]
+    ],
+    "nameMk": "Тиквеш Арчаеологицал Цомплеx",
+    "descriptionMk": "Откријте древни settlements where wine-making traditions began millennia ago! Archaeological mysteries and vitiкултурни heritage create fascinating explorations."
   },
   {
     "id": "kozjak_dam",
@@ -2876,7 +3299,9 @@
     "coordinates": [
       21.35,
       41.9
-    ]
+    ],
+    "nameMk": "Козјак Дам",
+    "descriptionMk": "Navigate this engineering marvel creating нетакнати recreational waters! Boating, fishing, and езероside camping create совршени water sport авантураs."
   },
   {
     "id": "vardarski_rid",
@@ -2888,7 +3313,9 @@
     "coordinates": [
       21.85,
       41.6
-    ]
+    ],
+    "nameMk": "Вардарски Рид",
+    "descriptionMk": "Истражете овој древен settlement where Neolithic people first farmed балкански soil! Archaeological significance and река погледи create profound историски авантураs."
   },
   {
     "id": "pelagonia_plain",
@@ -2900,7 +3327,9 @@
     "coordinates": [
       21.4,
       41.2
-    ]
+    ],
+    "nameMk": "Пелагониа Плаин",
+    "descriptionMk": "Journey across Македонија's breadbasket where golden wheat meets endless horizons! Agriкултурни landscapes and rural culture create совршени overlanding авантураs."
   },
   {
     "id": "ovce_pole",
@@ -2912,7 +3341,9 @@
     "coordinates": [
       22,
       41.8
-    ]
+    ],
+    "nameMk": "Овčе Поле",
+    "descriptionMk": "Traverse this 'Sheep Field' where pastoral traditions meet modern agriculture! Rolling plains and shepherd culture create authentic rural авантураs."
   },
   {
     "id": "skopska_kotlina",
@@ -2924,7 +3355,9 @@
     "coordinates": [
       21.4,
       42
-    ]
+    ],
+    "nameMk": "Скопска Котлина",
+    "descriptionMk": "Истражете the capital's река долина where urban civilization meets natural убавина! City escapes and recreational trails create совршени metropolitan авантураs."
   },
   {
     "id": "lakeside_springs_ohrid",
@@ -2937,7 +3370,8 @@
       20.81,
       41.1
     ],
-    "nameMk": "Охрид"
+    "nameMk": "Охрид",
+    "descriptionMk": "Откријте hidden springs bubbling directly into езеро Ohrid's crystal waters! Underwater mysteries and нетакнати sources create magical aquatic авантураs."
   },
   {
     "id": "monastery_kalishta",
@@ -2949,7 +3383,9 @@
     "coordinates": [
       20.745,
       41.085
-    ]
+    ],
+    "nameMk": "Монастерy Калиšта",
+    "descriptionMk": "Trek to ова оддалечено езероside манастир accessible only by планински paths! духовно isolation and нетакнати убавина create profound pilgrimage авантураs."
   },
   {
     "id": "duvalo_village",
@@ -2961,7 +3397,9 @@
     "coordinates": [
       21.58,
       41.35
-    ]
+    ],
+    "nameMk": "Дувало Виллаге",
+    "descriptionMk": "Доживејте this традиционални tobacco село where golden leaves meet планински air! Agriкултурни heritage and highland убавина create authentic rural авантураs."
   },
   {
     "id": "krklino_village",
@@ -2973,7 +3411,9 @@
     "coordinates": [
       21.15,
       41.28
-    ]
+    ],
+    "nameMk": "Крклино Виллаге",
+    "descriptionMk": "Откријте this highland settlement where камен architecture meets нетакнати дивина! традиционални building and планински vistas create совршени overlanding stops."
   },
   {
     "id": "chanishte_village",
@@ -2985,7 +3425,9 @@
     "coordinates": [
       21.69,
       41.17
-    ]
+    ],
+    "nameMk": "Čаниšте Виллаге",
+    "descriptionMk": "Venture to ова оддалечено планински село where древни customs survive in нетакнати isolation! традиционални culture and драматични landscapes await exploration."
   },
   {
     "id": "bitovo_village",
@@ -2997,7 +3439,9 @@
     "coordinates": [
       21.12,
       41.09
-    ]
+    ],
+    "nameMk": "Битово Виллаге",
+    "descriptionMk": "Истражете this highland settlement where shepherd traditions meet планински majesty! Pastoral life and scenic убавина create совршени културни авантураs."
   },
   {
     "id": "drmeni_village",
@@ -3009,7 +3453,9 @@
     "coordinates": [
       21.08,
       41.08
-    ]
+    ],
+    "nameMk": "Дрмени Виллаге",
+    "descriptionMk": "Доживејте this border село where традиционални architecture meets нетакнати природа! Highland culture and драматични vistas create memorable overlanding авантураs."
   },
   {
     "id": "gopes_village",
@@ -3021,7 +3467,9 @@
     "coordinates": [
       21.05,
       41.07
-    ]
+    ],
+    "nameMk": "Гопес Виллаге",
+    "descriptionMk": "Откријте this планински settlement where древни traditions flourish amid нетакнати дивина! Highland culture and natural убавина create совршени exploration opportunities."
   },
   {
     "id": "ramne_village",
@@ -3033,7 +3481,9 @@
     "coordinates": [
       21.02,
       41.06
-    ]
+    ],
+    "nameMk": "Рамне Виллаге",
+    "descriptionMk": "Venture to this plateau село where level ground meets планински drama! Highland agriculture and scenic погледи create unique geographical авантураs."
   },
   {
     "id": "kondovo_village",
@@ -3045,7 +3495,9 @@
     "coordinates": [
       21.38,
       41.95
-    ]
+    ],
+    "nameMk": "Кондово Виллаге",
+    "descriptionMk": "Доживејте this традиционални село where древни customs meet modern overlanding! културни heritage and планински access create совршени авантура combinations."
   },
   {
     "id": "lisiče_village",
@@ -3057,7 +3509,9 @@
     "coordinates": [
       21.35,
       41.92
-    ]
+    ],
+    "nameMk": "Лисиčе Виллаге",
+    "descriptionMk": "Истражете this 'fox' село where cunning wildlife meets highland убавина! Natural encounters and планински landscapes create совршени дивина авантураs."
   },
   {
     "id": "volkovo_village",
@@ -3069,7 +3523,9 @@
     "coordinates": [
       21.32,
       41.9
-    ]
+    ],
+    "nameMk": "Волково Виллаге",
+    "descriptionMk": "Откријте this highland settlement where wolf legends echo through планински долинаs! Wild heritage and нетакнати природа create thrilling авантура Доживејтеs."
   },
   {
     "id": "горно_соње_village",
@@ -3081,7 +3537,9 @@
     "coordinates": [
       21.29,
       41.88
-    ]
+    ],
+    "nameMk": "Горно Соње Виллаге",
+    "descriptionMk": "Trek to this upper планински село where dreamlike убавина meets highland reality! Scenic splendor and традиционални life create совршени overlanding poetry."
   },
   {
     "id": "dolno_sonje_village",
@@ -3093,7 +3551,9 @@
     "coordinates": [
       21.26,
       41.86
-    ]
+    ],
+    "nameMk": "Долно Соње Виллаге",
+    "descriptionMk": "Доживејте this lower highland settlement where планински streams meet традиционални architecture! долина culture and scenic убавина create memorable авантураs."
   },
   {
     "id": "gorno_orizari_village",
@@ -3105,7 +3565,9 @@
     "coordinates": [
       21.23,
       41.84
-    ]
+    ],
+    "nameMk": "Горно Оризари Виллаге",
+    "descriptionMk": "Venture to this upper rice село where планински agriculture meets нетакнати streams! Highland farming and natural убавина create unique културни авантураs."
   },
   {
     "id": "dolno_orizari_village",
@@ -3117,7 +3579,9 @@
     "coordinates": [
       21.2,
       41.82
-    ]
+    ],
+    "nameMk": "Долно Оризари Виллаге",
+    "descriptionMk": "Истражете this lower agriкултурни settlement where традиционални farming meets планински убавина! Rural heritage and scenic landscapes create совршени overlanding stops."
   },
   {
     "id": "saraj_village",
@@ -3129,7 +3593,9 @@
     "coordinates": [
       21.3,
       42.02
-    ]
+    ],
+    "nameMk": "Сарај Виллаге",
+    "descriptionMk": "Доживејте this 'palace' село where royal memories meet highland majesty! историски significance and планински убавина create regal авантура Доживејтеs."
   },
   {
     "id": "studenichani_village",
@@ -3141,7 +3607,9 @@
     "coordinates": [
       21.28,
       42
-    ]
+    ],
+    "nameMk": "Студениčани Виллаге",
+    "descriptionMk": "Откријте this 'cold springs' село where планински waters meet традиционални culture! Natural refreshment and highland life create совршени дивина stops."
   },
   {
     "id": "brazda_village",
@@ -3153,7 +3621,9 @@
     "coordinates": [
       21.25,
       41.98
-    ]
+    ],
+    "nameMk": "Бразда Виллаге",
+    "descriptionMk": "Venture to this 'furrow' село where agriкултурни traditions meet планински landscapes! Farming heritage and scenic убавина create authentic rural авантураs."
   },
   {
     "id": "gorno_lisiche_village",
@@ -3165,7 +3635,9 @@
     "coordinates": [
       21.22,
       41.96
-    ]
+    ],
+    "nameMk": "Горно Лисиче Виллаге",
+    "descriptionMk": "Trek to this upper 'fox' settlement where wildlife encounters meet highland убавина! Natural авантураs and планински vistas create совршени overlanding Доживејтеs."
   },
   {
     "id": "dolno_lisiche_village",
@@ -3177,7 +3649,9 @@
     "coordinates": [
       21.19,
       41.94
-    ]
+    ],
+    "nameMk": "Долно Лисиче Виллаге",
+    "descriptionMk": "Истражете this lower highland settlement where cunning природа meets традиционални culture! Wildlife watching and планински убавина create memorable авантураs."
   },
   {
     "id": "zlokuchani_village",
@@ -3189,6 +3663,8 @@
     "coordinates": [
       21.16,
       41.92
-    ]
+    ],
+    "nameMk": "Злокуčани Виллаге",
+    "descriptionMk": "Доживејте this планински село where драматични landscapes meet resilient highland culture! Rugged убавина and традиционални life create powerful авантура stories."
   }
 ]
