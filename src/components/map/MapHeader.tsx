@@ -1,4 +1,5 @@
 import { useLanguage } from '@/i18n/LanguageContext';
+import { LOCATION_TYPES } from '@/constants/locationTypes';
 import type { Location } from '@/types/location';
 
 interface MapHeaderProps {
@@ -30,8 +31,17 @@ const MapHeader = ({ filteredLocations, visibleTypes, availableTypes }: MapHeade
         {availableTypes.map(type => {
           const count = filteredLocations.filter(l => l.type === type).length;
           if (!visibleTypes.has(type) || count === 0) return null;
+          const config = LOCATION_TYPES[type];
+          const color = config?.color || '#60a5fa';
           return (
-            <span key={type} className="badge-pill">
+            <span
+              key={type}
+              className="badge-pill inline-flex items-center gap-1.5"
+            >
+              <span
+                className="inline-block w-2.5 h-2.5 rounded-full shrink-0"
+                style={{ backgroundColor: color }}
+              />
               {count} {typeLabels[type] || type}
             </span>
           );
