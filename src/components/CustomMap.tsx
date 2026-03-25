@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import locations from '@/data/locations.json';
 import { LocationTooltip } from './LocationTooltip';
-import macedoniaMap from '@/assets/macedonia-focused-map.jpg';
+import macedoniaMap from '@/assets/macedonia-map-modern.jpg';
 import { LOCATION_TYPES, DEFAULT_VISIBLE_TYPES } from '@/constants/locationTypes';
 import { useMapInteractions } from '@/hooks/useMapInteractions';
 import MapHeader from './map/MapHeader';
