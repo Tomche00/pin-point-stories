@@ -2,9 +2,9 @@
   {
     "id": "zovichki_bridge_movie_bridge",
     "name": "Zovichki bridge / Movie Bridge",
-    "nameMk": "Зовички мост / Филмски мост",
-    "description": "Cross this legendary cinematic bridge where Hollywood meets Balkan beauty! This dramatic stone arch spans pristine waters, offering perfect photo ops and a taste of movie magic in the heart of Macedonia's wilderness.",
-    "descriptionMk": "Посетете го Зовички мост / Филмски мост, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "monument",
     "latitude": 41.1187657,
     "longitude": 21.7171465,
@@ -16,10 +16,10 @@
   {
     "id": "holy_transfiguration",
     "name": "Holy Transfiguration",
-    "nameMk": "Свето Преображение",
-    "description": "Discover ancient spiritual power at this magnificent Orthodox sanctuary! Perched dramatically against mountain slopes, this sacred site offers breathtaking architecture and panoramic valley views that will leave you speechless.",
-    "descriptionMk": "Свето Преображение е историски споменик што привлекува посетители со својата архитектура и културно значење.",
-    "type": "monastery",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "monument",
     "latitude": 41.5215773,
     "longitude": 21.3416941,
     "coordinates": [
@@ -44,10 +44,10 @@
   {
     "id": "gabrovo_waterfalls",
     "name": "Gabrovo Waterfalls",
-    "nameMk": "Габровски Водопади",
-    "description": "Plunge into nature's thunderous spectacle! These cascading giants crash down rocky cliffs into crystal pools, creating the perfect wild swimming and photography paradise for adventurous souls.",
-    "descriptionMk": "Габровски Водопади е природно богатство на Македонија, совршено место за љубителите на природата и авантурата.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.3755924,
     "longitude": 22.7889993,
     "coordinates": [
@@ -58,9 +58,9 @@
   {
     "id": "malovishte",
     "name": "Malovishte",
-    "nameMk": "Маловиште",
-    "description": "Step back in time in this authentic mountain village! Stone houses dot dramatic hillsides where shepherds still roam, offering genuine cultural immersion and spectacular highland vistas.",
-    "descriptionMk": "Посетете го Маловиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
@@ -72,9 +72,9 @@
   {
     "id": "zovich",
     "name": "Zovich",
-    "nameMk": "Зовиќ",
-    "description": "Experience raw Balkan village life in this remote mountain settlement! Ancient traditions survive amid pristine wilderness, perfect for cultural photography and authentic local encounters.",
-    "descriptionMk": "Зовиќ е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
@@ -86,10 +86,10 @@
   {
     "id": "monastery_saint_ana",
     "name": "Monastery „Saint Ana“",
-    "nameMk": "Манастир Света Ана",
-    "description": "Uncover medieval mysteries at this hidden spiritual fortress! Tucked into dramatic mountainsides, this ancient monastery offers profound tranquility and stunning Byzantine architecture.",
-    "descriptionMk": "Посетете го Манастир Света Ана, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат.",
-    "type": "monastery",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "monument",
     "latitude": 41.0283542,
     "longitude": 21.1144679,
     "coordinates": [
@@ -100,9 +100,9 @@
   {
     "id": "shlegovo",
     "name": "Shlegovo",
-    "nameMk": "Шлегово",
-    "description": "Explore this mining heritage town nestled in rugged hills! Industrial history meets natural beauty, offering unique photography opportunities and insights into Macedonia's working past.",
-    "descriptionMk": "Посетете го Шлегово, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 42.0655501,
     "longitude": 22.1616508,
@@ -114,9 +114,9 @@
   {
     "id": "papradiste",
     "name": "Papradiste",
-    "nameMk": "Папрадиште",
-    "description": "Discover this charming highland village where mountain streams meet ancient architecture! Traditional stone houses and dramatic valley views create perfect overlanding photo opportunities.",
-    "descriptionMk": "Посетете го Папрадиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6416537,
     "longitude": 21.4387676,
@@ -128,10 +128,10 @@
   {
     "id": "st_gjorgjija_monastery",
     "name": "St. Gjorgjija Monastery",
-    "nameMk": "Ст. Ѓорѓија Монастерy",
-    "description": "Enter this sacred mountain sanctuary where medieval monks once sought enlightenment! Perched on dramatic cliffs, this monastery offers breathtaking spiritual architecture and valley panoramas.",
-    "descriptionMk": "Посетете го Ст. Ѓорѓија Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат.",
-    "type": "monastery",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "monument",
     "latitude": 41.6348083,
     "longitude": 21.4027214,
     "coordinates": [
@@ -142,10 +142,10 @@
   {
     "id": "oreshe_waterfall",
     "name": "Oreshe Waterfall",
-    "nameMk": "Ореше Wатерфалл",
-    "description": "Chase the thunder of cascading mountain waters! This spectacular waterfall plunges into emerald pools, creating a natural adventure playground perfect for wild swimming and photography.",
-    "descriptionMk": "Откријте ја дивата убавина на Ореше Wатерфалл, каде природата создала неверојатни пејзажи.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.6359698,
     "longitude": 21.3905499,
     "coordinates": [
@@ -156,9 +156,9 @@
   {
     "id": "oreshe",
     "name": "Oreshe",
-    "nameMk": "Ореше",
-    "description": "Experience authentic highland life in this remote mountain village! Ancient stone architecture and shepherding traditions survive amid dramatic peaks and pristine wilderness.",
-    "descriptionMk": "Посетете го Ореше, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6196632,
     "longitude": 21.4201362,
@@ -173,7 +173,7 @@
     "nameMk": "Ribnik Kapinovово & Nezilovski Merak Meana s.Nezilovo",
     "description": "",
     "descriptionMk": "",
-    "type": "restaurant",
+    "type": "restaurants",
     "latitude": 41.6288738,
     "longitude": 21.4552288,
     "coordinates": [
@@ -184,10 +184,10 @@
   {
     "id": "markovo_stapalo",
     "name": "Марково стапало",
-    "nameMk": "Марко'с Фоотпринт",
-    "description": "Stand where legendary King Marko left his mark! This mythical rock formation offers dramatic mountain views and fascinating folklore, perfect for adventurous explorers seeking epic stories.",
-    "descriptionMk": "Откријте ја убавината на Марко'с Фоотпринт, историски споменик кој сведочи за богатото минато на овој крај.",
-    "type": "hiking",
+    "nameMk": "Марково стапало",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.640668,
     "longitude": 21.4461963,
     "coordinates": [
@@ -201,7 +201,7 @@
     "nameMk": "Манастир „Свети Петар и Павле“",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.6312313,
     "longitude": 21.510399,
     "coordinates": [
@@ -212,10 +212,10 @@
   {
     "id": "konjsko",
     "name": "Konjsko",
-    "nameMk": "Коњско",
-    "description": "Experience border village life where three cultures meet! This remote settlement offers authentic Balkan hospitality and stunning mountain vistas near the Albanian frontier.",
-    "descriptionMk": "Коњско е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "recreation",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "city",
     "latitude": 40.9118299,
     "longitude": 20.9882922,
     "coordinates": [
@@ -226,9 +226,9 @@
   {
     "id": "ljubojno",
     "name": "Ljubojno",
-    "nameMk": "Љубојно",
-    "description": "Venture to this highland village where ancient traditions thrive! Stone houses and pastoral landscapes create perfect overlanding adventures amid Macedonia's pristine mountains.",
-    "descriptionMk": "Љубојно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 40.8945369,
     "longitude": 21.1376967,
@@ -240,9 +240,9 @@
   {
     "id": "rusjatsi",
     "name": "Rusjatsi",
-    "nameMk": "Русјатси",
-    "description": "Discover this hidden mountain village where time stands still! Traditional architecture and shepherding culture offer authentic cultural immersion in dramatic highland settings.",
-    "descriptionMk": "Русјатси е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.4999893,
     "longitude": 21.1514826,
@@ -254,9 +254,9 @@
   {
     "id": "zheleznets",
     "name": "Zheleznets",
-    "nameMk": "Железнетс",
-    "description": "Explore this iron-rich mountain village where mining heritage meets natural beauty! Dramatic landscapes and industrial history create unique photography opportunities.",
-    "descriptionMk": "Железнетс е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.3257034,
     "longitude": 21.062993,
@@ -268,9 +268,9 @@
   {
     "id": "knezhino",
     "name": "Knezhino",
-    "nameMk": "Кнежино",
-    "description": "Experience royal village history in this picturesque highland settlement! Ancient nobility once ruled from these dramatic mountain slopes offering spectacular valley views.",
-    "descriptionMk": "Кнежино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.5215996,
     "longitude": 20.9160162,
@@ -282,9 +282,9 @@
   {
     "id": "skrebatno",
     "name": "Skrebatno",
-    "nameMk": "Скребатно",
-    "description": "Venture to this remote mountain village where eagles soar overhead! Traditional stone architecture and pristine wilderness create perfect overlanding adventures.",
-    "descriptionMk": "Скребатно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1522564,
     "longitude": 20.8914281,
@@ -296,9 +296,9 @@
   {
     "id": "rosoki",
     "name": "Rosoki",
-    "nameMk": "Росоки",
-    "description": "Discover this highland village famous for its pristine natural springs! Crystal-clear mountain waters and traditional architecture make this a perfect wilderness stop.",
-    "descriptionMk": "Росоки е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.566465,
     "longitude": 20.6939945,
@@ -310,10 +310,10 @@
   {
     "id": "rosoki_springs",
     "name": "Rosoki Springs",
-    "nameMk": "Росоки Спрингс",
-    "description": "Refresh at these legendary mountain springs where crystal waters bubble from ancient rocks! Perfect for wild camping and experiencing Macedonia's purest natural refreshment.",
-    "descriptionMk": "Откријте ја дивата убавина на Росоки Спрингс, каде природата создала неверојатни пејзажи.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "lakes & rivers",
     "latitude": 41.5687791,
     "longitude": 20.692748,
     "coordinates": [
@@ -324,9 +324,9 @@
   {
     "id": "krushevica",
     "name": "Krushevica",
-    "nameMk": "Крушевица",
-    "description": "Explore this authentic mountain village where pear orchards meet pristine wilderness! Traditional rural life and dramatic landscapes offer perfect cultural adventures.",
-    "descriptionMk": "Крушевица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.205838,
     "longitude": 21.6526577,
@@ -338,9 +338,9 @@
   {
     "id": "vitolishte",
     "name": "Vitolishte",
-    "nameMk": "Витолиште",
-    "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
-    "descriptionMk": "Посетете го Витолиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1812657,
     "longitude": 21.8255581,
@@ -352,9 +352,9 @@
   {
     "id": "caniste",
     "name": "Čanište",
-    "nameMk": "Čаниšте",
-    "description": "Discover this charming mountain village where traditional crafts flourish! Stone architecture and highland pastoral life create authentic Balkan cultural experiences.",
-    "descriptionMk": "Čаниšте е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1657837,
     "longitude": 21.6854494,
@@ -366,9 +366,9 @@
   {
     "id": "petralitsa",
     "name": "Petralitsa",
-    "nameMk": "Петралитса",
-    "description": "Venture to this remote highland village where stone architecture meets pristine nature! Ancient building traditions and dramatic mountain vistas create perfect photo opportunities.",
-    "descriptionMk": "Посетете го Петралитса, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 42.211824,
     "longitude": 22.1802799,
@@ -380,10 +380,10 @@
   {
     "id": "koleshino_waterfall",
     "name": "Koleshino Waterfall",
-    "nameMk": "Колешински Водопад",
-    "description": "Witness Macedonia's tallest waterfall thunder down 60 meters of sheer rock! This spectacular cascade creates rainbow mists and offers world-class nature photography opportunities.",
-    "descriptionMk": "Колешински Водопад е природно богатство на Македонија, совршено место за љубителите на природата и авантурата.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.3695082,
     "longitude": 22.8068927,
     "coordinates": [
@@ -394,10 +394,10 @@
   {
     "id": "smolare_waterfall",
     "name": "Smolare Waterfall",
-    "nameMk": "Смоларски Водопад",
-    "description": "Experience the raw power of Macedonia's highest waterfall! At 39 meters, this thundering cascade offers spectacular hiking trails and pristine swimming pools for brave adventurers.",
-    "descriptionMk": "Уживајте во природните убавини на Смоларски Водопад. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.3662782,
     "longitude": 22.8996196,
     "coordinates": [
@@ -408,9 +408,9 @@
   {
     "id": "blatec",
     "name": "Blatec",
-    "nameMk": "Блатец",
-    "description": "Explore this mountain village gateway to pristine lake adventures! Traditional highland life meets spectacular natural beauty in Macedonia's most scenic region.",
-    "descriptionMk": "Посетете го Блатец, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.8385763,
     "longitude": 22.5778948,
@@ -422,10 +422,10 @@
   {
     "id": "blatec_lake",
     "name": "Blatec Lake",
-    "nameMk": "Блатец Лаке",
-    "description": "Discover this pristine glacial lake nestled in dramatic mountain peaks! Crystal waters reflect snow-capped summits, creating perfect wild camping and fishing paradise.",
-    "descriptionMk": "Откријте ја дивата убавина на Блатец Лаке, каде природата создала неверојатни пејзажи.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "lakes & rivers",
     "latitude": 41.8389149,
     "longitude": 22.5946481,
     "coordinates": [
@@ -436,9 +436,9 @@
   {
     "id": "sermenin",
     "name": "Sermenin",
-    "nameMk": "Серменин",
-    "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
-    "descriptionMk": "Посетете го Серменин, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.2200456,
     "longitude": 22.3471886,
@@ -453,7 +453,7 @@
     "nameMk": "Водопад Вера (Waterfall Vera)",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.217188,
     "longitude": 22.347312,
     "coordinates": [
@@ -464,9 +464,9 @@
   {
     "id": "smrdliva_voda",
     "name": "Smrdliva Voda",
-    "nameMk": "Смрдлива Вода",
-    "description": "Experience therapeutic mineral springs bubbling from ancient earth! These legendary healing waters have attracted adventurers for centuries, offering unique geological wonders.",
-    "descriptionMk": "Смрдлива Вода е природно богатство на Македонија, совршено место за љубителите на природата и авантурата.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.192718,
     "longitude": 22.2816193,
@@ -478,9 +478,9 @@
   {
     "id": "teovo",
     "name": "Teovo",
-    "nameMk": "Теово",
-    "description": "Explore this multi-cultural mountain town where Albanian and Macedonian traditions blend! Dramatic landscapes and authentic cultural encounters await adventurous overlanders.",
-    "descriptionMk": "Теово е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.5784655,
     "longitude": 21.5729144,
@@ -492,9 +492,9 @@
   {
     "id": "bitushe",
     "name": "Bitushe",
-    "nameMk": "Битуше",
-    "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
-    "descriptionMk": "Битуше е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6165295,
     "longitude": 20.5878404,
@@ -506,9 +506,9 @@
   {
     "id": "trebishte",
     "name": "Trebishte",
-    "nameMk": "Требиште",
-    "description": "Discover ancient archaeological treasures in this border village! Bronze Age artifacts and dramatic lake views offer unique cultural and natural adventures.",
-    "descriptionMk": "Посетете го Требиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6282128,
     "longitude": 20.5893302,
@@ -520,9 +520,9 @@
   {
     "id": "belitsa",
     "name": "Belitsa",
-    "nameMk": "Белитса",
-    "description": "Experience highland village life where pastoral traditions thrive! Mountain meadows and ancient stone architecture create perfect cultural immersion opportunities.",
-    "descriptionMk": "Белитса е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6768835,
     "longitude": 21.3049963,
@@ -534,9 +534,9 @@
   {
     "id": "vishni",
     "name": "Vishni",
-    "nameMk": "Вишни",
-    "description": "Explore this cherry orchard village nestled in dramatic mountains! Traditional fruit cultivation and stunning highland vistas offer authentic rural adventures.",
-    "descriptionMk": "Вишни е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1931228,
     "longitude": 20.5982691,
@@ -548,9 +548,9 @@
   {
     "id": "gorna_belica",
     "name": "Gorna Belica",
-    "nameMk": "Горна Белица",
-    "description": "Venture to this upper highland village where shepherding traditions survive! Mountain pastures and traditional architecture create perfect overlanding cultural stops.",
-    "descriptionMk": "Горна Белица е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.223316,
     "longitude": 20.55581,
@@ -565,7 +565,7 @@
     "nameMk": "Вевчанска Локва",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.2432388,
     "longitude": 20.5333121,
     "coordinates": [
@@ -576,9 +576,9 @@
   {
     "id": "babino",
     "name": "Babino",
-    "nameMk": "Бабино",
-    "description": "Experience traditional mountain village life where ancient customs thrive! Stone houses and dramatic valley views offer authentic Balkan cultural adventures.",
-    "descriptionMk": "Посетете го Бабино, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.2990659,
     "longitude": 21.0806907,
@@ -590,9 +590,9 @@
   {
     "id": "bazernik",
     "name": "Bazernik",
-    "nameMk": "Базерник",
-    "description": "Explore this hidden mountain village where traditional crafts flourish! Ancient building techniques and pristine wilderness create perfect cultural photography opportunities.",
-    "descriptionMk": "Базерник е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.2820967,
     "longitude": 21.0477173,
@@ -604,9 +604,9 @@
   {
     "id": "zbazhdi",
     "name": "Zbazhdi",
-    "nameMk": "Збажди",
-    "description": "Venture to this remote highland settlement where eagle migrations pass overhead! Dramatic mountain vistas and traditional architecture offer spectacular overlanding adventures.",
-    "descriptionMk": "Посетете го Збажди, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.348894,
     "longitude": 20.6727629,
@@ -618,9 +618,9 @@
   {
     "id": "globochica",
     "name": "Globochica",
-    "nameMk": "Глобоčица",
-    "description": "Discover this picturesque village where hawthorn forests meet mountain streams! Traditional rural life and pristine nature create perfect wilderness camping spots.",
-    "descriptionMk": "Глобоčица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.3169734,
     "longitude": 20.6425923,
@@ -632,9 +632,9 @@
   {
     "id": "tashmarunishta",
     "name": "Tashmarunishta",
-    "nameMk": "Таšмаруниšта",
-    "description": "Explore this border village where three cultures converge! Traditional architecture and dramatic mountain backdrops create unique overlanding photo opportunities.",
-    "descriptionMk": "Посетете го Таšмаруниšта, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.2680714,
     "longitude": 20.6403575,
@@ -646,9 +646,9 @@
   {
     "id": "capari",
     "name": "Capari",
-    "nameMk": "Čапари",
-    "description": "Experience this lakeside village where pristine waters meet ancient traditions! Perfect for wild camping and experiencing authentic Balkan fishing culture.",
-    "descriptionMk": "Čапари е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.0570097,
     "longitude": 21.177937,
@@ -660,10 +660,10 @@
   {
     "id": "capari_vir",
     "name": "Capari Vir",
-    "nameMk": "Čапари Wхирлпоол",
-    "description": "Witness this natural phenomenon where underground springs create dramatic water spirals! This geological wonder offers unique photography and swimming adventures.",
-    "descriptionMk": "Уживајте во природните убавини на Čапари Wхирлпоол. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "lakes & rivers",
     "latitude": 41.0524657,
     "longitude": 21.1790111,
     "coordinates": [
@@ -674,9 +674,9 @@
   {
     "id": "belovishte",
     "name": "Belovishte",
-    "nameMk": "Беловиšте",
-    "description": "Discover this mountain village gateway to spectacular waterfalls! Traditional stone architecture and pristine nature create perfect adventure base camps.",
-    "descriptionMk": "Беловиšте е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 42.135924,
     "longitude": 21.1049087,
@@ -691,7 +691,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "restaurant",
+    "type": "restaurants",
     "latitude": 42.1444218,
     "longitude": 21.1004971,
     "coordinates": [
@@ -705,7 +705,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 42.1588233,
     "longitude": 21.0858905,
     "coordinates": [
@@ -716,10 +716,10 @@
   {
     "id": "todorovci_stonehenge",
     "name": "Todorovci Stonehenge",
-    "nameMk": "Тодоровци Стонехенге",
-    "description": "Explore Macedonia's mysterious megalithic circle! These ancient standing stones rival Stonehenge, offering archaeological adventures and spectacular sunset photography.",
-    "descriptionMk": "Откријте ја убавината на Тодоровци Стонехенге, историски споменик кој сведочи за богатото минато на овој крај.",
-    "type": "monument",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.9991464,
     "longitude": 22.6129683,
     "coordinates": [
@@ -761,7 +761,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.8724274,
     "longitude": 22.8530036,
     "coordinates": [
@@ -789,7 +789,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2928385,
     "longitude": 20.9802821,
     "coordinates": [
@@ -817,7 +817,7 @@
     "nameMk": "Ресторан-На Валајци",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "restaurants",
     "latitude": 41.2643843,
     "longitude": 21.07448,
     "coordinates": [
@@ -831,7 +831,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.7321406,
     "longitude": 20.6704361,
     "coordinates": [
@@ -873,7 +873,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 41.205763,
     "longitude": 22.6235896,
     "coordinates": [
@@ -887,7 +887,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.1186303,
     "longitude": 21.1622275,
     "coordinates": [
@@ -901,7 +901,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0132481,
     "longitude": 22.2282922,
     "coordinates": [
@@ -915,7 +915,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 42.0111,
     "longitude": 22.2173,
     "coordinates": [
@@ -929,7 +929,7 @@
     "nameMk": "Кукуље Нов Истевник / Kukulje Nov Istevnik",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.8498974,
     "longitude": 22.8258954,
     "coordinates": [
@@ -957,7 +957,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 41.2330906,
     "longitude": 21.0896327,
     "coordinates": [
@@ -971,7 +971,7 @@
     "nameMk": "Св. Никола (St. Nikola)",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.0846474,
     "longitude": 21.7616921,
     "coordinates": [
@@ -1027,7 +1027,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.6931429,
     "longitude": 20.7236076,
     "coordinates": [
@@ -1055,7 +1055,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.7983159,
     "longitude": 20.6348388,
     "coordinates": [
@@ -1069,7 +1069,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.1553762,
     "longitude": 21.3467142,
     "coordinates": [
@@ -1097,7 +1097,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.459469,
     "longitude": 20.9357454,
     "coordinates": [
@@ -1125,7 +1125,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.6261736,
     "longitude": 21.1942533,
     "coordinates": [
@@ -1153,7 +1153,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.5792649,
     "longitude": 21.1833515,
     "coordinates": [
@@ -1167,7 +1167,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.557815,
     "longitude": 21.1901838,
     "coordinates": [
@@ -1181,7 +1181,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.502694,
     "longitude": 21.464307,
     "coordinates": [
@@ -1195,7 +1195,7 @@
     "nameMk": "Девини Кули",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.5416667,
     "longitude": 21.2377778,
     "coordinates": [
@@ -1223,7 +1223,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1553708,
     "longitude": 22.2121668,
     "coordinates": [
@@ -1237,7 +1237,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.175936,
     "longitude": 22.2928659,
     "coordinates": [
@@ -1251,7 +1251,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 42.1762592,
     "longitude": 22.3962475,
     "coordinates": [
@@ -1262,9 +1262,9 @@
   {
     "id": "bargala_archaeological_site",
     "name": "Bargala Archaeological Site",
-    "nameMk": "Баргала Арчаеологицал Сите",
-    "description": "Uncover this Early Christian city hidden in eastern Macedonia! Ancient basilicas with stunning mosaics create remarkable archaeological adventures off the beaten path.",
-    "descriptionMk": "Посетете го Баргала Арчаеологицал Сите, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "monument",
     "latitude": 41.7979999,
     "longitude": 22.2874718,
@@ -1279,7 +1279,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.7973454,
     "longitude": 22.2906073,
     "coordinates": [
@@ -1293,7 +1293,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.9578806,
     "longitude": 22.6198213,
     "coordinates": [
@@ -1307,7 +1307,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.9557174,
     "longitude": 22.2275832,
     "coordinates": [
@@ -1321,7 +1321,7 @@
     "nameMk": "Манастир Света Троица - Костомар",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.9582359,
     "longitude": 22.1393848,
     "coordinates": [
@@ -1335,7 +1335,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monument",
+    "type": "recreation",
     "latitude": 41.9368989,
     "longitude": 22.3016335,
     "coordinates": [
@@ -1349,7 +1349,7 @@
     "nameMk": "Раткова скала",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.9749343,
     "longitude": 22.2857181,
     "coordinates": [
@@ -1363,7 +1363,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.9372651,
     "longitude": 22.3728016,
     "coordinates": [
@@ -1377,7 +1377,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0404587,
     "longitude": 22.352218,
     "coordinates": [
@@ -1391,7 +1391,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 42.0237269,
     "longitude": 22.3479077,
     "coordinates": [
@@ -1405,7 +1405,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.1582345,
     "longitude": 21.9430096,
     "coordinates": [
@@ -1419,7 +1419,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.1494755,
     "longitude": 21.9508581,
     "coordinates": [
@@ -1433,7 +1433,7 @@
     "nameMk": "Планинарски Дом „Џумаја“",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "camping",
     "latitude": 41.7420656,
     "longitude": 22.5011326,
     "coordinates": [
@@ -1447,7 +1447,7 @@
     "nameMk": "Комплекс Лебедово Езеро",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "lakes & rivers",
     "latitude": 41.3884731,
     "longitude": 22.8971869,
     "coordinates": [
@@ -1461,7 +1461,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.4143029,
     "longitude": 22.5704779,
     "coordinates": [
@@ -1475,7 +1475,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.90262,
     "longitude": 22.7313283,
     "coordinates": [
@@ -1489,7 +1489,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.3308028,
     "longitude": 22.0397729,
     "coordinates": [
@@ -1503,7 +1503,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.1612035,
     "longitude": 21.6839777,
     "coordinates": [
@@ -1517,7 +1517,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "city",
     "latitude": 41.2277104,
     "longitude": 21.5974587,
     "coordinates": [
@@ -1545,7 +1545,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "city",
     "latitude": 41.2605399,
     "longitude": 21.5676603,
     "coordinates": [
@@ -1559,7 +1559,7 @@
     "nameMk": "Св. Никола (St. Nicholas)",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.1655906,
     "longitude": 21.7266732,
     "coordinates": [
@@ -1573,7 +1573,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.1368732,
     "longitude": 21.1880519,
     "coordinates": [
@@ -1587,7 +1587,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "restaurant",
+    "type": "restaurants",
     "latitude": 41.2988092,
     "longitude": 21.0869944,
     "coordinates": [
@@ -1601,7 +1601,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "restaurant",
+    "type": "restaurants",
     "latitude": 40.9721773,
     "longitude": 21.0572009,
     "coordinates": [
@@ -1615,7 +1615,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.2652399,
     "longitude": 22.0181231,
     "coordinates": [
@@ -1629,7 +1629,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.9029365,
     "longitude": 21.8375553,
     "coordinates": [
@@ -1643,7 +1643,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.900255,
     "longitude": 21.8521335,
     "coordinates": [
@@ -1671,7 +1671,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.7373303,
     "longitude": 22.9443807,
     "coordinates": [
@@ -1685,7 +1685,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3229347,
     "longitude": 21.7799157,
     "coordinates": [
@@ -1699,7 +1699,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3255003,
     "longitude": 21.5938673,
     "coordinates": [
@@ -1713,7 +1713,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2902225,
     "longitude": 21.5966823,
     "coordinates": [
@@ -1727,7 +1727,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.4948666,
     "longitude": 21.7790817,
     "coordinates": [
@@ -1741,7 +1741,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.5639214,
     "longitude": 21.865527,
     "coordinates": [
@@ -1755,7 +1755,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.7723566,
     "longitude": 22.0213635,
     "coordinates": [
@@ -1769,7 +1769,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.5945114,
     "longitude": 22.2448274,
     "coordinates": [
@@ -1783,7 +1783,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.6453215,
     "longitude": 22.509152,
     "coordinates": [
@@ -1825,7 +1825,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3944593,
     "longitude": 21.2001532,
     "coordinates": [
@@ -1853,7 +1853,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2263125,
     "longitude": 21.1514219,
     "coordinates": [
@@ -1867,7 +1867,7 @@
     "nameMk": "Добромирово Источен Петок",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.2377741,
     "longitude": 21.1514673,
     "coordinates": [
@@ -1881,7 +1881,7 @@
     "nameMk": "Добромирово Источен Петок",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.2383227,
     "longitude": 21.1507377,
     "coordinates": [
@@ -1923,7 +1923,7 @@
     "nameMk": "Ранохристијанска Базилика",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.8761632,
     "longitude": 21.0137075,
     "coordinates": [
@@ -1937,7 +1937,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0667796,
     "longitude": 21.0278749,
     "coordinates": [
@@ -1951,7 +1951,7 @@
     "nameMk": "Св.Георгиј Победоносец",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 42.0295446,
     "longitude": 21.1168953,
     "coordinates": [
@@ -1965,7 +1965,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0665058,
     "longitude": 21.0287202,
     "coordinates": [
@@ -1979,7 +1979,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.9499824,
     "longitude": 20.9116595,
     "coordinates": [
@@ -1993,7 +1993,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.8737793,
     "longitude": 21.0079277,
     "coordinates": [
@@ -2007,7 +2007,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0000757,
     "longitude": 21.8600259,
     "coordinates": [
@@ -2021,7 +2021,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.7066549,
     "longitude": 21.7816183,
     "coordinates": [
@@ -2035,7 +2035,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0757798,
     "longitude": 22.1831496,
     "coordinates": [
@@ -2049,7 +2049,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1374155,
     "longitude": 21.7206136,
     "coordinates": [
@@ -2063,7 +2063,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.7365761,
     "longitude": 22.188864,
     "coordinates": [
@@ -2077,7 +2077,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.9230585,
     "longitude": 22.5356842,
     "coordinates": [
@@ -2091,7 +2091,7 @@
     "nameMk": "Карпински манастир \"Св. Богородица\"",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 42.174557,
     "longitude": 21.9933461,
     "coordinates": [
@@ -2105,7 +2105,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0456175,
     "longitude": 21.826598,
     "coordinates": [
@@ -2119,7 +2119,7 @@
     "nameMk": "Планинарски дом Вртешка",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "camping",
     "latitude": 41.7591883,
     "longitude": 22.4171805,
     "coordinates": [
@@ -2133,7 +2133,7 @@
     "nameMk": "Кочулски водопади/Kochuli waterfalls",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.316117,
     "longitude": 22.709933,
     "coordinates": [
@@ -2147,7 +2147,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 41.8242942,
     "longitude": 22.4657724,
     "coordinates": [
@@ -2161,7 +2161,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1125059,
     "longitude": 21.4170356,
     "coordinates": [
@@ -2175,7 +2175,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1323863,
     "longitude": 21.41431,
     "coordinates": [
@@ -2189,7 +2189,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1299057,
     "longitude": 21.3876209,
     "coordinates": [
@@ -2203,7 +2203,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.107691,
     "longitude": 21.3799685,
     "coordinates": [
@@ -2217,7 +2217,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.128434,
     "longitude": 21.3995865,
     "coordinates": [
@@ -2231,7 +2231,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1256313,
     "longitude": 21.4283401,
     "coordinates": [
@@ -2245,7 +2245,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1096319,
     "longitude": 21.4696341,
     "coordinates": [
@@ -2259,7 +2259,7 @@
     "nameMk": "Манастир Пресвета Богородица",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 42.1087855,
     "longitude": 21.5534771,
     "coordinates": [
@@ -2273,7 +2273,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0854448,
     "longitude": 21.4890609,
     "coordinates": [
@@ -2301,7 +2301,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1393833,
     "longitude": 21.4390529,
     "coordinates": [
@@ -2315,7 +2315,7 @@
     "nameMk": "Hot Pools Second Pool (Топлите Вирови - Втор Вир)",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "recreation",
     "latitude": 41.3660912,
     "longitude": 22.2316681,
     "coordinates": [
@@ -2329,7 +2329,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1076099,
     "longitude": 21.3856947,
     "coordinates": [
@@ -2343,7 +2343,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.0690475,
     "longitude": 21.3173792,
     "coordinates": [
@@ -2357,7 +2357,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "restaurants",
     "latitude": 41.1847951,
     "longitude": 20.8772488,
     "coordinates": [
@@ -2371,7 +2371,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0618787,
     "longitude": 21.0174922,
     "coordinates": [
@@ -2385,7 +2385,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.576103,
     "longitude": 21.7327546,
     "coordinates": [
@@ -2399,7 +2399,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.589795,
     "longitude": 21.7664699,
     "coordinates": [
@@ -2413,7 +2413,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.576103,
     "longitude": 21.7327546,
     "coordinates": [
@@ -2427,7 +2427,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.266554,
     "longitude": 22.734938,
     "coordinates": [
@@ -2455,7 +2455,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.5031205,
     "longitude": 21.0075619,
     "coordinates": [
@@ -2469,7 +2469,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.4648889,
     "longitude": 21.0174722,
     "coordinates": [
@@ -2483,7 +2483,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.4508889,
     "longitude": 21.0250278,
     "coordinates": [
@@ -2511,7 +2511,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9848007,
     "longitude": 21.0643711,
     "coordinates": [
@@ -2525,7 +2525,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9860161,
     "longitude": 21.0851318,
     "coordinates": [
@@ -2553,7 +2553,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.1816575,
     "longitude": 20.7931688,
     "coordinates": [
@@ -2567,7 +2567,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.475021,
     "longitude": 22.5648282,
     "coordinates": [
@@ -2595,7 +2595,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2953583,
     "longitude": 21.5842787,
     "coordinates": [
@@ -2637,7 +2637,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.8782147,
     "longitude": 21.3580947,
     "coordinates": [
@@ -2651,7 +2651,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.8836376,
     "longitude": 21.3575016,
     "coordinates": [
@@ -2665,7 +2665,7 @@
     "nameMk": "Манастир Св.Меркуриј",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 40.9521997,
     "longitude": 21.3505023,
     "coordinates": [
@@ -2693,7 +2693,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "city",
+    "type": "lakes & rivers",
     "latitude": 41.7030476,
     "longitude": 20.9998418,
     "coordinates": [
@@ -2707,7 +2707,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 42.0104645,
     "longitude": 22.7137227,
     "coordinates": [
@@ -2721,7 +2721,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2997436,
     "longitude": 21.152556,
     "coordinates": [
@@ -2763,7 +2763,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3839806,
     "longitude": 22.1314008,
     "coordinates": [
@@ -2777,7 +2777,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3603207,
     "longitude": 21.5344718,
     "coordinates": [
@@ -2805,7 +2805,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.7663737,
     "longitude": 22.9340619,
     "coordinates": [
@@ -2833,7 +2833,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 42.1450738,
     "longitude": 21.0996814,
     "coordinates": [
@@ -2847,7 +2847,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3264782,
     "longitude": 22.5481627,
     "coordinates": [
@@ -2875,7 +2875,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3842757,
     "longitude": 22.291872,
     "coordinates": [
@@ -2889,7 +2889,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.6702329,
     "longitude": 20.731364,
     "coordinates": [
@@ -2903,7 +2903,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.36399,
     "longitude": 20.56912,
     "coordinates": [
@@ -2917,7 +2917,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.2237396,
     "longitude": 20.5527134,
     "coordinates": [
@@ -2931,7 +2931,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.9683282,
     "longitude": 22.6753878,
     "coordinates": [
@@ -2973,7 +2973,7 @@
     "nameMk": "Извиднички дом „ИПО Јадран“ - Катлановска Брезица",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.8691733,
     "longitude": 21.7245626,
     "coordinates": [
@@ -2987,7 +2987,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0976009,
     "longitude": 21.4664111,
     "coordinates": [
@@ -3001,7 +3001,7 @@
     "nameMk": "Манастир „Свети Никола Шишевски“",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.9520432,
     "longitude": 21.3040538,
     "coordinates": [
@@ -3015,7 +3015,7 @@
     "nameMk": "Свети Спас / Church of the Ascension of Jesus",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.9542329,
     "longitude": 21.2891428,
     "coordinates": [
@@ -3029,7 +3029,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.6032951,
     "longitude": 20.5980357,
     "coordinates": [
@@ -3043,7 +3043,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.6177654,
     "longitude": 20.5908814,
     "coordinates": [
@@ -3057,7 +3057,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.6175482,
     "longitude": 20.5789677,
     "coordinates": [
@@ -3071,7 +3071,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.6264903,
     "longitude": 20.5901618,
     "coordinates": [
@@ -3099,7 +3099,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 41.708229,
     "longitude": 20.6500067,
     "coordinates": [
@@ -3113,7 +3113,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "lakes & rivers",
     "latitude": 41.1445298,
     "longitude": 20.6502614,
     "coordinates": [
@@ -3127,7 +3127,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.1071493,
     "longitude": 20.6325521,
     "coordinates": [
@@ -3155,7 +3155,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.2319449,
     "longitude": 20.5725699,
     "coordinates": [
@@ -3169,7 +3169,7 @@
     "nameMk": "Вевчански Извори",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "lakes & rivers",
     "latitude": 41.2393481,
     "longitude": 20.5852022,
     "coordinates": [
@@ -3183,7 +3183,7 @@
     "nameMk": "Вевчанска Голина - Видиковец",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 41.2463664,
     "longitude": 20.5443397,
     "coordinates": [
@@ -3211,7 +3211,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 41.567862,
     "longitude": 20.75718,
     "coordinates": [
@@ -3225,7 +3225,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "adventure",
+    "type": "nature",
     "latitude": 41.5652778,
     "longitude": 20.7272222,
     "coordinates": [
@@ -3239,7 +3239,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2581977,
     "longitude": 20.6043176,
     "coordinates": [
@@ -3281,7 +3281,7 @@
     "nameMk": "Church of the Holy Mother of God - village Gallate / Црква Пресвета Богородица - с. Галате",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.8423112,
     "longitude": 20.8743443,
     "coordinates": [
@@ -3295,7 +3295,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.8303298,
     "longitude": 20.8768277,
     "coordinates": [
@@ -3309,7 +3309,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.8015641,
     "longitude": 20.8398437,
     "coordinates": [
@@ -3323,7 +3323,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.8084942,
     "longitude": 20.7881808,
     "coordinates": [
@@ -3337,7 +3337,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.8527846,
     "longitude": 20.8667753,
     "coordinates": [
@@ -3351,7 +3351,7 @@
     "nameMk": "Leshnica Watterfalls - Водопади Лешница - Ujevarat e Leshnices",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 42.0176875,
     "longitude": 20.7816875,
     "coordinates": [
@@ -3365,7 +3365,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 42.011027,
     "longitude": 20.7802174,
     "coordinates": [
@@ -3379,7 +3379,7 @@
     "nameMk": "Планинарски дом „Китка“",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "camping",
     "latitude": 41.8433,
     "longitude": 21.4917,
     "coordinates": [
@@ -3407,7 +3407,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "nature",
     "latitude": 42.0837464,
     "longitude": 21.9859706,
     "coordinates": [
@@ -3421,7 +3421,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0856887,
     "longitude": 21.9292071,
     "coordinates": [
@@ -3435,7 +3435,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.0330825,
     "longitude": 22.269371,
     "coordinates": [
@@ -3449,7 +3449,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 42.2658279,
     "longitude": 22.231891,
     "coordinates": [
@@ -3463,7 +3463,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.2091055,
     "longitude": 22.3622509,
     "coordinates": [
@@ -3477,7 +3477,7 @@
     "nameMk": "Испосница на Св. Јоаким Осоговски во Село Градец",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 42.2333392,
     "longitude": 22.2941277,
     "coordinates": [
@@ -3491,7 +3491,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 42.1982605,
     "longitude": 21.8280364,
     "coordinates": [
@@ -3505,7 +3505,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 42.2105304,
     "longitude": 22.0754896,
     "coordinates": [
@@ -3519,7 +3519,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2139514,
     "longitude": 20.6628833,
     "coordinates": [
@@ -3533,7 +3533,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.235422,
     "longitude": 20.6007466,
     "coordinates": [
@@ -3547,7 +3547,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.1630653,
     "longitude": 20.6266319,
     "coordinates": [
@@ -3561,7 +3561,7 @@
     "nameMk": "Црква Св. Спаса Вишенска",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.200025,
     "longitude": 20.602436,
     "coordinates": [
@@ -3575,7 +3575,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.2171095,
     "longitude": 20.5728916,
     "coordinates": [
@@ -3589,7 +3589,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9488976,
     "longitude": 20.774653,
     "coordinates": [
@@ -3603,7 +3603,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9140226,
     "longitude": 20.7406744,
     "coordinates": [
@@ -3617,7 +3617,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9113315,
     "longitude": 20.7493114,
     "coordinates": [
@@ -3631,7 +3631,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9101898,
     "longitude": 20.7452997,
     "coordinates": [
@@ -3645,7 +3645,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "nature",
     "latitude": 40.9689375,
     "longitude": 21.2050625,
     "coordinates": [
@@ -3659,7 +3659,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.0738411,
     "longitude": 20.804278,
     "coordinates": [
@@ -3673,7 +3673,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "water",
+    "type": "lakes & rivers",
     "latitude": 40.8698089,
     "longitude": 20.9881809,
     "coordinates": [
@@ -3687,7 +3687,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 40.9780121,
     "longitude": 21.1005702,
     "coordinates": [
@@ -3701,7 +3701,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.4081484,
     "longitude": 21.2209149,
     "coordinates": [
@@ -3715,7 +3715,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.337602,
     "longitude": 21.3288563,
     "coordinates": [
@@ -3729,7 +3729,7 @@
     "nameMk": "Мотел ресторан Стара Чешма",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "restaurants",
     "latitude": 41.43521,
     "longitude": 21.8389746,
     "coordinates": [
@@ -3743,7 +3743,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.3116459,
     "longitude": 21.9661948,
     "coordinates": [
@@ -3757,7 +3757,7 @@
     "nameMk": "Саат кула Неготино",
     "description": "",
     "descriptionMk": "",
-    "type": "hiking",
+    "type": "monument",
     "latitude": 41.4843989,
     "longitude": 22.0927332,
     "coordinates": [
@@ -3771,7 +3771,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.4935604,
     "longitude": 22.1080362,
     "coordinates": [
@@ -3782,9 +3782,9 @@
   {
     "id": "skopje",
     "name": "Skopje",
-    "nameMk": "Скопје",
-    "description": "Explore Macedonia's dynamic capital where ancient fortresses meet bold modern architecture! The Stone Bridge, Old Bazaar, and Kale Fortress offer endless urban adventures.",
-    "descriptionMk": "Посетете го Скопје, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.9980994,
     "longitude": 21.4254206,
@@ -3852,10 +3852,10 @@
   {
     "id": "smolare_waterfall_2",
     "name": "Smolare Waterfall",
-    "nameMk": "Смоларски Водопад",
-    "description": "Experience the raw power of Macedonia's highest waterfall! At 39 meters, this thundering cascade offers spectacular hiking trails and pristine swimming pools for brave adventurers.",
-    "descriptionMk": "Уживајте во природните убавини на Смоларски Водопад. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација.",
-    "type": "water",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
+    "type": "nature",
     "latitude": 41.3707846,
     "longitude": 22.9005554,
     "coordinates": [
@@ -3866,9 +3866,9 @@
   {
     "id": "sermenin_2",
     "name": "Sermenin",
-    "nameMk": "Серменин",
-    "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
-    "descriptionMk": "Посетете го Серменин, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.2200177,
     "longitude": 22.3475152,
@@ -3894,9 +3894,9 @@
   {
     "id": "prilep",
     "name": "Prilep",
-    "nameMk": "Прилеп",
-    "description": "Experience this historic tobacco town beneath dramatic granite towers! Ancient monasteries, Ottoman architecture, and natural rock formations create diverse adventures.",
-    "descriptionMk": "Посетете го Прилеп, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.3461823,
     "longitude": 21.5535933,
@@ -3908,9 +3908,9 @@
   {
     "id": "vitolishte_2",
     "name": "Vitolishte",
-    "nameMk": "Витолиште",
-    "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
-    "descriptionMk": "Посетете го Витолиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.1811787,
     "longitude": 21.8256967,
@@ -3922,9 +3922,9 @@
   {
     "id": "radovis",
     "name": "Radoviš",
-    "nameMk": "Радовиš",
-    "description": "Explore this mining heritage town nestled in mountainous terrain! Industrial archaeology and surrounding wilderness create unique urban-nature adventures.",
-    "descriptionMk": "Радовиš е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6372241,
     "longitude": 22.4622557,
@@ -3936,9 +3936,9 @@
   {
     "id": "negotino",
     "name": "Negotino",
-    "nameMk": "Неготино",
-    "description": "Discover this ancient trading town where the Vardar River meets wine country! Historic architecture and vineyard tours create perfect cultural and gastronomic stops.",
-    "descriptionMk": "Неготино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.4829514,
     "longitude": 22.0924914,
@@ -3981,7 +3981,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "monastery",
+    "type": "monument",
     "latitude": 41.4599462,
     "longitude": 20.9358564,
     "coordinates": [
@@ -4006,9 +4006,9 @@
   {
     "id": "bitushe_2",
     "name": "Bitushe",
-    "nameMk": "Битуше",
-    "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
-    "descriptionMk": "Битуше е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
+    "nameMk": "",
+    "description": "",
+    "descriptionMk": "",
     "type": "city",
     "latitude": 41.6166017,
     "longitude": 20.588184,
@@ -4023,7 +4023,7 @@
     "nameMk": "",
     "description": "",
     "descriptionMk": "",
-    "type": "accommodation",
+    "type": "hotels",
     "latitude": 41.3636121,
     "longitude": 20.5686164,
     "coordinates": [
