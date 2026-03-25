@@ -124,7 +124,7 @@ mk: {
 
 ### Translating Location Pin Names
 
-Each location in `src/data/locations.json` supports an optional `nameMk` field for its Macedonian name:
+Each location in `src/data/locations.json` supports optional `nameMk` and `descriptionMk` fields for Macedonian translations:
 
 ```json
 {
@@ -132,6 +132,7 @@ Each location in `src/data/locations.json` supports an optional `nameMk` field f
   "name": "Ohrid",
   "nameMk": "Охрид",
   "description": "A lakeside city with UNESCO heritage...",
+  "descriptionMk": "Град покрај езеро со UNESCO наследство...",
   "type": "city",
   "latitude": 41.1231,
   "longitude": 20.8016,
@@ -142,8 +143,9 @@ Each location in `src/data/locations.json` supports an optional `nameMk` field f
 **Rules:**
 - `name` (required) — always the English name, used as default
 - `nameMk` (optional) — Macedonian name shown in tooltips when language is MK
-- If `nameMk` is missing, the English `name` is shown in both languages
-- Descriptions remain in English for now (translating 262+ descriptions is a future task)
+- `description` (required) — English description shown in tooltips
+- `descriptionMk` (optional) — Macedonian description shown in tooltips when language is MK
+- If `nameMk` or `descriptionMk` is missing, the English version is shown in both languages
 
 ### Adding a New Language
 

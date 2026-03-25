@@ -27,6 +27,7 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
   const color = config?.color || '#60a5fa';
 
   const displayName = language === 'mk' && location.nameMk ? location.nameMk : location.name;
+  const displayDescription = language === 'mk' && location.descriptionMk ? location.descriptionMk : location.description;
 
   return (
     <div
@@ -56,7 +57,7 @@ export const LocationTooltip: React.FC<LocationTooltipProps> = ({
         </div>
 
         <p className="text-muted-foreground text-xs leading-relaxed">
-          {location.description}
+          {displayDescription}
         </p>
 
         <div className="flex items-center justify-between mt-3 pt-2.5 border-t border-border">
