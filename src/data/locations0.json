@@ -1,0 +1,3670 @@
+[
+  {
+    "id": "zovichki_bridge_/_movie_bridge",
+    "name": "Zovichki bridge / Movie Bridge",
+    "description": "Cross this legendary cinematic bridge where Hollywood meets Balkan beauty! This dramatic stone arch spans pristine waters, offering perfect photo ops and a taste of movie magic in the heart of Macedonia's wilderness.",
+    "type": "monument",
+    "latitude": 41.1187657,
+    "longitude": 21.7171465,
+    "coordinates": [
+      21.7171465,
+      41.1187657
+    ],
+    "nameMk": "Зовички мост / Филмски мост",
+    "descriptionMk": "Посетете го Зовички мост / Филмски мост, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "holy_transfiguration",
+    "name": "Holy Transfiguration",
+    "description": "Discover ancient spiritual power at this magnificent Orthodox sanctuary! Perched dramatically against mountain slopes, this sacred site offers breathtaking architecture and panoramic valley views that will leave you speechless.",
+    "type": "monument",
+    "latitude": 41.5215773,
+    "longitude": 21.3416941,
+    "coordinates": [
+      21.3416941,
+      41.5215773
+    ],
+    "nameMk": "Свето Преображение",
+    "descriptionMk": "Свето Преображение е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "gabrovo_waterfalls",
+    "name": "Gabrovo Waterfalls",
+    "description": "Plunge into nature's thunderous spectacle! These cascading giants crash down rocky cliffs into crystal pools, creating the perfect wild swimming and photography paradise for adventurous souls.",
+    "type": "nature",
+    "latitude": 41.3755924,
+    "longitude": 22.7889993,
+    "coordinates": [
+      22.7889993,
+      41.3755924
+    ],
+    "nameMk": "Габровски Водопади",
+    "descriptionMk": "Габровски Водопади е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "malovishte",
+    "name": "Malovishte",
+    "description": "Step back in time in this authentic mountain village! Stone houses dot dramatic hillsides where shepherds still roam, offering genuine cultural immersion and spectacular highland vistas.",
+    "type": "city",
+    "latitude": 41.0333696,
+    "longitude": 21.1298722,
+    "coordinates": [
+      21.1298722,
+      41.0333696
+    ],
+    "nameMk": "Маловиште",
+    "descriptionMk": "Посетете го Маловиште, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "zovich",
+    "name": "Zovich",
+    "description": "Experience raw Balkan village life in this remote mountain settlement! Ancient traditions survive amid pristine wilderness, perfect for cultural photography and authentic local encounters.",
+    "type": "city",
+    "latitude": 41.1172694,
+    "longitude": 21.7122789,
+    "coordinates": [
+      21.7122789,
+      41.1172694
+    ],
+    "nameMk": "Зовиќ",
+    "descriptionMk": "Зовиќ е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "monastery_saint_ana",
+    "name": "Monastery Saint Ana",
+    "description": "Uncover medieval mysteries at this hidden spiritual fortress! Tucked into dramatic mountainsides, this ancient monastery offers profound tranquility and stunning Byzantine architecture.",
+    "type": "monument",
+    "latitude": 41.0283542,
+    "longitude": 21.1144679,
+    "coordinates": [
+      21.1144679,
+      41.0283542
+    ],
+    "nameMk": "Манастир Света Ана",
+    "descriptionMk": "Посетете го Манастир Света Ана, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "shlegovo",
+    "name": "Shlegovo",
+    "description": "Explore this mining heritage town nestled in rugged hills! Industrial history meets natural beauty, offering unique photography opportunities and insights into Macedonia's working past.",
+    "type": "city",
+    "latitude": 42.0655501,
+    "longitude": 22.1616508,
+    "coordinates": [
+      22.1616508,
+      42.0655501
+    ],
+    "nameMk": "Шлегово",
+    "descriptionMk": "Посетете го Шлегово, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "papradiste",
+    "name": "Papradiste",
+    "description": "Discover this charming highland village where mountain streams meet ancient architecture! Traditional stone houses and dramatic valley views create perfect overlanding photo opportunities.",
+    "type": "city",
+    "latitude": 41.6416537,
+    "longitude": 21.4387676,
+    "coordinates": [
+      21.4387676,
+      41.6416537
+    ],
+    "nameMk": "Папрадиште",
+    "descriptionMk": "Посетете го Папрадиште, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "st._gjorgjija_monastery",
+    "name": "St. Gjorgjija Monastery",
+    "description": "Enter this sacred mountain sanctuary where medieval monks once sought enlightenment! Perched on dramatic cliffs, this monastery offers breathtaking spiritual architecture and valley panoramas.",
+    "type": "monument",
+    "latitude": 41.6348083,
+    "longitude": 21.4027214,
+    "coordinates": [
+      21.4027214,
+      41.6348083
+    ],
+    "nameMk": "Ст. Ѓорѓија Монастерy",
+    "descriptionMk": "Посетете го Ст. Ѓорѓија Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "oreshe_waterfall",
+    "name": "Oreshe Waterfall",
+    "description": "Chase the thunder of cascading mountain waters! This spectacular waterfall plunges into emerald pools, creating a natural adventure playground perfect for wild swimming and photography.",
+    "type": "nature",
+    "latitude": 41.6359698,
+    "longitude": 21.3905499,
+    "coordinates": [
+      21.3905499,
+      41.6359698
+    ],
+    "nameMk": "Ореше Wатерфалл",
+    "descriptionMk": "Откријте ја дивата убавина на Ореше Wатерфалл, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "oreshe",
+    "name": "Oreshe",
+    "description": "Experience authentic highland life in this remote mountain village! Ancient stone architecture and shepherding traditions survive amid dramatic peaks and pristine wilderness.",
+    "type": "city",
+    "latitude": 41.6196632,
+    "longitude": 21.4201362,
+    "coordinates": [
+      21.4201362,
+      41.6196632
+    ],
+    "nameMk": "Ореше",
+    "descriptionMk": "Посетете го Ореше, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "ribnik_kapinovo_nezilovski_merak",
+    "name": "Ribnik Kapinovo & Nezilovski Merak",
+    "description": "Discover hidden mountain lakes and recreational paradise! These pristine waters offer perfect wild camping, fishing, and nature photography in Macedonia's untouched highlands.",
+    "type": "camping",
+    "latitude": 41.6288738,
+    "longitude": 21.4552288,
+    "coordinates": [
+      21.4552288,
+      41.6288738
+    ],
+    "nameMk": "Рибник Капиново & Незиловски Мерак",
+    "descriptionMk": "Рибник Капиново & Незиловски Мерак нуди совршено место за кампување во прегратките на македонската природа."
+  },
+  {
+    "id": "markovo_stapalo",
+    "name": "Marko's Footprint",
+    "description": "Stand where legendary King Marko left his mark! This mythical rock formation offers dramatic mountain views and fascinating folklore, perfect for adventurous explorers seeking epic stories.",
+    "type": "monument",
+    "latitude": 41.640668,
+    "longitude": 21.4461963,
+    "coordinates": [
+      21.4461963,
+      41.640668
+    ],
+    "nameMk": "Марко'с Фоотпринт",
+    "descriptionMk": "Откријте ја убавината на Марко'с Фоотпринт, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "monastery_sveti_petar_i_pavle",
+    "name": "Monastery Saints Peter and Paul",
+    "description": "Explore this ancient spiritual fortress hidden in mountain wilderness! Byzantine frescoes and dramatic architecture create an unforgettable cultural adventure in pristine nature.",
+    "type": "monument",
+    "latitude": 41.6312313,
+    "longitude": 21.510399,
+    "coordinates": [
+      21.510399,
+      41.6312313
+    ],
+    "nameMk": "Монастерy Саинтс Петер анд Паул",
+    "descriptionMk": "Монастерy Саинтс Петер анд Паул е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "konjsko",
+    "name": "Konjsko",
+    "description": "Experience border village life where three cultures meet! This remote settlement offers authentic Balkan hospitality and stunning mountain vistas near the Albanian frontier.",
+    "type": "city",
+    "latitude": 40.9118299,
+    "longitude": 20.9882922,
+    "coordinates": [
+      20.9882922,
+      40.9118299
+    ],
+    "nameMk": "Коњско",
+    "descriptionMk": "Коњско е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "ljubojno",
+    "name": "Ljubojno",
+    "description": "Venture to this highland village where ancient traditions thrive! Stone houses and pastoral landscapes create perfect overlanding adventures amid Macedonia's pristine mountains.",
+    "type": "city",
+    "latitude": 40.8945369,
+    "longitude": 21.1376967,
+    "coordinates": [
+      21.1376967,
+      40.8945369
+    ],
+    "nameMk": "Љубојно",
+    "descriptionMk": "Љубојно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "rusjatsi",
+    "name": "Rusjatsi",
+    "description": "Discover this hidden mountain village where time stands still! Traditional architecture and shepherding culture offer authentic cultural immersion in dramatic highland settings.",
+    "type": "city",
+    "latitude": 41.4999893,
+    "longitude": 21.1514826,
+    "coordinates": [
+      21.1514826,
+      41.4999893
+    ],
+    "nameMk": "Русјатси",
+    "descriptionMk": "Русјатси е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "zheleznets",
+    "name": "Zheleznets",
+    "description": "Explore this iron-rich mountain village where mining heritage meets natural beauty! Dramatic landscapes and industrial history create unique photography opportunities.",
+    "type": "city",
+    "latitude": 41.3257034,
+    "longitude": 21.062993,
+    "coordinates": [
+      21.062993,
+      41.3257034
+    ],
+    "nameMk": "Железнетс",
+    "descriptionMk": "Железнетс е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "knezhino",
+    "name": "Knezhino",
+    "description": "Experience royal village history in this picturesque highland settlement! Ancient nobility once ruled from these dramatic mountain slopes offering spectacular valley views.",
+    "type": "city",
+    "latitude": 41.5215996,
+    "longitude": 20.9160162,
+    "coordinates": [
+      20.9160162,
+      41.5215996
+    ],
+    "nameMk": "Кнежино",
+    "descriptionMk": "Кнежино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "skrebatno",
+    "name": "Skrebatno",
+    "description": "Venture to this remote mountain village where eagles soar overhead! Traditional stone architecture and pristine wilderness create perfect overlanding adventures.",
+    "type": "city",
+    "latitude": 41.1522564,
+    "longitude": 20.8914281,
+    "coordinates": [
+      20.8914281,
+      41.1522564
+    ],
+    "nameMk": "Скребатно",
+    "descriptionMk": "Скребатно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "rosoki",
+    "name": "Rosoki",
+    "description": "Discover this highland village famous for its pristine natural springs! Crystal-clear mountain waters and traditional architecture make this a perfect wilderness stop.",
+    "type": "city",
+    "latitude": 41.566465,
+    "longitude": 20.6939945,
+    "coordinates": [
+      20.6939945,
+      41.566465
+    ],
+    "nameMk": "Росоки",
+    "descriptionMk": "Росоки е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "rosoki_springs",
+    "name": "Rosoki Springs",
+    "description": "Refresh at these legendary mountain springs where crystal waters bubble from ancient rocks! Perfect for wild camping and experiencing Macedonia's purest natural refreshment.",
+    "type": "nature",
+    "latitude": 41.5687791,
+    "longitude": 20.692748,
+    "coordinates": [
+      20.692748,
+      41.5687791
+    ],
+    "nameMk": "Росоки Спрингс",
+    "descriptionMk": "Откријте ја дивата убавина на Росоки Спрингс, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "krushevica",
+    "name": "Krushevica",
+    "description": "Explore this authentic mountain village where pear orchards meet pristine wilderness! Traditional rural life and dramatic landscapes offer perfect cultural adventures.",
+    "type": "city",
+    "latitude": 41.205838,
+    "longitude": 21.6526577,
+    "coordinates": [
+      21.6526577,
+      41.205838
+    ],
+    "nameMk": "Крушевица",
+    "descriptionMk": "Крушевица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "vitolishte",
+    "name": "Vitolishte",
+    "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
+    "type": "city",
+    "latitude": 41.1812657,
+    "longitude": 21.8255581,
+    "coordinates": [
+      21.8255581,
+      41.1812657
+    ],
+    "nameMk": "Витолиште",
+    "descriptionMk": "Посетете го Витолиште, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "caniste",
+    "name": "Čanište",
+    "description": "Discover this charming mountain village where traditional crafts flourish! Stone architecture and highland pastoral life create authentic Balkan cultural experiences.",
+    "type": "city",
+    "latitude": 41.1657837,
+    "longitude": 21.6854494,
+    "coordinates": [
+      21.6854494,
+      41.1657837
+    ],
+    "nameMk": "Čаниšте",
+    "descriptionMk": "Čаниšте е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "petralitsa",
+    "name": "Petralitsa",
+    "description": "Venture to this remote highland village where stone architecture meets pristine nature! Ancient building traditions and dramatic mountain vistas create perfect photo opportunities.",
+    "type": "city",
+    "latitude": 42.211824,
+    "longitude": 22.1802799,
+    "coordinates": [
+      22.1802799,
+      42.211824
+    ],
+    "nameMk": "Петралитса",
+    "descriptionMk": "Посетете го Петралитса, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "koleshino_waterfall",
+    "name": "Koleshino Waterfall",
+    "description": "Witness Macedonia's tallest waterfall thunder down 60 meters of sheer rock! This spectacular cascade creates rainbow mists and offers world-class nature photography opportunities.",
+    "type": "nature",
+    "latitude": 41.3695082,
+    "longitude": 22.8068927,
+    "coordinates": [
+      22.8068927,
+      41.3695082
+    ],
+    "nameMk": "Колешински Водопад",
+    "descriptionMk": "Колешински Водопад е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "smolare_waterfall",
+    "name": "Smolare Waterfall",
+    "description": "Experience the raw power of Macedonia's highest waterfall! At 39 meters, this thundering cascade offers spectacular hiking trails and pristine swimming pools for brave adventurers.",
+    "type": "nature",
+    "latitude": 41.3662782,
+    "longitude": 22.8996196,
+    "coordinates": [
+      22.8996196,
+      41.3662782
+    ],
+    "nameMk": "Смоларски Водопад",
+    "descriptionMk": "Уживајте во природните убавини на Смоларски Водопад. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "blatec",
+    "name": "Blatec",
+    "description": "Explore this mountain village gateway to pristine lake adventures! Traditional highland life meets spectacular natural beauty in Macedonia's most scenic region.",
+    "type": "city",
+    "latitude": 41.8385763,
+    "longitude": 22.5778948,
+    "coordinates": [
+      22.5778948,
+      41.8385763
+    ],
+    "nameMk": "Блатец",
+    "descriptionMk": "Посетете го Блатец, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "blatec_lake",
+    "name": "Blatec Lake",
+    "description": "Discover this pristine glacial lake nestled in dramatic mountain peaks! Crystal waters reflect snow-capped summits, creating perfect wild camping and fishing paradise.",
+    "type": "nature",
+    "latitude": 41.8389149,
+    "longitude": 22.5946481,
+    "coordinates": [
+      22.5946481,
+      41.8389149
+    ],
+    "nameMk": "Блатец Лаке",
+    "descriptionMk": "Откријте ја дивата убавина на Блатец Лаке, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "sermenin",
+    "name": "Sermenin",
+    "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
+    "type": "city",
+    "latitude": 41.2200456,
+    "longitude": 22.3471886,
+    "coordinates": [
+      22.3471886,
+      41.2200456
+    ],
+    "nameMk": "Серменин",
+    "descriptionMk": "Посетете го Серменин, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "waterfall_vera",
+    "name": "Waterfall Vera",
+    "description": "Chase this spectacular cascade hidden in Macedonia's mountain heart! Crystal waters plunge through ancient rocks, creating a natural amphitheater perfect for wilderness camping and photography.",
+    "type": "nature",
+    "latitude": 41.217188,
+    "longitude": 22.347312,
+    "coordinates": [
+      22.347312,
+      41.217188
+    ],
+    "nameMk": "Wатерфалл Вера",
+    "descriptionMk": "Откријте ја дивата убавина на Wатерфалл Вера, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "smrdliva_voda",
+    "name": "Smrdliva Voda",
+    "description": "Experience therapeutic mineral springs bubbling from ancient earth! These legendary healing waters have attracted adventurers for centuries, offering unique geological wonders.",
+    "type": "nature",
+    "latitude": 41.192718,
+    "longitude": 22.2816193,
+    "coordinates": [
+      22.2816193,
+      41.192718
+    ],
+    "nameMk": "Смрдлива Вода",
+    "descriptionMk": "Смрдлива Вода е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "teovo",
+    "name": "Teovo",
+    "description": "Explore this multi-cultural mountain town where Albanian and Macedonian traditions blend! Dramatic landscapes and authentic cultural encounters await adventurous overlanders.",
+    "type": "city",
+    "latitude": 41.5784655,
+    "longitude": 21.5729144,
+    "coordinates": [
+      21.5729144,
+      41.5784655
+    ],
+    "nameMk": "Теово",
+    "descriptionMk": "Теово е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "bitushe",
+    "name": "Bitushe",
+    "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
+    "type": "city",
+    "latitude": 41.6165295,
+    "longitude": 20.5878404,
+    "coordinates": [
+      20.5878404,
+      41.6165295
+    ],
+    "nameMk": "Битуше",
+    "descriptionMk": "Битуше е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "trebishte",
+    "name": "Trebishte",
+    "description": "Discover ancient archaeological treasures in this border village! Bronze Age artifacts and dramatic lake views offer unique cultural and natural adventures.",
+    "type": "city",
+    "latitude": 41.6282128,
+    "longitude": 20.5893302,
+    "coordinates": [
+      20.5893302,
+      41.6282128
+    ],
+    "nameMk": "Требиште",
+    "descriptionMk": "Посетете го Требиште, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "belitsa",
+    "name": "Belitsa",
+    "description": "Experience highland village life where pastoral traditions thrive! Mountain meadows and ancient stone architecture create perfect cultural immersion opportunities.",
+    "type": "city",
+    "latitude": 41.6768835,
+    "longitude": 21.3049963,
+    "coordinates": [
+      21.3049963,
+      41.6768835
+    ],
+    "nameMk": "Белитса",
+    "descriptionMk": "Белитса е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "vishni",
+    "name": "Vishni",
+    "description": "Explore this cherry orchard village nestled in dramatic mountains! Traditional fruit cultivation and stunning highland vistas offer authentic rural adventures.",
+    "type": "city",
+    "latitude": 41.1931228,
+    "longitude": 20.5982691,
+    "coordinates": [
+      20.5982691,
+      41.1931228
+    ],
+    "nameMk": "Вишни",
+    "descriptionMk": "Вишни е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "gorna_belica",
+    "name": "Gorna Belica",
+    "description": "Venture to this upper highland village where shepherding traditions survive! Mountain pastures and traditional architecture create perfect overlanding cultural stops.",
+    "type": "city",
+    "latitude": 41.223316,
+    "longitude": 20.55581,
+    "coordinates": [
+      20.55581,
+      41.223316
+    ],
+    "nameMk": "Горна Белица",
+    "descriptionMk": "Горна Белица е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "vevcanska_lokva",
+    "name": "Vevčani Springs",
+    "description": "Discover these legendary healing springs where crystal waters flow year-round! Natural pools and ancient wellness traditions create perfect wilderness refreshment stops.",
+    "type": "nature",
+    "latitude": 41.2432388,
+    "longitude": 20.5333121,
+    "coordinates": [
+      20.5333121,
+      41.2432388
+    ],
+    "nameMk": "Вевčани Спрингс",
+    "descriptionMk": "Откријте ја дивата убавина на Вевčани Спрингс, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "babino",
+    "name": "Babino",
+    "description": "Experience traditional mountain village life where ancient customs thrive! Stone houses and dramatic valley views offer authentic Balkan cultural adventures.",
+    "type": "city",
+    "latitude": 41.2990659,
+    "longitude": 21.0806907,
+    "coordinates": [
+      21.0806907,
+      41.2990659
+    ],
+    "nameMk": "Бабино",
+    "descriptionMk": "Посетете го Бабино, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "bazernik",
+    "name": "Bazernik",
+    "description": "Explore this hidden mountain village where traditional crafts flourish! Ancient building techniques and pristine wilderness create perfect cultural photography opportunities.",
+    "type": "city",
+    "latitude": 41.2820967,
+    "longitude": 21.0477173,
+    "coordinates": [
+      21.0477173,
+      41.2820967
+    ],
+    "nameMk": "Базерник",
+    "descriptionMk": "Базерник е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "zbazhdi",
+    "name": "Zbazhdi",
+    "description": "Venture to this remote highland settlement where eagle migrations pass overhead! Dramatic mountain vistas and traditional architecture offer spectacular overlanding adventures.",
+    "type": "city",
+    "latitude": 41.3168733,
+    "longitude": 21.0354629,
+    "coordinates": [
+      21.0354629,
+      41.3168733
+    ],
+    "nameMk": "Збажди",
+    "descriptionMk": "Посетете го Збажди, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "globochica",
+    "name": "Globočica",
+    "description": "Discover this picturesque village where hawthorn forests meet mountain streams! Traditional rural life and pristine nature create perfect wilderness camping spots.",
+    "type": "city",
+    "latitude": 41.2938467,
+    "longitude": 21.0137659,
+    "coordinates": [
+      21.0137659,
+      41.2938467
+    ],
+    "nameMk": "Глобоčица",
+    "descriptionMk": "Глобоčица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "tashmarunishta",
+    "name": "Tašmaruništa",
+    "description": "Explore this border village where three cultures converge! Traditional architecture and dramatic mountain backdrops create unique overlanding photo opportunities.",
+    "type": "city",
+    "latitude": 41.2680714,
+    "longitude": 20.6403575,
+    "coordinates": [
+      20.6403575,
+      41.2680714
+    ],
+    "nameMk": "Таšмаруниšта",
+    "descriptionMk": "Посетете го Таšмаруниšта, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "capari",
+    "name": "Čapari",
+    "description": "Experience this lakeside village where pristine waters meet ancient traditions! Perfect for wild camping and experiencing authentic Balkan fishing culture.",
+    "type": "city",
+    "latitude": 41.2627195,
+    "longitude": 20.6377864,
+    "coordinates": [
+      20.6377864,
+      41.2627195
+    ],
+    "nameMk": "Čапари",
+    "descriptionMk": "Čапари е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "capari_vir",
+    "name": "Čapari Whirlpool",
+    "description": "Witness this natural phenomenon where underground springs create dramatic water spirals! This geological wonder offers unique photography and swimming adventures.",
+    "type": "nature",
+    "latitude": 41.2627195,
+    "longitude": 20.64,
+    "coordinates": [
+      20.64,
+      41.2627195
+    ],
+    "nameMk": "Čапари Wхирлпоол",
+    "descriptionMk": "Уживајте во природните убавини на Čапари Wхирлпоол. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "belovishte",
+    "name": "Belovište",
+    "description": "Discover this mountain village gateway to spectacular waterfalls! Traditional stone architecture and pristine nature create perfect adventure base camps.",
+    "type": "city",
+    "latitude": 41.4453849,
+    "longitude": 20.9804226,
+    "coordinates": [
+      20.9804226,
+      41.4453849
+    ],
+    "nameMk": "Беловиšте",
+    "descriptionMk": "Беловиšте е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "belovishki_waterfall",
+    "name": "Belovište Waterfall",
+    "description": "Chase this thundering cascade hidden in Macedonia's western mountains! Multiple tiers of crystal water create natural pools perfect for brave swimmers and photographers.",
+    "type": "nature",
+    "latitude": 41.4453849,
+    "longitude": 20.985,
+    "coordinates": [
+      20.985,
+      41.4453849
+    ],
+    "nameMk": "Беловиšте Wатерфалл",
+    "descriptionMk": "Откријте ја дивата убавина на Беловиšте Wатерфалл, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "todorovci_stonehenge",
+    "name": "Todorovci Stonehenge",
+    "description": "Explore Macedonia's mysterious megalithic circle! These ancient standing stones rival Stonehenge, offering archaeological adventures and spectacular sunset photography.",
+    "type": "monument",
+    "latitude": 41.45,
+    "longitude": 20.97,
+    "coordinates": [
+      20.97,
+      41.45
+    ],
+    "nameMk": "Тодоровци Стонехенге",
+    "descriptionMk": "Откријте ја убавината на Тодоровци Стонехенге, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "ohrid_old_town",
+    "name": "Ohrid Old Town",
+    "description": "Explore this UNESCO World Heritage treasure where ancient cobblestones meet azure waters! Medieval churches and Ottoman architecture create a living museum perfect for cultural overlanding adventures.",
+    "type": "monument",
+    "latitude": 41.1081,
+    "longitude": 20.8019,
+    "coordinates": [
+      20.8019,
+      41.1081
+    ],
+    "nameMk": "Охрид",
+    "descriptionMk": "Охрид е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "samuel_fortress",
+    "name": "Samuel's Fortress",
+    "description": "Storm the walls of this legendary medieval stronghold overlooking Lake Ohrid! Ancient battlements and panoramic views offer epic photography and historical adventures.",
+    "type": "monument",
+    "latitude": 41.1094,
+    "longitude": 20.8014,
+    "coordinates": [
+      20.8014,
+      41.1094
+    ],
+    "nameMk": "Самоилова Тврдина",
+    "descriptionMk": "Откријте ја убавината на Самоилова Тврдина, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "plaoshnik",
+    "name": "Plaoshnik Archaeological Site",
+    "description": "Uncover millennia of civilizations at this sacred archaeological wonder! Ancient basilicas and Byzantine mosaics reveal Macedonia's spiritual heritage amid stunning lake vistas.",
+    "type": "monument",
+    "latitude": 41.1089,
+    "longitude": 20.7997,
+    "coordinates": [
+      20.7997,
+      41.1089
+    ],
+    "nameMk": "Плаошник",
+    "descriptionMk": "Посетете го Плаошник, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "sveti_naum",
+    "name": "Sveti Naum Monastery",
+    "description": "Journey to this mystical lakeside monastery where peacocks roam sacred grounds! Ancient frescoes and crystal springs create a spiritual paradise for adventurous souls.",
+    "type": "monument",
+    "latitude": 40.9239,
+    "longitude": 20.7428,
+    "coordinates": [
+      20.7428,
+      40.9239
+    ],
+    "nameMk": "Свети Наум Монастерy",
+    "descriptionMk": "Посетете го Свети Наум Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "gradiste",
+    "name": "Gradište Archaeological Site",
+    "description": "Discover the ancient city of Lychnidos buried beneath rolling hills! Roman theaters and Byzantine basilicas offer fascinating archaeological adventures near Ohrid's shores.",
+    "type": "monument",
+    "latitude": 41.1175,
+    "longitude": 20.8033,
+    "coordinates": [
+      20.8033,
+      41.1175
+    ],
+    "nameMk": "Градиšте Арчаеологицал Сите",
+    "descriptionMk": "Градиšте Арчаеологицал Сите е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "galicica_national_park",
+    "name": "Galicica National Park",
+    "description": "Conquer this pristine mountain wilderness between two legendary lakes! Dramatic ridges, endemic flowers, and spectacular overlooks create the ultimate overlanding paradise.",
+    "type": "nature",
+    "latitude": 41.0167,
+    "longitude": 20.8833,
+    "coordinates": [
+      20.8833,
+      41.0167
+    ],
+    "nameMk": "Галичица",
+    "descriptionMk": "Галичица е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "magaro_peak",
+    "name": "Magaro Peak",
+    "description": "Scale Macedonia's dramatic mountain summit for breathtaking dual-lake panoramas! This challenging trek rewards brave adventurers with unforgettable Ohrid and Prespa views.",
+    "type": "nature",
+    "latitude": 40.9833,
+    "longitude": 20.8667,
+    "coordinates": [
+      20.8667,
+      40.9833
+    ],
+    "nameMk": "Магаро Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Магаро Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "bay_of_bones",
+    "name": "Bay of Bones Museum",
+    "description": "Step into Bronze Age lake dwelling reconstructions built on stilts over ancient waters! This unique underwater archaeological site offers fascinating prehistoric adventures.",
+    "type": "monument",
+    "latitude": 40.9358,
+    "longitude": 20.7431,
+    "coordinates": [
+      20.7431,
+      40.9358
+    ],
+    "nameMk": "Залив на Коските",
+    "descriptionMk": "Посетете го Залив на Коските, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "prespa_lake",
+    "name": "Prespa Lake",
+    "description": "Explore this pristine transborder lake where three countries meet! Crystal waters, ancient islands, and diverse wildlife create perfect wilderness camping and photography opportunities.",
+    "type": "nature",
+    "latitude": 40.9167,
+    "longitude": 20.9833,
+    "coordinates": [
+      20.9833,
+      40.9167
+    ],
+    "nameMk": "Преспа Лаке",
+    "descriptionMk": "Преспа Лаке е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "golem_grad",
+    "name": "Golem Grad (Snake Island)",
+    "description": "Venture to this mysterious island fortress where medieval ruins meet wild serpents! Ancient churches and endemic species create thrilling archaeological and wildlife adventures.",
+    "type": "monument",
+    "latitude": 40.8833,
+    "longitude": 20.9167,
+    "coordinates": [
+      20.9167,
+      40.8833
+    ],
+    "nameMk": "Голем Град (Снаке Исланд)",
+    "descriptionMk": "Посетете го Голем Град (Снаке Исланд), значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "pelister_national_park",
+    "name": "Pelister National Park",
+    "description": "Trek through ancient Molika pine forests to glacial mountain lakes! This pristine wilderness offers challenging hikes, endemic flora, and spectacular peak adventures.",
+    "type": "nature",
+    "latitude": 41,
+    "longitude": 21.2167,
+    "coordinates": [
+      21.2167,
+      41
+    ],
+    "nameMk": "Пелистер",
+    "descriptionMk": "Уживајте во природните убавини на Пелистер. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "pelister_peak",
+    "name": "Pelister Peak",
+    "description": "Conquer this mighty mountain summit towering over ancient forests! At 2,601 meters, this challenging climb rewards adventurers with panoramic Balkan vistas.",
+    "type": "nature",
+    "latitude": 40.9667,
+    "longitude": 21.2167,
+    "coordinates": [
+      21.2167,
+      40.9667
+    ],
+    "nameMk": "Пелистер",
+    "descriptionMk": "Пелистер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "big_prespa_lake",
+    "name": "Big Prespa Lake",
+    "description": "Navigate this vast transnational water paradise shared by three Balkan nations! Ancient fishing villages and pristine wetlands offer unique cross-border adventures.",
+    "type": "nature",
+    "latitude": 40.8167,
+    "longitude": 20.9833,
+    "coordinates": [
+      20.9833,
+      40.8167
+    ],
+    "nameMk": "Биг Преспа Лаке",
+    "descriptionMk": "Уживајте во природните убавини на Биг Преспа Лаке. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "small_prespa_lake",
+    "name": "Small Prespa Lake",
+    "description": "Discover this intimate mountain lake jewel surrounded by dramatic peaks! Crystal waters and traditional fishing culture create perfect wilderness retreats.",
+    "type": "nature",
+    "latitude": 40.75,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      40.75
+    ],
+    "nameMk": "Смалл Преспа Лаке",
+    "descriptionMk": "Уживајте во природните убавини на Смалл Преспа Лаке. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "bitola",
+    "name": "Bitola",
+    "description": "Experience Macedonia's cultural capital where Ottoman elegance meets European sophistication! Historic bazaars, consulate architecture, and vibrant cafe culture await urban explorers.",
+    "type": "city",
+    "latitude": 41.0297,
+    "longitude": 21.3347,
+    "coordinates": [
+      21.3347,
+      41.0297
+    ],
+    "nameMk": "Битола",
+    "descriptionMk": "Битола е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "shirok_sokak",
+    "name": "Shirok Sokak",
+    "description": "Stroll down this legendary pedestrian boulevard where Ottoman heritage meets European elegance! Historic architecture and vibrant street life create perfect cultural photography.",
+    "type": "city",
+    "latitude": 41.0297,
+    "longitude": 21.335,
+    "coordinates": [
+      21.335,
+      41.0297
+    ],
+    "nameMk": "Широк Сокак",
+    "descriptionMk": "Посетете го Широк Сокак, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "heraclea_lyncestis",
+    "name": "Heraclea Lyncestis",
+    "description": "Walk through this spectacular Roman city founded by Philip II of Macedon! Ancient theaters, intricate mosaics, and Byzantine basilicas create archaeological adventures.",
+    "type": "monument",
+    "latitude": 41.0089,
+    "longitude": 21.3381,
+    "coordinates": [
+      21.3381,
+      41.0089
+    ],
+    "nameMk": "Хераклеа Линкестис",
+    "descriptionMk": "Откријте ја убавината на Хераклеа Линкестис, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "skopje",
+    "name": "Skopje",
+    "description": "Explore Macedonia's dynamic capital where ancient fortresses meet bold modern architecture! The Stone Bridge, Old Bazaar, and Kale Fortress offer endless urban adventures.",
+    "type": "city",
+    "latitude": 41.9981,
+    "longitude": 21.4254,
+    "coordinates": [
+      21.4254,
+      41.9981
+    ],
+    "nameMk": "Скопје",
+    "descriptionMk": "Посетете го Скопје, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "old_bazaar_skopje",
+    "name": "Old Bazaar Skopje",
+    "description": "Dive into the Balkans' largest Ottoman market where centuries of trade traditions survive! Cobblestone alleys, traditional crafts, and authentic cuisine await cultural explorers.",
+    "type": "monument",
+    "latitude": 41.9958,
+    "longitude": 21.4331,
+    "coordinates": [
+      21.4331,
+      41.9958
+    ],
+    "nameMk": "Скопје",
+    "descriptionMk": "Откријте ја убавината на Скопје, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "kale_fortress",
+    "name": "Kale Fortress",
+    "description": "Storm this ancient citadel overlooking the Vardar River! Medieval walls and panoramic city views create perfect historical adventures in Macedonia's capital.",
+    "type": "monument",
+    "latitude": 41.9981,
+    "longitude": 21.4289,
+    "coordinates": [
+      21.4289,
+      41.9981
+    ],
+    "nameMk": "Кале Тврдина",
+    "descriptionMk": "Откријте ја убавината на Кале Тврдина, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "stone_bridge",
+    "name": "Stone Bridge",
+    "description": "Cross this iconic Ottoman masterpiece connecting Skopje's old and new worlds! Historic arches over the Vardar River offer perfect photography and city exploration.",
+    "type": "monument",
+    "latitude": 41.9981,
+    "longitude": 21.4314,
+    "coordinates": [
+      21.4314,
+      41.9981
+    ],
+    "nameMk": "Камен Мост",
+    "descriptionMk": "Посетете го Камен Мост, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "matka_canyon",
+    "name": "Matka Canyon",
+    "description": "Navigate this dramatic river gorge carved through ancient limestone! Kayaking, cave exploration, and monastery visits create the ultimate outdoor adventure playground.",
+    "type": "nature",
+    "latitude": 41.9333,
+    "longitude": 21.2833,
+    "coordinates": [
+      21.2833,
+      41.9333
+    ],
+    "nameMk": "Кањон Матка",
+    "descriptionMk": "Уживајте во природните убавини на Кањон Матка. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "vrelo_cave",
+    "name": "Vrelo Cave",
+    "description": "Venture into one of the world's deepest underwater cave systems! This mysterious submerged wonder offers unique speleological adventures in Matka Canyon.",
+    "type": "nature",
+    "latitude": 41.9333,
+    "longitude": 21.2817,
+    "coordinates": [
+      21.2817,
+      41.9333
+    ],
+    "nameMk": "Врело Цаве",
+    "descriptionMk": "Уживајте во природните убавини на Врело Цаве. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "vodno_mountain",
+    "name": "Vodno Mountain",
+    "description": "Climb this urban wilderness overlooking Macedonia's capital! Forest trails, the Millennium Cross, and panoramic city views create perfect hiking adventures.",
+    "type": "nature",
+    "latitude": 41.9667,
+    "longitude": 21.4333,
+    "coordinates": [
+      21.4333,
+      41.9667
+    ],
+    "nameMk": "Водно Моунтаин",
+    "descriptionMk": "Откријте ја дивата убавина на Водно Моунтаин, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "millennium_cross",
+    "name": "Millennium Cross",
+    "description": "Ascend to this towering symbol visible from across Skopje! At 66 meters tall, this illuminated cross offers spectacular sunset photography and city panoramas.",
+    "type": "monument",
+    "latitude": 41.9667,
+    "longitude": 21.4333,
+    "coordinates": [
+      21.4333,
+      41.9667
+    ],
+    "nameMk": "Милениумски Крст",
+    "descriptionMk": "Посетете го Милениумски Крст, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "kumanovo",
+    "name": "Kumanovo",
+    "description": "Discover Macedonia's industrial heartland where mining heritage meets mountain wilderness! Historic architecture and dramatic landscapes offer unique urban-nature adventures.",
+    "type": "city",
+    "latitude": 42.1322,
+    "longitude": 21.7144,
+    "coordinates": [
+      21.7144,
+      42.1322
+    ],
+    "nameMk": "Куманово",
+    "descriptionMk": "Посетете го Куманово, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "kokino_observatory",
+    "name": "Kokino Megalithic Observatory",
+    "description": "Witness this ancient astronomical wonder ranking among the world's oldest observatories! Bronze Age stone markers and celestial alignments create mystical archaeological adventures.",
+    "type": "monument",
+    "latitude": 42.2667,
+    "longitude": 21.9667,
+    "coordinates": [
+      21.9667,
+      42.2667
+    ],
+    "nameMk": "Кокино",
+    "descriptionMk": "Посетете го Кокино, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "kratovo",
+    "name": "Kratovo",
+    "description": "Explore this medieval mining town carved into volcanic terrain! Ancient stone bridges, Ottoman towers, and dramatic geology create unique historical adventures.",
+    "type": "city",
+    "latitude": 42.0781,
+    "longitude": 22.1781,
+    "coordinates": [
+      22.1781,
+      42.0781
+    ],
+    "nameMk": "Кратово",
+    "descriptionMk": "Кратово е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "kuklica_stone_dolls",
+    "name": "Kuklica Stone Dolls",
+    "description": "Marvel at these mysterious natural stone pillars resembling petrified people! Volcanic formations and local legends create fascinating geological adventures.",
+    "type": "nature",
+    "latitude": 42.0833,
+    "longitude": 22.1833,
+    "coordinates": [
+      22.1833,
+      42.0833
+    ],
+    "nameMk": "Куклица Стоне Доллс",
+    "descriptionMk": "Уживајте во природните убавини на Куклица Стоне Доллс. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "berovo_lake",
+    "name": "Berovo Lake",
+    "description": "Fish and camp at this pristine artificial lake surrounded by dense pine forests! Crystal waters and mountain wilderness create perfect overlanding retreats.",
+    "type": "camping",
+    "latitude": 41.7,
+    "longitude": 22.85,
+    "coordinates": [
+      22.85,
+      41.7
+    ],
+    "nameMk": "Берово",
+    "descriptionMk": "Берово нуди совршено место за кампување во прегратките на македонската природа."
+  },
+  {
+    "id": "berovo",
+    "name": "Berovo",
+    "description": "Breathe the cleanest air in this highland spa town nestled in pristine forests! Traditional wooden architecture and wellness traditions offer authentic mountain experiences.",
+    "type": "city",
+    "latitude": 41.7031,
+    "longitude": 22.8547,
+    "coordinates": [
+      22.8547,
+      41.7031
+    ],
+    "nameMk": "Берово",
+    "descriptionMk": "Берово е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "maleshevo_mountains",
+    "name": "Maleševo Mountains",
+    "description": "Trek through this pristine mountain range where ancient forests hide crystal streams! Remote trails and endemic wildlife create perfect wilderness adventures.",
+    "type": "nature",
+    "latitude": 41.65,
+    "longitude": 22.9,
+    "coordinates": [
+      22.9,
+      41.65
+    ],
+    "nameMk": "Малеšево Моунтаинс",
+    "descriptionMk": "Уживајте во природните убавини на Малеšево Моунтаинс. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "strumica",
+    "name": "Strumica",
+    "description": "Experience this thermal spa town where healing waters meet ancient culture! Roman baths, Ottoman architecture, and natural hot springs create unique wellness adventures.",
+    "type": "city",
+    "latitude": 41.4375,
+    "longitude": 22.6431,
+    "coordinates": [
+      22.6431,
+      41.4375
+    ],
+    "nameMk": "Струмица",
+    "descriptionMk": "Струмица е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "bansko_spa",
+    "name": "Bansko Spa",
+    "description": "Soak in therapeutic thermal waters bubbling from deep within the earth! These legendary healing springs offer natural wellness retreats in pristine mountain settings.",
+    "type": "recreation",
+    "latitude": 41.4333,
+    "longitude": 22.6333,
+    "coordinates": [
+      22.6333,
+      41.4333
+    ],
+    "nameMk": "Банско Спа",
+    "descriptionMk": "Посетете го Банско Спа за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "tikvesh_wine_region",
+    "name": "Tikvesh Wine Region",
+    "description": "Journey through Macedonia's premier wine country where ancient vines meet modern winemaking! Rolling vineyards and cellar tours create perfect gastronomic adventures.",
+    "type": "restaurant",
+    "latitude": 41.4333,
+    "longitude": 22.0667,
+    "coordinates": [
+      22.0667,
+      41.4333
+    ],
+    "nameMk": "Тиквеш Wине Регион",
+    "descriptionMk": "Тиквеш Wине Регион нуди вкусна храна и пријатна атмосфера за незаборавно кулинарско искуство."
+  },
+  {
+    "id": "kavadarci",
+    "name": "Kavadarci",
+    "description": "Explore the heart of Macedonia's wine country where tradition meets innovation! Historic wineries and vineyard landscapes offer authentic viticultural adventures.",
+    "type": "city",
+    "latitude": 41.4333,
+    "longitude": 22.0111,
+    "coordinates": [
+      22.0111,
+      41.4333
+    ],
+    "nameMk": "Кавадарци",
+    "descriptionMk": "Посетете го Кавадарци, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "negotino",
+    "name": "Negotino",
+    "description": "Discover this ancient trading town where the Vardar River meets wine country! Historic architecture and vineyard tours create perfect cultural and gastronomic stops.",
+    "type": "city",
+    "latitude": 41.4844,
+    "longitude": 22.0886,
+    "coordinates": [
+      22.0886,
+      41.4844
+    ],
+    "nameMk": "Неготино",
+    "descriptionMk": "Неготино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "demir_kapiya",
+    "name": "Demir Kapiya",
+    "description": "Navigate this dramatic river gorge where the Vardar cuts through towering cliffs! Ancient fortress ruins and spectacular geology create thrilling natural adventures.",
+    "type": "nature",
+    "latitude": 41.4069,
+    "longitude": 22.0431,
+    "coordinates": [
+      22.0431,
+      41.4069
+    ],
+    "nameMk": "Демир Капиyа",
+    "descriptionMk": "Уживајте во природните убавини на Демир Капиyа. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "mariovo_region",
+    "name": "Mariovo Region",
+    "description": "Explore this remote highland region where traditional pastoral life survives! Stone villages and pristine wilderness create authentic cultural immersion adventures.",
+    "type": "nature",
+    "latitude": 41.25,
+    "longitude": 21.5,
+    "coordinates": [
+      21.5,
+      41.25
+    ],
+    "nameMk": "Мариово Регион",
+    "descriptionMk": "Мариово Регион е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "treskavec_monastery",
+    "name": "Treskavec Monastery",
+    "description": "Climb to this ancient monastery perched on a dramatic mountain peak! Medieval frescoes and panoramic views reward brave pilgrims with spiritual adventures.",
+    "type": "monument",
+    "latitude": 41.2833,
+    "longitude": 21.6167,
+    "coordinates": [
+      21.6167,
+      41.2833
+    ],
+    "nameMk": "Трескавец Монастерy",
+    "descriptionMk": "Трескавец Монастерy е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "prilep",
+    "name": "Prilep",
+    "description": "Experience this historic tobacco town beneath dramatic granite towers! Ancient monasteries, Ottoman architecture, and natural rock formations create diverse adventures.",
+    "type": "city",
+    "latitude": 41.3453,
+    "longitude": 21.5547,
+    "coordinates": [
+      21.5547,
+      41.3453
+    ],
+    "nameMk": "Прилеп",
+    "descriptionMk": "Посетете го Прилеп, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "marko_towers",
+    "name": "Marko's Towers",
+    "description": "Scale these legendary granite formations named after medieval king Marko! Dramatic rock towers and ancient legends create perfect climbing and photography adventures.",
+    "type": "nature",
+    "latitude": 41.3167,
+    "longitude": 21.5833,
+    "coordinates": [
+      21.5833,
+      41.3167
+    ],
+    "nameMk": "Марко'с Тоwерс",
+    "descriptionMk": "Марко'с Тоwерс е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "krushevo",
+    "name": "Krushevo",
+    "description": "Ascend to the Balkans' highest town where revolutionary history meets pristine mountain air! Traditional Vlach architecture and panoramic views create unique cultural adventures.",
+    "type": "city",
+    "latitude": 41.3689,
+    "longitude": 21.2489,
+    "coordinates": [
+      21.2489,
+      41.3689
+    ],
+    "nameMk": "Крушево",
+    "descriptionMk": "Крушево е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "makedonium",
+    "name": "Makedonium Monument",
+    "description": "Marvel at this striking modern monument commemorating the Ilinden Uprising! Unique architecture and historical significance create powerful cultural experiences.",
+    "type": "monument",
+    "latitude": 41.3689,
+    "longitude": 21.2489,
+    "coordinates": [
+      21.2489,
+      41.3689
+    ],
+    "nameMk": "Македониум Монумент",
+    "descriptionMk": "Откријте ја убавината на Македониум Монумент, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "mečkin_kamen",
+    "name": "Mečkin Kamen",
+    "description": "Conquer this dramatic mountain peak offering panoramic Balkan views! Challenging trails and spectacular vistas reward serious mountain adventurers.",
+    "type": "nature",
+    "latitude": 41.3333,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.3333
+    ],
+    "nameMk": "Меčкин Камен",
+    "descriptionMk": "Меčкин Камен е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "veles",
+    "name": "Veles",
+    "description": "Explore this ancient Vardar River town where Byzantine heritage meets industrial history! Ottoman bridges and diverse architecture offer rich cultural adventures.",
+    "type": "city",
+    "latitude": 41.7161,
+    "longitude": 21.7753,
+    "coordinates": [
+      21.7753,
+      41.7161
+    ],
+    "nameMk": "Велес",
+    "descriptionMk": "Велес е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "stobi",
+    "name": "Stobi Archaeological Site",
+    "description": "Walk through this magnificent ancient city where Roman roads meet Christian basilicas! Well-preserved mosaics and theaters create world-class archaeological adventures.",
+    "type": "monument",
+    "latitude": 41.55,
+    "longitude": 21.9167,
+    "coordinates": [
+      21.9167,
+      41.55
+    ],
+    "nameMk": "Стоби",
+    "descriptionMk": "Стоби е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "tikvesh_lake",
+    "name": "Tikvesh Lake",
+    "description": "Navigate Macedonia's largest artificial lake surrounded by wine country! Boating, fishing, and vineyard tours create perfect recreational adventures.",
+    "type": "recreation",
+    "latitude": 41.5167,
+    "longitude": 21.9833,
+    "coordinates": [
+      21.9833,
+      41.5167
+    ],
+    "nameMk": "Тиквеш Лаке",
+    "descriptionMk": "Тиквеш Лаке е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "dojran_lake",
+    "name": "Dojran Lake",
+    "description": "Discover this shallow thermal lake shared with Greece where ancient spa traditions thrive! Healing mud baths and warm waters create unique wellness adventures.",
+    "type": "recreation",
+    "latitude": 41.2167,
+    "longitude": 22.7167,
+    "coordinates": [
+      22.7167,
+      41.2167
+    ],
+    "nameMk": "Дојран Лаке",
+    "descriptionMk": "Дојран Лаке е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "star_dojran",
+    "name": "Star Dojran",
+    "description": "Experience this charming lakeside resort town where thermal springs meet traditional fishing culture! Historic spa architecture and waterfront dining await relaxation seekers.",
+    "type": "city",
+    "latitude": 41.1889,
+    "longitude": 22.7244,
+    "coordinates": [
+      22.7244,
+      41.1889
+    ],
+    "nameMk": "Стар Дојран",
+    "descriptionMk": "Стар Дојран е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "gevgelija",
+    "name": "Gevgelija",
+    "description": "Explore this vibrant border town where Mediterranean climate meets Balkan culture! Casinos, thermal spas, and cross-border adventures create unique entertainment experiences.",
+    "type": "city",
+    "latitude": 41.1431,
+    "longitude": 22.5047,
+    "coordinates": [
+      22.5047,
+      41.1431
+    ],
+    "nameMk": "Гевгелија",
+    "descriptionMk": "Гевгелија е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "valandovo",
+    "name": "Valandovo",
+    "description": "Journey through Macedonia's warmest region where Mediterranean agriculture flourishes! Rice fields, tobacco farms, and thermal springs create diverse agricultural adventures.",
+    "type": "city",
+    "latitude": 41.3181,
+    "longitude": 22.5606,
+    "coordinates": [
+      22.5606,
+      41.3181
+    ],
+    "nameMk": "Валандово",
+    "descriptionMk": "Посетете го Валандово, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "bogdanci",
+    "name": "Bogdanci",
+    "description": "Discover this southern agricultural town where early harvests and warm climate create Mediterranean atmosphere! Traditional farming and cross-border culture await exploration.",
+    "type": "city",
+    "latitude": 41.2031,
+    "longitude": 22.5797,
+    "coordinates": [
+      22.5797,
+      41.2031
+    ],
+    "nameMk": "Богданци",
+    "descriptionMk": "Посетете го Богданци, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "radoviš",
+    "name": "Radoviš",
+    "description": "Explore this mining heritage town nestled in mountainous terrain! Industrial archaeology and surrounding wilderness create unique urban-nature adventures.",
+    "type": "city",
+    "latitude": 41.6383,
+    "longitude": 22.4647,
+    "coordinates": [
+      22.4647,
+      41.6383
+    ],
+    "nameMk": "Радовиš",
+    "descriptionMk": "Радовиš е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "štip",
+    "name": "Štip",
+    "description": "Experience this eastern textile town where the Bregalnica River meets ancient trade routes! Historic architecture and river valley views create charming urban adventures.",
+    "type": "city",
+    "latitude": 41.7414,
+    "longitude": 22.1953,
+    "coordinates": [
+      22.1953,
+      41.7414
+    ],
+    "nameMk": "Šтип",
+    "descriptionMk": "Šтип е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "bregalnica_river",
+    "name": "Bregalnica River",
+    "description": "Follow Macedonia's second-longest river through diverse landscapes from mountains to plains! Fishing, kayaking, and riverside camping create perfect water adventures.",
+    "type": "nature",
+    "latitude": 41.65,
+    "longitude": 22.3,
+    "coordinates": [
+      22.3,
+      41.65
+    ],
+    "nameMk": "Брегалница Ривер",
+    "descriptionMk": "Откријте ја дивата убавина на Брегалница Ривер, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "kočani",
+    "name": "Kočani",
+    "description": "Discover this rice-growing town in Macedonia's warmest valley! Traditional agriculture, thermal springs, and river adventures create unique lowland experiences.",
+    "type": "city",
+    "latitude": 41.9161,
+    "longitude": 22.4133,
+    "coordinates": [
+      22.4133,
+      41.9161
+    ],
+    "nameMk": "Коčани",
+    "descriptionMk": "Посетете го Коčани, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "vinica",
+    "name": "Vinica",
+    "description": "Explore this ancient town where Roman archaeology meets traditional winemaking! Historic ruins and vineyard culture create perfect archaeological and gastronomic adventures.",
+    "type": "city",
+    "latitude": 41.8839,
+    "longitude": 22.5081,
+    "coordinates": [
+      22.5081,
+      41.8839
+    ],
+    "nameMk": "Виница",
+    "descriptionMk": "Посетете го Виница, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "bargala",
+    "name": "Bargala Archaeological Site",
+    "description": "Uncover this Early Christian city hidden in eastern Macedonia! Ancient basilicas with stunning mosaics create remarkable archaeological adventures off the beaten path.",
+    "type": "monument",
+    "latitude": 41.8833,
+    "longitude": 22.5167,
+    "coordinates": [
+      22.5167,
+      41.8833
+    ],
+    "nameMk": "Баргала Арчаеологицал Сите",
+    "descriptionMk": "Посетете го Баргала Арчаеологицал Сите, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "delčevo",
+    "name": "Delčevo",
+    "description": "Venture to this highland mining town surrounded by pristine forests! Traditional mountain culture and wilderness access create authentic overlanding adventures.",
+    "type": "city",
+    "latitude": 41.9681,
+    "longitude": 22.7681,
+    "coordinates": [
+      22.7681,
+      41.9681
+    ],
+    "nameMk": "Делčево",
+    "descriptionMk": "Делčево е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "pehčevo",
+    "name": "Pehčevo",
+    "description": "Discover this small mountain town gateway to pristine wilderness! Forest trails and traditional highland life create perfect base camp adventures.",
+    "type": "city",
+    "latitude": 41.7619,
+    "longitude": 22.8947,
+    "coordinates": [
+      22.8947,
+      41.7619
+    ],
+    "nameMk": "Пехčево",
+    "descriptionMk": "Посетете го Пехčево, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "osogovo_mountains",
+    "name": "Osogovo Mountains",
+    "description": "Trek through this pristine mountain range on the Bulgarian border! Dense forests, glacial lakes, and endemic species create spectacular wilderness adventures.",
+    "type": "nature",
+    "latitude": 42,
+    "longitude": 22.6667,
+    "coordinates": [
+      22.6667,
+      42
+    ],
+    "nameMk": "Осогово Моунтаинс",
+    "descriptionMk": "Откријте ја дивата убавина на Осогово Моунтаинс, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "mavrovo_national_park",
+    "name": "Mavrovo National Park",
+    "description": "Conquer Macedonia's largest national park where pristine lakes meet towering peaks! Lynx roam ancient forests while eagles soar over glacial waters in this wilderness paradise.",
+    "type": "nature",
+    "latitude": 41.7,
+    "longitude": 20.75,
+    "coordinates": [
+      20.75,
+      41.7
+    ],
+    "nameMk": "Маврово",
+    "descriptionMk": "Откријте ја дивата убавина на Маврово, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "mavrovo_lake",
+    "name": "Mavrovo Lake",
+    "description": "Kayak across this stunning artificial lake surrounded by mountain giants! Crystal waters reflect snow-capped peaks, creating perfect wild camping and fishing adventures.",
+    "type": "recreation",
+    "latitude": 41.6833,
+    "longitude": 20.7167,
+    "coordinates": [
+      20.7167,
+      41.6833
+    ],
+    "nameMk": "Маврово",
+    "descriptionMk": "Маврово е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "bistra_mountain",
+    "name": "Bistra Mountain",
+    "description": "Scale Macedonia's third-highest peak where ancient beech forests hide endemic species! Challenging trails and panoramic views reward serious mountain adventurers.",
+    "type": "nature",
+    "latitude": 41.75,
+    "longitude": 20.6667,
+    "coordinates": [
+      20.6667,
+      41.75
+    ],
+    "nameMk": "Бистра Моунтаин",
+    "descriptionMk": "Бистра Моунтаин е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "janche",
+    "name": "Janče",
+    "description": "Discover this remote mountain village where traditional log cabins meet pristine wilderness! Authentic highland culture and dramatic landscapes create perfect overlanding stops.",
+    "type": "city",
+    "latitude": 41.6167,
+    "longitude": 20.6833,
+    "coordinates": [
+      20.6833,
+      41.6167
+    ],
+    "nameMk": "Јанčе",
+    "descriptionMk": "Јанčе е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "lazaropole",
+    "name": "Lazaropole",
+    "description": "Experience this authentic mountain village where stone architecture meets shepherd traditions! Highland pastures and ancient customs create perfect cultural immersion.",
+    "type": "city",
+    "latitude": 41.5833,
+    "longitude": 20.65,
+    "coordinates": [
+      20.65,
+      41.5833
+    ],
+    "nameMk": "Лазарополе",
+    "descriptionMk": "Посетете го Лазарополе, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "galicnik",
+    "name": "Galičnik",
+    "description": "Venture to this legendary highland village famous for traditional weddings! Stone houses and mountain meadows create perfect cultural photography opportunities.",
+    "type": "city",
+    "latitude": 41.6,
+    "longitude": 20.6167,
+    "coordinates": [
+      20.6167,
+      41.6
+    ],
+    "nameMk": "Галиčник",
+    "descriptionMk": "Галиčник е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "tetovo",
+    "name": "Tetovo",
+    "description": "Explore this multicultural mountain city where Albanian and Macedonian cultures blend! Colorful Painted Mosque and Šar Mountain access create diverse urban adventures.",
+    "type": "city",
+    "latitude": 42.0106,
+    "longitude": 20.9714,
+    "coordinates": [
+      20.9714,
+      42.0106
+    ],
+    "nameMk": "Тетово",
+    "descriptionMk": "Посетете го Тетово, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "painted_mosque",
+    "name": "Painted Mosque (Šarena Džamija)",
+    "description": "Marvel at the Balkans' most colorful mosque adorned with spectacular Ottoman frescoes! This architectural jewel offers unique cultural and artistic adventures.",
+    "type": "monument",
+    "latitude": 42.01,
+    "longitude": 20.97,
+    "coordinates": [
+      20.97,
+      42.01
+    ],
+    "nameMk": "Паинтед Мосqуе (Šарена Дžамија)",
+    "descriptionMk": "Паинтед Мосqуе (Šарена Дžамија) е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "sar_mountain",
+    "name": "Šar Mountain",
+    "description": "Conquer this mighty mountain range where glacial lakes sparkle beneath towering peaks! Alpine meadows and endemic flowers create spectacular high-altitude adventures.",
+    "type": "nature",
+    "latitude": 42.05,
+    "longitude": 20.8,
+    "coordinates": [
+      20.8,
+      42.05
+    ],
+    "nameMk": "Šар Моунтаин",
+    "descriptionMk": "Уживајте во природните убавини на Šар Моунтаин. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "popova_sapka",
+    "name": "Popova Šapka",
+    "description": "Ski and hike this premier mountain resort where winter sports meet summer trekking! Panoramic views and alpine adventures await year-round explorers.",
+    "type": "accommodation",
+    "latitude": 42.0333,
+    "longitude": 20.9167,
+    "coordinates": [
+      20.9167,
+      42.0333
+    ],
+    "nameMk": "Попова Šапка",
+    "descriptionMk": "Попова Šапка е интересна локација во Македонија која вреди да се посети. Откријте ја убавината на овој крај."
+  },
+  {
+    "id": "brezovica_ski_center",
+    "name": "Brezovica Ski Center",
+    "description": "Carve fresh powder on pristine Šar Mountain slopes! This high-altitude ski resort offers world-class winter adventures and summer hiking opportunities.",
+    "type": "recreation",
+    "latitude": 42.0833,
+    "longitude": 21.0167,
+    "coordinates": [
+      21.0167,
+      42.0833
+    ],
+    "nameMk": "Брезовица Ски Центер",
+    "descriptionMk": "Посетете го Брезовица Ски Центер за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "gostivar",
+    "name": "Gostivar",
+    "description": "Experience this multicultural river town where diverse traditions flourish! Historic architecture and mountain access create perfect cultural and adventure base camps.",
+    "type": "city",
+    "latitude": 41.7964,
+    "longitude": 20.9081,
+    "coordinates": [
+      20.9081,
+      41.7964
+    ],
+    "nameMk": "Гостивар",
+    "descriptionMk": "Гостивар е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "kicevo",
+    "name": "Kičevo",
+    "description": "Explore this highland town gateway to pristine national parks! Traditional architecture and wilderness access create perfect overlanding adventures.",
+    "type": "city",
+    "latitude": 41.5125,
+    "longitude": 20.9597,
+    "coordinates": [
+      20.9597,
+      41.5125
+    ],
+    "nameMk": "Кичево",
+    "descriptionMk": "Кичево е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "makedonski_brod",
+    "name": "Makedonski Brod",
+    "description": "Discover this riverside town where the Treska River meets ancient history! Traditional bridges and mountain vistas create perfect photography opportunities.",
+    "type": "city",
+    "latitude": 41.5133,
+    "longitude": 21.2147,
+    "coordinates": [
+      21.2147,
+      41.5133
+    ],
+    "nameMk": "Македонски Брод",
+    "descriptionMk": "Македонски Брод е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "tikvesh_fortress",
+    "name": "Tikvesh Fortress",
+    "description": "Storm this medieval stronghold overlooking wine country! Ancient walls and vineyard panoramas create perfect historical and gastronomic adventures.",
+    "type": "monument",
+    "latitude": 41.45,
+    "longitude": 22,
+    "coordinates": [
+      22,
+      41.45
+    ],
+    "nameMk": "Тиквеш Фортресс",
+    "descriptionMk": "Посетете го Тиквеш Фортресс, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "koleshino",
+    "name": "Kolešino",
+    "description": "Experience this mountain village famous for Macedonia's tallest waterfall! Traditional stone architecture and natural wonders create perfect adventure combinations.",
+    "type": "city",
+    "latitude": 41.37,
+    "longitude": 22.81,
+    "coordinates": [
+      22.81,
+      41.37
+    ],
+    "nameMk": "Колеšино",
+    "descriptionMk": "Колеšино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "polog_valley",
+    "name": "Polog Valley",
+    "description": "Journey through this fertile valley where three mountain ranges converge! Agricultural landscapes and cultural diversity create unique regional adventures.",
+    "type": "nature",
+    "latitude": 41.9,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      41.9
+    ],
+    "nameMk": "Полог Валлеy",
+    "descriptionMk": "Уживајте во природните убавини на Полог Валлеy. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "vardar_river",
+    "name": "Vardar River",
+    "description": "Follow Macedonia's longest river from mountain springs to Aegean destiny! Kayaking, fishing, and riverside camping create epic water adventures.",
+    "type": "nature",
+    "latitude": 41.6,
+    "longitude": 21.7,
+    "coordinates": [
+      21.7,
+      41.6
+    ],
+    "nameMk": "Вардар Ривер",
+    "descriptionMk": "Уживајте во природните убавини на Вардар Ривер. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "crna_river",
+    "name": "Crna River",
+    "description": "Navigate this pristine mountain river flowing through untouched valleys! Crystal waters and wilderness camping create perfect nature escape adventures.",
+    "type": "nature",
+    "latitude": 41.2,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      41.2
+    ],
+    "nameMk": "Црна Ривер",
+    "descriptionMk": "Откријте ја дивата убавина на Црна Ривер, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "treska_river",
+    "name": "Treska River",
+    "description": "Explore this dramatic river carving spectacular canyons through limestone! White-water adventures and canyon photography await thrill-seeking explorers.",
+    "type": "nature",
+    "latitude": 41.8,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      41.8
+    ],
+    "nameMk": "Треска Ривер",
+    "descriptionMk": "Треска Ривер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "pcinja_river",
+    "name": "Pčinja River",
+    "description": "Follow this border river through diverse landscapes and cultures! Fishing, wildlife watching, and cross-border adventures create unique experiences.",
+    "type": "nature",
+    "latitude": 41.95,
+    "longitude": 22.1,
+    "coordinates": [
+      22.1,
+      41.95
+    ],
+    "nameMk": "Пčиња Ривер",
+    "descriptionMk": "Пčиња Ривер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "babuna_river",
+    "name": "Babuna River",
+    "description": "Discover this mountain river flowing through pristine valleys! Traditional water mills and clear streams create perfect rural adventure experiences.",
+    "type": "nature",
+    "latitude": 41.4,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      41.4
+    ],
+    "nameMk": "Бабуна Ривер",
+    "descriptionMk": "Бабуна Ривер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "lakavica_river",
+    "name": "Lakavica River",
+    "description": "Trek alongside this pristine mountain stream through untouched forests! Wildlife spotting and wilderness camping create perfect nature adventures.",
+    "type": "nature",
+    "latitude": 41.85,
+    "longitude": 22.2,
+    "coordinates": [
+      22.2,
+      41.85
+    ],
+    "nameMk": "Лакавица Ривер",
+    "descriptionMk": "Откријте ја дивата убавина на Лакавица Ривер, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "zletovska_river",
+    "name": "Zletovska River",
+    "description": "Explore this mountain river valley where traditional villages meet pristine nature! Fishing and cultural photography create perfect highland adventures.",
+    "type": "nature",
+    "latitude": 42.1,
+    "longitude": 22.05,
+    "coordinates": [
+      22.05,
+      42.1
+    ],
+    "nameMk": "Злетовска Ривер",
+    "descriptionMk": "Злетовска Ривер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "strumica_river",
+    "name": "Strumica River",
+    "description": "Navigate this southeastern river through thermal spring country! Hot springs and riverside camping create unique wellness and nature adventures.",
+    "type": "nature",
+    "latitude": 41.4,
+    "longitude": 22.6,
+    "coordinates": [
+      22.6,
+      41.4
+    ],
+    "nameMk": "Струмица",
+    "descriptionMk": "Струмица е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "monastery_sv_jovan_bigorski",
+    "name": "Monastery St. John Bigorski",
+    "description": "Discover this magnificent monastery hidden in pristine Bistra forests! Intricate wood carvings and mountain serenity create profound spiritual adventures.",
+    "type": "monument",
+    "latitude": 41.6833,
+    "longitude": 20.6167,
+    "coordinates": [
+      20.6167,
+      41.6833
+    ],
+    "nameMk": "Монастерy Ст. Јохн Бигорски",
+    "descriptionMk": "Монастерy Ст. Јохн Бигорски е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "monastery_sv_pantelejmon",
+    "name": "Monastery St. Panteleimon",
+    "description": "Experience this medieval monastery where ancient frescoes tell spiritual stories! Mountain isolation and Byzantine art create transcendent cultural adventures.",
+    "type": "monument",
+    "latitude": 41.7,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      41.7
+    ],
+    "nameMk": "Монастерy Ст. Пантелеимон",
+    "descriptionMk": "Посетете го Монастерy Ст. Пантелеимон, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_dimitrij",
+    "name": "Monastery St. Dimitri",
+    "description": "Explore this ancient spiritual sanctuary perched on dramatic cliffs! Medieval architecture and panoramic views create perfect pilgrimage adventures.",
+    "type": "monument",
+    "latitude": 41.55,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      41.55
+    ],
+    "nameMk": "Монастерy Ст. Димитри",
+    "descriptionMk": "Посетете го Монастерy Ст. Димитри, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_nikola",
+    "name": "Monastery St. Nicholas",
+    "description": "Visit this lakeside monastery where spiritual reflection meets natural beauty! Ancient stones and water views create serene contemplative experiences.",
+    "type": "monument",
+    "latitude": 41.1,
+    "longitude": 20.8,
+    "coordinates": [
+      20.8,
+      41.1
+    ],
+    "nameMk": "Монастерy Ст. Ничолас",
+    "descriptionMk": "Посетете го Монастерy Ст. Ничолас, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_archangel_michael",
+    "name": "Monastery Archangel Michael",
+    "description": "Climb to this mountain monastery where angels seem to dwell among clouds! Spiritual architecture and heavenly views create divine adventure experiences.",
+    "type": "monument",
+    "latitude": 41.6,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.6
+    ],
+    "nameMk": "Монастерy Арчангел Мичаел",
+    "descriptionMk": "Посетете го Монастерy Арчангел Мичаел, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_bogorodica",
+    "name": "Monastery Holy Mother of God",
+    "description": "Discover this sacred feminine sanctuary where maternal protection meets mountain majesty! Ancient icons and peaceful gardens create healing spiritual journeys.",
+    "type": "monument",
+    "latitude": 41.4,
+    "longitude": 21.1,
+    "coordinates": [
+      21.1,
+      41.4
+    ],
+    "nameMk": "Монастерy Холy Мотхер оф Год",
+    "descriptionMk": "Посетете го Монастерy Холy Мотхер оф Год, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_erasmo",
+    "name": "Monastery St. Erasmus",
+    "description": "Experience this remote mountain monastery where hermit traditions survive! Wilderness isolation and spiritual discipline create profound contemplative adventures.",
+    "type": "monument",
+    "latitude": 41.35,
+    "longitude": 20.95,
+    "coordinates": [
+      20.95,
+      41.35
+    ],
+    "nameMk": "Монастерy Ст. Ерасмус",
+    "descriptionMk": "Посетете го Монастерy Ст. Ерасмус, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_spas",
+    "name": "Monastery Holy Savior",
+    "description": "Visit this salvation sanctuary where miraculous stories echo through stone halls! Ancient healing traditions and mountain peace create transformative experiences.",
+    "type": "monument",
+    "latitude": 41.25,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.25
+    ],
+    "nameMk": "Монастерy Холy Савиор",
+    "descriptionMk": "Монастерy Холy Савиор е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "monastery_sv_petka",
+    "name": "Monastery St. Petka",
+    "description": "Explore this women's healing monastery where traditional remedies meet spiritual power! Herbal gardens and ancient wisdom create unique wellness adventures.",
+    "type": "monument",
+    "latitude": 41.15,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.15
+    ],
+    "nameMk": "Монастерy Ст. Петка",
+    "descriptionMk": "Посетете го Монастерy Ст. Петка, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "monastery_sv_gjorgji",
+    "name": "Monastery St. George",
+    "description": "Discover this dragon-slaying saint's mountain fortress! Legendary tales and warrior spirit create epic mythological adventure experiences.",
+    "type": "monument",
+    "latitude": 41.05,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      41.05
+    ],
+    "nameMk": "Монастерy Ст. Георге",
+    "descriptionMk": "Монастерy Ст. Георге е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "debar",
+    "name": "Debar",
+    "description": "Explore this border town where Albanian culture meets mountain wilderness! Historic architecture and hot springs create perfect multicultural adventures.",
+    "type": "city",
+    "latitude": 41.5236,
+    "longitude": 20.5247,
+    "coordinates": [
+      20.5247,
+      41.5236
+    ],
+    "nameMk": "Дебар",
+    "descriptionMk": "Дебар е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "debar_lake",
+    "name": "Debar Lake",
+    "description": "Navigate this artificial lake shared between Macedonia and Albania! Crystal waters and cross-border adventures create unique international experiences.",
+    "type": "recreation",
+    "latitude": 41.5167,
+    "longitude": 20.4833,
+    "coordinates": [
+      20.4833,
+      41.5167
+    ],
+    "nameMk": "Дебар",
+    "descriptionMk": "Дебар е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "struga",
+    "name": "Struga",
+    "description": "Experience this poetry town where the Black Drin River meets Lake Ohrid! Literary festivals and lakeside beauty create perfect cultural adventures.",
+    "type": "city",
+    "latitude": 41.1781,
+    "longitude": 20.6781,
+    "coordinates": [
+      20.6781,
+      41.1781
+    ],
+    "nameMk": "Струга",
+    "descriptionMk": "Струга е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "black_drin_springs",
+    "name": "Black Drin Springs",
+    "description": "Witness the birthplace of a mighty river emerging from Lake Ohrid's depths! Crystal springs and underwater mysteries create fascinating natural adventures.",
+    "type": "water",
+    "latitude": 41.18,
+    "longitude": 20.65,
+    "coordinates": [
+      20.65,
+      41.18
+    ],
+    "nameMk": "Блацк Дрин Спрингс",
+    "descriptionMk": "Блацк Дрин Спрингс е интересна локација во Македонија која вреди да се посети. Откријте ја убавината на овој крај."
+  },
+  {
+    "id": "gabrovo_village",
+    "name": "Gabrovo Village",
+    "description": "Discover this highland village gateway to spectacular waterfalls! Traditional mountain life and natural wonders create perfect adventure combinations.",
+    "type": "city",
+    "latitude": 41.38,
+    "longitude": 22.79,
+    "coordinates": [
+      22.79,
+      41.38
+    ],
+    "nameMk": "Габрово Виллаге",
+    "descriptionMk": "Габрово Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "sm_waterfall",
+    "name": "SM Waterfall",
+    "description": "Chase this hidden cascade tumbling through pristine mountain forests! Secret location and crystal pools create perfect wilderness swimming adventures.",
+    "type": "nature",
+    "latitude": 41.36,
+    "longitude": 22.9,
+    "coordinates": [
+      22.9,
+      41.36
+    ],
+    "nameMk": "СМ Wатерфалл",
+    "descriptionMk": "Уживајте во природните убавини на СМ Wатерфалл. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "berovo_spa",
+    "name": "Berovo Spa",
+    "description": "Breathe the cleanest mountain air while soaking in therapeutic mineral waters! Alpine wellness and forest tranquility create perfect healing retreats.",
+    "type": "recreation",
+    "latitude": 41.7,
+    "longitude": 22.86,
+    "coordinates": [
+      22.86,
+      41.7
+    ],
+    "nameMk": "Берово",
+    "descriptionMk": "Берово е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "ablanitsa_peak",
+    "name": "Ablanitsa Peak",
+    "description": "Scale this challenging summit in the Maleševo Mountains! Demanding trails and spectacular views reward serious mountain adventurers.",
+    "type": "nature",
+    "latitude": 41.6,
+    "longitude": 22.95,
+    "coordinates": [
+      22.95,
+      41.6
+    ],
+    "nameMk": "Абланитса Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Абланитса Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "carev_vrv_peak",
+    "name": "Carev Vrv Peak",
+    "description": "Conquer this royal summit where kings once surveyed their domains! Majestic views and challenging climbs create epic mountain adventures.",
+    "type": "nature",
+    "latitude": 41,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41
+    ],
+    "nameMk": "Царев Врв Пеак",
+    "descriptionMk": "Царев Врв Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "solunska_glava_peak",
+    "name": "Solunska Glava Peak",
+    "description": "Reach this towering peak named for distant Thessaloniki views! Alpine challenges and panoramic vistas reward determined climbers.",
+    "type": "nature",
+    "latitude": 40.95,
+    "longitude": 21.15,
+    "coordinates": [
+      21.15,
+      40.95
+    ],
+    "nameMk": "Солунска Глава Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Солунска Глава Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "titov_vrv_peak",
+    "name": "Titov Vrv Peak",
+    "description": "Scale Macedonia's second-highest summit in Šar Mountain! Glacial lakes and alpine meadows create spectacular high-altitude adventures.",
+    "type": "nature",
+    "latitude": 42,
+    "longitude": 20.75,
+    "coordinates": [
+      20.75,
+      42
+    ],
+    "nameMk": "Титов Врв Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Титов Врв Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "korab_peak",
+    "name": "Korab Peak",
+    "description": "Conquer Macedonia's highest summit on the Albanian border! At 2,764 meters, this ultimate challenge rewards brave climbers with Balkan supremacy.",
+    "type": "nature",
+    "latitude": 41.7833,
+    "longitude": 20.55,
+    "coordinates": [
+      20.55,
+      41.7833
+    ],
+    "nameMk": "Кораб Пеак",
+    "descriptionMk": "Кораб Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "deshat_peak",
+    "name": "Dešat Peak",
+    "description": "Scale this dramatic Šar Mountain summit where ten valleys converge! Alpine beauty and panoramic views create perfect high-altitude adventures.",
+    "type": "nature",
+    "latitude": 42.05,
+    "longitude": 20.85,
+    "coordinates": [
+      20.85,
+      42.05
+    ],
+    "nameMk": "Деšат Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Деšат Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "golem_korab_peak",
+    "name": "Golem Korab Peak",
+    "description": "Reach Macedonia's ultimate summit crown! This challenging border peak offers the highest adventures in the entire Balkan Peninsula.",
+    "type": "nature",
+    "latitude": 41.7889,
+    "longitude": 20.5481,
+    "coordinates": [
+      20.5481,
+      41.7889
+    ],
+    "nameMk": "Голем Кораб Пеак",
+    "descriptionMk": "Голем Кораб Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "mal_korab_peak",
+    "name": "Mal Korab Peak",
+    "description": "Challenge this lesser Korab sibling offering spectacular border views! High-altitude trails and pristine wilderness create perfect mountain adventures.",
+    "type": "nature",
+    "latitude": 41.78,
+    "longitude": 20.54,
+    "coordinates": [
+      20.54,
+      41.78
+    ],
+    "nameMk": "Мал Кораб Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Мал Кораб Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "krcin_peak",
+    "name": "Krčin Peak",
+    "description": "Conquer this Osogovo Mountains giant where Bulgarian borders meet pristine wilderness! Challenging trails and cross-border views reward serious hikers.",
+    "type": "nature",
+    "latitude": 42.05,
+    "longitude": 22.7,
+    "coordinates": [
+      22.7,
+      42.05
+    ],
+    "nameMk": "Крčин Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Крčин Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "ruen_peak",
+    "name": "Ruen Peak",
+    "description": "Scale the Osogovo Mountains' highest summit! Ancient forests and glacial features create spectacular wilderness adventures.",
+    "type": "nature",
+    "latitude": 42.1,
+    "longitude": 22.75,
+    "coordinates": [
+      22.75,
+      42.1
+    ],
+    "nameMk": "Руен Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Руен Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "kajmakcalan_peak",
+    "name": "Kajmakčalan Peak",
+    "description": "Reach this WWI battlefield summit where history meets high-altitude adventure! Memorial sites and mountain views create profound historical experiences.",
+    "type": "monument",
+    "latitude": 40.9167,
+    "longitude": 21.7833,
+    "coordinates": [
+      21.7833,
+      40.9167
+    ],
+    "nameMk": "Кајмакčалан Пеак",
+    "descriptionMk": "Кајмакčалан Пеак е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "nidje_peak",
+    "name": "Nidje Peak",
+    "description": "Conquer this Baba Mountain summit offering spectacular Pelister views! Alpine lakes and endemic pine forests create perfect mountain wilderness.",
+    "type": "nature",
+    "latitude": 41.0167,
+    "longitude": 21.2333,
+    "coordinates": [
+      21.2333,
+      41.0167
+    ],
+    "nameMk": "Ниџе Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Ниџе Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "veternik_peak",
+    "name": "Veternik Peak",
+    "description": "Scale this wind-swept summit where eagles ride thermals above pristine valleys! Challenging climbs and aerial views reward mountain adventurers.",
+    "type": "nature",
+    "latitude": 41.5,
+    "longitude": 21,
+    "coordinates": [
+      21,
+      41.5
+    ],
+    "nameMk": "Ветерник Пеак",
+    "descriptionMk": "Ветерник Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "crn_kamen_peak",
+    "name": "Crn Kamen Peak",
+    "description": "Reach this 'Black Stone' summit where dark rocks meet bright sky! Dramatic geology and panoramic views create striking mountain adventures.",
+    "type": "nature",
+    "latitude": 41.45,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      41.45
+    ],
+    "nameMk": "Црн Камен Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Црн Камен Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "kozuf_peak",
+    "name": "Kozuf Peak",
+    "description": "Climb this southern mountain giant where Greek borders meet highland wilderness! Cross-border views and challenging trails reward determined explorers.",
+    "type": "nature",
+    "latitude": 41.2,
+    "longitude": 22.45,
+    "coordinates": [
+      22.45,
+      41.2
+    ],
+    "nameMk": "Козуф Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Козуф Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "plackovica_peak",
+    "name": "Plačkovica Peak",
+    "description": "Conquer this eastern mountain summit where ancient mining meets pristine nature! Industrial heritage and wilderness views create unique adventures.",
+    "type": "nature",
+    "latitude": 41.9,
+    "longitude": 22.5,
+    "coordinates": [
+      22.5,
+      41.9
+    ],
+    "nameMk": "Плаčковица Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Плаčковица Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "golak_peak",
+    "name": "Golak Peak",
+    "description": "Scale this naked mountain summit where barren beauty meets dramatic skies! Stark landscapes and panoramic views create powerful alpine experiences.",
+    "type": "nature",
+    "latitude": 42.2,
+    "longitude": 21.8,
+    "coordinates": [
+      21.8,
+      42.2
+    ],
+    "nameMk": "Голак Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Голак Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "kitka_peak",
+    "name": "Kitka Peak",
+    "description": "Reach this remote eastern summit where pristine wilderness meets endless horizons! Challenging access and untouched nature reward serious adventurers.",
+    "type": "nature",
+    "latitude": 41.8,
+    "longitude": 22.8,
+    "coordinates": [
+      22.8,
+      41.8
+    ],
+    "nameMk": "Китка Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Китка Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "babuna_peak",
+    "name": "Babuna Peak",
+    "description": "Climb this central mountain summit where traditional villages dot pristine valleys! Cultural encounters and mountain views create perfect overlanding adventures.",
+    "type": "nature",
+    "latitude": 41.4,
+    "longitude": 21.9,
+    "coordinates": [
+      21.9,
+      41.4
+    ],
+    "nameMk": "Бабуна Пеак",
+    "descriptionMk": "Бабуна Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "dautica_peak",
+    "name": "Dautica Peak",
+    "description": "Conquer this challenging summit where ancient trails meet modern adventure! Historical paths and mountain vistas create timeless trekking experiences.",
+    "type": "nature",
+    "latitude": 41.65,
+    "longitude": 21.7,
+    "coordinates": [
+      21.7,
+      41.65
+    ],
+    "nameMk": "Даутица Пеак",
+    "descriptionMk": "Даутица Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "selechka_planina",
+    "name": "Selečka Planina",
+    "description": "Trek across this pristine mountain plateau where shepherds still roam! Traditional pastoral life and highland meadows create authentic cultural adventures.",
+    "type": "nature",
+    "latitude": 41.55,
+    "longitude": 22.2,
+    "coordinates": [
+      22.2,
+      41.55
+    ],
+    "nameMk": "Селеčка Планина",
+    "descriptionMk": "Селеčка Планина е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "ograzden_peak",
+    "name": "Ogražden Peak",
+    "description": "Scale this Bulgarian border summit where two nations meet in mountain majesty! Cross-border views and challenging trails reward international adventurers.",
+    "type": "nature",
+    "latitude": 41.3,
+    "longitude": 22.85,
+    "coordinates": [
+      22.85,
+      41.3
+    ],
+    "nameMk": "Ограžден Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Ограžден Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "belasica_peak",
+    "name": "Belasica Peak",
+    "description": "Conquer this tri-border summit where Macedonia, Bulgaria, and Greece converge! Triple-nation views and challenging climbs create ultimate border adventures.",
+    "type": "nature",
+    "latitude": 41.3333,
+    "longitude": 23,
+    "coordinates": [
+      23,
+      41.3333
+    ],
+    "nameMk": "Беласица Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Беласица Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "karadzica_peak",
+    "name": "Karadžica Peak",
+    "description": "Reach this remote mountain summit where pristine wilderness meets endless horizons! Solitary climbing and untouched nature create profound mountain experiences.",
+    "type": "nature",
+    "latitude": 41.7,
+    "longitude": 22.3,
+    "coordinates": [
+      22.3,
+      41.7
+    ],
+    "nameMk": "Карадžица Пеак",
+    "descriptionMk": "Карадžица Пеак е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "suva_gora_peak",
+    "name": "Suva Gora Peak",
+    "description": "Scale this 'Dry Mountain' where stark beauty meets dramatic weather! Challenging conditions and raw landscapes create intense mountain adventures.",
+    "type": "nature",
+    "latitude": 41.85,
+    "longitude": 21.9,
+    "coordinates": [
+      21.9,
+      41.85
+    ],
+    "nameMk": "Сува Гора Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Сува Гора Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "jakupica_peak",
+    "name": "Jakupica Peak",
+    "description": "Conquer this central mountain giant where glacial lakes reflect pristine skies! Alpine beauty and challenging trails create perfect wilderness adventures.",
+    "type": "nature",
+    "latitude": 41.6,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.6
+    ],
+    "nameMk": "Јакупица Пеак",
+    "descriptionMk": "Откријте ја дивата убавина на Јакупица Пеак, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "kitino_village",
+    "name": "Kitino Village",
+    "description": "Experience this remote highland settlement where traditional life survives in mountain isolation! Authentic culture and dramatic landscapes create perfect overlanding stops.",
+    "type": "city",
+    "latitude": 41.28,
+    "longitude": 20.92,
+    "coordinates": [
+      20.92,
+      41.28
+    ],
+    "nameMk": "Китино Виллаге",
+    "descriptionMk": "Посетете го Китино Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "labunishta_village",
+    "name": "Labuništa Village",
+    "description": "Discover this lakeside village where apple orchards meet crystal waters! Traditional fruit cultivation and Ohrid beauty create perfect agricultural adventures.",
+    "type": "city",
+    "latitude": 41.12,
+    "longitude": 20.78,
+    "coordinates": [
+      20.78,
+      41.12
+    ],
+    "nameMk": "Лабуниšта Виллаге",
+    "descriptionMk": "Лабуниšта Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "pestani_village",
+    "name": "Pestani Village",
+    "description": "Explore this traditional fishing village where nets dry beside ancient stones! Lakeside culture and timeless traditions create authentic waterfront experiences.",
+    "type": "city",
+    "latitude": 41.11,
+    "longitude": 20.77,
+    "coordinates": [
+      20.77,
+      41.11
+    ],
+    "nameMk": "Пестани Виллаге",
+    "descriptionMk": "Посетете го Пестани Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "trpejca_village",
+    "name": "Trpejca Village",
+    "description": "Experience this pristine lakeside settlement where traditional architecture meets crystal waters! Stone houses and lake views create perfect photography opportunities.",
+    "type": "city",
+    "latitude": 41.09,
+    "longitude": 20.76,
+    "coordinates": [
+      20.76,
+      41.09
+    ],
+    "nameMk": "Трпејца Виллаге",
+    "descriptionMk": "Трпејца Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "kalishta_village",
+    "name": "Kališta Village",
+    "description": "Venture to this remote lakeside village accessible only by boat or mountain trail! Isolation and natural beauty create ultimate wilderness retreat experiences.",
+    "type": "city",
+    "latitude": 41.08,
+    "longitude": 20.74,
+    "coordinates": [
+      20.74,
+      41.08
+    ],
+    "nameMk": "Калиšта Виллаге",
+    "descriptionMk": "Посетете го Калиšта Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "radozda_village",
+    "name": "Radožda Village",
+    "description": "Discover this border village where Albanian culture meets Ohrid's pristine shores! Cross-cultural experiences and lakeside beauty create unique adventures.",
+    "type": "city",
+    "latitude": 41.07,
+    "longitude": 20.72,
+    "coordinates": [
+      20.72,
+      41.07
+    ],
+    "nameMk": "Радоžда Виллаге",
+    "descriptionMk": "Посетете го Радоžда Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "oktisi_village",
+    "name": "Oktisi Village",
+    "description": "Experience this highland village where traditional building methods create authentic mountain architecture! Stone craftsmanship and cultural heritage offer perfect exploration.",
+    "type": "city",
+    "latitude": 41.06,
+    "longitude": 20.7,
+    "coordinates": [
+      20.7,
+      41.06
+    ],
+    "nameMk": "Октиси Виллаге",
+    "descriptionMk": "Октиси Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "earshnica_village",
+    "name": "Earšnica Village",
+    "description": "Explore this mountain village where pristine streams cascade through traditional settlements! Highland culture and natural beauty create perfect overlanding adventures.",
+    "type": "city",
+    "latitude": 41.05,
+    "longitude": 20.68,
+    "coordinates": [
+      20.68,
+      41.05
+    ],
+    "nameMk": "Еарšница Виллаге",
+    "descriptionMk": "Посетете го Еарšница Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "gorno_dupeni_village",
+    "name": "Gorno Dupeni Village",
+    "description": "Trek to this upper mountain village where shepherd traditions survive in pristine isolation! Highland pastoral life creates authentic cultural immersion experiences.",
+    "type": "city",
+    "latitude": 41.04,
+    "longitude": 20.66,
+    "coordinates": [
+      20.66,
+      41.04
+    ],
+    "nameMk": "Горно Дупени Виллаге",
+    "descriptionMk": "Горно Дупени Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "dolno_dupeni_village",
+    "name": "Dolno Dupeni Village",
+    "description": "Discover this lower highland village where mountain streams meet traditional architecture! Stone bridges and cultural heritage create perfect photography opportunities.",
+    "type": "city",
+    "latitude": 41.03,
+    "longitude": 20.64,
+    "coordinates": [
+      20.64,
+      41.03
+    ],
+    "nameMk": "Долно Дупени Виллаге",
+    "descriptionMk": "Долно Дупени Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "novo_selo_strumica",
+    "name": "Novo Selo (Strumica)",
+    "description": "Experience this 'new village' where thermal springs meet traditional culture! Geothermal wonders and rural life create unique wellness adventures.",
+    "type": "city",
+    "latitude": 41.42,
+    "longitude": 22.72,
+    "coordinates": [
+      22.72,
+      41.42
+    ],
+    "nameMk": "Струмица",
+    "descriptionMk": "Струмица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "bansko_village",
+    "name": "Bansko Village",
+    "description": "Soak in this thermal spa village where healing waters bubble from ancient earth! Natural wellness and mountain beauty create perfect therapeutic retreats.",
+    "type": "city",
+    "latitude": 41.41,
+    "longitude": 22.62,
+    "coordinates": [
+      22.62,
+      41.41
+    ],
+    "nameMk": "Банско Виллаге",
+    "descriptionMk": "Банско Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "dobrejci_village",
+    "name": "Dobrejci Village",
+    "description": "Explore this 'good people' village where traditional hospitality meets mountain beauty! Authentic Balkan welcome and highland vistas create memorable experiences.",
+    "type": "city",
+    "latitude": 41.4,
+    "longitude": 22.61,
+    "coordinates": [
+      22.61,
+      41.4
+    ],
+    "nameMk": "Добрејци Виллаге",
+    "descriptionMk": "Посетете го Добрејци Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "veljusa_monastery",
+    "name": "Veljusa Monastery",
+    "description": "Discover this ancient female monastery where nuns preserve medieval traditions! Sacred femininity and spiritual architecture create profound contemplative adventures.",
+    "type": "monument",
+    "latitude": 41.45,
+    "longitude": 22.65,
+    "coordinates": [
+      22.65,
+      41.45
+    ],
+    "nameMk": "Вељуса Монастерy",
+    "descriptionMk": "Посетете го Вељуса Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "eleusa_monastery",
+    "name": "Eleusa Monastery",
+    "description": "Experience this 'merciful' monastery where Byzantine art meets mountain serenity! Ancient compassion and artistic beauty create healing spiritual journeys.",
+    "type": "monument",
+    "latitude": 41.44,
+    "longitude": 22.64,
+    "coordinates": [
+      22.64,
+      41.44
+    ],
+    "nameMk": "Елеуса Монастерy",
+    "descriptionMk": "Посетете го Елеуса Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "memorial_house_goce_delcev",
+    "name": "Memorial House Goce Delčev",
+    "description": "Honor this revolutionary hero's birthplace where freedom fighters planned independence! Historical significance and patriotic spirit create powerful cultural experiences.",
+    "type": "monument",
+    "latitude": 41.39,
+    "longitude": 23.39,
+    "coordinates": [
+      23.39,
+      41.39
+    ],
+    "nameMk": "Мемориал Хоусе Гоце Делčев",
+    "descriptionMk": "Откријте ја убавината на Мемориал Хоусе Гоце Делčев, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "kukuš_archaeological_site",
+    "name": "Kukuš Archaeological Site",
+    "description": "Uncover ancient civilizations at this prehistoric settlement! Archaeological mysteries and cultural layers create fascinating historical adventure experiences.",
+    "type": "monument",
+    "latitude": 41.43,
+    "longitude": 22.67,
+    "coordinates": [
+      22.67,
+      41.43
+    ],
+    "nameMk": "Кукуš Арчаеологицал Сите",
+    "descriptionMk": "Кукуš Арчаеологицал Сите е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "carevi_kuli_fortress",
+    "name": "Carevi Kuli Fortress",
+    "description": "Storm this 'Emperor's Towers' fortress overlooking the Strumica valley! Medieval warfare and panoramic views create epic historical adventures.",
+    "type": "monument",
+    "latitude": 41.46,
+    "longitude": 22.68,
+    "coordinates": [
+      22.68,
+      41.46
+    ],
+    "nameMk": "Цареви Кули Фортресс",
+    "descriptionMk": "Откријте ја убавината на Цареви Кули Фортресс, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "kolešino_springs",
+    "name": "Kolešino Springs",
+    "description": "Discover these crystal mountain springs feeding Macedonia's tallest waterfall! Pure water sources and pristine nature create perfect wilderness refreshment.",
+    "type": "nature",
+    "latitude": 41.365,
+    "longitude": 22.805,
+    "coordinates": [
+      22.805,
+      41.365
+    ],
+    "nameMk": "Колеšино Спрингс",
+    "descriptionMk": "Колеšино Спрингс е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "smolare_springs",
+    "name": "Smolare Springs",
+    "description": "Experience these pristine mountain springs where crystal waters begin their spectacular cascade! Source exploration and nature photography create perfect adventures.",
+    "type": "nature",
+    "latitude": 41.36,
+    "longitude": 22.89,
+    "coordinates": [
+      22.89,
+      41.36
+    ],
+    "nameMk": "Смоларе Спрингс",
+    "descriptionMk": "Смоларе Спрингс е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "banishte_ski_center",
+    "name": "Banište Ski Center",
+    "description": "Carve powder on Pelister's pristine slopes where ancient pines frame perfect runs! Winter sports and mountain beauty create ultimate alpine adventures.",
+    "type": "recreation",
+    "latitude": 41.02,
+    "longitude": 21.24,
+    "coordinates": [
+      21.24,
+      41.02
+    ],
+    "nameMk": "Баниšте Ски Центер",
+    "descriptionMk": "Баниšте Ски Центер е одлично место за рекреација и забава. Уживајте во активности на отворено и релаксирајте се."
+  },
+  {
+    "id": "zare_lazarevski_hut",
+    "name": "Zare Lazarevski Mountain Hut",
+    "description": "Rest at this high-altitude refuge where mountaineers gather for peak adventures! Alpine hospitality and summit access create perfect base camp experiences.",
+    "type": "recreation",
+    "latitude": 41.01,
+    "longitude": 21.21,
+    "coordinates": [
+      21.21,
+      41.01
+    ],
+    "nameMk": "Заре Лазаревски Моунтаин Хут",
+    "descriptionMk": "Посетете го Заре Лазаревски Моунтаин Хут за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "shiroka_river",
+    "name": "Široka River",
+    "description": "Follow this 'wide river' through pristine mountain valleys! Crystal waters and wilderness camping create perfect nature escape adventures.",
+    "type": "nature",
+    "latitude": 41.15,
+    "longitude": 21.18,
+    "coordinates": [
+      21.18,
+      41.15
+    ],
+    "nameMk": "Šирока Ривер",
+    "descriptionMk": "Откријте ја дивата убавина на Šирока Ривер, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "baba_mountain_glacial_lakes",
+    "name": "Baba Mountain Glacial Lakes",
+    "description": "Trek to these pristine glacial jewels nestled beneath towering peaks! Crystal mountain mirrors and alpine wilderness create spectacular high-altitude adventures.",
+    "type": "nature",
+    "latitude": 41,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      41
+    ],
+    "nameMk": "Баба Моунтаин Глациал Лакес",
+    "descriptionMk": "Откријте ја дивата убавина на Баба Моунтаин Глациал Лакес, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "large_lake_pelister",
+    "name": "Large Lake (Pelister)",
+    "description": "Discover this magnificent glacial lake reflecting ancient Molika pines! Pristine alpine waters and endemic forests create perfect wilderness photography.",
+    "type": "nature",
+    "latitude": 40.99,
+    "longitude": 21.23,
+    "coordinates": [
+      21.23,
+      40.99
+    ],
+    "nameMk": "Пелистер",
+    "descriptionMk": "Уживајте во природните убавини на Пелистер. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "small_lake_pelister",
+    "name": "Small Lake (Pelister)",
+    "description": "Find solitude at this intimate glacial gem where silence speaks louder than words! Peaceful waters and mountain reflections create perfect meditation spots.",
+    "type": "nature",
+    "latitude": 40.985,
+    "longitude": 21.225,
+    "coordinates": [
+      21.225,
+      40.985
+    ],
+    "nameMk": "Пелистер",
+    "descriptionMk": "Откријте ја дивата убавина на Пелистер, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "eye_lake_pelister",
+    "name": "Eye Lake (Pelister)",
+    "description": "Gaze into this mystical 'eye' reflecting the soul of Baba Mountain! Circular perfection and alpine beauty create transcendent natural experiences.",
+    "type": "nature",
+    "latitude": 40.98,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      40.98
+    ],
+    "nameMk": "Пелистер",
+    "descriptionMk": "Пелистер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "lower_cardak_lake",
+    "name": "Lower Čardak Lake",
+    "description": "Rest at this peaceful glacial lake where mountain shepherds once sheltered! Traditional highland culture and pristine waters create perfect cultural adventures.",
+    "type": "nature",
+    "latitude": 40.975,
+    "longitude": 21.215,
+    "coordinates": [
+      21.215,
+      40.975
+    ],
+    "nameMk": "Лоwер Čардак Лаке",
+    "descriptionMk": "Уживајте во природните убавини на Лоwер Čардак Лаке. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "upper_cardak_lake",
+    "name": "Upper Čardak Lake",
+    "description": "Climb to this high-altitude glacial jewel where few footsteps disturb pristine silence! Remote beauty and challenging access reward dedicated adventurers.",
+    "type": "nature",
+    "latitude": 40.97,
+    "longitude": 21.21,
+    "coordinates": [
+      21.21,
+      40.97
+    ],
+    "nameMk": "Уппер Čардак Лаке",
+    "descriptionMk": "Уживајте во природните убавини на Уппер Čардак Лаке. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "monastery_zrze",
+    "name": "Monastery Zrze",
+    "description": "Explore this medieval monastery where 14th-century frescoes tell ancient stories! Artistic heritage and spiritual atmosphere create profound cultural experiences.",
+    "type": "monument",
+    "latitude": 41.47,
+    "longitude": 21.42,
+    "coordinates": [
+      21.42,
+      41.47
+    ],
+    "nameMk": "Монастерy Зрзе",
+    "descriptionMk": "Посетете го Монастерy Зрзе, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "poeševo_village",
+    "name": "Poeševo Village",
+    "description": "Experience this mountain village where poetic beauty meets traditional life! Highland culture and scenic landscapes create perfect overlanding poetry.",
+    "type": "city",
+    "latitude": 41.48,
+    "longitude": 21.43,
+    "coordinates": [
+      21.43,
+      41.48
+    ],
+    "nameMk": "Поеšево Виллаге",
+    "descriptionMk": "Поеšево Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "vatašha_village",
+    "name": "Vataša Village",
+    "description": "Discover this highland settlement where ancient fire traditions illuminate mountain nights! Cultural ceremonies and dramatic landscapes create mystical experiences.",
+    "type": "city",
+    "latitude": 41.49,
+    "longitude": 21.44,
+    "coordinates": [
+      21.44,
+      41.49
+    ],
+    "nameMk": "Ватаšа Виллаге",
+    "descriptionMk": "Ватаšа Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "skočivir_village",
+    "name": "Skočivir Village",
+    "description": "Venture to this 'jumping whirlpool' village where mountain streams create natural water features! Dynamic landscapes and highland culture await exploration.",
+    "type": "city",
+    "latitude": 41.5,
+    "longitude": 21.45,
+    "coordinates": [
+      21.45,
+      41.5
+    ],
+    "nameMk": "Скоčивир Виллаге",
+    "descriptionMk": "Посетете го Скоčивир Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "manastirec_village",
+    "name": "Manastirec Village",
+    "description": "Explore this 'little monastery' village where spiritual heritage meets mountain beauty! Religious traditions and highland vistas create perfect cultural adventures.",
+    "type": "city",
+    "latitude": 41.51,
+    "longitude": 21.46,
+    "coordinates": [
+      21.46,
+      41.51
+    ],
+    "nameMk": "Манастирец Виллаге",
+    "descriptionMk": "Манастирец Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "dihovo_village",
+    "name": "Dihovo Village",
+    "description": "Experience this traditional Vlach village where ancient pastoral culture survives! Highland shepherding and mountain architecture create authentic cultural immersion.",
+    "type": "city",
+    "latitude": 41.02,
+    "longitude": 21.34,
+    "coordinates": [
+      21.34,
+      41.02
+    ],
+    "nameMk": "Дихово Виллаге",
+    "descriptionMk": "Дихово Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "magarevo_village",
+    "name": "Magarevo Village",
+    "description": "Discover this highland village where traditional mountain transport meets modern adventures! Pack animal heritage and scenic trails create unique trekking experiences.",
+    "type": "city",
+    "latitude": 41.03,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.03
+    ],
+    "nameMk": "Магарево Виллаге",
+    "descriptionMk": "Магарево Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "trnovo_village_bitola",
+    "name": "Trnovo Village (Bitola)",
+    "description": "Explore this 'thorny' village where resilient mountain culture thrives! Hardy traditions and dramatic landscapes create perfect highland adventures.",
+    "type": "city",
+    "latitude": 41.04,
+    "longitude": 21.36,
+    "coordinates": [
+      21.36,
+      41.04
+    ],
+    "nameMk": "Битола",
+    "descriptionMk": "Посетете го Битола, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "bukovo_village",
+    "name": "Bukovo Village",
+    "description": "Experience this 'beech forest' village where ancient trees meet traditional architecture! Forest culture and mountain beauty create perfect nature adventures.",
+    "type": "city",
+    "latitude": 41.05,
+    "longitude": 21.37,
+    "coordinates": [
+      21.37,
+      41.05
+    ],
+    "nameMk": "Буково Виллаге",
+    "descriptionMk": "Буково Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "rotino_village",
+    "name": "Rotino Village",
+    "description": "Venture to this remote highland settlement where traditional life rotates with mountain seasons! Pastoral cycles and authentic culture create timeless experiences.",
+    "type": "city",
+    "latitude": 41.06,
+    "longitude": 21.38,
+    "coordinates": [
+      21.38,
+      41.06
+    ],
+    "nameMk": "Ротино Виллаге",
+    "descriptionMk": "Ротино Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "capeljsko_village",
+    "name": "Čapeljsko Village",
+    "description": "Discover this highland village where chapel traditions meet mountain majesty! Spiritual heritage and dramatic landscapes create perfect pilgrimage adventures.",
+    "type": "city",
+    "latitude": 41.07,
+    "longitude": 21.39,
+    "coordinates": [
+      21.39,
+      41.07
+    ],
+    "nameMk": "Čапељско Виллаге",
+    "descriptionMk": "Čапељско Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "brajčino_village",
+    "name": "Brajčino Village",
+    "description": "Experience this traditional mountain village where Vlach culture preserves ancient traditions! Highland heritage and scenic beauty create authentic cultural adventures.",
+    "type": "city",
+    "latitude": 40.96,
+    "longitude": 21.08,
+    "coordinates": [
+      21.08,
+      40.96
+    ],
+    "nameMk": "Брајčино Виллаге",
+    "descriptionMk": "Брајčино Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "ljubojno_monastery",
+    "name": "Ljubojno Monastery",
+    "description": "Visit this mountain monastery where love and devotion meet spiritual architecture! Sacred spaces and highland peace create profound contemplative experiences.",
+    "type": "monument",
+    "latitude": 40.89,
+    "longitude": 21.13,
+    "coordinates": [
+      21.13,
+      40.89
+    ],
+    "nameMk": "Љубојно Монастерy",
+    "descriptionMk": "Посетете го Љубојно Монастерy, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "asamati_village",
+    "name": "Asamati Village",
+    "description": "Explore this border village where traditional Greek culture meets Macedonian mountains! Cross-cultural experiences and highland beauty create unique adventures.",
+    "type": "city",
+    "latitude": 40.88,
+    "longitude": 21.12,
+    "coordinates": [
+      21.12,
+      40.88
+    ],
+    "nameMk": "Асамати Виллаге",
+    "descriptionMk": "Асамати Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "gevgelija_spa",
+    "name": "Gevgelija Spa Resort",
+    "description": "Relax at this premier thermal spa destination where healing waters meet luxury wellness! Modern facilities and ancient mineral springs create perfect therapeutic retreats.",
+    "type": "recreation",
+    "latitude": 41.14,
+    "longitude": 22.5,
+    "coordinates": [
+      22.5,
+      41.14
+    ],
+    "nameMk": "Гевгелија",
+    "descriptionMk": "Посетете го Гевгелија за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "kurbinovo_church",
+    "name": "Church of St. George Kurbinovo",
+    "description": "Marvel at this 12th-century masterpiece adorned with Byzantine frescoes! Medieval artistry and lakeside serenity create profound spiritual adventures.",
+    "type": "monument",
+    "latitude": 40.95,
+    "longitude": 20.9,
+    "coordinates": [
+      20.9,
+      40.95
+    ],
+    "nameMk": "Чурч оф Ст. Георге Курбиново",
+    "descriptionMk": "Откријте ја убавината на Чурч оф Ст. Георге Курбиново, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "lazaropole_waterfall",
+    "name": "Lazaropole Waterfall",
+    "description": "Chase this hidden cascade tumbling through pristine Bistra forests! Crystal waters and mountain wilderness create perfect photography adventures.",
+    "type": "nature",
+    "latitude": 41.58,
+    "longitude": 20.645,
+    "coordinates": [
+      20.645,
+      41.58
+    ],
+    "nameMk": "Лазарополе Wатерфалл",
+    "descriptionMk": "Откријте ја дивата убавина на Лазарополе Wатерфалл, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "radika_river",
+    "name": "Radika River",
+    "description": "Navigate this pristine mountain river flowing through Mavrovo wilderness! White-water rafting and trout fishing create perfect aquatic adventures.",
+    "type": "nature",
+    "latitude": 41.65,
+    "longitude": 20.7,
+    "coordinates": [
+      20.7,
+      41.65
+    ],
+    "nameMk": "Радика Ривер",
+    "descriptionMk": "Радика Ривер е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "shar_planina_glacial_lakes",
+    "name": "Šar Planina Glacial Lakes",
+    "description": "Trek to these pristine alpine gems scattered across high mountain plateaus! Crystal mirrors and endemic flowers create spectacular high-altitude adventures.",
+    "type": "nature",
+    "latitude": 42,
+    "longitude": 20.85,
+    "coordinates": [
+      20.85,
+      42
+    ],
+    "nameMk": "Šар Планина Глациал Лакес",
+    "descriptionMk": "Откријте ја дивата убавина на Šар Планина Глациал Лакес, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "kale_krstoar",
+    "name": "Kale Krstoar Fortress",
+    "description": "Storm this medieval stronghold perched on dramatic cliffs! Ancient battlements and valley views create epic historical adventures.",
+    "type": "monument",
+    "latitude": 41.8,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.8
+    ],
+    "nameMk": "Кале Крстоар Фортресс",
+    "descriptionMk": "Откријте ја убавината на Кале Крстоар Фортресс, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "gradsko_archaeological_site",
+    "name": "Gradsko Archaeological Site",
+    "description": "Explore ancient Stobi's sister city where Roman engineering meets Vardar beauty! Archaeological treasures and river views create historical adventures.",
+    "type": "monument",
+    "latitude": 41.58,
+    "longitude": 21.95,
+    "coordinates": [
+      21.95,
+      41.58
+    ],
+    "nameMk": "Градско Арчаеологицал Сите",
+    "descriptionMk": "Градско Арчаеологицал Сите е историски споменик што привлекува посетители со својата архитектура и културно значење."
+  },
+  {
+    "id": "kavadarci_wine_cellars",
+    "name": "Kavadarci Historic Wine Cellars",
+    "description": "Descend into legendary underground cellars where premium wines age in darkness! Viticultural heritage and tasting adventures await wine explorers.",
+    "type": "recreation",
+    "latitude": 41.43,
+    "longitude": 22.01,
+    "coordinates": [
+      22.01,
+      41.43
+    ],
+    "nameMk": "Кавадарци",
+    "descriptionMk": "Посетете го Кавадарци за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "markova_noga",
+    "name": "Markova Noga Peak",
+    "description": "Climb this 'Marko's Leg' summit where legendary king left his footprint! Mythical tales and mountain views create epic folklore adventures.",
+    "type": "nature",
+    "latitude": 41.3,
+    "longitude": 21.6,
+    "coordinates": [
+      21.6,
+      41.3
+    ],
+    "nameMk": "Маркова Нога Пеак",
+    "descriptionMk": "Уживајте во природните убавини на Маркова Нога Пеак. Неверојатни пејзажи и свеж воздух ве очекуваат на оваа прекрасна локација."
+  },
+  {
+    "id": "demir_hisar",
+    "name": "Demir Hisar",
+    "description": "Discover this 'Iron Fortress' town where mining heritage meets mountain beauty! Industrial archaeology and highland vistas create unique adventures.",
+    "type": "city",
+    "latitude": 41.22,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.22
+    ],
+    "nameMk": "Демир Хисар",
+    "descriptionMk": "Посетете го Демир Хисар, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "slepce_spa",
+    "name": "Slepče Spa",
+    "description": "Soak in therapeutic thermal waters bubbling from ancient volcanic earth! Natural healing and mountain tranquility create perfect wellness retreats.",
+    "type": "recreation",
+    "latitude": 41.4,
+    "longitude": 22.25,
+    "coordinates": [
+      22.25,
+      41.4
+    ],
+    "nameMk": "Слепčе Спа",
+    "descriptionMk": "Посетете го Слепčе Спа за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "tikvesh_archaeological_site",
+    "name": "Tikvesh Archaeological Complex",
+    "description": "Uncover ancient settlements where wine-making traditions began millennia ago! Archaeological mysteries and viticultural heritage create fascinating explorations.",
+    "type": "monument",
+    "latitude": 41.42,
+    "longitude": 22.05,
+    "coordinates": [
+      22.05,
+      41.42
+    ],
+    "nameMk": "Тиквеш Арчаеологицал Цомплеx",
+    "descriptionMk": "Посетете го Тиквеш Арчаеологицал Цомплеx, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "kozjak_dam",
+    "name": "Kozjak Dam",
+    "description": "Navigate this engineering marvel creating pristine recreational waters! Boating, fishing, and lakeside camping create perfect water sport adventures.",
+    "type": "recreation",
+    "latitude": 41.9,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.9
+    ],
+    "nameMk": "Козјак Дам",
+    "descriptionMk": "Посетете го Козјак Дам за незаборавно рекреативно искуство во прекрасна околина."
+  },
+  {
+    "id": "vardarski_rid",
+    "name": "Vardarski Rid",
+    "description": "Explore this ancient settlement where Neolithic people first farmed Balkan soil! Archaeological significance and river views create profound historical adventures.",
+    "type": "monument",
+    "latitude": 41.6,
+    "longitude": 21.85,
+    "coordinates": [
+      21.85,
+      41.6
+    ],
+    "nameMk": "Вардарски Рид",
+    "descriptionMk": "Откријте ја убавината на Вардарски Рид, историски споменик кој сведочи за богатото минато на овој крај."
+  },
+  {
+    "id": "pelagonia_plain",
+    "name": "Pelagonia Plain",
+    "description": "Journey across Macedonia's breadbasket where golden wheat meets endless horizons! Agricultural landscapes and rural culture create perfect overlanding adventures.",
+    "type": "nature",
+    "latitude": 41.2,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      41.2
+    ],
+    "nameMk": "Пелагониа Плаин",
+    "descriptionMk": "Откријте ја дивата убавина на Пелагониа Плаин, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "ovce_pole",
+    "name": "Ovče Pole",
+    "description": "Traverse this 'Sheep Field' where pastoral traditions meet modern agriculture! Rolling plains and shepherd culture create authentic rural adventures.",
+    "type": "nature",
+    "latitude": 41.8,
+    "longitude": 22,
+    "coordinates": [
+      22,
+      41.8
+    ],
+    "nameMk": "Овčе Поле",
+    "descriptionMk": "Откријте ја дивата убавина на Овčе Поле, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "skopska_kotlina",
+    "name": "Skopska Kotlina",
+    "description": "Explore the capital's river valley where urban civilization meets natural beauty! City escapes and recreational trails create perfect metropolitan adventures.",
+    "type": "nature",
+    "latitude": 42,
+    "longitude": 21.4,
+    "coordinates": [
+      21.4,
+      42
+    ],
+    "nameMk": "Скопска Котлина",
+    "descriptionMk": "Откријте ја дивата убавина на Скопска Котлина, каде природата создала неверојатни пејзажи."
+  },
+  {
+    "id": "lakeside_springs_ohrid",
+    "name": "Lakeside Springs Ohrid",
+    "description": "Discover hidden springs bubbling directly into Lake Ohrid's crystal waters! Underwater mysteries and pristine sources create magical aquatic adventures.",
+    "type": "nature",
+    "latitude": 41.1,
+    "longitude": 20.81,
+    "coordinates": [
+      20.81,
+      41.1
+    ],
+    "nameMk": "Охрид",
+    "descriptionMk": "Охрид е природно богатство на Македонија, совршено место за љубителите на природата и авантурата."
+  },
+  {
+    "id": "monastery_kalishta",
+    "name": "Monastery Kališta",
+    "description": "Trek to this remote lakeside monastery accessible only by mountain paths! Spiritual isolation and pristine beauty create profound pilgrimage adventures.",
+    "type": "monument",
+    "latitude": 41.085,
+    "longitude": 20.745,
+    "coordinates": [
+      20.745,
+      41.085
+    ],
+    "nameMk": "Монастерy Калиšта",
+    "descriptionMk": "Посетете го Монастерy Калиšта, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат."
+  },
+  {
+    "id": "duvalo_village",
+    "name": "Duvalo Village",
+    "description": "Experience this traditional tobacco village where golden leaves meet mountain air! Agricultural heritage and highland beauty create authentic rural adventures.",
+    "type": "city",
+    "latitude": 41.35,
+    "longitude": 21.58,
+    "coordinates": [
+      21.58,
+      41.35
+    ],
+    "nameMk": "Дувало Виллаге",
+    "descriptionMk": "Посетете го Дувало Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "krklino_village",
+    "name": "Krklino Village",
+    "description": "Discover this highland settlement where stone architecture meets pristine wilderness! Traditional building and mountain vistas create perfect overlanding stops.",
+    "type": "city",
+    "latitude": 41.28,
+    "longitude": 21.15,
+    "coordinates": [
+      21.15,
+      41.28
+    ],
+    "nameMk": "Крклино Виллаге",
+    "descriptionMk": "Посетете го Крклино Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "chanishte_village",
+    "name": "Čanište Village",
+    "description": "Venture to this remote mountain village where ancient customs survive in pristine isolation! Traditional culture and dramatic landscapes await exploration.",
+    "type": "city",
+    "latitude": 41.17,
+    "longitude": 21.69,
+    "coordinates": [
+      21.69,
+      41.17
+    ],
+    "nameMk": "Čаниšте Виллаге",
+    "descriptionMk": "Посетете го Čаниšте Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "bitovo_village",
+    "name": "Bitovo Village",
+    "description": "Explore this highland settlement where shepherd traditions meet mountain majesty! Pastoral life and scenic beauty create perfect cultural adventures.",
+    "type": "city",
+    "latitude": 41.09,
+    "longitude": 21.12,
+    "coordinates": [
+      21.12,
+      41.09
+    ],
+    "nameMk": "Битово Виллаге",
+    "descriptionMk": "Битово Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "drmeni_village",
+    "name": "Drmeni Village",
+    "description": "Experience this border village where traditional architecture meets pristine nature! Highland culture and dramatic vistas create memorable overlanding adventures.",
+    "type": "city",
+    "latitude": 41.08,
+    "longitude": 21.08,
+    "coordinates": [
+      21.08,
+      41.08
+    ],
+    "nameMk": "Дрмени Виллаге",
+    "descriptionMk": "Посетете го Дрмени Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "gopes_village",
+    "name": "Gopes Village",
+    "description": "Discover this mountain settlement where ancient traditions flourish amid pristine wilderness! Highland culture and natural beauty create perfect exploration opportunities.",
+    "type": "city",
+    "latitude": 41.07,
+    "longitude": 21.05,
+    "coordinates": [
+      21.05,
+      41.07
+    ],
+    "nameMk": "Гопес Виллаге",
+    "descriptionMk": "Гопес Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "ramne_village",
+    "name": "Ramne Village",
+    "description": "Venture to this plateau village where level ground meets mountain drama! Highland agriculture and scenic views create unique geographical adventures.",
+    "type": "city",
+    "latitude": 41.06,
+    "longitude": 21.02,
+    "coordinates": [
+      21.02,
+      41.06
+    ],
+    "nameMk": "Рамне Виллаге",
+    "descriptionMk": "Посетете го Рамне Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "kondovo_village",
+    "name": "Kondovo Village",
+    "description": "Experience this traditional village where ancient customs meet modern overlanding! Cultural heritage and mountain access create perfect adventure combinations.",
+    "type": "city",
+    "latitude": 41.95,
+    "longitude": 21.38,
+    "coordinates": [
+      21.38,
+      41.95
+    ],
+    "nameMk": "Кондово Виллаге",
+    "descriptionMk": "Посетете го Кондово Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  },
+  {
+    "id": "lisiče_village",
+    "name": "Lisičе Village",
+    "description": "Explore this 'fox' village where cunning wildlife meets highland beauty! Natural encounters and mountain landscapes create perfect wilderness adventures.",
+    "type": "city",
+    "latitude": 41.92,
+    "longitude": 21.35,
+    "coordinates": [
+      21.35,
+      41.92
+    ],
+    "nameMk": "Лисиčе Виллаге",
+    "descriptionMk": "Лисиčе Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "volkovo_village",
+    "name": "Volkovo Village",
+    "description": "Discover this highland settlement where wolf legends echo through mountain valleys! Wild heritage and pristine nature create thrilling adventure experiences.",
+    "type": "city",
+    "latitude": 41.9,
+    "longitude": 21.32,
+    "coordinates": [
+      21.32,
+      41.9
+    ],
+    "nameMk": "Волково Виллаге",
+    "descriptionMk": "Волково Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "горно_соње_village",
+    "name": "Gorno Sonje Village",
+    "description": "Trek to this upper mountain village where dreamlike beauty meets highland reality! Scenic splendor and traditional life create perfect overlanding poetry.",
+    "type": "city",
+    "latitude": 41.88,
+    "longitude": 21.29,
+    "coordinates": [
+      21.29,
+      41.88
+    ],
+    "nameMk": "Горно Соње Виллаге",
+    "descriptionMk": "Горно Соње Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "dolno_sonje_village",
+    "name": "Dolno Sonje Village",
+    "description": "Experience this lower highland settlement where mountain streams meet traditional architecture! Valley culture and scenic beauty create memorable adventures.",
+    "type": "city",
+    "latitude": 41.86,
+    "longitude": 21.26,
+    "coordinates": [
+      21.26,
+      41.86
+    ],
+    "nameMk": "Долно Соње Виллаге",
+    "descriptionMk": "Долно Соње Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "gorno_orizari_village",
+    "name": "Gorno Orizari Village",
+    "description": "Venture to this upper rice village where mountain agriculture meets pristine streams! Highland farming and natural beauty create unique cultural adventures.",
+    "type": "city",
+    "latitude": 41.84,
+    "longitude": 21.23,
+    "coordinates": [
+      21.23,
+      41.84
+    ],
+    "nameMk": "Горно Оризари Виллаге",
+    "descriptionMk": "Горно Оризари Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "dolno_orizari_village",
+    "name": "Dolno Orizari Village",
+    "description": "Explore this lower agricultural settlement where traditional farming meets mountain beauty! Rural heritage and scenic landscapes create perfect overlanding stops.",
+    "type": "city",
+    "latitude": 41.82,
+    "longitude": 21.2,
+    "coordinates": [
+      21.2,
+      41.82
+    ],
+    "nameMk": "Долно Оризари Виллаге",
+    "descriptionMk": "Долно Оризари Виллаге е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град."
+  },
+  {
+    "id": "saraj_village",
+    "name": "Saraj Village",
+    "description": "Experience this 'palace' village where royal memories meet highland majesty! Historical significance and mountain beauty create regal adventure experiences.",
+    "type": "city",
+    "latitude": 42.02,
+    "longitude": 21.3,
+    "coordinates": [
+      21.3,
+      42.02
+    ],
+    "nameMk": "Сарај Виллаге",
+    "descriptionMk": "Сарај Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "studenichani_village",
+    "name": "Studeničani Village",
+    "description": "Discover this 'cold springs' village where mountain waters meet traditional culture! Natural refreshment and highland life create perfect wilderness stops.",
+    "type": "city",
+    "latitude": 42,
+    "longitude": 21.28,
+    "coordinates": [
+      21.28,
+      42
+    ],
+    "nameMk": "Студениčани Виллаге",
+    "descriptionMk": "Студениčани Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "brazda_village",
+    "name": "Brazda Village",
+    "description": "Venture to this 'furrow' village where agricultural traditions meet mountain landscapes! Farming heritage and scenic beauty create authentic rural adventures.",
+    "type": "city",
+    "latitude": 41.98,
+    "longitude": 21.25,
+    "coordinates": [
+      21.25,
+      41.98
+    ],
+    "nameMk": "Бразда Виллаге",
+    "descriptionMk": "Бразда Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "gorno_lisiche_village",
+    "name": "Gorno Lisiche Village",
+    "description": "Trek to this upper 'fox' settlement where wildlife encounters meet highland beauty! Natural adventures and mountain vistas create perfect overlanding experiences.",
+    "type": "city",
+    "latitude": 41.96,
+    "longitude": 21.22,
+    "coordinates": [
+      21.22,
+      41.96
+    ],
+    "nameMk": "Горно Лисиче Виллаге",
+    "descriptionMk": "Горно Лисиче Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "dolno_lisiche_village",
+    "name": "Dolno Lisiche Village",
+    "description": "Explore this lower highland settlement where cunning nature meets traditional culture! Wildlife watching and mountain beauty create memorable adventures.",
+    "type": "city",
+    "latitude": 41.94,
+    "longitude": 21.19,
+    "coordinates": [
+      21.19,
+      41.94
+    ],
+    "nameMk": "Долно Лисиче Виллаге",
+    "descriptionMk": "Долно Лисиче Виллаге е населба која ве привлекува со својот автентичен дух и прекрасна околина."
+  },
+  {
+    "id": "zlokuchani_village",
+    "name": "Zlokučani Village",
+    "description": "Experience this mountain village where dramatic landscapes meet resilient highland culture! Rugged beauty and traditional life create powerful adventure stories.",
+    "type": "city",
+    "latitude": 41.92,
+    "longitude": 21.16,
+    "coordinates": [
+      21.16,
+      41.92
+    ],
+    "nameMk": "Злокуčани Виллаге",
+    "descriptionMk": "Посетете го Злокуčани Виллаге, град кој нуди спој на традиција и модерност во срцето на Македонија."
+  }
+]
