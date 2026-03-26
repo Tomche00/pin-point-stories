@@ -3,6 +3,8 @@ import { cn } from '@/lib/utils';
 import { MapPin, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { useLanguage } from '@/i18n/LanguageContext';
+import flagEn from '@/assets/flag-en.png';
+import flagMk from '@/assets/flag-mk.png';
 
 const Navigation = () => {
   const location = useLocation();
