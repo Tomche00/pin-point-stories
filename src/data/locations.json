@@ -142,7 +142,7 @@
   {
     "id": "oreshe_waterfall",
     "name": "Oreshe Waterfall",
-    "nameMk": "Ореше Wатерфалл",
+    "nameMk": "Ореше Водопад",
     "description": "Chase the thunder of cascading mountain waters! This spectacular waterfall plunges into emerald pools, creating a natural adventure playground perfect for wild swimming and photography.",
     "descriptionMk": "Откријте ја дивата убавина на Ореше Wатерфалл, каде природата создала неверојатни пејзажи.",
     "type": "water",
@@ -183,10 +183,10 @@
   },
   {
     "id": "markovo_stapalo",
-    "name": "Marko's Footprint",
-    "nameMk": "Марко'с Фоотпринт",
+    "name": "Markos Footprint",
+    "nameMk": "Марково Стапало",
     "description": "Stand where legendary King Marko left his mark! This mythical rock formation offers dramatic mountain views and fascinating folklore, perfect for adventurous explorers seeking epic stories.",
-    "descriptionMk": "Откријте ја убавината на Марко'с Фоотпринт, историски споменик кој сведочи за богатото минато на овој крај.",
+    "descriptionMk": "Откријте ја убавината на Марково Стапало, историски споменик кој сведочи за богатото минато на овој крај.",
     "type": "hiking",
     "latitude": 41.640668,
     "longitude": 21.4461963,
@@ -3740,9 +3740,9 @@
   {
     "id": "st_george_polog_monastery",
     "name": "St. George - Polog Monastery",
-    "nameMk": "Ст. Георге - Полог Монастерy",
+    "nameMk": "Свети Георгиј-Полог Манастир",
     "description": "A sacred Orthodox site of great spiritual and historical significance, St. George - Polog Monastery features beautiful religious architecture, ancient frescoes, and a serene atmosphere that draws pilgrims and visitors alike.",
-    "descriptionMk": "Ст. Георге - Полог Монастерy е свето православно место со големо духовно и историско значење, прекрасна црковна архитектура и древни фрески.",
+    "descriptionMk": "Свети Георгиј-Полог Манастир е свето православно место со големо духовно и историско значење, прекрасна црковна архитектура и древни фрески.",
     "type": "monastery",
     "latitude": 41.3116459,
     "longitude": 21.9661948,
@@ -3768,9 +3768,9 @@
   {
     "id": "saint_george_s_monastery",
     "name": "Saint George’s monastery",
-    "nameMk": "Саинт Георге’с монастерy",
+    "nameMk": "Свети Георгиј Манастир",
     "description": "A sacred Orthodox site of great spiritual and historical significance, Saint George’s monastery features beautiful religious architecture, ancient frescoes, and a serene atmosphere that draws pilgrims and visitors alike.",
-    "descriptionMk": "Саинт Георге’с монастерy е свето православно место со големо духовно и историско значење, прекрасна црковна архитектура и древни фрески.",
+    "descriptionMk": "Свети Георгиј Манастир е свето православно место со големо духовно и историско значење, прекрасна црковна архитектура и древни фрески.",
     "type": "monastery",
     "latitude": 41.4935604,
     "longitude": 22.1080362,
@@ -3794,11 +3794,11 @@
     ]
   },
   {
-    "id": "346v_fx_prikovci_north_macedonia",
-    "name": "346V+FX, Prikovci, North Macedonia",
-    "nameMk": "Cитy едониа",
+    "id": "prikovci_north_macedonia",
+    "name": "Prikovci, North Macedonia",
+    "nameMk": "Приковци",
     "description": "A charming village nestled in the Macedonian countryside, 346V+FX, Prikovci, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
-    "descriptionMk": "Cитy едониа е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
+    "descriptionMk": "Приковци е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
     "type": "city",
     "latitude": 42.0608156,
     "longitude": 22.1457327,
@@ -3808,11 +3808,11 @@
     ]
   },
   {
-    "id": "345_bigla_north_macedonia",
-    "name": "345, Bigla, North Macedonia",
-    "nameMk": "345, Бигла, Нортх Маcедониа",
+    "id": "bigla_north_macedonia",
+    "name": "Bigla, North Macedonia",
+    "nameMk": "Бигла, Нортх Маcедониа",
     "description": "A charming village nestled in the Macedonian countryside, 345, Bigla, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
-    "descriptionMk": "345, Бигла, Нортх Маcедониа е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
+    "descriptionMk": "Бигла, е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
     "type": "city",
     "latitude": 41.9574476,
     "longitude": 22.6747182,
@@ -3822,25 +3822,11 @@
     ]
   },
   {
-    "id": "601_north_macedonia",
-    "name": "601, North Macedonia",
-    "nameMk": "601, Нортх Маcедониа",
-    "description": "A charming village nestled in the Macedonian countryside, 601, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
-    "descriptionMk": "601, Нортх Маcедониа е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
-    "latitude": 41.8024332,
-    "longitude": 22.2931414,
-    "coordinates": [
-      22.2931414,
-      41.8024332
-    ]
-  },
-  {
-    "id": "9wg4_mp9_r1402_smolari_north_macedonia",
-    "name": "9WG4+MP9, R1402, Smolari, North Macedonia",
-    "nameMk": "Cитy едониа",
-    "description": "A charming village nestled in the Macedonian countryside, 9WG4+MP9, R1402, Smolari, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
-    "descriptionMk": "Cитy едониа е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
+    "id": "smolari_north_macedonia",
+    "name": "Smolari, North Macedonia",
+    "nameMk": "Смолари",
+    "description": "A charming village nestled in the Macedonian countryside, Smolari, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
+    "descriptionMk": "Смолари е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
     "type": "city",
     "latitude": 41.3767538,
     "longitude": 22.9058453,
@@ -3863,20 +3849,7 @@
       41.3707846
     ]
   },
-  {
-    "id": "sermenin_2",
-    "name": "Sermenin",
-    "nameMk": "Серменин",
-    "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
-    "descriptionMk": "Посетете го Серменин, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
-    "latitude": 41.2200177,
-    "longitude": 22.3475152,
-    "coordinates": [
-      22.3475152,
-      41.2200177
-    ]
-  },
+  
   {
     "id": "bohula",
     "name": "Bohula",
