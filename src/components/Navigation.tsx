@@ -3,6 +3,8 @@ import { cn } from '@/lib/utils';
 import { MapPin, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { useLanguage } from '@/i18n/LanguageContext';
+import flagEn from '@/assets/flag-en.png';
+import flagMk from '@/assets/flag-mk.png';
 
 const Navigation = () => {
   const location = useLocation();
@@ -45,20 +47,20 @@ const Navigation = () => {
             ))}
             <button
               onClick={toggleLanguage}
-              className="ml-2 w-8 h-8 rounded-md flex items-center justify-center border border-border hover:bg-secondary transition-colors text-base"
+              className="ml-2 w-8 h-8 rounded-md flex items-center justify-center border border-border hover:bg-secondary transition-colors overflow-hidden"
               title={language === 'en' ? 'Switch to Macedonian' : 'Префрли на Англиски'}
             >
-              {language === 'en' ? '🇬🇧' : '🇲🇰'}
+              <img src={language === 'en' ? flagEn : flagMk} alt={language === 'en' ? 'EN' : 'MK'} className="w-5 h-5 object-contain" />
             </button>
           </div>
 
           <div className="flex items-center gap-1 md:hidden">
             <button
               onClick={toggleLanguage}
-              className="w-8 h-8 flex items-center justify-center text-base"
+              className="w-8 h-8 flex items-center justify-center overflow-hidden"
               title={language === 'en' ? 'Switch to Macedonian' : 'Префрли на Англиски'}
             >
-              {language === 'en' ? '🇬🇧' : '🇲🇰'}
+              <img src={language === 'en' ? flagEn : flagMk} alt={language === 'en' ? 'EN' : 'MK'} className="w-5 h-5 object-contain" />
             </button>
             <button
               onClick={() => setMobileOpen(!mobileOpen)}
