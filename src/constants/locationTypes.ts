@@ -15,6 +15,13 @@ export const LOCATION_TYPES: Record<string, LocationTypeConfig> = {
     icon: '🏙️',
     label: 'Cities'
   },
+  
+  village: {
+	  color: '#a16207', // amber-700
+	  icon: '🏡',
+	  label: 'Villages'
+  },
+  
   recreation: {
     color: '#f97316', // orange-500
     icon: '🏕️',

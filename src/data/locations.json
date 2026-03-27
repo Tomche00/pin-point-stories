@@ -33,7 +33,7 @@
     "nameMk": "Цер",
     "description": "A charming village nestled in the Macedonian countryside, Cer offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Цер е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4164249,
     "longitude": 21.0706309,
     "coordinates": [
@@ -61,7 +61,7 @@
     "nameMk": "Маловиште",
     "description": "Step back in time in this authentic mountain village! Stone houses dot dramatic hillsides where shepherds still roam, offering genuine cultural immersion and spectacular highland vistas.",
     "descriptionMk": "Посетете го Маловиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.0333696,
     "longitude": 21.1298722,
     "coordinates": [
@@ -75,7 +75,7 @@
     "nameMk": "Зовиќ",
     "description": "Experience raw Balkan village life in this remote mountain settlement! Ancient traditions survive amid pristine wilderness, perfect for cultural photography and authentic local encounters.",
     "descriptionMk": "Зовиќ е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1172694,
     "longitude": 21.7122789,
     "coordinates": [
@@ -103,7 +103,7 @@
     "nameMk": "Шлегово",
     "description": "Explore this mining heritage town nestled in rugged hills! Industrial history meets natural beauty, offering unique photography opportunities and insights into Macedonia's working past.",
     "descriptionMk": "Посетете го Шлегово, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 42.0655501,
     "longitude": 22.1616508,
     "coordinates": [
@@ -117,7 +117,7 @@
     "nameMk": "Папрадиште",
     "description": "Discover this charming highland village where mountain streams meet ancient architecture! Traditional stone houses and dramatic valley views create perfect overlanding photo opportunities.",
     "descriptionMk": "Посетете го Папрадиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6416537,
     "longitude": 21.4387676,
     "coordinates": [
@@ -159,7 +159,7 @@
     "nameMk": "Ореше",
     "description": "Experience authentic highland life in this remote mountain village! Ancient stone architecture and shepherding traditions survive amid dramatic peaks and pristine wilderness.",
     "descriptionMk": "Посетете го Ореше, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6196632,
     "longitude": 21.4201362,
     "coordinates": [
@@ -229,7 +229,7 @@
     "nameMk": "Љубојно",
     "description": "Venture to this highland village where ancient traditions thrive! Stone houses and pastoral landscapes create perfect overlanding adventures amid Macedonia's pristine mountains.",
     "descriptionMk": "Љубојно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 40.8945369,
     "longitude": 21.1376967,
     "coordinates": [
@@ -243,7 +243,7 @@
     "nameMk": "Русјатси",
     "description": "Discover this hidden mountain village where time stands still! Traditional architecture and shepherding culture offer authentic cultural immersion in dramatic highland settings.",
     "descriptionMk": "Русјатси е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4999893,
     "longitude": 21.1514826,
     "coordinates": [
@@ -257,7 +257,7 @@
     "nameMk": "Железнетс",
     "description": "Explore this iron-rich mountain village where mining heritage meets natural beauty! Dramatic landscapes and industrial history create unique photography opportunities.",
     "descriptionMk": "Железнетс е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3257034,
     "longitude": 21.062993,
     "coordinates": [
@@ -271,7 +271,7 @@
     "nameMk": "Кнежино",
     "description": "Experience royal village history in this picturesque highland settlement! Ancient nobility once ruled from these dramatic mountain slopes offering spectacular valley views.",
     "descriptionMk": "Кнежино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.5215996,
     "longitude": 20.9160162,
     "coordinates": [
@@ -285,7 +285,7 @@
     "nameMk": "Скребатно",
     "description": "Venture to this remote mountain village where eagles soar overhead! Traditional stone architecture and pristine wilderness create perfect overlanding adventures.",
     "descriptionMk": "Скребатно е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1522564,
     "longitude": 20.8914281,
     "coordinates": [
@@ -299,7 +299,7 @@
     "nameMk": "Росоки",
     "description": "Discover this highland village famous for its pristine natural springs! Crystal-clear mountain waters and traditional architecture make this a perfect wilderness stop.",
     "descriptionMk": "Росоки е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.566465,
     "longitude": 20.6939945,
     "coordinates": [
@@ -327,7 +327,7 @@
     "nameMk": "Крушевица",
     "description": "Explore this authentic mountain village where pear orchards meet pristine wilderness! Traditional rural life and dramatic landscapes offer perfect cultural adventures.",
     "descriptionMk": "Крушевица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.205838,
     "longitude": 21.6526577,
     "coordinates": [
@@ -341,7 +341,7 @@
     "nameMk": "Витолиште",
     "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
     "descriptionMk": "Посетете го Витолиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1812657,
     "longitude": 21.8255581,
     "coordinates": [
@@ -355,7 +355,7 @@
     "nameMk": "Čаниšте",
     "description": "Discover this charming mountain village where traditional crafts flourish! Stone architecture and highland pastoral life create authentic Balkan cultural experiences.",
     "descriptionMk": "Čаниšте е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1657837,
     "longitude": 21.6854494,
     "coordinates": [
@@ -369,7 +369,7 @@
     "nameMk": "Петралитса",
     "description": "Venture to this remote highland village where stone architecture meets pristine nature! Ancient building traditions and dramatic mountain vistas create perfect photo opportunities.",
     "descriptionMk": "Посетете го Петралитса, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 42.211824,
     "longitude": 22.1802799,
     "coordinates": [
@@ -411,7 +411,7 @@
     "nameMk": "Блатец",
     "description": "Explore this mountain village gateway to pristine lake adventures! Traditional highland life meets spectacular natural beauty in Macedonia's most scenic region.",
     "descriptionMk": "Посетете го Блатец, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.8385763,
     "longitude": 22.5778948,
     "coordinates": [
@@ -439,7 +439,7 @@
     "nameMk": "Серменин",
     "description": "Discover this hidden highland village where ancient mining traditions meet pristine mountain wilderness! Stone architecture and dramatic landscapes create perfect overlanding photo opportunities.",
     "descriptionMk": "Посетете го Серменин, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2200456,
     "longitude": 22.3471886,
     "coordinates": [
@@ -467,7 +467,7 @@
     "nameMk": "Смрдлива Вода",
     "description": "Experience therapeutic mineral springs bubbling from ancient earth! These legendary healing waters have attracted adventurers for centuries, offering unique geological wonders.",
     "descriptionMk": "Смрдлива Вода е природно богатство на Македонија, совршено место за љубителите на природата и авантурата.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.192718,
     "longitude": 22.2816193,
     "coordinates": [
@@ -481,7 +481,7 @@
     "nameMk": "Теово",
     "description": "Explore this multi-cultural mountain town where Albanian and Macedonian traditions blend! Dramatic landscapes and authentic cultural encounters await adventurous overlanders.",
     "descriptionMk": "Теово е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.5784655,
     "longitude": 21.5729144,
     "coordinates": [
@@ -495,7 +495,7 @@
     "nameMk": "Битуше",
     "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
     "descriptionMk": "Битуше е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6165295,
     "longitude": 20.5878404,
     "coordinates": [
@@ -509,7 +509,7 @@
     "nameMk": "Требиште",
     "description": "Discover ancient archaeological treasures in this border village! Bronze Age artifacts and dramatic lake views offer unique cultural and natural adventures.",
     "descriptionMk": "Посетете го Требиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6282128,
     "longitude": 20.5893302,
     "coordinates": [
@@ -523,7 +523,7 @@
     "nameMk": "Белитса",
     "description": "Experience highland village life where pastoral traditions thrive! Mountain meadows and ancient stone architecture create perfect cultural immersion opportunities.",
     "descriptionMk": "Белитса е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6768835,
     "longitude": 21.3049963,
     "coordinates": [
@@ -537,7 +537,7 @@
     "nameMk": "Вишни",
     "description": "Explore this cherry orchard village nestled in dramatic mountains! Traditional fruit cultivation and stunning highland vistas offer authentic rural adventures.",
     "descriptionMk": "Вишни е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1931228,
     "longitude": 20.5982691,
     "coordinates": [
@@ -551,7 +551,7 @@
     "nameMk": "Горна Белица",
     "description": "Venture to this upper highland village where shepherding traditions survive! Mountain pastures and traditional architecture create perfect overlanding cultural stops.",
     "descriptionMk": "Горна Белица е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.223316,
     "longitude": 20.55581,
     "coordinates": [
@@ -579,7 +579,7 @@
     "nameMk": "Бабино",
     "description": "Experience traditional mountain village life where ancient customs thrive! Stone houses and dramatic valley views offer authentic Balkan cultural adventures.",
     "descriptionMk": "Посетете го Бабино, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2990659,
     "longitude": 21.0806907,
     "coordinates": [
@@ -593,7 +593,7 @@
     "nameMk": "Базерник",
     "description": "Explore this hidden mountain village where traditional crafts flourish! Ancient building techniques and pristine wilderness create perfect cultural photography opportunities.",
     "descriptionMk": "Базерник е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2820967,
     "longitude": 21.0477173,
     "coordinates": [
@@ -607,7 +607,7 @@
     "nameMk": "Збажди",
     "description": "Venture to this remote highland settlement where eagle migrations pass overhead! Dramatic mountain vistas and traditional architecture offer spectacular overlanding adventures.",
     "descriptionMk": "Посетете го Збажди, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.348894,
     "longitude": 20.6727629,
     "coordinates": [
@@ -621,7 +621,7 @@
     "nameMk": "Глобоčица",
     "description": "Discover this picturesque village where hawthorn forests meet mountain streams! Traditional rural life and pristine nature create perfect wilderness camping spots.",
     "descriptionMk": "Глобоčица е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3169734,
     "longitude": 20.6425923,
     "coordinates": [
@@ -635,7 +635,7 @@
     "nameMk": "Таšмаруниšта",
     "description": "Explore this border village where three cultures converge! Traditional architecture and dramatic mountain backdrops create unique overlanding photo opportunities.",
     "descriptionMk": "Посетете го Таšмаруниšта, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2680714,
     "longitude": 20.6403575,
     "coordinates": [
@@ -649,7 +649,7 @@
     "nameMk": "Čапари",
     "description": "Experience this lakeside village where pristine waters meet ancient traditions! Perfect for wild camping and experiencing authentic Balkan fishing culture.",
     "descriptionMk": "Čапари е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.0570097,
     "longitude": 21.177937,
     "coordinates": [
@@ -677,7 +677,7 @@
     "nameMk": "Беловиšте",
     "description": "Discover this mountain village gateway to spectacular waterfalls! Traditional stone architecture and pristine nature create perfect adventure base camps.",
     "descriptionMk": "Беловиšте е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 42.135924,
     "longitude": 21.1049087,
     "coordinates": [
@@ -733,7 +733,7 @@
     "nameMk": "Зашле",
     "description": "A charming village nestled in the Macedonian countryside, Zashle offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Зашле е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.372853,
     "longitude": 21.1432856,
     "coordinates": [
@@ -747,7 +747,7 @@
     "nameMk": "Берово",
     "description": "Breathe the cleanest air in this highland spa town nestled in pristine forests! Traditional wooden architecture and wellness traditions offer authentic mountain experiences.",
     "descriptionMk": "Берово е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3420518,
     "longitude": 21.1272641,
     "coordinates": [
@@ -775,7 +775,7 @@
     "nameMk": "Големо Илино",
     "description": "A charming village nestled in the Macedonian countryside, Golemo Ilino offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Големо Илино е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3126151,
     "longitude": 21.0002143,
     "coordinates": [
@@ -803,7 +803,7 @@
     "nameMk": "Слоештица",
     "description": "A charming village nestled in the Macedonian countryside, Sloeštica offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Слоештица е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2668894,
     "longitude": 21.0769781,
     "coordinates": [
@@ -845,7 +845,7 @@
     "nameMk": "Мрежичко",
     "description": "A charming village nestled in the Macedonian countryside, Mrezhichko offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Мрежичко е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2073189,
     "longitude": 21.9954721,
     "coordinates": [
@@ -859,7 +859,7 @@
     "nameMk": "Смиланци",
     "description": "A charming village nestled in the Macedonian countryside, Smilanci offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Смиланци е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6963878,
     "longitude": 22.6045937,
     "coordinates": [
@@ -943,7 +943,7 @@
     "nameMk": "Слепче",
     "description": "A charming village nestled in the Macedonian countryside, Slepche offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Слепче е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2332667,
     "longitude": 21.1749563,
     "coordinates": [
@@ -985,7 +985,7 @@
     "nameMk": "Иванчишта",
     "description": "A charming village nestled in the Macedonian countryside, Ivanchishta offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Иванчишта е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4641449,
     "longitude": 20.7923352,
     "coordinates": [
@@ -999,7 +999,7 @@
     "nameMk": "Ехлоец",
     "description": "A charming village nestled in the Macedonian countryside, Ehloec offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Ехлоец е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4596058,
     "longitude": 20.7655142,
     "coordinates": [
@@ -1013,7 +1013,7 @@
     "nameMk": "Тресонче",
     "description": "A charming village nestled in the Macedonian countryside, Tresonche offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Тресонче е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.5605542,
     "longitude": 20.7223039,
     "coordinates": [
@@ -1041,7 +1041,7 @@
     "nameMk": "Врбен",
     "description": "A charming village nestled in the Macedonian countryside, Vrben offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Врбен е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.7214502,
     "longitude": 20.7293813,
     "coordinates": [
@@ -1083,7 +1083,7 @@
     "nameMk": "Подвис",
     "description": "A charming village nestled in the Macedonian countryside, Podvis offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Подвис е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4760498,
     "longitude": 20.8847224,
     "coordinates": [
@@ -1111,7 +1111,7 @@
     "nameMk": "Локвица",
     "description": "A charming village nestled in the Macedonian countryside, Lokvitsa offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Локвица е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.5754076,
     "longitude": 21.2763051,
     "coordinates": [
@@ -1263,7 +1263,7 @@
     "id": "bargala_archaeological_site",
     "name": "Bargala Archaeological Site",
     "nameMk": "Баргала Арчаеологицал Сите",
-    "description": "Uncover this Early Christian city hidden in eastern Macedonia! Ancient basilicas with stunning mosaics create remarkable archaeological adventures off the beaten path.",
+    "description": "Uncover this Early Christian village hidden in eastern Macedonia! Ancient basilicas with stunning mosaics create remarkable archaeological adventures off the beaten path.",
     "descriptionMk": "Посетете го Баргала Арчаеологицал Сите, значајно културно и историско обележје на Македонија. Прекрасна архитектура и богата историја ве очекуваат.",
     "type": "monument",
     "latitude": 41.7979999,
@@ -1839,7 +1839,7 @@
     "nameMk": "Долно Дивјаци",
     "description": "A charming village nestled in the Macedonian countryside, Dolno Divjaci offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Долно Дивјаци е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3900052,
     "longitude": 21.1850164,
     "coordinates": [
@@ -1895,7 +1895,7 @@
     "nameMk": "Смилево",
     "description": "A charming village nestled in the Macedonian countryside, Smilevo offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Смилево е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1541618,
     "longitude": 21.1108701,
     "coordinates": [
@@ -1909,7 +1909,7 @@
     "nameMk": "Стенче",
     "description": "A charming village nestled in the Macedonian countryside, Stenche offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Стенче е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.8758325,
     "longitude": 21.0020772,
     "coordinates": [
@@ -2441,7 +2441,7 @@
     "nameMk": "Вранештица",
     "description": "A charming village nestled in the Macedonian countryside, Vraneshtitsa offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Вранештица е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4453257,
     "longitude": 21.0259217,
     "coordinates": [
@@ -2497,7 +2497,7 @@
     "nameMk": "Таšмаруниšта",
     "description": "Explore this border village where three cultures converge! Traditional architecture and dramatic mountain backdrops create unique overlanding photo opportunities.",
     "descriptionMk": "Посетете го Таšмаруниšта, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2680714,
     "longitude": 20.6403575,
     "coordinates": [
@@ -2539,7 +2539,7 @@
     "nameMk": "Горно Лакочереј",
     "description": "A charming village nestled in the Macedonian countryside, Gorno Lakocherej offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Горно Лакочереј е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1703728,
     "longitude": 20.8050008,
     "coordinates": [
@@ -2581,7 +2581,7 @@
     "nameMk": "Прилеп",
     "description": "Experience this historic tobacco town beneath dramatic granite towers! Ancient monasteries, Ottoman architecture, and natural rock formations create diverse adventures.",
     "descriptionMk": "Посетете го Прилеп, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2960311,
     "longitude": 21.5840933,
     "coordinates": [
@@ -2609,7 +2609,7 @@
     "nameMk": "Велмеј",
     "description": "A charming village nestled in the Macedonian countryside, Velmej offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Велмеј е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2984881,
     "longitude": 20.9022319,
     "coordinates": [
@@ -2623,7 +2623,7 @@
     "nameMk": "Нивичани",
     "description": "A charming village nestled in the Macedonian countryside, Nivichani offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Нивичани е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.9535609,
     "longitude": 22.3382475,
     "coordinates": [
@@ -2679,7 +2679,7 @@
     "nameMk": "Водоча",
     "description": "A charming village nestled in the Macedonian countryside, Vodocha offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Водоча е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4507341,
     "longitude": 22.5945369,
     "coordinates": [
@@ -2693,7 +2693,7 @@
     "nameMk": "Железна Река",
     "description": "A charming village nestled in the Macedonian countryside, Zhelezna Reka offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Железна Река е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.7030476,
     "longitude": 20.9998418,
     "coordinates": [
@@ -2735,7 +2735,7 @@
     "nameMk": "Смиланци",
     "description": "A charming village nestled in the Macedonian countryside, Smilanci offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Смиланци е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6963878,
     "longitude": 22.6045937,
     "coordinates": [
@@ -2749,7 +2749,7 @@
     "nameMk": "Вешје",
     "description": "A charming village nestled in the Macedonian countryside, Veshje offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Вешје е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3864244,
     "longitude": 22.1363149,
     "coordinates": [
@@ -2791,7 +2791,7 @@
     "nameMk": "Скоруша",
     "description": "A charming village nestled in the Macedonian countryside, Skorusha offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Скоруша е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.5433692,
     "longitude": 22.3255808,
     "coordinates": [
@@ -2819,7 +2819,7 @@
     "nameMk": "Базерник",
     "description": "Explore this hidden mountain village where traditional crafts flourish! Ancient building techniques and pristine wilderness create perfect cultural photography opportunities.",
     "descriptionMk": "Базерник е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.0813401,
     "longitude": 21.6414788,
     "coordinates": [
@@ -2861,7 +2861,7 @@
     "nameMk": "Отошница",
     "description": "A charming village nestled in the Macedonian countryside, Otoshnica offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Отошница е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 42.1869399,
     "longitude": 22.1057624,
     "coordinates": [
@@ -2959,7 +2959,7 @@
     "nameMk": "Радовиš",
     "description": "Explore this mining heritage town nestled in mountainous terrain! Industrial archaeology and surrounding wilderness create unique urban-nature adventures.",
     "descriptionMk": "Радовиš е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.8497639,
     "longitude": 21.5811123,
     "coordinates": [
@@ -3085,7 +3085,7 @@
     "nameMk": "Галиčник",
     "description": "Venture to this legendary highland village famous for traditional weddings! Stone houses and mountain meadows create perfect cultural photography opportunities.",
     "descriptionMk": "Галиčник е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.594532,
     "longitude": 20.6511592,
     "coordinates": [
@@ -3197,7 +3197,7 @@
     "nameMk": "Јабланица",
     "description": "A charming village nestled in the Macedonian countryside, Jablanica offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Јабланица е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3182357,
     "longitude": 20.5729424,
     "coordinates": [
@@ -3779,19 +3779,236 @@
       41.4935604
     ]
   },
+  { 
+	"id": "skopje", 
+	"name": "Skopje", 
+	"nameMk": "Скопје", 
+	"description": "Explore Macedonia's dynamic capital where ancient fortresses meet bold modern architecture! The Stone Bridge, Old Bazaar, and Kale Fortress offer endless urban adventures.", 
+	"descriptionMk": "Посетете го Скопје, град кој нуди спој на традиција и модерност во срцето на Македонија.", 
+	"type": "city", 
+	"latitude": 41.9980994, 
+	"longitude": 21.4254206, 
+	"coordinates": [ 21.4254206, 41.9980994 ] 
+  },
   {
-    "id": "skopje",
-    "name": "Skopje",
-    "nameMk": "Скопје",
-    "description": "Explore Macedonia's dynamic capital where ancient fortresses meet bold modern architecture! The Stone Bridge, Old Bazaar, and Kale Fortress offer endless urban adventures.",
-    "descriptionMk": "Посетете го Скопје, град кој нуди спој на традиција и модерност во срцето на Македонија.",
+    "id": "bitola",
+    "name": "Bitola",
+    "nameMk": "Битола",
+    "description": "Step into Macedonia’s cultural gem known as the 'City of Consuls'! Elegant neoclassical buildings, Širok Sokak promenade, and rich history create a timeless urban experience.",
+    "descriptionMk": "Посетете ја Битола, град познат како „Градот на конзулите“, со богата историја, прекрасна архитектура и живописен живот.",
     "type": "city",
-    "latitude": 41.9980994,
-    "longitude": 21.4254206,
-    "coordinates": [
-      21.4254206,
-      41.9980994
-    ]
+    "latitude": 41.031944,
+    "longitude": 21.334722,
+    "coordinates": [21.334722, 41.031944]
+  },
+  {
+    "id": "kumanovo",
+    "name": "Kumanovo",
+    "nameMk": "Куманово",
+    "description": "Discover a vibrant crossroads city rich in multicultural heritage and lively spirit! Ottoman influences and modern energy blend in this dynamic northern hub.",
+    "descriptionMk": "Посетете го Куманово, град со мултикултурен дух, богата историја и динамичен урбан живот.",
+    "type": "city",
+    "latitude": 42.13222,
+    "longitude": 21.71444,
+    "coordinates": [21.71444, 42.13222]
+  },
+  {
+    "id": "prilep",
+    "name": "Prilep",
+    "nameMk": "Прилеп",
+    "description": "Explore the 'City under Marko’s Towers' where history rises from dramatic rock formations! Known for tobacco, tradition, and stunning landscapes.",
+    "descriptionMk": "Посетете го Прилеп, град под Марковите Кули, познат по својата историја, тутунот и уникатниот пејзаж.",
+    "type": "city",
+    "latitude": 41.346111,
+    "longitude": 21.554444,
+    "coordinates": [21.554444, 41.346111]
+  },
+  {
+    "id": "tetovo",
+    "name": "Tetovo",
+    "nameMk": "Тетово",
+    "description": "Experience a colorful blend of cultures beneath the Šar Mountains! The Painted Mosque and vibrant atmosphere make Tetovo truly unique.",
+    "descriptionMk": "Посетете го Тетово, град под Шар Планина, познат по Шарената Џамија и богатиот културен живот.",
+    "type": "city",
+    "latitude": 42.00973,
+    "longitude": 20.97155,
+    "coordinates": [20.97155, 42.00973]
+  },
+  {
+    "id": "veles",
+    "name": "Veles",
+    "nameMk": "Велес",
+    "description": "Wander through a city of poets and history perched above the Vardar River! Steep streets and scenic views define this charming riverside town.",
+    "descriptionMk": "Посетете го Велес, град на поезијата и историјата, сместен покрај реката Вардар со прекрасни панорами.",
+    "type": "city",
+    "latitude": 41.71556,
+    "longitude": 21.77556,
+    "coordinates": [21.77556, 41.71556]
+  },
+  {
+    "id": "stip",
+    "name": "Štip",
+    "nameMk": "Штип",
+    "description": "Discover eastern Macedonia’s academic and cultural center! Ancient fortresses, rich traditions, and a youthful energy shape this historic city.",
+    "descriptionMk": "Посетете го Штип, културен и универзитетски центар на источна Македонија со богата историја и традиција.",
+    "type": "city",
+    "latitude": 41.74583,
+    "longitude": 22.19583,
+    "coordinates": [22.19583, 41.74583]
+  },
+  {
+    "id": "ohrid",
+    "name": "Ohrid",
+    "nameMk": "Охрид",
+    "description": "Uncover the jewel of Macedonia on the shores of a UNESCO-listed lake! Churches, crystal waters, and ancient history create unforgettable beauty.",
+    "descriptionMk": "Посетете го Охрид, бисерот на Македонија, познат по Охридското Езеро, црквите и богатото културно наследство.",
+    "type": "city",
+    "latitude": 41.12306,
+    "longitude": 20.80194,
+    "coordinates": [20.80194, 41.12306]
+  },
+  {
+    "id": "gostivar",
+    "name": "Gostivar",
+    "nameMk": "Гостивар",
+    "description": "Explore a lively city at the foot of the Šar Mountains where cultures meet and nature begins! A gateway to breathtaking alpine adventures.",
+    "descriptionMk": "Посетете го Гостивар, град под Шар Планина, кој нуди спој на култури и близина до прекрасна природа.",
+    "type": "city",
+    "latitude": 41.80056,
+    "longitude": 20.91194,
+    "coordinates": [20.91194, 41.80056]
+  },
+  {
+    "id": "strumica",
+    "name": "Strumica",
+    "nameMk": "Струмица",
+    "description": "Experience Macedonia’s sunniest city known for festivals, fresh produce, and vibrant life! A colorful destination full of energy and tradition.",
+    "descriptionMk": "Посетете ја Струмица, најсончевиот град во Македонија, познат по фестивалите, традицијата и живиот дух.",
+    "type": "city",
+    "latitude": 41.4375,
+    "longitude": 22.64333,
+    "coordinates": [22.64333, 41.4375]
+  },
+  {
+    "id": "kavadarci",
+    "name": "Kavadarci",
+    "nameMk": "Кавадарци",
+    "description": "Discover the heart of Macedonia’s wine country! Surrounded by vineyards, Kavadarci blends tradition, gastronomy, and rich cultural heritage.",
+    "descriptionMk": "Посетете го Кавадарци, центарот на македонското винарство, познат по лозјата, традицијата и гостопримството.",
+    "type": "city",
+    "latitude": 41.43306,
+    "longitude": 22.01194,
+    "coordinates": [22.01194, 41.43306]
+  },
+  {
+    "id": "kocani",
+    "name": "Kočani",
+    "nameMk": "Кочани",
+    "description": "Explore the rice capital of Macedonia surrounded by fertile fields and thermal springs! A unique blend of agriculture and natural resources.",
+    "descriptionMk": "Посетете го Кочани, познат по оризовите полиња и термалните извори, со богата природна и културна понуда.",
+    "type": "city",
+    "latitude": 41.91639,
+    "longitude": 22.41278,
+    "coordinates": [22.41278, 41.91639]
+  },
+  {
+    "id": "kicevo",
+    "name": "Kičevo",
+    "nameMk": "Кичево",
+    "description": "Experience a peaceful city surrounded by mountains and rich traditions! A gateway to western Macedonia’s natural beauty.",
+    "descriptionMk": "Посетете го Кичево, град опкружен со планини, познат по својата традиција и природна убавина.",
+    "type": "city",
+    "latitude": 41.5125,
+    "longitude": 20.95889,
+    "coordinates": [20.95889, 41.5125]
+  },
+  {
+    "id": "gevgeliya",
+    "name": "Gevgelija",
+    "nameMk": "Гевгелија",
+    "description": "Enter Macedonia’s southern gateway known for its warm climate and lively atmosphere! A popular stop for travelers and entertainment.",
+    "descriptionMk": "Посетете ја Гевгелија, јужната порта на Македонија, позната по топлата клима и живиот туристички дух.",
+    "type": "city",
+    "latitude": 41.14167,
+    "longitude": 22.50167,
+    "coordinates": [22.50167, 41.14167]
+  },
+  {
+    "id": "debar",
+    "name": "Debar",
+    "nameMk": "Дебар",
+    "description": "Discover a lakeside city rich in culture and tradition near the Albanian border! Known for its craftsmanship and scenic surroundings.",
+    "descriptionMk": "Посетете го Дебар, град покрај езеро со богата традиција, култура и прекрасна природа.",
+    "type": "city",
+    "latitude": 41.525,
+    "longitude": 20.52417,
+    "coordinates": [20.52417, 41.525]
+  },
+  {
+    "id": "sveti_nikole",
+    "name": "Sveti Nikole",
+    "nameMk": "Свети Николе",
+    "description": "Explore the historic heart of the Ovče Pole region! A peaceful city known for its heritage and central location.",
+    "descriptionMk": "Посетете го Свети Николе, град во срцето на Овче Поле, познат по историјата и мирната атмосфера.",
+    "type": "city",
+    "latitude": 41.86944,
+    "longitude": 21.9525,
+    "coordinates": [21.9525, 41.86944]
+  },
+  {
+    "id": "kriva_palanka",
+    "name": "Kriva Palanka",
+    "nameMk": "Крива Паланка",
+    "description": "Journey to a scenic mountain town near the Bulgarian border! Rich history and nature make it a perfect escape destination.",
+    "descriptionMk": "Посетете ја Крива Паланка, планински град со богата историја и прекрасна природа близу границата со Бугарија.",
+    "type": "city",
+    "latitude": 42.20088,
+    "longitude": 22.33244,
+    "coordinates": [22.33244, 42.20088]
+  },
+  {
+    "id": "radovis",
+    "name": "Radoviš",
+    "nameMk": "Радовиш",
+    "description": "Discover a vibrant eastern town surrounded by hills and traditions! Known for its mining history and cultural heritage.",
+    "descriptionMk": "Посетете го Радовиш, град со рударска традиција и богат културен живот во источна Македонија.",
+    "type": "city",
+    "latitude": 41.63833,
+    "longitude": 22.46472,
+    "coordinates": [22.46472, 41.63833]
+  },
+  {
+    "id": "berovo",
+    "name": "Berovo",
+    "nameMk": "Берово",
+    "description": "Breathe the clean mountain air in this peaceful highland town! Known for nature, tranquility, and traditional wooden architecture.",
+    "descriptionMk": "Посетете го Берово, планински град познат по чистиот воздух, природата и традиционалната архитектура.",
+    "type": "city",
+    "latitude": 41.70306,
+    "longitude": 22.85778,
+    "coordinates": [22.85778, 41.70306]
+  },
+  {
+    "id": "vinica",
+    "name": "Vinica",
+    "nameMk": "Виница",
+    "description": "Explore a charming eastern town known for its archaeological treasures and peaceful surroundings!",
+    "descriptionMk": "Посетете ја Виница, град познат по археолошките наоѓалишта и мирната атмосфера.",
+    "type": "city",
+    "latitude": 41.88278,
+    "longitude": 22.50917,
+    "coordinates": [22.50917, 41.88278]
+  },
+  {
+    "id": "struga",
+    "name": "Struga",
+    "nameMk": "Струга",
+    "description": "Relax in this lakeside gem where the Black Drin flows from Lake Ohrid! Poetry, beaches, and a laid-back atmosphere make Struga a unique cultural escape.",
+    "descriptionMk": "Посетете ја Струга, град на брегот на Охридското Езеро, познат по поезијата, плажите и спокојната атмосфера.",
+    "type": "city",
+    "latitude": 41.17799,
+    "longitude": 20.67784,
+    "coordinates": [20.67784, 41.17799]
   },
   {
     "id": "prikovci_north_macedonia",
@@ -3799,7 +4016,7 @@
     "nameMk": "Приковци",
     "description": "A charming village nestled in the Macedonian countryside, 346V+FX, Prikovci, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Приковци е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 42.0608156,
     "longitude": 22.1457327,
     "coordinates": [
@@ -3813,7 +4030,7 @@
     "nameMk": "Бигла, Нортх Маcедониа",
     "description": "A charming village nestled in the Macedonian countryside, 345, Bigla, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Бигла, е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.9574476,
     "longitude": 22.6747182,
     "coordinates": [
@@ -3827,7 +4044,7 @@
     "nameMk": "Смолари",
     "description": "A charming village nestled in the Macedonian countryside, Smolari, North Macedonia offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Смолари е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3767538,
     "longitude": 22.9058453,
     "coordinates": [
@@ -3856,7 +4073,7 @@
     "nameMk": "Бохула",
     "description": "A charming village nestled in the Macedonian countryside, Bohula offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Бохула е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.2885673,
     "longitude": 22.1628368,
     "coordinates": [
@@ -3870,7 +4087,7 @@
     "nameMk": "Прилеп",
     "description": "Experience this historic tobacco town beneath dramatic granite towers! Ancient monasteries, Ottoman architecture, and natural rock formations create diverse adventures.",
     "descriptionMk": "Посетете го Прилеп, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3461823,
     "longitude": 21.5535933,
     "coordinates": [
@@ -3884,7 +4101,7 @@
     "nameMk": "Витолиште",
     "description": "Experience this highland village where ancient viticulture traditions survive! Mountain vineyards and traditional wine-making offer unique cultural and gastronomic adventures.",
     "descriptionMk": "Посетете го Витолиште, град кој нуди спој на традиција и модерност во срцето на Македонија.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.1811787,
     "longitude": 21.8256967,
     "coordinates": [
@@ -3898,7 +4115,7 @@
     "nameMk": "Радовиš",
     "description": "Explore this mining heritage town nestled in mountainous terrain! Industrial archaeology and surrounding wilderness create unique urban-nature adventures.",
     "descriptionMk": "Радовиš е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6372241,
     "longitude": 22.4622557,
     "coordinates": [
@@ -3912,7 +4129,7 @@
     "nameMk": "Неготино",
     "description": "Discover this ancient trading town where the Vardar River meets wine country! Historic architecture and vineyard tours create perfect cultural and gastronomic stops.",
     "descriptionMk": "Неготино е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.4829514,
     "longitude": 22.0924914,
     "coordinates": [
@@ -3926,7 +4143,7 @@
     "nameMk": "Богомила",
     "description": "A charming village nestled in the Macedonian countryside, Bogomila offers visitors an authentic glimpse into traditional rural life with its stone architecture, warm hospitality, and stunning natural surroundings.",
     "descriptionMk": "Богомила е живописно село во македонската природа, кое нуди автентичен поглед на традиционалниот селски живот со камена архитектура и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.594502,
     "longitude": 21.4769697,
     "coordinates": [
@@ -3940,7 +4157,7 @@
     "nameMk": "Крушево",
     "description": "Ascend to the Balkans' highest town where revolutionary history meets pristine mountain air! Traditional Vlach architecture and panoramic views create unique cultural adventures.",
     "descriptionMk": "Крушево е населба која ве привлекува со својот автентичен дух и прекрасна околина.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.3706684,
     "longitude": 21.2502965,
     "coordinates": [
@@ -3982,7 +4199,7 @@
     "nameMk": "Битуше",
     "description": "Venture to this remote lakeside village on the Albanian border! Traditional fishing culture and pristine waters create perfect wild camping adventures.",
     "descriptionMk": "Битуше е град со богата историја и живописна култура. Истражете ги улиците и откријте го шармот на овој македонски град.",
-    "type": "city",
+    "type": "village",
     "latitude": 41.6166017,
     "longitude": 20.588184,
     "coordinates": [
