@@ -7,11 +7,21 @@ interface MapFiltersProps {
   availableTypes: string[];
   visibleTypes: Set<string>;
   onToggle: (type: string) => void;
+  onSelectAll: () => void;
+  onDeselectAll: () => void;
 }
 
-const MapFilters = ({ availableTypes, visibleTypes, onToggle }: MapFiltersProps) => {
+const MapFilters = ({
+  availableTypes,
+  visibleTypes,
+  onToggle,
+  onSelectAll,
+  onDeselectAll,
+}: MapFiltersProps) => {
   const { t } = useLanguage();
   const typeLabels = t.types as Record<string, string>;
+  const allSelected = availableTypes.length > 0 && availableTypes.every(t => visibleTypes.has(t));
+  const noneSelected = availableTypes.every(t => !visibleTypes.has(t));
 
   return (
     <div className="hidden lg:block w-52 flex-shrink-0">
@@ -19,6 +29,24 @@ const MapFilters = ({ availableTypes, visibleTypes, onToggle }: MapFiltersProps)
         <p className="text-[11px] font-medium uppercase tracking-widest text-muted-foreground px-2 mb-2">
           {t.map.filters}
         </p>
+        <div className="flex items-center justify-between px-2 mb-2">
+          <button
+            type="button"
+            className="text-[11px] font-medium text-muted-foreground hover:text-foreground transition-colors disabled:opacity-50 disabled:hover:text-muted-foreground"
+            onClick={onSelectAll}
+            disabled={allSelected}
+          >
+            Select all
+          </button>
+          <button
+            type="button"
+            className="text-[11px] font-medium text-muted-foreground hover:text-foreground transition-colors disabled:opacity-50 disabled:hover:text-muted-foreground"
+            onClick={onDeselectAll}
+            disabled={noneSelected}
+          >
+            Deselect all
+          </button>
+        </div>
         {availableTypes.map(type => {
           const config = LOCATION_TYPES[type];
           const isVisible = visibleTypes.has(type);
@@ -52,15 +80,43 @@ const MapFilters = ({ availableTypes, visibleTypes, onToggle }: MapFiltersProps)
   );
 };
 
-export const MobileFilters = ({ availableTypes, visibleTypes, onToggle }: MapFiltersProps) => {
+export const MobileFilters = ({
+  availableTypes,
+  visibleTypes,
+  onToggle,
+  onSelectAll,
+  onDeselectAll,
+}: MapFiltersProps) => {
   const { t } = useLanguage();
   const typeLabels = t.types as Record<string, string>;
+  const allSelected = availableTypes.length > 0 && availableTypes.every(t => visibleTypes.has(t));
+  const noneSelected = availableTypes.every(t => !visibleTypes.has(t));
 
   return (
     <div className="lg:hidden mt-4">
-      <p className="text-[11px] font-medium uppercase tracking-widest text-muted-foreground mb-2">
-        {t.map.filters}
-      </p>
+      <div className="flex items-center justify-between mb-2">
+        <p className="text-[11px] font-medium uppercase tracking-widest text-muted-foreground">
+          {t.map.filters}
+        </p>
+        <div className="flex items-center gap-3">
+          <button
+            type="button"
+            className="text-[11px] font-medium text-muted-foreground hover:text-foreground transition-colors disabled:opacity-50 disabled:hover:text-muted-foreground"
+            onClick={onSelectAll}
+            disabled={allSelected}
+          >
+            Select all
+          </button>
+          <button
+            type="button"
+            className="text-[11px] font-medium text-muted-foreground hover:text-foreground transition-colors disabled:opacity-50 disabled:hover:text-muted-foreground"
+            onClick={onDeselectAll}
+            disabled={noneSelected}
+          >
+            None
+          </button>
+        </div>
+      </div>
       <div className="flex flex-wrap gap-1.5">
         {availableTypes.map(type => {
           const config = LOCATION_TYPES[type];

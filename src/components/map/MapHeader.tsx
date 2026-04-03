@@ -1,14 +1,15 @@
 import { useLanguage } from '@/i18n/LanguageContext';
-import { LOCATION_TYPES } from '@/constants/locationTypes';
+import { LOCATION_TYPES, LOCATION_TYPE_PRESETS } from '@/constants/locationTypes';
 import type { Location } from '@/types/location';
 
 interface MapHeaderProps {
   filteredLocations: Location[];
   visibleTypes: Set<string>;
   availableTypes: string[];
+  onApplyPreset: (types: string[]) => void;
 }
 
-const MapHeader = ({ filteredLocations, visibleTypes, availableTypes }: MapHeaderProps) => {
+const MapHeader = ({ filteredLocations, visibleTypes, availableTypes, onApplyPreset }: MapHeaderProps) => {
   const { t } = useLanguage();
   const typeLabels = t.types as Record<string, string>;
 
@@ -23,6 +24,33 @@ const MapHeader = ({ filteredLocations, visibleTypes, availableTypes }: MapHeade
       <p className="text-muted-foreground text-sm mt-1.5 max-w-md">
         {t.map.description}
       </p>
+
+      <div className="mt-4 flex flex-wrap gap-1.5">
+        {Object.values(LOCATION_TYPE_PRESETS).map(preset => {
+          const applicableTypes = preset.types.filter(t => availableTypes.includes(t));
+          const selectedTypes = availableTypes.filter(t => visibleTypes.has(t));
+          const isActive =
+            applicableTypes.length > 0 &&
+            selectedTypes.length === applicableTypes.length &&
+            applicableTypes.every(t => visibleTypes.has(t));
+
+          return (
+            <button
+              key={preset.label}
+              type="button"
+              className={`text-[11px] px-2.5 py-1.5 rounded-md border transition-colors inline-flex items-center gap-1.5 ${
+                isActive
+                  ? 'border-border bg-secondary text-foreground'
+                  : 'border-border text-muted-foreground hover:text-foreground hover:bg-secondary/60'
+              }`}
+              onClick={() => onApplyPreset(preset.types)}
+            >
+              <span className="leading-none">{preset.icon}</span>
+              <span>{preset.label}</span>
+            </button>
+          );
+        })}
+      </div>
 
       <div className="flex flex-wrap items-center gap-2 mt-4">
         <span className="badge-pill">
